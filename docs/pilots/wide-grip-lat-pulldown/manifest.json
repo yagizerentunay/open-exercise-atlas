@@ -54,35 +54,34 @@
   ],
   "atlasId": "lat-pulldown",
   "prompts": {
-    "start": "Original wide-grip front lat pulldown START: rear three-quarter adult athlete seated at charcoal cable station, thighs secured, feet planted, wide overhand bar high above head, near-extended arms, taut cable, primary latissimus dorsi in anatomically bounded #E53935, secondary biceps and middle-back subtle pale red, grayscale body, transparent background, no text or logos. Keep full equipment, symmetric grip, realistic joints.",
-    "finish": "Same athlete, camera, machine and bar in FINISH: wide overhand bar travels in FRONT of the face to the upper chest, elbows bent down toward ribs, stable torso and feet, taut cable and raised weight stack. Same red lat anatomy, lighter biceps/middle back. No behind-neck bar, face-height stopping point, strange hands, text or logo. Transparent background."
+    "start": "Same athlete, front three-quarter camera and charcoal lat pulldown machine as FINISH. Raise wide overhand bar high above head, both arms nearly extended, cable taut, weight stack lowered, thighs secured and feet planted. Anatomically bounded lateral lats #E53935, biceps/mid-back lighter red, all other muscles grayscale. Transparent square image, no text/logos, symmetric correct bar and hands.",
+    "finish": "Original front three-quarter seated wide-grip FRONT lat pulldown FINISH. Straight bar held horizontally in FRONT of neck at upper sternum just beneath collarbones, visually below chin, symmetric overhand hands wider than shoulders, elbows bent down/out, cable to overhead pulley and raised stack, thighs under pads and feet planted. Visible lateral latissimus dorsi in anatomically bounded #E53935; biceps and mid-back light muted red; chest/triceps neutral gray. Grayscale athlete, charcoal equipment, transparent square composition, no text or logos."
   },
   "assets": {
     "start": {
       "png": "docs/pilots/wide-grip-lat-pulldown/lat-pulldown-start-review.png",
       "webp": "docs/pilots/wide-grip-lat-pulldown/lat-pulldown-start-review.webp",
-      "pngSha256": "04a667d64b306e5118159373d9bb14d372f4acad351782340fd28c2bb39783c4",
-      "webpSha256": "fd67db548b5418ebfad4b3a839f21fbd5663853136d130f6c6bf2434d016811f"
+      "pngSha256": "6768d58602ab2d109869fa96182b16c9cc54cffc93c1b942a689aef7030a2c81",
+      "webpSha256": "e59990cb478d7e47f73326306955b7996da692d2f6cab93cec8e1b03009f3722"
     },
     "finish": {
       "png": "docs/pilots/wide-grip-lat-pulldown/lat-pulldown-finish-review.png",
       "webp": "docs/pilots/wide-grip-lat-pulldown/lat-pulldown-finish-review.webp",
-      "pngSha256": "75ecec1bd517dbfb64c9c1d76085e2ba211fe10152ca6bc02b67d8bf344e7df8",
-      "webpSha256": "4f956c40156869f996326468616aa3e9442de4e11781291ddee4fa6ab0c06d5b"
+      "pngSha256": "852c879125a9bcf142bc5cb8452f82874a510eef9eb3c0fbd868b46ec01069da",
+      "webpSha256": "20ad6b387e48faeb7c690d5e33d4b0475e5284e221f401536a8e64f48f876967"
     }
   },
   "visualReview": "needs-human-review",
   "rightsReview": "pending",
   "issues": [
-    "Finish candidate leaves the bar at face height rather than clearly at the upper chest; do not use as approved front lat pulldown instruction.",
-    "Human review needed for lat, biceps, and middle-back overlay boundaries and consistent weight-stack mechanics.",
+    "The revised front three-quarter pair shows the bar below the chin at the upper chest in FINISH; independent human review is still required for exact joint mechanics, muscle overlay boundaries and machine geometry.",
     "Atlas generic lat-pulldown variation match unresolved; no legacyIds or production media change."
   ],
   "generation": {
     "tool": "OpenAI built-in image generation",
     "model": "not exposed by tool",
     "date": "2026-10-13",
-    "method": "original START generation using Monk local art as style reference, then FINISH generation with START as continuity reference; two FINISH revisions attempted"
+    "method": "new front three-quarter FINISH after rejected rear-view attempts, then matching START using FINISH as continuity reference; original Monk local art was only a style reference in the rejected first draft"
   },
   "mediaDraft": [
     {
@@ -101,8 +100,8 @@
       "path": "media/exercises/lat-pulldown-finish.webp",
       "role": "finish",
       "alt": {
-        "en": "Review draft of seated wide-grip pulldown with bent elbows and highlighted lats; bar position needs correction.",
-        "tr": "Dirsekleri bükülmüş ve lat kasları vurgulanmış geniş tutuş lat pulldown inceleme taslağı; bar konumu düzeltilmeli."
+        "en": "Seated wide-grip front lat pulldown at the upper chest, with lateral lats highlighted red and assisting arm muscles lighter red.",
+        "tr": "Geniş tutuşlu lat pulldown barını üst göğse çeken oturur sporcu; yan sırt kasları koyu, yardımcı kol kasları açık kırmızı."
       },
       "creator": "Open Exercise Atlas (AI-assisted original illustration)",
       "sourceUrl": null,
