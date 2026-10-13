@@ -38,11 +38,13 @@ Consumers should pin a release tag or package version and persist `id`, never `s
 | `schemas/` | Versioned JSON Schema |
 | `src/` | Types, localization, filtering and Monk Mode sample adapter |
 | `scripts/` | Independent validation, coverage and exports |
+| `media/muscles/` | Original anatomy reference illustrations for all muscle filters |
 | `dist/` | Generated, committed consumer files |
 | `site/` | Static React explorer |
 | `tests/` | Data and adapter tests |
 | `docs/` | Architecture, rights, model and migration policies |
 
 Read [architecture](docs/architecture.md), [data model](docs/data-model.md), [rights policy](docs/rights.md), [contribution guide](CONTRIBUTING.md), and [Monk Mode integration](docs/monk-mode-integration.md).
+The explorer's muscle reference art and asset provenance are documented in [docs/muscle-atlas.md](docs/muscle-atlas.md).
 
 For interface work, use the [Atlas design system](ATLAS_DESIGN_SYSTEM.md) and [anti-slop rules](ANTI_SLOP_RULES.md). The [Codex/Claude design prompt](CODEX_CLAUDE_DESIGN_PROMPT.md) is a reusable starting point for a scoped design audit.
