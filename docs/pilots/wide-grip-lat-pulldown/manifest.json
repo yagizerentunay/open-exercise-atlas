@@ -75,7 +75,7 @@
   "rightsReview": "pending",
   "issues": [
     "The revised front three-quarter pair shows the bar below the chin at the upper chest in FINISH; independent human review is still required for exact joint mechanics, muscle overlay boundaries and machine geometry.",
-    "Atlas generic lat-pulldown variation match unresolved; no legacyIds or production media change."
+    "Atlas generic lat-pulldown variation match unresolved; no legacyIds mapping was added. The wide-grip example pair is registered in the generic Atlas media field while exercise reviewStatus remains pending."
   ],
   "generation": {
     "tool": "OpenAI built-in image generation",
@@ -92,9 +92,9 @@
         "tr": "Geniş tutuşlu lat pulldown barını baş üstünde tutan oturur sporcu; lat kasları kırmızıyla gösteriliyor."
       },
       "creator": "Open Exercise Atlas (AI-assisted original illustration)",
-      "sourceUrl": null,
-      "license": null,
-      "redistributionEvidenceUrl": null
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lat-pulldown-start.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
     },
     {
       "path": "media/exercises/lat-pulldown-finish.webp",
@@ -104,9 +104,9 @@
         "tr": "Geniş tutuşlu lat pulldown barını üst göğse çeken oturur sporcu; yan sırt kasları koyu, yardımcı kol kasları açık kırmızı."
       },
       "creator": "Open Exercise Atlas (AI-assisted original illustration)",
-      "sourceUrl": null,
-      "license": null,
-      "redistributionEvidenceUrl": null
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lat-pulldown-finish.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
     }
   ]
 }
