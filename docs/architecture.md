@@ -10,7 +10,7 @@ Monk Mode's `scripts/build-exercise-data.ts` turns its pinned `data/free-exercis
 
 ## Decisions
 
-- Flat `data/exercises/<id>.json` files are authoritative. Stable IDs use lowercase ASCII tokens and are never recycled. Slugs may change. An ID registry catches accidental removal or reassignment.
+- Flat `data/exercises/<id>.json` files are authoritative. Stable IDs use lowercase ASCII tokens and are never recycled. Slugs may change. An ID registry catches accidental removal; reviewers must detect semantic reassignment.
 - English is required for names, descriptions and steps. Turkish is optional and explicitly reported; consumers may fall back per field. Facet codes are language-neutral.
 - `schemas/exercise.schema.json` validates document shape with Ajv. A second pass checks cross-record links, local media paths, provenance, translation coverage, IDs, and generated output freshness.
 - `dist/` is deterministic, committed release data. Both CLI and browser consume it; the browser is never part of data generation.
