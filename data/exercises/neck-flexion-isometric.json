@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "neck-flexion-isometric",
+  "slug": "neck-flexion-isometric",
+  "name": {
+    "en": "Neck Flexion Isometric",
+    "tr": "Boyun Fleksiyon İzometriği"
+  },
+  "description": {
+    "en": "A gentle isometric hold in which the forehead presses forward into the palm to work the front of the neck.",
+    "tr": "Alnın avuca doğru öne bastırıldığı, boynun ön kaslarını çalıştıran nazik bir izometrik tutuştur."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "static",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright, keep your head neutral and lightly place your palm on your forehead.",
+      "Press very lightly against your hand without moving your head forward; breathe comfortably.",
+      "Release after a short time; stop immediately if you feel pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik otur, başını nötr tut ve avucunu alnına hafifçe yerleştir.",
+      "Başını öne oynatmadan eline karşı çok hafifçe bastır; rahatça nefes al.",
+      "Kısa süre sonra bırak; ağrı, uyuşma veya baş dönmesi olursa hemen dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "band-resisted-neck-flexion",
+    "neck-extension-isometric"
+  ],
+  "legacyIds": [
+    "monk-neck-flexion-isometric"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/neck-flexion-isometric.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the neck flexion isometric, neck muscles highlighted in red.",
+        "tr": "Boyun Fleksiyon İzometriği yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck-flexion-isometric.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

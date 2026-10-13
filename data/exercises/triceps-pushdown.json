@@ -7,7 +7,8 @@
     "tr": "Kablo Arka Kol İtişi"
   },
   "description": {
-    "en": "An elbow extension movement using a high cable attachment."
+    "en": "An elbow extension movement using a high cable attachment.",
+    "tr": "Yüksek bir kablo tutacağıyla dirseklerin açılarak aşağı itildiği, arka kol kaslarını çalıştıran dirsek açma hareketi."
   },
   "category": "strength",
   "movementPattern": "isolation",
@@ -21,14 +22,40 @@
   "secondaryMuscles": [],
   "instructions": {
     "en": [
-      "Hold a high cable attachment with elbows near the ribs.",
-      "Extend the elbows downward and return under control."
+      "Attach a straight bar to the cable and keep the elbows at the sides of the torso.",
+      "Keep the upper arms still and extend the elbows to push the bar down.",
+      "Bend the arms back to the start under control; do not let the shoulders roll forward."
+    ],
+    "tr": [
+      "Kabloya düz bar tak; dirseklerini gövdenin yanında tut.",
+      "Üst kollarını sabit tutarak barı dirseklerini açıp aşağı doğru it.",
+      "Kollarını kontrollü biçimde başlangıca bük; omuzlarını öne düşürme."
     ]
   },
+  "aliases": [
+    "Triceps Pushdown"
+  ],
+  "legacyIds": [
+    "Triceps_Pushdown"
+  ],
   "source": {
     "type": "original",
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/triceps-pushdown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cable Triceps Pushdown, triceps highlighted in red.",
+        "tr": "Kablo Arka Kol İtişi hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

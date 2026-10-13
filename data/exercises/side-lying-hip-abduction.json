@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "side-lying-hip-abduction",
+  "slug": "side-lying-hip-abduction",
+  "name": {
+    "en": "Side-Lying Hip Abduction",
+    "tr": "Yan Yatarak Kalça Abdüksiyonu"
+  },
+  "description": {
+    "en": "A side-lying exercise in which the top leg is lifted from the hip to work the outer hip muscles.",
+    "tr": "Üstteki bacağın kalçadan kaldırıldığı, dış kalça kaslarını çalıştıran yan yatış egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your side and support your head with your arm; keep your top leg straight and your torso stable.",
+      "Lift your top leg from the hip in a controlled way; try not to turn your foot forward.",
+      "Slowly lower your leg and work both sides."
+    ],
+    "tr": [
+      "Yan yat ve başını kolunla destekle; üstteki bacağını düz, gövdeni sabit tut.",
+      "Üst bacağını kalçadan kontrollü biçimde yukarı kaldır; ayağını öne çevirmemeye çalış.",
+      "Bacağını yavaşça indir ve iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "banded-clamshell",
+    "standing-band-hip-abduction"
+  ],
+  "legacyIds": [
+    "monk-abductors-side-lying-hip-abduction"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/side-lying-hip-abduction.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the side-lying hip abduction, hip abductors highlighted in red.",
+        "tr": "Yan Yatarak Kalça Abdüksiyonu yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-side-lying-hip-abduction.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

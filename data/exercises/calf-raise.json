@@ -7,7 +7,8 @@
     "tr": "Ayakta Baldır Yükseltme"
   },
   "description": {
-    "en": "An ankle extension movement performed by rising onto the balls of the feet."
+    "en": "An ankle extension movement performed by rising onto the balls of the feet.",
+    "tr": "Ayak uçlarına yükselerek yapılan bir ayak bileği ekstansiyon hareketi."
   },
   "category": "strength",
   "movementPattern": "isolation",
@@ -21,8 +22,14 @@
   "secondaryMuscles": [],
   "instructions": {
     "en": [
-      "Stand tall with feet stable and hold support if needed.",
-      "Rise onto the balls of the feet and lower slowly."
+      "Place the balls of the feet on a low, stable step and hold a support for balance.",
+      "Lower the heels through a comfortable range of motion.",
+      "Rise up onto the toes, pause briefly at the top and lower slowly."
+    ],
+    "tr": [
+      "Ayak parmaklarını alçak ve sabit bir basamağa koy; dengeni bir destekten al.",
+      "Topuklarını rahat hareket aralığında aşağı indir.",
+      "Ayak parmaklarının üzerinden yüksel, üstte kısa süre dur ve yavaşça in."
     ]
   },
   "source": {
@@ -30,5 +37,25 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "aliases": [
+    "Standing Calf Raises"
+  ],
+  "legacyIds": [
+    "Standing_Calf_Raises"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Standing Calf Raise, calves highlighted in red.",
+        "tr": "Ayakta Baldır Yükseltme hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

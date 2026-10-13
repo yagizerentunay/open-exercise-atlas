@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "sliding-lateral-lunge",
+  "slug": "sliding-lateral-lunge",
+  "name": {
+    "en": "Sliding Lateral Lunge",
+    "tr": "Kaydırmalı Yan Lunge"
+  },
+  "description": {
+    "en": "A lateral lunge in which one foot slides out to the side on a sliding disc while the other leg bears the weight.",
+    "tr": "Bir ayağın kaydırma diski üzerinde yana kayarken diğer bacağın yükü taşıdığı bir yan lunge hareketidir."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Place one foot on a sliding disc and set your feet hip-width apart; keep your torso balanced.",
+      "Slide the disc foot out to the side as you send your hips back toward the other foot; track the support knee in the direction of the foot.",
+      "Push off the support foot and pull the sliding leg back to the center; work both sides in control."
+    ],
+    "tr": [
+      "Bir ayağını kaydırma diskine koyup ayaklarını kalça genişliğinde aç; gövdeni dengeli tut.",
+      "Kalçanı diğer ayağa doğru geriye gönderirken diskli ayağını yana kaydır; destek dizini ayak yönünde izle.",
+      "Destek ayağından iterek kaydırdığın bacağı merkeze çek; iki tarafı da kontrollü çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "lateral-lunge",
+    "cossack-squat"
+  ],
+  "legacyIds": [
+    "monk-adductors-sliding-lateral-lunge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/sliding-lateral-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the sliding lateral lunge, adductors highlighted in red.",
+        "tr": "Kaydırmalı Yan Lunge yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-sliding-lateral-lunge.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

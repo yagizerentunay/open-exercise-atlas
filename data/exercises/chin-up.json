@@ -7,26 +7,33 @@
     "tr": "Ters Tutuş Barfiks"
   },
   "description": {
-    "en": "A vertical bodyweight pull using an underhand grip on a secure bar."
+    "en": "A vertical bodyweight pull using an underhand grip on a secure bar.",
+    "tr": "Sağlam bir barda avuç içleri yüze dönükken yapılan dikey, vücut ağırlıklı çekiş hareketi."
   },
   "category": "strength",
   "movementPattern": "pull",
-  "difficulty": "advanced",
+  "difficulty": "intermediate",
   "equipment": [
     "pull-up-bar",
     "bodyweight"
   ],
   "primaryMuscles": [
-    "lats",
-    "biceps"
+    "lats"
   ],
   "secondaryMuscles": [
+    "biceps",
     "upper-back"
   ],
   "instructions": {
     "en": [
-      "Hang from a secure bar with an underhand grip.",
-      "Pull upward until the chin approaches the bar, then lower."
+      "Hang from a sturdy bar with palms facing you at shoulder width and shoulders away from the ears.",
+      "Pull the elbows down to bring the chin toward bar level; do not swing the legs.",
+      "Lower under control by extending the arms; shorten the rep if you feel shoulder pain or lose control."
+    ],
+    "tr": [
+      "Sağlam bara avuçların yüzüne bakacak şekilde omuz genişliğinde asıl; omuzlarını kulaklarından uzak tut.",
+      "Dirseklerini aşağı çekerek çeneni bar seviyesine yaklaştır; bacaklarını sallama.",
+      "Kollarını kontrollü uzatarak in; omuzda ağrı veya kontrol kaybı olursa tekrarı kısalt."
     ]
   },
   "source": {
@@ -35,8 +42,25 @@
     "license": "CC0-1.0"
   },
   "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lats-chin-up"
+  ],
   "alternatives": [
     "pull-up",
     "lat-pulldown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/chin-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Chin-Up, lats highlighted in red.",
+        "tr": "Ters Tutuş Barfiks hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-chin-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
   ]
 }

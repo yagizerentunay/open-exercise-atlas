@@ -7,7 +7,8 @@
     "tr": "Goblet Squat"
   },
   "description": {
-    "en": "A squat with a weight held in front of the chest, encouraging an upright torso."
+    "en": "A squat with a weight held in front of the chest, encouraging an upright torso.",
+    "tr": "Ağırlığın göğüs önünde tutulduğu ve gövdenin dik kalmasını destekleyen bir squat hareketi."
   },
   "category": "strength",
   "movementPattern": "squat",
@@ -16,16 +17,22 @@
     "dumbbell"
   ],
   "primaryMuscles": [
-    "quadriceps",
-    "glutes"
+    "quadriceps"
   ],
   "secondaryMuscles": [
-    "abdominals"
+    "glutes",
+    "adductors"
   ],
   "instructions": {
     "en": [
-      "Hold one dumbbell in front of the chest.",
-      "Lower into a squat and stand while keeping the weight close."
+      "Hold one dumbbell upright in front of the chest and set your feet at a comfortable width.",
+      "Send the hips down and back, keeping the torso upright and the knees tracking over the toes.",
+      "Stand by driving through the feet; stay within a depth you can control."
+    ],
+    "tr": [
+      "Bir dambılı göğsünün önünde dik tutup ayaklarını rahat genişlikte aç.",
+      "Kalçanı aşağı-arkaya gönder; gövdeni dik ve dizlerini ayak parmakların yönünde tut.",
+      "Ayak tabanından kuvvet alarak ayağa kalk; kontrol edebildiğin derinlikte kal."
     ]
   },
   "source": {
@@ -34,8 +41,25 @@
     "license": "CC0-1.0"
   },
   "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-quadriceps-goblet-squat"
+  ],
   "alternatives": [
     "bodyweight-squat",
     "barbell-back-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/goblet-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Goblet Squat, quadriceps highlighted in red.",
+        "tr": "Goblet Squat hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-goblet-squat.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
   ]
 }

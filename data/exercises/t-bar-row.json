@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "t-bar-row",
+  "slug": "t-bar-row",
+  "name": {
+    "en": "T-Bar Row",
+    "tr": "T-Bar Kürek"
+  },
+  "description": {
+    "en": "A row with one end of a barbell anchored in a landmine sleeve and a close handle attached.",
+    "tr": "Barın bir ucunun landmine yuvasına sabitlendiği ve dar tutacak takıldığı kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Anchor one end of the bar in a sturdy landmine sleeve and attach a suitable close handle.",
+      "Hinge forward at the hips and keep your back neutral; pull your elbows back and bring the handle toward your torso.",
+      "Lower the bar without jerking; do not rotate your torso during the pull."
+    ],
+    "tr": [
+      "Barın bir ucunu sağlam landmine yuvasına sabitleyip uygun dar tutacağı tak.",
+      "Kalçadan öne eğilip sırtını nötr tut; dirseklerini geriye çekerek tutacağı gövdene yaklaştır.",
+      "Barı sarsmadan aşağı indir; gövdeni çekişle birlikte döndürme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-t-bar-row"
+  ],
+  "alternatives": [
+    "landmine-row",
+    "bent-over-row",
+    "chest-supported-dumbbell-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/t-bar-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the T-Bar Row, upper back highlighted in red.",
+        "tr": "T-Bar Kürek hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-t-bar-row.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

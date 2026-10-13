@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "chin-tuck",
+  "slug": "chin-tuck",
+  "name": {
+    "en": "Chin Tuck",
+    "tr": "Çene İçe Alma (Chin Tuck)"
+  },
+  "description": {
+    "en": "A small seated head-retraction movement that gently works the deep neck flexors.",
+    "tr": "Derin boyun fleksörlerini nazikçe çalıştıran, oturarak yapılan küçük bir baş geriye kaydırma hareketidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright and look straight ahead; relax your shoulders and keep your head neutral.",
+      "Without tilting your chin down, slide your head straight back in a line; make a small double-chin movement.",
+      "Hold briefly and release; repeat without forcing the movement and stop if you feel pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik oturup karşıya bak; omuzlarını gevşet ve başını nötr konumda tut.",
+      "Çeneni aşağı eğmeden başını düz bir çizgide geriye kaydır; küçük bir çift çene hareketi yap.",
+      "Kısa süre tutup bırak; hareketi zorlamadan tekrarla ve ağrı, uyuşma ya da baş dönmesinde dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "neck-flexion-isometric",
+    "band-resisted-neck-flexion"
+  ],
+  "legacyIds": [
+    "monk-neck-chin-tuck"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/chin-tuck.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the chin tuck, neck muscles highlighted in red.",
+        "tr": "Çene İçe Alma (Chin Tuck) yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck-chin-tuck.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

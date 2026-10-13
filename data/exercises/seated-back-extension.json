@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-back-extension",
+  "slug": "seated-back-extension",
+  "name": {
+    "en": "Seated Back Extension",
+    "tr": "Oturarak Makinede Sırt Ekstansiyonu"
+  },
+  "description": {
+    "en": "A seated machine exercise in which the torso extends from the hips against pad resistance.",
+    "tr": "Gövdenin kalçadan pedin direncine karşı dik konuma uzatıldığı oturarak makine egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the machine so your hips can hinge freely and the torso pad makes comfortable contact.",
+      "Lean your torso forward from the hips; keeping your back neutral, extend back up to an upright position under control.",
+      "Return to the start without taking your torso past upright; stop if you feel pain."
+    ],
+    "tr": [
+      "Makineyi kalçaların serbestçe menteşe yapacağı, gövde pedinin rahat temas edeceği biçimde ayarla.",
+      "Gövdeni kalçadan öne al; sırtını nötr tut ve kontrollü biçimde dik konuma uzat.",
+      "Gövdeni dik hizanın ötesine götürmeden başlangıca dön; ağrı olursa dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lower-back-seated-back-extension"
+  ],
+  "alternatives": [
+    "back-extension-45-degree",
+    "reverse-hyperextension",
+    "sorensen-hold"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-back-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Seated Back Extension, lower back highlighted in red.",
+        "tr": "Oturarak Makinede Sırt Ekstansiyonu hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-seated-back-extension.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

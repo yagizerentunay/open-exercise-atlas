@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "leg-extensions",
+  "slug": "leg-extensions",
+  "name": {
+    "en": "Leg Extensions",
+    "tr": "Bacak Ekstansiyonu"
+  },
+  "description": {
+    "en": "A machine knee extension that isolates the front of the thigh.",
+    "tr": "Ön uyluğu izole eden, makinede yapılan bir diz ekstansiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit in the machine with the back against the support and adjust the pad above the ankles.",
+      "Extend the knees in a controlled way and straighten the legs in front of you; do not lock the knees hard.",
+      "Lower the weight slowly and keep the movement within a comfortable range."
+    ],
+    "tr": [
+      "Makineye otur ve sırtını desteğe yasla; ruloyu ayak bileklerinin üzerine ayarla.",
+      "Dizlerini kontrollü biçimde açarak bacaklarını öne uzat; dizlerini sertçe kilitleme.",
+      "Ağırlığı yavaşça indir ve hareketi rahat aralıkta tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Leg_Extensions"
+  ],
+  "alternatives": [
+    "spanish-squat",
+    "goblet-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/leg-extensions.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Leg Extensions, quadriceps highlighted in red.",
+        "tr": "Bacak Ekstansiyonu hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-leg-extension.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

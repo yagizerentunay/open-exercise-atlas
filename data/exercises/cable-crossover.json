@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-crossover",
+  "slug": "cable-crossover",
+  "name": {
+    "en": "Cable Crossover",
+    "tr": "Kablo Crossover"
+  },
+  "description": {
+    "en": "A standing cable movement in which the arms sweep forward and down to bring the hands together in front of the body.",
+    "tr": "Ayakta, kolların öne ve aşağıya doğru birleştirildiği kablo göğüs hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Attach handles to two high pulleys and stand balanced in the middle; lean your torso slightly forward.",
+      "Keeping your elbows soft, bring your arms together forward and downward.",
+      "Open your arms to the sides under control; stay in a comfortable stretch range without swinging the weight."
+    ],
+    "tr": [
+      "İki yüksek makaraya tutacak takıp ortada dengeli dur; gövdeni hafifçe öne eğ.",
+      "Dirseklerini yumuşak tutarak kollarını öne ve aşağıya doğru birleştir.",
+      "Kollarını kontrollü biçimde yana aç; ağırlığı savurmadan rahat gerilme aralığında kal."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-chest-cable-crossover"
+  ],
+  "alternatives": [
+    "dumbbell-fly",
+    "machine-chest-press",
+    "dumbbell-bench-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-crossover.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cable Crossover, chest highlighted in red.",
+        "tr": "Kablo Crossover hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-cable-crossover.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

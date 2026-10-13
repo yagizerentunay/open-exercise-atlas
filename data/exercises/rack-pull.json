@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "rack-pull",
+  "slug": "rack-pull",
+  "name": {
+    "en": "Rack Pull",
+    "tr": "Rack Pull"
+  },
+  "description": {
+    "en": "A partial deadlift from rack supports set just below the knees, loading the back and hips.",
+    "tr": "Barın dizlerin hemen altındaki raf desteklerinden kaldırıldığı, sırtı ve kalçayı yükleyen kısmi deadlift."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Place the bar on safe rack supports just below your knees; set your feet hip-width apart.",
+      "Hinge at the hips and knees and grip the bar; keeping your back neutral, stand up and carry the bar close to your legs.",
+      "Send your hips back and lower the bar onto the supports under control; use a spotter and suitable rack for heavy loads."
+    ],
+    "tr": [
+      "Barı güvenli raf desteklerine dizlerinin hemen altına yerleştir; ayaklarını kalça genişliğinde aç.",
+      "Kalçadan ve dizlerden eğilip barı kavra; sırtını nötr tutarak ayağa kalk ve barı bacaklarına yakın taşı.",
+      "Kalçanı geriye gönderip barı kontrollü desteklere bırak; ağır yükte gözcü ve uygun raf kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lower-back-rack-pull"
+  ],
+  "alternatives": [
+    "conventional-deadlift",
+    "kettlebell-suitcase-deadlift",
+    "romanian-deadlift"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/rack-pull.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Rack Pull, lower back highlighted in red.",
+        "tr": "Rack Pull hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-rack-pull.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

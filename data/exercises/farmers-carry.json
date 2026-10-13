@@ -7,7 +7,8 @@
     "tr": "Çift Taraflı Ağırlık Taşıma"
   },
   "description": {
-    "en": "A loaded walk while holding a weight at each side."
+    "en": "A loaded walk while holding a weight at each side.",
+    "tr": "Her yanda bir ağırlık tutularak yapılan yüklü yürüyüş."
   },
   "category": "strength",
   "movementPattern": "carry",
@@ -16,17 +17,22 @@
     "dumbbell"
   ],
   "primaryMuscles": [
-    "forearms",
     "traps"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "glutes"
+    "forearms",
+    "abdominals"
   ],
   "instructions": {
     "en": [
-      "Hold a weight in each hand and stand tall.",
-      "Walk at a controlled pace while keeping the torso upright."
+      "Pick up weights you can control in each hand and stand tall with the shoulders relaxed back.",
+      "Walk with short, balanced steps without leaning to the side.",
+      "Put the weights down safely; do not shrug and make sure the path is clear."
+    ],
+    "tr": [
+      "İki eline kontrol edebileceğin dambılları al; dik durup omuzlarını rahatça geride tut.",
+      "Gövdeni yana eğmeden kısa ve dengeli adımlarla yürü.",
+      "Ağırlıkları güvenli biçimde bırak; omuzlarını yukarı çekme ve yolun açık olduğundan emin ol."
     ]
   },
   "source": {
@@ -34,5 +40,22 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-traps-farmer-carry"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/farmers-carry.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Farmer Carry, traps highlighted in red.",
+        "tr": "Çift Taraflı Ağırlık Taşıma hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-farmer-carry.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-curl",
+  "slug": "barbell-curl",
+  "name": {
+    "en": "Barbell Curl",
+    "tr": "Halterle Pazı Curl"
+  },
+  "description": {
+    "en": "An elbow flexion exercise that curls a barbell with an underhand grip to train the biceps.",
+    "tr": "Bar ile avuç içleri öne bakacak şekilde yapılan, pazı kaslarını çalıştıran dirsek bükme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the bar with your palms facing forward; keep your elbows fixed at your sides.",
+      "Raise the bar toward your shoulders without moving your elbows forward.",
+      "Lower the bar under control and keep your wrists straight."
+    ],
+    "tr": [
+      "Barı avuç içlerin öne bakacak şekilde tut; dirseklerini gövdenin yanında sabitle.",
+      "Dirseklerini öne taşımadan barı omuzlarına doğru kaldır.",
+      "Barı kontrollü biçimde indir ve bileklerini düz tut."
+    ]
+  },
+  "legacyIds": [
+    "Barbell_Curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-biceps-curl",
+    "preacher-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Barbell Curl, biceps highlighted in red.",
+        "tr": "Halterle Pazı Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

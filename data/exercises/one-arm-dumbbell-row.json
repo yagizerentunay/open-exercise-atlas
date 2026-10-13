@@ -3,11 +3,15 @@
   "id": "one-arm-dumbbell-row",
   "slug": "one-arm-dumbbell-row",
   "name": {
-    "en": "One-Arm Dumbbell Row",
+    "en": "Single-Arm Dumbbell Row",
     "tr": "Tek Kol Dambıl Kürek"
   },
+  "aliases": [
+    "One-Arm Dumbbell Row"
+  ],
   "description": {
-    "en": "A unilateral dumbbell row with the opposite hand supported on a bench."
+    "en": "A unilateral dumbbell row with the opposite hand supported on a bench.",
+    "tr": "Boştaki elin sehpaya dayandığı tek taraflı dambıl kürek hareketi."
   },
   "category": "strength",
   "movementPattern": "pull",
@@ -17,16 +21,22 @@
     "bench"
   ],
   "primaryMuscles": [
-    "lats",
     "upper-back"
   ],
   "secondaryMuscles": [
+    "lats",
     "biceps"
   ],
   "instructions": {
     "en": [
-      "Support the free hand on a bench and hold a dumbbell below the shoulder.",
-      "Pull the elbow toward the hip, then lower; repeat on the other side."
+      "Support one hand and knee on a bench; keep the back flat and hold the dumbbell in the working hand.",
+      "Pull the elbow toward the hip to bring the dumbbell beside the torso; do not rotate the torso.",
+      "Lower the dumbbell under control beneath the shoulder; work both sides."
+    ],
+    "tr": [
+      "Bir elini ve dizini sehpaya destekle; sırtını düz, dambılı çalışan elinde tut.",
+      "Dirseğini kalçana doğru çekip dambılı gövdenin yanına getir; gövdeni döndürme.",
+      "Dambılı omuz altına kontrollü indir; iki tarafı da çalıştır."
     ]
   },
   "source": {
@@ -34,5 +44,22 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-single-arm-dumbbell-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/one-arm-dumbbell-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the One-Arm Dumbbell Row, upper back highlighted in red.",
+        "tr": "Tek Kol Dambıl Kürek hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-single-arm-dumbbell-row.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

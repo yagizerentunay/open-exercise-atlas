@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "band-resisted-neck-extension",
+  "slug": "band-resisted-neck-extension",
+  "name": {
+    "en": "Band-Resisted Neck Extension",
+    "tr": "Bantlı Boyun Ekstansiyonu"
+  },
+  "description": {
+    "en": "A very light band-resisted backward neck extension performed through a small range of motion.",
+    "tr": "Çok hafif bir bantla, küçük bir hareket aralığında yapılan boyun geriye getirme egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright; place a very light band behind your head and anchor it in front of you at head height.",
+      "Bring your head back from neutral by only a few degrees to gently resist the band; do not lean back excessively.",
+      "Return to the neutral position in a controlled way; stop immediately if you feel pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik otur; çok hafif bandı başının arkasına yerleştirip baş hizasında öne sabitle.",
+      "Başını nötrden yalnız birkaç derece geriye getirerek banda nazikçe diren; geriye aşırı yaslanma.",
+      "Nötr konuma kontrollü dön; ağrı, uyuşma veya baş dönmesinde hemen dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "neck-extension-isometric"
+  ],
+  "legacyIds": [
+    "monk-neck-band-resisted-neck-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/band-resisted-neck-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the band-resisted neck extension, neck muscles highlighted in red.",
+        "tr": "Bantlı Boyun Ekstansiyonu yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck-band-resisted-neck-extension.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

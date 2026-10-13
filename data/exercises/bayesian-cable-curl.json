@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "bayesian-cable-curl",
+  "slug": "bayesian-cable-curl",
+  "name": {
+    "en": "Bayesian Cable Curl",
+    "tr": "Bayesian Kablo Curl"
+  },
+  "description": {
+    "en": "A single-arm cable curl performed with the cable behind the body to keep tension on the biceps in the stretched position.",
+    "tr": "Kablo vücudun arkasında kalacak şekilde yapılan, pazı kaslarını gerilmiş konumda yüklü tutan tek kollu kablo curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a single handle to a low pulley; step slightly forward so the cable stays behind you.",
+      "Keeping your elbow fixed slightly behind your torso, curl the handle toward your shoulder.",
+      "Extend your arm slowly; if you feel tension or pain in the shoulder, change the starting position."
+    ],
+    "tr": [
+      "Alçak makaraya tek tutacak tak; kablo arkanda kalacak şekilde hafifçe öne adım at.",
+      "Dirseğini gövdenin biraz gerisinde sabit tutarak tutacağı omzuna doğru kıvır.",
+      "Kolunu yavaşça aç; omuzda gerilme veya ağrı olursa başlangıç konumunu değiştir."
+    ]
+  },
+  "legacyIds": [
+    "monk-biceps-bayesian-cable-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-biceps-curl",
+    "incline-dumbbell-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/bayesian-cable-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Bayesian Cable Curl, biceps highlighted in red.",
+        "tr": "Bayesian Kablo Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-bayesian-cable-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

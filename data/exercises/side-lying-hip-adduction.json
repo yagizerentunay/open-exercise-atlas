@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "side-lying-hip-adduction",
+  "slug": "side-lying-hip-adduction",
+  "name": {
+    "en": "Side-Lying Hip Adduction",
+    "tr": "Yan Yatarak Kalça Addüksiyonu"
+  },
+  "description": {
+    "en": "A side-lying exercise in which the bottom leg is lifted off the floor to work the inner thigh muscles.",
+    "tr": "Alttaki bacağın yerden kaldırıldığı, iç bacak kaslarını çalıştıran yan yatış egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your side; bend your top leg and place that foot on the floor in front of your bottom leg.",
+      "Keeping your bottom leg straight, lift it off the floor in a controlled way.",
+      "Slowly lower your leg; work both sides without rolling your hips backward."
+    ],
+    "tr": [
+      "Yan yat; üstteki bacağını büküp ayağını alt bacağının önüne yere koy.",
+      "Alt bacağını düz tutarak yerden kontrollü biçimde yukarı kaldır.",
+      "Bacağını yavaşça indir; kalçanı geriye yuvarlamadan iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "adductor-ball-squeeze",
+    "cable-hip-adduction"
+  ],
+  "legacyIds": [
+    "monk-adductors-side-lying-hip-adduction"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/side-lying-hip-adduction.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the side-lying hip adduction, adductors highlighted in red.",
+        "tr": "Yan Yatarak Kalça Addüksiyonu yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-side-lying-hip-adduction.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

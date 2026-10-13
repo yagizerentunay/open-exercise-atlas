@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "single-leg-romanian-deadlift",
+  "slug": "single-leg-romanian-deadlift",
+  "name": {
+    "en": "Single-Leg Romanian Deadlift",
+    "tr": "Tek Bacak Romanya Deadlift"
+  },
+  "description": {
+    "en": "A dumbbell hip hinge performed on one leg while the free leg extends backward.",
+    "tr": "Serbest bacak geriye uzanırken tek bacak üzerinde yapılan, dambıllı bir kalça menteşesi hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the dumbbells at your sides and balance on one foot; keep the knee slightly soft.",
+      "Hinge at the hips while extending the free leg backward; keep the back neutral and the hips facing the floor.",
+      "Drive through the standing foot to return upright; you may use support for balance and should work both sides equally."
+    ],
+    "tr": [
+      "Dambılları yanında tutup bir ayağında dengelen; dizini hafif yumuşak bırak.",
+      "Kalçadan menteşe yaparken serbest bacağını geriye uzat; sırtını nötr ve kalçalarını yere dönük tut.",
+      "Ön ayağından kuvvet alıp dikleş; denge için destek kullanabilir, iki tarafı eşit çalıştırabilirsin."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-glutes-single-leg-romanian-deadlift"
+  ],
+  "alternatives": [
+    "romanian-deadlift",
+    "dumbbell-romanian-deadlift"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/single-leg-romanian-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Single-Leg Romanian Deadlift, glutes highlighted in red.",
+        "tr": "Tek Bacak Romanya Deadlift hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-single-leg-romanian-deadlift.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

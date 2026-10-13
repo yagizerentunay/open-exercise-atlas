@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "reverse-hyperextension",
+  "slug": "reverse-hyperextension",
+  "name": {
+    "en": "Reverse Hyperextension",
+    "tr": "Ters Hiperekstansiyon"
+  },
+  "description": {
+    "en": "A prone hip-extension exercise on a reverse-hyper bench in which the legs swing up to torso level.",
+    "tr": "Ters hiperekstansiyon sehpasında yüzüstü yapılan, bacakların gövde hizasına kaldırıldığı kalça ekstansiyonu."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on the reverse-hyper bench with your hips supported at the edge of the pad.",
+      "Raise your legs under control until they are in line with your torso; do not over-arch your lower back.",
+      "Lower your legs slowly; work within a small, pain-free range."
+    ],
+    "tr": [
+      "Kalçaların minderin kenarında destekli olacak şekilde reverse-hyper sehpasına yüzüstü yerleş.",
+      "Bacaklarını kontrollü biçimde gövde hizasına kadar kaldır; belini geriye aşırı bükme.",
+      "Bacaklarını yavaşça aşağı indir; küçük ve ağrısız aralıkta çalış."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lower-back-reverse-hyperextension"
+  ],
+  "alternatives": [
+    "back-extension-45-degree",
+    "seated-back-extension",
+    "glute-bridge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/reverse-hyperextension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Reverse Hyperextension, lower back highlighted in red.",
+        "tr": "Ters Hiperekstansiyon hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-reverse-hyperextension.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

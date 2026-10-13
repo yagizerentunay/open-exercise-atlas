@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-crunch",
+  "slug": "cable-crunch",
+  "name": {
+    "en": "Cable Crunch",
+    "tr": "Kablo Crunch"
+  },
+  "description": {
+    "en": "A kneeling abdominal exercise in which the torso curls forward against the resistance of a high cable.",
+    "tr": "Yüksek makaradaki kablonun direncine karşı diz çökerek gövdenin öne kıvrıldığı bir karın egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Attach the rope to the high pulley and kneel down; hold the rope at the sides of your head.",
+      "Keeping your hips as still as possible, brace your abs and curl your torso forward in a controlled way.",
+      "Return to the start without swinging the cable; do not pull your neck with your hands."
+    ],
+    "tr": [
+      "Halatı yüksek makaraya takıp diz çök; halatı başının yanlarında tut.",
+      "Kalçanı mümkün olduğunca sabit tutarak karnını sık ve gövdeni kontrollü biçimde öne kıvır.",
+      "Kabloyu savurmadan başlangıca dön; boynunu ellerinle çekme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "floor-crunch",
+    "ab-wheel-rollout"
+  ],
+  "legacyIds": [
+    "Cable_Crunch"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-crunch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the cable crunch, abdominal muscles highlighted in red.",
+        "tr": "Kablo Crunch yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-cable-crunch.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -7,25 +7,31 @@
     "tr": "Yürüyerek Hamle"
   },
   "description": {
-    "en": "A series of forward lunges that alternates legs while moving across the floor."
+    "en": "A series of forward lunges that alternates legs while moving across the floor.",
+    "tr": "Yerde ilerlerken bacakları dönüşümlü değiştiren, ileri adımlı lunge serisi."
   },
   "category": "strength",
   "movementPattern": "lunge",
-  "difficulty": "intermediate",
+  "difficulty": "beginner",
   "equipment": [
     "bodyweight"
   ],
   "primaryMuscles": [
-    "quadriceps",
-    "glutes"
+    "quadriceps"
   ],
   "secondaryMuscles": [
-    "hamstrings"
+    "glutes"
   ],
   "instructions": {
     "en": [
-      "Step forward into a long stance.",
-      "Lower into a lunge, then bring the rear foot through for the next step."
+      "Stand tall and take a balanced step forward; do not place the feet on one line.",
+      "Bend both knees under control to lower; keep the front knee over the ankle and toes.",
+      "Drive through the front foot to stand and continue with the other leg; start with in-place lunges if needed."
+    ],
+    "tr": [
+      "Dik durup ileriye doğru dengeli bir adım at; ayaklarını aynı hatta üst üste koyma.",
+      "İki dizini kontrollü bükerek alçal; ön dizini ayak bileğinin üzerinde ve parmak yönünde tut.",
+      "Ön ayağından kuvvet alıp ayağa kalk ve diğer bacakla ilerle; gerekirse yerinde lunge ile başla."
     ]
   },
   "source": {
@@ -33,5 +39,22 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-quadriceps-walking-lunge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/walking-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Walking Lunge, quadriceps highlighted in red.",
+        "tr": "Yürüyerek Hamle hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-walking-lunge.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "scapular-pull-up",
+  "slug": "scapular-pull-up",
+  "name": {
+    "en": "Scapular Pull-Up",
+    "tr": "Skapular Barfiks"
+  },
+  "description": {
+    "en": "A hanging movement in which the shoulder blades are drawn down to raise the body slightly without bending the elbows.",
+    "tr": "Dirsekler bükülmeden kürek kemikleri aşağı çekilerek gövdenin hafifçe yükseltildiği asılı hareket."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Hang from a sturdy bar with your arms straight and your shoulders away from your ears.",
+      "Without bending your elbows, pull your shoulder blades down to raise your body a very small amount.",
+      "Return under control to a relaxed hang; repeat in a small range without swinging."
+    ],
+    "tr": [
+      "Sağlam bara asıl; kollarını düz bırak ve omuzlarını kulaklarından uzaklaştır.",
+      "Dirseklerini bükmeden kürek kemiklerini aşağı çekerek gövdeni çok az yükselt.",
+      "Kontrollü biçimde gevşek asılışa dön; sallanmadan küçük aralıkta tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-traps-scapular-pull-up"
+  ],
+  "alternatives": [
+    "pull-up",
+    "assisted-pull-up",
+    "neutral-grip-pull-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/scapular-pull-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Scapular Pull-Up, traps highlighted in red.",
+        "tr": "Skapular Barfiks hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-scapular-pull-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

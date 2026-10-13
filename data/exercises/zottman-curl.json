@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "zottman-curl",
+  "slug": "zottman-curl",
+  "name": {
+    "en": "Zottman Curl",
+    "tr": "Zottman Curl"
+  },
+  "description": {
+    "en": "A dumbbell curl that rotates the palms to face down at the top so the lowering phase works the forearms.",
+    "tr": "Üst noktada avuç içlerinin aşağı çevrildiği, iniş fazında ön kolları da çalıştıran dambıl curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the dumbbells with your palms facing forward; keep your elbows fixed at your sides.",
+      "Curl the dumbbells up; at the top, turn your palms to face down.",
+      "Lower slowly with an overhand grip; at the bottom, turn your palms forward again."
+    ],
+    "tr": [
+      "Dambılları avuçların öne bakacak şekilde tut; dirseklerini yanında sabitle.",
+      "Dambılları yukarı kıvır; üstte avuçlarını aşağı çevir.",
+      "Üstten kavrayışla yavaşça indir, altta avuçlarını yeniden öne çevir."
+    ]
+  },
+  "legacyIds": [
+    "monk-biceps-zottman-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "hammer-curl",
+    "dumbbell-biceps-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/zottman-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Zottman Curl, biceps highlighted in red.",
+        "tr": "Zottman Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-zottman-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

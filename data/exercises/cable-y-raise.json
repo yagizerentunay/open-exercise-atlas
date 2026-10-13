@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-y-raise",
+  "slug": "cable-y-raise",
+  "name": {
+    "en": "Cable Y Raise",
+    "tr": "Kablo Y Kaldırış"
+  },
+  "description": {
+    "en": "A light cable raise in which the arms are lifted up and out in a Y shape to train the shoulders and upper back.",
+    "tr": "Kolların Y şeklinde yukarı ve dışa kaldırıldığı, omuz ve üst sırt kaslarını çalıştıran hafif kablo hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the two low cables crossed; start with your arms slightly bent in front of your torso.",
+      "Raise your arms up and out under control to form a Y shape; keep your shoulders away from your ears.",
+      "Lower the weights slowly to the start; use a light load and do not lean back."
+    ],
+    "tr": [
+      "İki alçak kabloyu çapraz tut; kollarını gövdenin önünde hafif bükülü başlat.",
+      "Kollarını kontrollü biçimde yukarı ve dışa kaldırarak Y şekli oluştur; omuzlarını kulaklarından uzak tut.",
+      "Ağırlıkları yavaşça başlangıca indir; hafif yük kullan ve gövdeni geriye yatırma."
+    ]
+  },
+  "legacyIds": [
+    "monk-shoulders-cable-y-raise"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "single-arm-cable-lateral-raise",
+    "face-pull"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-y-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cable Y Raise, shoulders highlighted in red.",
+        "tr": "Kablo Y Kaldırış hareketini yapan gri tonlu sporcu; omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-cable-y-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

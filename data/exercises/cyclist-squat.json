@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "cyclist-squat",
+  "slug": "cyclist-squat",
+  "name": {
+    "en": "Cyclist Squat",
+    "tr": "Bisikletçi Squatı"
+  },
+  "description": {
+    "en": "A narrow-stance squat with the heels raised on a low surface to bias the front of the thighs.",
+    "tr": "Topukların alçak bir yükseltide olduğu, ön uyluğu öne çıkaran dar duruşlu bir squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Place the heels on a low, stable raised surface and set the feet in a narrow, balanced stance.",
+      "Keeping the torso upright, squat to a comfortable depth while the knees track in line with the toes.",
+      "Push through the soles of the feet to stand up under control; reduce the depth if you feel knee pain."
+    ],
+    "tr": [
+      "Topuklarını alçak ve sabit bir yükseltiye koy; ayaklarını dar ve dengeli konumlandır.",
+      "Gövdeni dik tutup dizlerini ayak parmaklarının yönünde izleyerek rahat derinliğe çömel.",
+      "Ayak tabanlarından iterek kontrollü biçimde ayağa kalk; dizlerinde ağrı olursa derinliği azalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-quadriceps-cyclist-squat"
+  ],
+  "alternatives": [
+    "goblet-squat",
+    "bodyweight-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cyclist-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cyclist Squat, quadriceps highlighted in red.",
+        "tr": "Bisikletçi Squatı hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-cyclist-squat.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

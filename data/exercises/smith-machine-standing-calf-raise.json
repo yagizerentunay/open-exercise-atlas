@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "smith-machine-standing-calf-raise",
+  "slug": "smith-machine-standing-calf-raise",
+  "name": {
+    "en": "Smith Machine Standing Calf Raise",
+    "tr": "Smith Makinesinde Ayakta Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A standing calf raise performed with the Smith machine bar across the upper back and the toes on a low platform.",
+    "tr": "Smith makinesinin barı üst sırttayken ve ayak uçları alçak bir platformdayken ayakta yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Rest the Smith bar on the upper back and place the front of the feet on a low, stable platform.",
+      "Lower the heels in a controlled way to create a comfortable stretch in the calves, then rise onto the toes.",
+      "Squeeze briefly at the very top and lower the heels slowly; do not bounce."
+    ],
+    "tr": [
+      "Smith barını üst sırtına yerleştir; ayaklarının önünü alçak ve sabit bir platforma koy.",
+      "Topuklarını kontrollü indirip baldırda rahat bir gerilme oluştur; ardından parmak ucuna yüksel.",
+      "En üstte kısa sıkıp topuklarını yavaşça indir; sekme yapma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-calves-smith-machine-standing-calf-raise"
+  ],
+  "alternatives": [
+    "calf-raise",
+    "leg-press-calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/smith-machine-standing-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Smith Machine Standing Calf Raise, calves highlighted in red.",
+        "tr": "Smith Makinesinde Ayakta Baldır Yükseltme hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-smith-machine-standing-calf-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

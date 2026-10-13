@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-close-grip-cable-row",
+  "slug": "seated-close-grip-cable-row",
+  "name": {
+    "en": "Seated Close-Grip Cable Row",
+    "tr": "Oturarak Dar Tutuşlu Kablo Kürek"
+  },
+  "aliases": [
+    "Seated Cable Rows"
+  ],
+  "description": {
+    "en": "A seated cable row with a close-grip handle that is pulled toward the lower ribs.",
+    "tr": "Dar tutuşlu tutacağın alt kaburgalara doğru çekildiği oturarak kablo kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Place your feet on the platform, bend your knees slightly and grip the handle.",
+      "Without swinging your torso, pull your elbows back and bring the handle toward your lower ribs.",
+      "Extend your arms under control without letting your shoulders drop forward."
+    ],
+    "tr": [
+      "Ayaklarını platforma yerleştir, dizlerini hafif bük ve tutacağı kavra.",
+      "Gövdeni sallamadan dirseklerini geriye çek; tutacağı alt kaburgalarına yaklaştır.",
+      "Omuzlarını öne bırakmadan kollarını kontrollü biçimde uzat."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Seated_Cable_Rows"
+  ],
+  "alternatives": [
+    "seated-cable-row",
+    "lat-pulldown",
+    "chest-supported-dumbbell-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-close-grip-cable-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Seated Close-Grip Cable Row, upper back highlighted in red.",
+        "tr": "Oturarak Dar Tutuşlu Kablo Kürek hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

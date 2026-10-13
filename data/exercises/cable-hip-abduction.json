@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-hip-abduction",
+  "slug": "cable-hip-abduction",
+  "name": {
+    "en": "Cable Hip Abduction",
+    "tr": "Kablo ile Kalça Abdüksiyonu"
+  },
+  "description": {
+    "en": "A standing hip exercise in which the working leg is pulled out to the side against a low cable.",
+    "tr": "Çalışan bacağın alçak bir kablonun direncine karşı yana doğru açıldığı ayakta kalça egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Attach the ankle cuff to the low cable and stand balanced next to the machine.",
+      "Keeping your torso still, open the working leg out to the side in a controlled way.",
+      "Return the leg to the starting position without swinging it; work both sides."
+    ],
+    "tr": [
+      "Ayak bileği manşetini alçak kabloya tak ve makinenin yanında dengeli dur.",
+      "Gövdeni sabit tutarak çalışma bacağını yana doğru kontrollü biçimde aç.",
+      "Bacağı savurmadan başlangıç konumuna döndür; iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "machine-hip-abduction",
+    "standing-band-hip-abduction"
+  ],
+  "legacyIds": [
+    "monk-abductors-cable-hip-abduction"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-hip-abduction.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the cable hip abduction, hip abductors highlighted in red.",
+        "tr": "Kablo ile Kalça Abdüksiyonu yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "reverse-crunch",
+  "slug": "reverse-crunch",
+  "name": {
+    "en": "Reverse Crunch",
+    "tr": "Ters Crunch"
+  },
+  "description": {
+    "en": "A floor abdominal exercise in which the knees are drawn toward the chest and the pelvis is curled off the ground.",
+    "tr": "Dizlerin göğse çekilip leğen kemiğinin yerden kıvrıldığı bir yer karın egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Lie on your back and bend your knees; place your arms on the floor beside your torso.",
+      "Brace your abs, bring your knees toward your chest and lift your pelvis slightly off the floor.",
+      "Lower your legs back to the start in a controlled way without swinging them."
+    ],
+    "tr": [
+      "Sırtüstü yatıp dizlerini bük; kollarını gövdenin yanında yere koy.",
+      "Karnını sıkarak dizlerini göğsüne yaklaştır ve leğen kemiğini hafifçe yerden kaldır.",
+      "Bacaklarını sallamadan kontrollü biçimde başlangıca indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "floor-crunch",
+    "hanging-knee-raise"
+  ],
+  "legacyIds": [
+    "Reverse_Crunch"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/reverse-crunch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the reverse crunch, abdominal muscles highlighted in red.",
+        "tr": "Ters Crunch yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-reverse-crunch.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

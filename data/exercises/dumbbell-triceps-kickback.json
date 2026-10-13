@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-triceps-kickback",
+  "slug": "dumbbell-triceps-kickback",
+  "name": {
+    "en": "Dumbbell Triceps Kickback",
+    "tr": "Dambılla Arka Kol Kickback"
+  },
+  "description": {
+    "en": "A bent-over single-arm exercise in which the forearm is extended backward with the upper arm fixed to train the triceps.",
+    "tr": "Üst kol sabitken ön kolun geriye doğru açıldığı, gövde öne eğikken yapılan tek kollu arka kol hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Support one hand on a bench; hinge forward at the hips and hold the dumbbell in your other hand.",
+      "Fix your elbow at your side and extend your forearm backward.",
+      "Bend your elbow under control to return to the start; do not swing your upper arm and work both sides."
+    ],
+    "tr": [
+      "Bir elini sehpaya destekle; gövdeni kalçadan öne eğip dambılı diğer elinde tut.",
+      "Dirseğini gövdenin yanında sabitle; ön kolunu geriye doğru aç.",
+      "Dirseğini kontrollü bükerek başlangıca dön; üst kolunu sallama ve iki tarafı çalıştır."
+    ]
+  },
+  "legacyIds": [
+    "monk-triceps-dumbbell-triceps-kickback"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "triceps-pushdown",
+    "dumbbell-skull-crusher"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-triceps-kickback.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Triceps Kickback, triceps highlighted in red.",
+        "tr": "Dambılla Arka Kol Kickback hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-dumbbell-triceps-kickback.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

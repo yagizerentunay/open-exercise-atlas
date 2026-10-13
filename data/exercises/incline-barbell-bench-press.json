@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "incline-barbell-bench-press",
+  "slug": "incline-barbell-bench-press",
+  "name": {
+    "en": "Incline Barbell Bench Press",
+    "tr": "Eğimli Halter Bench Press"
+  },
+  "description": {
+    "en": "A barbell press performed on an inclined bench that emphasizes the upper chest.",
+    "tr": "Eğimli sehpada yapılan, üst göğsü öne çıkaran halter press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Set the bench to a slight incline, plant your feet on the floor and grip the bar slightly wider than shoulder width.",
+      "Set your shoulder blades on the bench and lower the bar toward your upper chest under control.",
+      "Press the bar up while keeping your wrists above your elbows; use a spotter on heavy attempts."
+    ],
+    "tr": [
+      "Sehpayı hafif eğime ayarla, ayaklarını yere bas ve barı omuz genişliğinden biraz açık kavra.",
+      "Kürek kemiklerini sehpaya yerleştir; barı üst göğsüne doğru kontrollü indir.",
+      "Bileklerini dirseklerinin üzerinde tutarak barı yukarı it; ağır denemelerde gözcü kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-chest-incline-barbell-bench-press"
+  ],
+  "alternatives": [
+    "barbell-bench-press",
+    "dumbbell-bench-press",
+    "overhead-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/incline-barbell-bench-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Incline Barbell Bench Press, chest highlighted in red.",
+        "tr": "Eğimli Halter Bench Press hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-incline-barbell-bench-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

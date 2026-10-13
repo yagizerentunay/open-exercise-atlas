@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-pinch",
+  "slug": "plate-pinch",
+  "name": {
+    "en": "Plate Pinch",
+    "tr": "Plaka Pinch Tutuşu"
+  },
+  "description": {
+    "en": "A static grip hold in which two weight plates are pinched together between the fingers and thumb to train grip and forearm strength.",
+    "tr": "İki ağırlık plakasının parmaklar ve başparmakla sıkıştırılarak tutulduğu, kavrama ve ön kol gücünü geliştiren statik tutuş hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "static",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Pinch two weight plates together with your fingertips, smooth sides facing outward.",
+      "Keeping your shoulders relaxed, continue gripping the plates beside you for a controlled period of time.",
+      "Lower the plates safely without dropping them on your feet; if you are about to lose your grip, put them down on the floor."
+    ],
+    "tr": [
+      "İki ağırlık plakasını düz yüzleri dışarı bakacak biçimde parmak uçlarınla birbirine sıkıştır.",
+      "Omuzlarını rahat tutup plakaları yanında kontrollü süre boyunca kavramayı sürdür.",
+      "Plakaları ayağına bırakmadan güvenli biçimde indir; kavrayışını kaybetmeye yaklaşırsan yere bırak."
+    ]
+  },
+  "legacyIds": [
+    "Plate_Pinch"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "wrist-roller",
+    "seated-dumbbell-wrist-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/plate-pinch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Plate Pinch, forearms highlighted in red.",
+        "tr": "Plaka Pinch Tutuşu hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-plate-pinch.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

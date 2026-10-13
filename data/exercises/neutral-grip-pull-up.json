@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "neutral-grip-pull-up",
+  "slug": "neutral-grip-pull-up",
+  "name": {
+    "en": "Neutral-Grip Pull-Up",
+    "tr": "Nötr Tutuşlu Barfiks"
+  },
+  "description": {
+    "en": "A vertical pull-up performed on parallel handles with the palms facing each other.",
+    "tr": "Avuç içleri birbirine bakacak biçimde paralel tutamaklarda yapılan dikey barfiks."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Grip the parallel-handle bar with your palms facing each other; hang without swinging.",
+      "Pull your elbows down and toward your body, bringing your chin up to handle level.",
+      "Extend your arms under control and return to the start; do not squeeze your shoulders toward your ears."
+    ],
+    "tr": [
+      "Paralel tutamaklı barı avuç içlerin birbirine bakacak şekilde kavra; vücudunu sallanmadan asılı tut.",
+      "Dirseklerini aşağı ve gövdene doğru çekerek çeneni tutamak hizasına yaklaştır.",
+      "Kollarını kontrollü biçimde uzatıp başlangıca dön; omuzlarını kulaklarına sıkıştırma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lats-neutral-grip-pull-up"
+  ],
+  "alternatives": [
+    "pull-up",
+    "chin-up",
+    "assisted-pull-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/neutral-grip-pull-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Neutral-Grip Pull-Up, lats highlighted in red.",
+        "tr": "Nötr Tutuşlu Barfiks hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-neutral-grip-pull-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

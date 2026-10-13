@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "concentration-curl",
+  "slug": "concentration-curl",
+  "name": {
+    "en": "Concentration Curl",
+    "tr": "Konsantrasyon Curl"
+  },
+  "description": {
+    "en": "A seated single-arm dumbbell curl with the elbow braced against the inner thigh to isolate the biceps.",
+    "tr": "Dirseğin uyluğun iç kısmına dayandığı, pazı kaslarını izole eden oturarak yapılan tek kollu dambıl curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Sit with your legs comfortably apart; rest the elbow of your working arm on the inside of the thigh on the same side.",
+      "Curl the dumbbell toward your shoulder while keeping your upper arm and torso still.",
+      "Lower the weight under control and switch sides; keep your wrist straight."
+    ],
+    "tr": [
+      "Oturup bacaklarını rahatça aç; çalışma kolunun dirseğini aynı taraftaki uyluğunun iç kısmına daya.",
+      "Dambılı omzuna doğru kıvırırken üst kolunu ve gövdeni sabit tut.",
+      "Ağırlığı kontrollü indir ve taraf değiştir; bileğini düz konumda koru."
+    ]
+  },
+  "legacyIds": [
+    "monk-biceps-concentration-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-biceps-curl",
+    "preacher-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/concentration-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Concentration Curl, biceps highlighted in red.",
+        "tr": "Konsantrasyon Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-concentration-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

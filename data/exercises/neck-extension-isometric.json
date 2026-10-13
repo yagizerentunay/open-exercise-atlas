@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "neck-extension-isometric",
+  "slug": "neck-extension-isometric",
+  "name": {
+    "en": "Neck Extension Isometric",
+    "tr": "Boyun Ekstansiyon İzometriği"
+  },
+  "description": {
+    "en": "A gentle isometric hold in which the head presses backward into the hands to work the back of the neck.",
+    "tr": "Başın ellere doğru geriye bastırıldığı, ense kaslarını çalıştıran nazik bir izometrik tutuştur."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "static",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright and keep your head neutral; lightly place both hands behind your head.",
+      "Press very lightly against your hands without moving your head backward; do not hold your breath.",
+      "Release after a short time; stop immediately if you feel pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik otur ve başını nötr tut; iki elini başının arkasına hafifçe yerleştir.",
+      "Başını geriye oynatmadan ellerine karşı çok hafifçe bastır; nefesini tutma.",
+      "Kısa süre sonra bırak; ağrı, uyuşma veya baş dönmesi olursa hemen dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "band-resisted-neck-extension",
+    "neck-flexion-isometric"
+  ],
+  "legacyIds": [
+    "monk-neck-extension-isometric"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/neck-extension-isometric.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the neck extension isometric, neck muscles highlighted in red.",
+        "tr": "Boyun Ekstansiyon İzometriği yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck-extension-isometric.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

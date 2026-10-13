@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "nordic-hamstring-curl",
+  "slug": "nordic-hamstring-curl",
+  "name": {
+    "en": "Nordic Hamstring Curl",
+    "tr": "Nordic Hamstring Curl"
+  },
+  "description": {
+    "en": "A bodyweight knee-flexion exercise in which the torso is lowered forward from the knees against anchored ankles.",
+    "tr": "Ayak bilekleri sabitken gövdenin dizlerden öne doğru kontrollü indirildiği vücut ağırlığıyla bir diz fleksiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Kneel and anchor the ankles under a secure support; keep the body in a straight line from the knees to the head.",
+      "Lean slowly forward without bending at the hips; catch yourself with the hands near the floor when needed.",
+      "Work only within the range you can control and use the hands for support to return to the start; do not force it and fall."
+    ],
+    "tr": [
+      "Diz çök ve ayak bileklerini sağlam bir desteğin altına sabitle; gövdeni dizlerinden başına düz tut.",
+      "Kalçanı bükmeden öne doğru yavaşça eğil; ellerinle yere yaklaşarak hareketi gerektiğinde karşıla.",
+      "Yalnız kontrol edebildiğin aralıkta çalış ve ellerinden destek alarak başlangıca dön; zorlayıp düşme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-hamstrings-nordic-hamstring-curl"
+  ],
+  "alternatives": [
+    "slider-leg-curl",
+    "lying-leg-curls"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/nordic-hamstring-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Nordic Hamstring Curl, hamstrings highlighted in red.",
+        "tr": "Nordic Hamstring Curl hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-nordic-hamstring-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

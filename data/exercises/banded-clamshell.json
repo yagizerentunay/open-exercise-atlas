@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "banded-clamshell",
+  "slug": "banded-clamshell",
+  "name": {
+    "en": "Banded Clamshell",
+    "tr": "Bantlı Clamshell"
+  },
+  "description": {
+    "en": "A side-lying hip exercise in which the top knee opens against a light band to work the outer hip muscles.",
+    "tr": "Üstteki dizin hafif bir bant direncine karşı açıldığı, dış kalça kaslarını çalıştıran yan yatış egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your side, bend your knees and place a light band above your knees; keep your feet stacked.",
+      "Open your top knee in a controlled way without rolling your torso and hips backward.",
+      "Slowly close the knee against the resistance of the band; work both sides."
+    ],
+    "tr": [
+      "Yan yat, dizlerini bük ve hafif bir bandı dizlerinin üzerine yerleştir; ayaklarını üst üste tut.",
+      "Gövdeni ve kalçanı geriye yuvarlamadan üst dizini kontrollü biçimde aç.",
+      "Bandın direncine karşı dizini yavaşça kapat; iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "side-lying-hip-abduction",
+    "quadruped-fire-hydrant"
+  ],
+  "legacyIds": [
+    "monk-abductors-banded-clamshell"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/banded-clamshell.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the banded clamshell, hip abductors highlighted in red.",
+        "tr": "Bantlı Clamshell yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-banded-clamshell.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

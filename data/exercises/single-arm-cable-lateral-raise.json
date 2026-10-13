@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "single-arm-cable-lateral-raise",
+  "slug": "single-arm-cable-lateral-raise",
+  "name": {
+    "en": "Single-Arm Cable Lateral Raise",
+    "tr": "Tek Kollu Kablo Yana Kaldırış"
+  },
+  "description": {
+    "en": "A single-arm lateral raise performed with a low cable to train the side deltoids with constant tension.",
+    "tr": "Alt makarayla tek kolla yapılan, yan omuz kaslarını sürekli gerilimle çalıştıran yana kaldırma hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Use a low pulley; stand sideways to the cable and grip the handle with your far hand.",
+      "Keeping your elbow slightly bent, raise your arm out to the side up to shoulder height.",
+      "Lower your arm slowly without swinging your torso; reduce the range if you feel pinching in the shoulder."
+    ],
+    "tr": [
+      "Alçak makarayı kullan; kabloya yan durup tutacağı uzak elinle kavra.",
+      "Dirseğini hafif bükülü tutarak kolunu yana, omuz hizasına kadar kaldır.",
+      "Gövdeni sallamadan kolunu yavaşça indir; omuzda sıkışma hissedersen aralığı azalt."
+    ]
+  },
+  "legacyIds": [
+    "monk-shoulders-cable-lateral-raise"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-lateral-raise",
+    "cable-y-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/single-arm-cable-lateral-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Single-Arm Cable Lateral Raise, side deltoids highlighted in red.",
+        "tr": "Tek Kollu Kablo Yana Kaldırış hareketini yapan gri tonlu sporcu; yan omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-cable-lateral-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

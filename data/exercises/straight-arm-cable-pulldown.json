@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "straight-arm-cable-pulldown",
+  "slug": "straight-arm-cable-pulldown",
+  "name": {
+    "en": "Straight-Arm Cable Pulldown",
+    "tr": "Düz Kolla Kablo Çekiş"
+  },
+  "description": {
+    "en": "A cable pulldown with straight arms that sweeps the bar from shoulder height down to the hips.",
+    "tr": "Kolların düz tutulduğu, barın omuz hizasından kalçalara doğru indirildiği kablo çekiş hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a straight bar to the high pulley; face the cable and grip the bar at shoulder width.",
+      "Keeping your elbows slightly bent and still, bring the bar down toward your hips in an arc.",
+      "Raise the bar back to shoulder height under control; do not swing your torso backward."
+    ],
+    "tr": [
+      "Yüksek makaraya düz bar tak; kabloya dönük durup barı omuz genişliğinde kavra.",
+      "Dirseklerini hafif bükülü ve sabit tutarak barı kalçalarına doğru yay çizerek indir.",
+      "Barı omuz hizasına kontrollü kaldır; gövdeni geriye sallama."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lats-straight-arm-cable-pulldown"
+  ],
+  "alternatives": [
+    "dumbbell-pullover",
+    "machine-pullover",
+    "lat-pulldown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/straight-arm-cable-pulldown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Straight-Arm Cable Pulldown, lats highlighted in red.",
+        "tr": "Düz Kolla Kablo Çekiş hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-straight-arm-cable-pulldown.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "single-leg-glute-bridge",
+  "slug": "single-leg-glute-bridge",
+  "name": {
+    "en": "Single Leg Glute Bridge",
+    "tr": "Tek Bacak Kalça Köprüsü"
+  },
+  "description": {
+    "en": "A floor hip extension performed on one foot with the other leg extended.",
+    "tr": "Diğer bacak uzatılmışken tek ayak üzerinde yapılan zemin kalça ekstansiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back with one foot planted on the floor; extend the other leg and keep the hips level.",
+      "Drive through the heel on the floor to lift the hips, forming a straight line from shoulder to knee.",
+      "Lower the hips under control; do not over-arch the lower back and work both sides."
+    ],
+    "tr": [
+      "Sırtüstü yatıp bir ayağını yere bas; diğer bacağını uzat ve kalçalarını dengeli tut.",
+      "Yerdeki topuğundan kuvvet alarak kalçanı kaldır; omuzdan dize düz bir çizgi oluştur.",
+      "Kalçanı kontrollü indir; belini aşırı kavislendirme ve iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Single_Leg_Glute_Bridge"
+  ],
+  "alternatives": [
+    "glute-bridge",
+    "hamstring-walkout"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/single-leg-glute-bridge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Single Leg Glute Bridge, glutes highlighted in red.",
+        "tr": "Tek Bacak Kalça Köprüsü hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-single-leg-glute-bridge.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

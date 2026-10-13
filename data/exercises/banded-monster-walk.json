@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "banded-monster-walk",
+  "slug": "banded-monster-walk",
+  "name": {
+    "en": "Banded Monster Walk",
+    "tr": "Bantlı Canavar Yürüyüşü"
+  },
+  "description": {
+    "en": "A band-resisted walk in a small squat with sideways steps that works the outer hip muscles.",
+    "tr": "Küçük bir çömelme pozisyonunda bant direnciyle atılan adımlarla dış kalça kaslarını çalıştıran bir yürüyüş egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Place a mini band above your knees; bend your knees slightly and squat a little from the hips.",
+      "Keeping the band tense, take a controlled step to the side; track your knees in the direction of your feet.",
+      "Do not let the band go slack as you bring the other foot closer; travel equally in both directions."
+    ],
+    "tr": [
+      "Mini bandı dizlerinin üzerine yerleştir; dizlerini hafif büküp kalçadan küçükçe çömel.",
+      "Bandı gergin tutarak yana kontrollü adım at; dizlerini ayakların yönünde izle.",
+      "Diğer ayağı yaklaştırırken bandın gevşemesine izin verme; iki yönde eşit ilerle."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "lateral-band-walk",
+    "standing-band-hip-abduction"
+  ],
+  "legacyIds": [
+    "monk-abductors-banded-monster-walk"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/banded-monster-walk.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the banded monster walk, hip abductors highlighted in red.",
+        "tr": "Bantlı Canavar Yürüyüşü yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-banded-monster-walk.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

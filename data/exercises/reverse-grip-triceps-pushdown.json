@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "reverse-grip-triceps-pushdown",
+  "slug": "reverse-grip-triceps-pushdown",
+  "name": {
+    "en": "Reverse Grip Triceps Pushdown",
+    "tr": "Ters Tutuşlu Arka Kol İtişi"
+  },
+  "description": {
+    "en": "A cable pushdown performed with an underhand grip on a straight bar to train the triceps.",
+    "tr": "Düz barın avuç içleri yukarı bakacak şekilde kavrandığı, arka kol kaslarını çalıştıran kablo itiş hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Attach a straight bar to a high pulley and grip it with your palms facing up; keep your elbows close to your torso.",
+      "Keeping your upper arms still, extend your elbows and push the bar down.",
+      "Bend your arms under control to return to the start; keep your wrists in a comfortable position."
+    ],
+    "tr": [
+      "Yüksek makaraya düz bar takıp avuçların yukarı bakacak biçimde kavra; dirseklerini gövdene yakın tut.",
+      "Üst kollarını sabit tutarak dirseklerini aç ve barı aşağı it.",
+      "Kollarını kontrollü biçimde bükerek başlangıca dön; bileklerini rahat konumda tut."
+    ]
+  },
+  "legacyIds": [
+    "Reverse_Grip_Triceps_Pushdown"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "triceps-pushdown",
+    "single-arm-cable-pushdown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/reverse-grip-triceps-pushdown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Reverse Grip Triceps Pushdown, triceps highlighted in red.",
+        "tr": "Ters Tutuşlu Arka Kol İtişi hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-reverse-grip-triceps-pushdown.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "side-plank-hip-abduction",
+  "slug": "side-plank-hip-abduction",
+  "name": {
+    "en": "Side Plank Hip Abduction",
+    "tr": "Yan Planktan Kalça Abdüksiyonu"
+  },
+  "description": {
+    "en": "A forearm side plank in which the top leg is lifted to work the outer hip muscles while the trunk stays stable.",
+    "tr": "Gövde sabit tutulurken üst bacağın kaldırıldığı, dış kalça kaslarını çalıştıran ön kol yan plank egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Get into a forearm plank position; start with your bottom knee on the floor if needed.",
+      "Stack your hips and lift your top leg upward in a controlled way.",
+      "Lower the leg and switch sides; work within the range where you can keep your lower back from rotating."
+    ],
+    "tr": [
+      "Ön kol plank pozisyonu al; gerekirse alt dizini yere koyarak başla.",
+      "Kalçalarını üst üste tutup üst bacağını kontrollü biçimde yukarı kaldır.",
+      "Bacağını indirip taraf değiştir; belin dönmeden kontrolü koruyabildiğin aralıkta çalış."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "side-plank",
+    "side-lying-hip-abduction"
+  ],
+  "legacyIds": [
+    "monk-abductors-side-plank-hip-abduction"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/side-plank-hip-abduction.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the side plank hip abduction, hip abductors highlighted in red.",
+        "tr": "Yan Planktan Kalça Abdüksiyonu yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-side-plank-hip-abduction.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

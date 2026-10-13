@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "lateral-hand-resisted-neck-isometric",
+  "slug": "lateral-hand-resisted-neck-isometric",
+  "name": {
+    "en": "Lateral Hand-Resisted Neck Isometric",
+    "tr": "El Dirençli Yan Boyun İzometriği"
+  },
+  "description": {
+    "en": "A gentle isometric neck hold in which the hand resists sideways pressure of the head beside the temple.",
+    "tr": "Başın yana doğru bastırmasına şakağın yanındaki elin direnç gösterdiği nazik bir boyun izometrik tutuşudur."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "static",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright and keep your head neutral; lightly place your palm beside your temple.",
+      "Apply very light resistance with your hand without moving your head; hold briefly and keep breathing.",
+      "Release and switch to the other side; stop immediately if you feel pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik otur ve başını nötr tut; avucunu şakağının yanına hafifçe yerleştir.",
+      "Başını oynatmadan elinle çok hafif direnç uygula; kısa süre tut ve nefes almaya devam et.",
+      "Bırakıp diğer tarafa geç; ağrı, uyuşma veya baş dönmesi olursa hemen dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "hand-resisted-neck-isometric",
+    "neck-rotation-isometric"
+  ],
+  "legacyIds": [
+    "monk-neck-hand-resisted-isometric-lateral"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/lateral-hand-resisted-neck-isometric.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the lateral hand-resisted neck isometric, neck muscles highlighted in red.",
+        "tr": "El Dirençli Yan Boyun İzometriği yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck-hand-resisted-isometric.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

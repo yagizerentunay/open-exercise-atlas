@@ -7,7 +7,8 @@
     "tr": "Klasik Deadlift"
   },
   "description": {
-    "en": "A barbell lift from the floor that combines leg drive and hip extension."
+    "en": "A barbell lift from the floor that combines leg drive and hip extension.",
+    "tr": "Bacak gücünü ve kalça ekstansiyonunu birleştiren, halterin yerden kaldırıldığı hareket."
   },
   "category": "strength",
   "movementPattern": "hinge",
@@ -16,17 +17,22 @@
     "barbell"
   ],
   "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
     "glutes",
     "hamstrings"
   ],
-  "secondaryMuscles": [
-    "quadriceps",
-    "lower-back"
-  ],
   "instructions": {
     "en": [
-      "Set the bar over midfoot and take a stable grip.",
-      "Brace and stand with the bar, then lower it under control."
+      "Bring the bar over midfoot, hinge at the hips to grip it and keep a neutral spine.",
+      "Brace the abs and lift the bar close to the legs, extending hips and knees together.",
+      "Lower the bar along the same line under control; if the back rounds, reduce the load or get coaching."
+    ],
+    "tr": [
+      "Barı ayaklarının ortasına yaklaştır; kalçadan menteşe yapıp barı kavra ve sırtını nötr tut.",
+      "Karnını sıkıp barı bacaklarına yakın izleyerek yerden kaldır; kalça ve dizlerini birlikte aç.",
+      "Barı aynı hatta kontrollü indir; sırtın yuvarlanıyorsa ağırlığı azalt veya teknik destek al."
     ]
   },
   "source": {
@@ -34,5 +40,22 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lower-back-conventional-deadlift"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/conventional-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Conventional Deadlift, lower back highlighted in red.",
+        "tr": "Klasik Deadlift hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-conventional-deadlift.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "floor-crunch",
+  "slug": "floor-crunch",
+  "name": {
+    "en": "Floor Crunch",
+    "tr": "Yerde Crunch"
+  },
+  "description": {
+    "en": "A basic floor abdominal exercise in which the shoulder blades are lifted off the ground by bracing the abs.",
+    "tr": "Karın kasları sıkılarak kürek kemiklerinin yerden kaldırıldığı temel bir yer karın egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Lie on your back, bend your knees and plant your feet flat on the floor.",
+      "Brace your abs and lift your shoulder blades off the floor in a controlled way; do not pull your neck with your hands.",
+      "Pause briefly and slowly lower your torso back to the starting position."
+    ],
+    "tr": [
+      "Sırtüstü yat, dizlerini bük ve ayak tabanlarını yere bas.",
+      "Karnını sıkıp kürek kemiklerini kontrollü biçimde yerden kaldır; boynunu ellerinle çekme.",
+      "Kısa bir an durakla ve gövdeni yavaşça başlangıç konumuna indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "reverse-crunch",
+    "bicycle-crunch"
+  ],
+  "legacyIds": [
+    "monk-abdominals-floor-crunch"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/floor-crunch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the floor crunch, abdominal muscles highlighted in red.",
+        "tr": "Yerde Crunch yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

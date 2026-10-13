@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "lying-leg-curls",
+  "slug": "lying-leg-curls",
+  "name": {
+    "en": "Lying Leg Curls",
+    "tr": "Yatarak Bacak Curl"
+  },
+  "description": {
+    "en": "A machine knee flexion performed lying face down that isolates the back of the thigh.",
+    "tr": "Yüzüstü yatarak makinede yapılan, arka uyluğu izole eden bir diz fleksiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on the machine and set the pad just above the ankles.",
+      "Keeping the hips on the bench, bend the knees and bring the heels toward the buttocks under control.",
+      "Straighten the legs slowly without dropping the weight."
+    ],
+    "tr": [
+      "Makineye yüzüstü uzan ve ruloyu ayak bileklerinin hemen üzerine ayarla.",
+      "Kalçanı sehpada tutarak dizlerini bük ve topuklarını kontrollü biçimde kalçana yaklaştır.",
+      "Ağırlığı bırakmadan bacaklarını yavaşça düzleştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Lying_Leg_Curls"
+  ],
+  "alternatives": [
+    "seated-leg-curl",
+    "stability-ball-leg-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/lying-leg-curls.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Lying Leg Curls, hamstrings highlighted in red.",
+        "tr": "Yatarak Bacak Curl hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-lying-leg-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

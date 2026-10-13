@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "hanging-knee-raise",
+  "slug": "hanging-knee-raise",
+  "name": {
+    "en": "Hanging Knee Raise",
+    "tr": "Asılı Diz Çekme"
+  },
+  "description": {
+    "en": "A hanging abdominal exercise in which the knees are drawn up toward the chest from a bar.",
+    "tr": "Bardan asılı konumda dizlerin göğse doğru çekildiği bir karın egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip-flexors"
+  ],
+  "instructions": {
+    "en": [
+      "Hang from a sturdy bar; move your shoulders away from your ears and keep your torso stable.",
+      "Bend your knees, brace your abs and raise your knees toward your chest in a controlled way.",
+      "Lower your legs slowly without swinging; perform the movement in a pain-free range."
+    ],
+    "tr": [
+      "Sağlam bir bara asıl; omuzlarını kulaklarından uzaklaştırıp gövdeni sabitle.",
+      "Dizlerini bükerek karnını sık ve dizlerini kontrollü biçimde göğsüne doğru kaldır.",
+      "Sallanmayı önleyerek bacaklarını yavaşça indir; hareketi ağrısız aralıkta yap."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "reverse-crunch",
+    "floor-crunch"
+  ],
+  "legacyIds": [
+    "monk-abdominals-hanging-knee-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hanging-knee-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the hanging knee raise, abdominal muscles highlighted in red.",
+        "tr": "Asılı Diz Çekme yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-hanging-knee-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-hip-adduction",
+  "slug": "cable-hip-adduction",
+  "name": {
+    "en": "Cable Hip Adduction",
+    "tr": "Kablo ile Kalça Addüksiyonu"
+  },
+  "description": {
+    "en": "A standing hip exercise in which the working leg is pulled inward across the body against a low cable.",
+    "tr": "Çalışan bacağın alçak bir kablonun direncine karşı gövdenin önünden içeri çekildiği ayakta kalça egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Attach the ankle strap to the low pulley; stand sideways to the machine and hold on for support.",
+      "Pull the working leg inward in front of your body in a controlled way; do not rotate your hips.",
+      "Return to the start against the resistance; work both sides."
+    ],
+    "tr": [
+      "Alt makaraya ayak bileği kayışını tak; makineye yan durup destek al.",
+      "Çalışan bacağını kontrollü biçimde gövdenin önüne doğru içeri çek; kalçanı döndürme.",
+      "Dirence karşı başlangıca dön; iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "seated-hip-adduction",
+    "side-lying-hip-adduction"
+  ],
+  "legacyIds": [
+    "monk-adductors-cable-hip-adduction"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-hip-adduction.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the cable hip adduction, adductors highlighted in red.",
+        "tr": "Kablo ile Kalça Addüksiyonu yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-cable-hip-adduction.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

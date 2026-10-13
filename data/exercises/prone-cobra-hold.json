@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "prone-cobra-hold",
+  "slug": "prone-cobra-hold",
+  "name": {
+    "en": "Prone Cobra Hold",
+    "tr": "Yüzüstü Kobra Tutuşu"
+  },
+  "description": {
+    "en": "A prone isometric hold in which the chest and hands are lifted slightly off the floor.",
+    "tr": "Göğsün ve ellerin yerden hafifçe kaldırıldığı yüzüstü izometrik tutuş."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "force": "static",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "upper-back",
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down with your arms beside your body and rest your forehead comfortably on the floor.",
+      "Keeping your neck neutral, lift your chest and hands slightly; gently draw your shoulder blades down and back.",
+      "Hold briefly and lower under control; if you feel discomfort in your lower back, reduce the lift height or stop."
+    ],
+    "tr": [
+      "Yüzüstü yat, kollarını gövdenin yanına koy ve alnını rahatça yere bırak.",
+      "Boynunu nötr tutarak göğsünü ve ellerini hafifçe kaldır; kürek kemiklerini nazikçe aşağı-geriye çek.",
+      "Kısa süre tutup kontrollü biçimde in; belinde rahatsızlık olursa kaldırma yüksekliğini azalt veya dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lower-back-prone-cobra-hold"
+  ],
+  "alternatives": [
+    "superman",
+    "sorensen-hold",
+    "bird-dog"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/prone-cobra-hold.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Prone Cobra Hold, lower back highlighted in red.",
+        "tr": "Yüzüstü Kobra Tutuşu hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-prone-cobra-hold.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

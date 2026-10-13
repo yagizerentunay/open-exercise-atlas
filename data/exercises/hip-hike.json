@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "hip-hike",
+  "slug": "hip-hike",
+  "name": {
+    "en": "Hip Hike",
+    "tr": "Kalça Yükseltme (Hip Hike)"
+  },
+  "description": {
+    "en": "A single-leg stance exercise on a step in which the pelvis is lowered and raised to work the outer hip muscles.",
+    "tr": "Basamakta tek ayak üzerinde leğen kemiğinin indirilip kaldırıldığı, dış kalça kaslarını çalıştıran bir egzersizdir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Stand on one foot at the edge of a low, stable step; hold a railing for balance.",
+      "As your free foot drops down beside the step, let your hip lower slightly, then raise your hip with your standing leg.",
+      "Keep your torso upright and repeat in a small, controlled range; work both sides."
+    ],
+    "tr": [
+      "Alçak, sabit bir basamağın kenarında tek ayağınla dur; denge için korkuluktan destek al.",
+      "Boştaki ayağın basamağın yanından aşağı inerken kalçanı hafifçe düşür, sonra basılı ayağınla kalçanı yükselt.",
+      "Gövdeni dik tutup küçük aralıkta kontrollü tekrarla; iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "side-plank-hip-abduction",
+    "side-lying-hip-abduction"
+  ],
+  "legacyIds": [
+    "monk-abductors-hip-hike"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hip-hike.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the hip hike, hip abductors highlighted in red.",
+        "tr": "Kalça Yükseltme (Hip Hike) yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-hip-hike.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

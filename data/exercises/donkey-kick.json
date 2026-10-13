@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "donkey-kick",
+  "slug": "donkey-kick",
+  "name": {
+    "en": "Donkey Kick",
+    "tr": "Eşek Tekmesi"
+  },
+  "description": {
+    "en": "A bodyweight hip extension performed on hands and knees by lifting one bent leg toward the ceiling.",
+    "tr": "Eller ve dizler üzerindeyken bükülü bir bacağı tavana doğru kaldıran, vücut ağırlıklı bir kalça ekstansiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Get on your hands and knees; stabilise the torso and keep the neck neutral.",
+      "Keeping one knee bent, lift the foot toward the ceiling without arching the lower back.",
+      "Bring the knee back toward the floor under control and switch sides; keep the hip movement small and balanced."
+    ],
+    "tr": [
+      "Ellerin ve dizlerin üzerinde dur; gövdeni sabitle ve boynunu nötr tut.",
+      "Bir dizini bükülü tutarak ayağını tavana doğru kaldır; belini çukurlaştırma.",
+      "Dizini kontrollü biçimde yere yaklaştır ve taraf değiştir; kalça hareketini küçük ve dengeli tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-glutes-donkey-kick"
+  ],
+  "alternatives": [
+    "cable-glute-kickback",
+    "glute-bridge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/donkey-kick.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Donkey Kick, glutes highlighted in red.",
+        "tr": "Eşek Tekmesi hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-donkey-kick.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

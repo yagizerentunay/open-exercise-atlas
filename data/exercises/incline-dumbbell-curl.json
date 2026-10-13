@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "incline-dumbbell-curl",
+  "slug": "incline-dumbbell-curl",
+  "name": {
+    "en": "Incline Dumbbell Curl",
+    "tr": "Eğimli Sehpada Dambıl Curl"
+  },
+  "description": {
+    "en": "A dumbbell curl performed seated on an incline bench so the arms hang behind the torso, stretching the biceps.",
+    "tr": "Eğimli sehpada kollar gövdenin gerisinde sarkıtılarak yapılan, pazı kaslarını gerdirerek çalıştıran dambıl curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Sit on an incline bench; let your arms hang down and keep your elbows at your sides.",
+      "Raise the dumbbells toward your shoulders without moving your elbows from their place.",
+      "Lower the weights slowly; do not round your shoulders forward."
+    ],
+    "tr": [
+      "Eğimli sehpaya otur; kollarını aşağı sarkıtıp dirseklerini gövdenin yanında tut.",
+      "Dirseklerini yerinden oynatmadan dambılları omuzlarına doğru kaldır.",
+      "Ağırlıkları yavaşça indir; omuzlarını öne yuvarlama."
+    ]
+  },
+  "legacyIds": [
+    "Incline_Dumbbell_Curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-biceps-curl",
+    "spider-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/incline-dumbbell-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Incline Dumbbell Curl, biceps highlighted in red.",
+        "tr": "Eğimli Sehpada Dambıl Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-incline-dumbbell-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

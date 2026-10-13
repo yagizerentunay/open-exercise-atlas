@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "decline-push-up",
+  "slug": "decline-push-up",
+  "name": {
+    "en": "Decline Push-Up",
+    "tr": "Ayakları Yükseltilmiş Şınav"
+  },
+  "description": {
+    "en": "A push-up with the feet elevated on a bench, shifting more load toward the upper chest and shoulders.",
+    "tr": "Ayakların sehpada yükseltildiği, yükü üst göğse ve omuzlara kaydıran şınav varyasyonu."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Place your feet on a sturdy bench and your hands on the floor at shoulder width; keep your body straight.",
+      "Bend your elbows under control and bring your chest toward the floor.",
+      "Push the floor away and return to the start; if your lower back sags, choose a lower elevation."
+    ],
+    "tr": [
+      "Ayaklarını sağlam bir sehpaya koyup ellerini omuz genişliğinde yere yerleştir; gövdeni düz tut.",
+      "Dirseklerini kontrollü bükerek göğsünü yere yaklaştır.",
+      "Yeri itip başlangıca dön; belin çöküyorsa daha alçak bir yükselti seç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Decline_Push-Up"
+  ],
+  "alternatives": [
+    "push-up",
+    "incline-push-up",
+    "archer-push-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/decline-push-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Decline Push-Up, chest highlighted in red.",
+        "tr": "Ayakları Yükseltilmiş Şınav hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-decline-push-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

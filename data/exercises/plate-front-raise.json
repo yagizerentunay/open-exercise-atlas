@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-front-raise",
+  "slug": "plate-front-raise",
+  "name": {
+    "en": "Plate Front Raise",
+    "tr": "Plakayla Öne Kaldırış"
+  },
+  "description": {
+    "en": "A front raise performed with a weight plate held in both hands to train the front deltoids.",
+    "tr": "İki elle tutulan ağırlık plakasıyla yapılan, ön omuz kaslarını çalıştıran öne kaldırma hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Hold a light weight plate in both hands in front of your thighs; keep your knees soft.",
+      "Keeping your elbows slightly bent, raise the plate forward to shoulder height.",
+      "Lower the plate slowly without swinging your torso; stop the movement if shoulder pain appears."
+    ],
+    "tr": [
+      "Hafif bir ağırlık plakasını iki elinle uyluklarının önünde tut; dizlerini yumuşak bırak.",
+      "Dirseklerini hafif bükülü tutarak plakayı omuz hizasına kadar öne kaldır.",
+      "Gövdeni sallamadan plakayı yavaşça indir; omuz ağrısı oluşursa hareketi bırak."
+    ]
+  },
+  "legacyIds": [
+    "monk-shoulders-plate-front-raise"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-lateral-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/plate-front-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Plate Front Raise, front deltoids highlighted in red.",
+        "tr": "Plakayla Öne Kaldırış hareketini yapan gri tonlu sporcu; ön omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-plate-front-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

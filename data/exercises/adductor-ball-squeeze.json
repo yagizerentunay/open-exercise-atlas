@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "adductor-ball-squeeze",
+  "slug": "adductor-ball-squeeze",
+  "name": {
+    "en": "Adductor Ball Squeeze",
+    "tr": "Adduktör Top Sıkıştırma"
+  },
+  "description": {
+    "en": "A lying exercise in which a soft ball is squeezed between the knees to work the inner thigh muscles.",
+    "tr": "Dizlerin arasındaki yumuşak bir topun sıkıldığı, iç bacak kaslarını çalıştıran yatarak yapılan bir egzersizdir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "exercise-ball"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back and bend your knees; place a soft pilates ball between your knees.",
+      "Exhale and squeeze the ball with your knees in a controlled way; keep your lower back and shoulders relaxed.",
+      "Release the squeeze and return to the start; apply light pressure without causing pain."
+    ],
+    "tr": [
+      "Sırtüstü yatıp dizlerini bük; yumuşak bir pilates topunu dizlerinin arasına yerleştir.",
+      "Nefes verirken topu kontrollü biçimde dizlerinle sık; belini ve omuzlarını rahat tut.",
+      "Sıkmayı bırakıp başlangıca dön; ağrı oluşturmadan hafif basınç uygula."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "seated-hip-adduction",
+    "side-lying-hip-adduction"
+  ],
+  "legacyIds": [
+    "monk-adductors-ball-squeeze"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/adductor-ball-squeeze.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the adductor ball squeeze, adductors highlighted in red.",
+        "tr": "Adduktör Top Sıkıştırma yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-ball-squeeze.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "waiter-curl",
+  "slug": "waiter-curl",
+  "name": {
+    "en": "Waiter Curl",
+    "tr": "Garson Curl"
+  },
+  "description": {
+    "en": "A curl in which one end of a dumbbell is held upright and supported from below by both palms to train the biceps.",
+    "tr": "Dambılın bir ucunun iki avuçla alttan desteklenerek dik tutulduğu, pazı kaslarını çalıştıran curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold a light dumbbell upright by supporting one end from below with both palms; bring your elbows closer to your torso.",
+      "Keeping your elbows fixed, curl the dumbbell toward your chest under control.",
+      "Lower the weight slowly; keep your wrists comfortable and straight."
+    ],
+    "tr": [
+      "Hafif bir dambılın bir ucunu iki avucunla alttan destekleyerek dik tut; dirseklerini gövdene yaklaştır.",
+      "Dirseklerini sabit tutup dambılı kontrollü biçimde göğsüne doğru kıvır.",
+      "Ağırlığı yavaşça indir; bileklerini rahat ve düz konumda tut."
+    ]
+  },
+  "legacyIds": [
+    "monk-biceps-waiter-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-biceps-curl",
+    "hammer-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/waiter-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Waiter Curl, biceps highlighted in red.",
+        "tr": "Garson Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-waiter-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

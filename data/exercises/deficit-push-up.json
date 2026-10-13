@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "deficit-push-up",
+  "slug": "deficit-push-up",
+  "name": {
+    "en": "Deficit Push-Up",
+    "tr": "Tutaçlı Derin Şınav"
+  },
+  "description": {
+    "en": "A push-up performed on handles so the chest can lower slightly below hand level.",
+    "tr": "Göğsün el seviyesinin biraz altına inebilmesi için tutaçlarda yapılan şınav."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Place sturdy push-up handles at shoulder width and take a plank position.",
+      "Bend your elbows under control and lower your chest slightly below the level of your hands; keep your body straight.",
+      "Push up from a depth that is pain-free and that you can control; if you feel discomfort in your shoulders, shorten the range of motion."
+    ],
+    "tr": [
+      "Sağlam şınav tutacaklarını omuz genişliğinde yerleştirip plank pozisyonu al.",
+      "Dirseklerini kontrollü bükerek göğsünü ellerinin seviyesinin biraz altına indir; gövdeni düz tut.",
+      "Ağrısız ve kontrol edebildiğin derinlikten yukarı it; omuzda rahatsızlık olursa hareket mesafesini kısalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-chest-deficit-push-up"
+  ],
+  "alternatives": [
+    "push-up",
+    "decline-push-up",
+    "archer-push-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/deficit-push-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Deficit Push-Up, chest highlighted in red.",
+        "tr": "Tutaçlı Derin Şınav hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-deficit-push-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "back-extension-45-degree",
+  "slug": "back-extension-45-degree",
+  "name": {
+    "en": "45-Degree Back Extension",
+    "tr": "45 Derece Sırt Ekstansiyonu"
+  },
+  "aliases": [
+    "Hyperextensions (Back Extensions)"
+  ],
+  "description": {
+    "en": "A hip-hinge back extension performed on a 45-degree bench that trains the lower back, glutes and hamstrings.",
+    "tr": "Alt sırtı, kalçayı ve arka bacak kaslarını çalıştıran, 45 derecelik sehpada yapılan kalçadan menteşe hareketli sırt ekstansiyonu."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Set the hip pad so it sits just below the pelvis; secure your feet.",
+      "Bend the torso forward from the hips, keeping the back neutral and the movement controlled.",
+      "Rise until the torso is in line with the legs; do not arch the lower back beyond that point."
+    ],
+    "tr": [
+      "Kalça pedini leğen kemiğinin altına gelecek biçimde ayarla; ayaklarını sabitle.",
+      "Gövdeni kalçadan öne eğ, sırtını nötr ve hareketi kontrollü tut.",
+      "Gövden bacaklarınla aynı hizaya gelene kadar yüksel; daha yukarıya belini geriye atma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Hyperextensions_Back_Extensions"
+  ],
+  "alternatives": [
+    "seated-back-extension",
+    "reverse-hyperextension",
+    "superman"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/back-extension-45-degree.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the 45-Degree Back Extension, lower back highlighted in red.",
+        "tr": "45 Derece Sırt Ekstansiyonu hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

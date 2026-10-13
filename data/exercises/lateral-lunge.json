@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "lateral-lunge",
+  "slug": "lateral-lunge",
+  "name": {
+    "en": "Lateral Lunge",
+    "tr": "Yan Lunge"
+  },
+  "description": {
+    "en": "A lunge to the side in which the hips shift back over one bent knee while the other leg stays straight.",
+    "tr": "Kalçanın bükülü bir dizin üzerinde geriye gönderilirken diğer bacağın düz kaldığı yana lunge hareketidir."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Stand upright with your feet hip-width apart; leave room to step to the side.",
+      "Take a wide step to one side and bend that knee, sending your hips back; keep your other leg comfortably straight.",
+      "Push through the bent leg to return to the center; let your knee track in the same direction as your toes."
+    ],
+    "tr": [
+      "Ayaklarını kalça genişliğinde açıp dik dur; yana adım atacağın yönü boş bırak.",
+      "Bir yana geniş adım atıp o dizini bükerek kalçanı geriye gönder; diğer bacağını rahatça düz tut.",
+      "Bükülü bacağından kuvvet alıp merkeze dön; dizini ayak parmaklarınla aynı yönde takip ettir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "sliding-lateral-lunge",
+    "cossack-squat"
+  ],
+  "legacyIds": [
+    "monk-adductors-lateral-lunge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/lateral-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the lateral lunge, adductors highlighted in red.",
+        "tr": "Yan Lunge yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-lateral-lunge.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

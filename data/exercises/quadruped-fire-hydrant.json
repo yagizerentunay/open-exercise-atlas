@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "quadruped-fire-hydrant",
+  "slug": "quadruped-fire-hydrant",
+  "name": {
+    "en": "Quadruped Fire Hydrant",
+    "tr": "Dört Ayak Üzerinde Fire Hydrant"
+  },
+  "description": {
+    "en": "A quadruped exercise in which a bent knee is lifted out to the side to work the outer hip muscles.",
+    "tr": "Bükülü dizin yana kaldırıldığı, dış kalça kaslarını çalıştıran dört ayak üzerinde yapılan bir egzersizdir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Get on your hands and knees; place your hands under your shoulders and your knees under your hips.",
+      "Keeping your knee bent, lift one leg out to the side; keep your pelvis parallel to the floor and your torso still.",
+      "Slowly lower the knee and switch sides; work in a pain-free range without rotating your lower back sideways."
+    ],
+    "tr": [
+      "Ellerin ve dizlerin üzerinde dur; eller omuzların, dizler kalçaların altında olsun.",
+      "Dizini bükülü tutup bir bacağını yana kaldır; leğen kemiğini yere paralel ve gövdeni sabit tut.",
+      "Dizini yavaşça indir ve taraf değiştir; belini yana çevirmeden ağrısız aralıkta çalış."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "side-lying-hip-abduction",
+    "banded-clamshell"
+  ],
+  "legacyIds": [
+    "monk-abductors-quadruped-fire-hydrant"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/quadruped-fire-hydrant.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the quadruped fire hydrant, hip abductors highlighted in red.",
+        "tr": "Dört Ayak Üzerinde Fire Hydrant yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-quadruped-fire-hydrant.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

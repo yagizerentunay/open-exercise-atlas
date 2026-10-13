@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-pullover",
+  "slug": "machine-pullover",
+  "name": {
+    "en": "Machine Pullover",
+    "tr": "Makinede Pullover"
+  },
+  "description": {
+    "en": "A machine movement in which the upper arms drive pads downward in an arc to work the lats.",
+    "tr": "Üst kolların pedleri yay çizerek aşağı sürdüğü, kanat kaslarını çalıştıran makine hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "instructions": {
+    "en": [
+      "Sit in the machine and place your upper arms on the pads; keep your ribs down and your back supported.",
+      "With your elbows slightly bent, pull the arms down in a controlled arc.",
+      "Slowly release the resistance and raise your arms back to a comfortable shoulder range; do not overstretch."
+    ],
+    "tr": [
+      "Makineye oturup üst kollarını pedlere yerleştir; kaburgalarını aşağıda, sırtını destekli tut.",
+      "Dirseklerin hafif bükülü kalırken kolları kontrollü yay çizerek aşağı çek.",
+      "Direnci yavaşça bırakıp kolları rahat omuz aralığına geri kaldır; aşırı esnetme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lats-machine-pullover"
+  ],
+  "alternatives": [
+    "dumbbell-pullover",
+    "straight-arm-cable-pulldown",
+    "lat-pulldown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/machine-pullover.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Machine Pullover, lats highlighted in red.",
+        "tr": "Makinede Pullover hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-machine-pullover.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

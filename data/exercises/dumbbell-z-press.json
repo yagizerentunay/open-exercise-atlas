@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-z-press",
+  "slug": "dumbbell-z-press",
+  "name": {
+    "en": "Dumbbell Z Press",
+    "tr": "Dambılla Z Press"
+  },
+  "description": {
+    "en": "A dumbbell overhead press performed seated on the floor with the legs extended, which removes leg drive and demands an upright torso.",
+    "tr": "Bacaklar öne uzatılmış halde yerde oturarak yapılan, bacak desteğini ortadan kaldıran ve dik gövde gerektiren dambıl omuz press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Sit on the floor with your legs extended in front; find a position where you can keep your torso upright and bring the dumbbells to shoulder height.",
+      "Without leaning back from your lower back, press the dumbbells overhead under control.",
+      "Lower the weights slowly to your shoulders; reduce the load if your torso drifts backward."
+    ],
+    "tr": [
+      "Yere oturup bacaklarını öne uzat; gövdeni dik tutabildiğin konumu bul ve dambılları omuz hizasına al.",
+      "Belinden geriye yaslanmadan dambılları kontrollü biçimde başının üzerine it.",
+      "Ağırlıkları yavaşça omuzlarına indir; gövden geriye kaçıyorsa yükü azalt."
+    ]
+  },
+  "legacyIds": [
+    "monk-shoulders-dumbbell-z-press"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "seated-dumbbell-shoulder-press",
+    "overhead-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-z-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Z Press, shoulders highlighted in red.",
+        "tr": "Dambılla Z Press hareketini yapan gri tonlu sporcu; omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-dumbbell-z-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

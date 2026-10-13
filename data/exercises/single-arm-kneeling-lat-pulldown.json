@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "single-arm-kneeling-lat-pulldown",
+  "slug": "single-arm-kneeling-lat-pulldown",
+  "name": {
+    "en": "Single-Arm Kneeling Lat Pulldown",
+    "tr": "Tek Kol Diz Çökerek Lat Çekiş"
+  },
+  "description": {
+    "en": "A one-arm cable pulldown performed from a kneeling position beside a high pulley.",
+    "tr": "Yüksek makaranın yanında diz çökerek yapılan tek kollu kablo lat çekişi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a single handle to the high pulley; kneel beside the machine and grip the handle with your upper hand.",
+      "Keeping your torso upright and still, pull your elbow down toward your ribs.",
+      "Extend your arm back up under control; work both sides."
+    ],
+    "tr": [
+      "Yüksek makaraya tek tutacak tak; makinenin yanında diz çöküp tutacağı üstteki elinle kavra.",
+      "Gövdeni dik ve sabit tutarak dirseğini aşağı, kaburgana doğru çek.",
+      "Kolunu kontrollü biçimde yukarı uzat; iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lats-single-arm-kneeling-lat-pulldown"
+  ],
+  "alternatives": [
+    "half-kneeling-band-lat-pulldown",
+    "lat-pulldown",
+    "close-grip-front-lat-pulldown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/single-arm-kneeling-lat-pulldown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Single-Arm Kneeling Lat Pulldown, lats highlighted in red.",
+        "tr": "Tek Kol Diz Çökerek Lat Çekiş hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-single-arm-kneeling-lat-pulldown.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "tibialis-raise",
+  "slug": "tibialis-raise",
+  "name": {
+    "en": "Tibialis Raise",
+    "tr": "Tibialis Yükseltme"
+  },
+  "description": {
+    "en": "A wall-supported exercise that lifts the toes and forefoot toward the shins to train the muscles at the front of the lower leg.",
+    "tr": "Alt bacağın ön kaslarını çalıştırmak için ayak parmaklarını ve ön ayağı kaval kemiğine doğru kaldıran, duvar destekli bir hareket."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Lean your back against a wall with the heels on the floor and the feet placed comfortably forward.",
+      "Without lifting the heels, raise the toes and forefoot toward the shins.",
+      "Lower the forefoot slowly; start with small, controlled repetitions."
+    ],
+    "tr": [
+      "Sırtını duvara dayayıp topuklarını yerde tut; ayaklarını rahatça öne yerleştir.",
+      "Topuklarını kaldırmadan ayak parmaklarını ve ön ayağını kaval kemiklerine doğru yükselt.",
+      "Ön ayağını yavaşça indir; küçük, kontrollü tekrarlarla başla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-calves-tibialis-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/tibialis-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Tibialis Raise, shin muscles highlighted in red.",
+        "tr": "Tibialis Yükseltme hareketini yapan gri tonlu sporcu; kaval kemiği önündeki kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-tibialis-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

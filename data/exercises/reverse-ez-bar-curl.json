@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "reverse-ez-bar-curl",
+  "slug": "reverse-ez-bar-curl",
+  "name": {
+    "en": "Reverse EZ-Bar Curl",
+    "tr": "EZ Barla Ters Curl"
+  },
+  "description": {
+    "en": "A curl with an overhand grip on an EZ bar that emphasizes the forearm muscles and the brachioradialis.",
+    "tr": "EZ bar ile üstten kavrayışla yapılan, ön kol kaslarını ve brachioradialis kasını vurgulayan curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "ez-bar"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Grip the EZ bar with an overhand grip; keep your elbows at your sides and your wrists straight.",
+      "Keeping your elbows fixed, raise the bar toward your chest under control.",
+      "Lower the bar slowly; reduce the load or stop if your wrists feel uncomfortable."
+    ],
+    "tr": [
+      "EZ barı üstten kavra; dirseklerini gövdenin yanında, bileklerini düz tut.",
+      "Dirseklerini sabit tutarak barı kontrollü biçimde göğsüne doğru kaldır.",
+      "Barı yavaşça indir; bileğinde rahatsızlık olursa yükü azalt veya bırak."
+    ]
+  },
+  "legacyIds": [
+    "monk-forearms-reverse-ez-bar-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "hammer-curl",
+    "dumbbell-reverse-wrist-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/reverse-ez-bar-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Reverse EZ-Bar Curl, forearms highlighted in red.",
+        "tr": "EZ Barla Ters Curl hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-reverse-ez-bar-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

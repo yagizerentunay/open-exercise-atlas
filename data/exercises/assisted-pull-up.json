@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "assisted-pull-up",
+  "slug": "assisted-pull-up",
+  "name": {
+    "en": "Assisted Pull-Up",
+    "tr": "Yardımlı Barfiks"
+  },
+  "description": {
+    "en": "A vertical pull-up performed on an assist machine that offsets part of the body weight.",
+    "tr": "Vücut ağırlığının bir kısmını destekleyen makinede yapılan dikey barfiks."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the support of the assisted pull-up machine and grip the bar slightly wider than shoulder width.",
+      "Pull your elbows down and lift your body up in a controlled manner.",
+      "Extend your arms slowly; do not shrug your shoulders toward your ears."
+    ],
+    "tr": [
+      "Yardımlı barfiks makinesinin desteğini ayarla ve barı omuzlarından biraz geniş kavra.",
+      "Dirseklerini aşağı çekerek gövdeni kontrollü biçimde yukarı kaldır.",
+      "Kollarını yavaşça uzat; omuzlarını kulaklarına doğru sıkıştırma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lats-assisted-pull-up"
+  ],
+  "alternatives": [
+    "pull-up",
+    "chin-up",
+    "lat-pulldown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/assisted-pull-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Assisted Pull-Up, lats highlighted in red.",
+        "tr": "Yardımlı Barfiks hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-assisted-pull-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

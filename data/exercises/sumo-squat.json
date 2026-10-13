@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "sumo-squat",
+  "slug": "sumo-squat",
+  "name": {
+    "en": "Sumo Squat",
+    "tr": "Sumo Squat"
+  },
+  "description": {
+    "en": "A wide-stance squat with the toes turned out that emphasizes the inner thigh muscles.",
+    "tr": "Parmak uçları dışa dönük geniş duruşla yapılan, iç bacak kaslarını vurgulayan bir squat hareketidir."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Set your feet wide apart and turn your toes comfortably outward; keep your torso upright.",
+      "As you lower your hips, let your knees track in the same direction as your toes.",
+      "Drive through the soles of your feet to stand up; do not let your knees collapse inward and stay at a pain-free depth."
+    ],
+    "tr": [
+      "Ayaklarını genişçe aç ve parmak uçlarını rahatça dışa çevir; gövdeni dik tut.",
+      "Kalçanı aşağı indirirken dizlerini ayak parmaklarınla aynı yönde takip ettir.",
+      "Ayak tabanlarından kuvvet alarak ayağa kalk; dizleri içeri düşürme ve ağrısız derinlikte kal."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "cossack-squat",
+    "bodyweight-squat"
+  ],
+  "legacyIds": [
+    "monk-adductors-sumo-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/sumo-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the sumo squat, adductors highlighted in red.",
+        "tr": "Sumo Squat yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-sumo-squat.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

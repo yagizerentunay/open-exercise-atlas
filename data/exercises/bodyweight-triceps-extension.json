@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "bodyweight-triceps-extension",
+  "slug": "bodyweight-triceps-extension",
+  "name": {
+    "en": "Bodyweight Triceps Extension",
+    "tr": "Vücut Ağırlığıyla Arka Kol Ekstansiyonu"
+  },
+  "description": {
+    "en": "A bodyweight elbow extension performed by leaning back from a fixed bar and lowering the forehead toward it to train the triceps.",
+    "tr": "Sabit bir bara tutunup geriye eğilerek alnı bara yaklaştırmayı içeren, arka kol kaslarını çalıştıran vücut ağırlığı ekstansiyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Grip a sturdy, non-slip bar at shoulder width; keep your torso straight and lean backward.",
+      "Keeping your elbows forward and fixed, bend your arms enough to bring your forehead close to the bar.",
+      "Use your triceps to extend your elbows and return to the start; adjust your foot position to change the difficulty."
+    ],
+    "tr": [
+      "Sağlam ve kaymayan bir barı omuz genişliğinde kavra; gövdeni düz tutup geriye doğru eğil.",
+      "Dirseklerini öne ve sabit tutarak alnını bara yaklaştıracak kadar kollarını bük.",
+      "Tricepslerini kullanıp dirseklerini açarak başlangıca dön; zorluğu ayarlamak için ayak konumunu değiştir."
+    ]
+  },
+  "legacyIds": [
+    "monk-triceps-bodyweight-triceps-extension"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "ez-bar-skull-crusher",
+    "triceps-pushdown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/bodyweight-triceps-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Bodyweight Triceps Extension, triceps highlighted in red.",
+        "tr": "Vücut Ağırlığıyla Arka Kol Ekstansiyonu hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-bodyweight-triceps-extension.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

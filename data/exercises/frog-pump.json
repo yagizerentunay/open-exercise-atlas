@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "frog-pump",
+  "slug": "frog-pump",
+  "name": {
+    "en": "Frog Pump",
+    "tr": "Kurbağa Pump"
+  },
+  "description": {
+    "en": "A floor hip extension performed lying on the back with the soles of the feet together and the knees dropped out.",
+    "tr": "Sırtüstü yatarken ayak tabanları birleşik ve dizler yanlara açıkken yapılan zemin kalça ekstansiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back, press the soles of the feet together and let the knees fall comfortably to the sides.",
+      "Brace the abdomen slightly and lift the hips off the floor without over-arching the lower back.",
+      "Squeeze the glutes and hold briefly at the top, then lower to the floor under control."
+    ],
+    "tr": [
+      "Sırtüstü yat, ayak tabanlarını birleştirip dizlerini rahatça yanlara bırak.",
+      "Karnını hafifçe sıkıp kalçanı yerden kaldır; belini aşırı çukurlaştırma.",
+      "Kalçanı sıkarak üstte kısa süre dur ve kontrollü biçimde yere indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-glutes-frog-pump"
+  ],
+  "alternatives": [
+    "glute-bridge",
+    "donkey-kick"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/frog-pump.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Frog Pump, glutes highlighted in red.",
+        "tr": "Kurbağa Pump hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-frog-pump.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

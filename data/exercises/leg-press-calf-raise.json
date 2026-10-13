@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "leg-press-calf-raise",
+  "slug": "leg-press-calf-raise",
+  "name": {
+    "en": "Leg Press Calf Raise",
+    "tr": "Leg Press ile Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A calf raise performed on the leg press by pressing the platform with the balls of the feet.",
+    "tr": "Leg press makinesinde platforma ayak uçlarıyla basılarak yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Load the leg press lightly; place the toes on the lower part of the platform and let the heels hang free.",
+      "Without locking the knees, push through the toes to raise the heels.",
+      "Lower the heels under control; keep safe contact with the platform and work in a pain-free range."
+    ],
+    "tr": [
+      "Leg press makinesini hafif yükle ayarla; ayak parmaklarını platformun alt bölümüne koyup topuklarını serbest bırak.",
+      "Dizlerini kilitlemeden ayak uçlarından iterek topuklarını kaldır.",
+      "Topuklarını kontrollü biçimde indir; platforma güvenli temasını koru ve ağrısız aralıkta çalış."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-calves-leg-press-calf-raise"
+  ],
+  "alternatives": [
+    "calf-raise",
+    "smith-machine-standing-calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/leg-press-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Leg Press Calf Raise, calves highlighted in red.",
+        "tr": "Leg Press ile Baldır Yükseltme hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-leg-press-calf-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

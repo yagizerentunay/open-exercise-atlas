@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-leg-curl",
+  "slug": "seated-leg-curl",
+  "name": {
+    "en": "Seated Leg Curl",
+    "tr": "Oturarak Bacak Curl"
+  },
+  "description": {
+    "en": "A machine knee flexion performed seated that isolates the back of the thigh.",
+    "tr": "Oturarak makinede yapılan, arka uyluğu izole eden bir diz fleksiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Adjust the machine so the knee joint lines up with the pivot and the lower-leg pad sits above the ankle.",
+      "Pull the heels down and back to bend the knees; keep the hips and back on the seat.",
+      "Slowly extend the legs back to the start; do not let the weight slam."
+    ],
+    "tr": [
+      "Makineyi diz eklemin pivotla hizalanacak ve alt bacak pedi bilek üstüne gelecek şekilde ayarla.",
+      "Topuklarını aşağı-geriye çekerek dizlerini bük; kalçanı ve sırtını koltukta tut.",
+      "Bacaklarını yavaşça uzatıp başlangıca dön; ağırlığı çarptırma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-hamstrings-seated-leg-curl"
+  ],
+  "alternatives": [
+    "lying-leg-curls"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-leg-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Seated Leg Curl, hamstrings highlighted in red.",
+        "tr": "Oturarak Bacak Curl hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-seated-leg-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

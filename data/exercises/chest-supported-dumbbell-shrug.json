@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "chest-supported-dumbbell-shrug",
+  "slug": "chest-supported-dumbbell-shrug",
+  "name": {
+    "en": "Chest-Supported Dumbbell Shrug",
+    "tr": "Göğüs Destekli Dambıl Omuz Silkme"
+  },
+  "description": {
+    "en": "A shrug performed face down on an incline bench so the chest supports the torso.",
+    "tr": "Göğsün gövdeyi desteklediği, eğimli sehpada yüzüstü yapılan omuz silkme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on an incline bench and hold light dumbbells with your arms hanging down.",
+      "Without bending your elbows, raise your shoulders toward your ears under control.",
+      "Pause briefly and slowly lower your shoulders; do not strain your neck and do not swing the dumbbells."
+    ],
+    "tr": [
+      "Eğimli sehpaya yüzüstü uzanıp hafif dambılları kolların aşağı sarkacak şekilde tut.",
+      "Dirseklerini bükmeden omuzlarını kontrollü olarak kulaklarına doğru yükselt.",
+      "Kısa süre duraklayıp omuzlarını yavaşça indir; boynunu sıkıştırma ve dambılları savurma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-traps-chest-supported-dumbbell-shrug"
+  ],
+  "alternatives": [
+    "kelso-shrug",
+    "dumbbell-shrug",
+    "barbell-shrug"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/chest-supported-dumbbell-shrug.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Chest-Supported Dumbbell Shrug, traps highlighted in red.",
+        "tr": "Göğüs Destekli Dambıl Omuz Silkme hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-chest-supported-dumbbell-shrug.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

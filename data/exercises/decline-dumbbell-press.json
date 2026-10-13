@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "decline-dumbbell-press",
+  "slug": "decline-dumbbell-press",
+  "name": {
+    "en": "Decline Dumbbell Press",
+    "tr": "Alt Eğimli Dambıl Press"
+  },
+  "description": {
+    "en": "A dumbbell press performed on a declined bench that emphasizes the lower chest.",
+    "tr": "Alt eğimli sehpada yapılan, alt göğsü öne çıkaran dambıl press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Secure your feet safely on the declined bench and hold the dumbbells at the lower sides of your chest.",
+      "Press the dumbbells up over your chest under control; keep your wrists above your elbows.",
+      "Slowly lower the dumbbells to the sides of your chest; get help to put them down if needed."
+    ],
+    "tr": [
+      "Ayaklarını eğimli sehpaya güvenle sabitle; dambılları göğsünün alt yanında tut.",
+      "Dambılları göğüs üzerinde kontrollü biçimde yukarı it; bilekleri dirseklerin üzerinde tut.",
+      "Dambılları göğsün yanına yavaşça indir; gerekirse yardım alarak yerine bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-chest-decline-dumbbell-press"
+  ],
+  "alternatives": [
+    "dumbbell-bench-press",
+    "incline-barbell-bench-press",
+    "dumbbell-squeeze-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/decline-dumbbell-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Decline Dumbbell Press, chest highlighted in red.",
+        "tr": "Alt Eğimli Dambıl Press hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-decline-dumbbell-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

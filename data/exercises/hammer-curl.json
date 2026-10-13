@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "hammer-curl",
+  "slug": "hammer-curl",
+  "name": {
+    "en": "Hammer Curl",
+    "tr": "Çekiç Curl"
+  },
+  "description": {
+    "en": "A dumbbell curl performed with the palms facing each other that trains the biceps and the brachialis.",
+    "tr": "Avuç içlerinin birbirine baktığı, pazı kaslarını ve brachialis kasını çalıştıran dambıl curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the dumbbells with your palms facing each other; keep your elbows fixed at your sides.",
+      "Raise the dumbbells toward your shoulders without moving your upper arms.",
+      "Lower the dumbbells under control without swinging; keep your wrists neutral."
+    ],
+    "tr": [
+      "Dambılları avuçların birbirine bakacak şekilde tut; dirseklerini gövdenin yanında sabitle.",
+      "Üst kollarını oynatmadan dambılları omuzlarına doğru kaldır.",
+      "Dambılları sallamadan kontrollü indir; bileklerini nötr tut."
+    ]
+  },
+  "legacyIds": [
+    "monk-biceps-hammer-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "cross-body-hammer-curl",
+    "dumbbell-biceps-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hammer-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Hammer Curl, biceps highlighted in red.",
+        "tr": "Çekiç Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-hammer-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

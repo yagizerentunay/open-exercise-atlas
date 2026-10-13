@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "cross-body-cable-triceps-extension",
+  "slug": "cross-body-cable-triceps-extension",
+  "name": {
+    "en": "Cross-Body Cable Triceps Extension",
+    "tr": "Çapraz Kablo Arka Kol Ekstansiyonu"
+  },
+  "description": {
+    "en": "A single-arm high-cable triceps extension in which the forearm is extended down and across the body.",
+    "tr": "Ön kolun gövdenin karşı tarafına ve aşağıya doğru açıldığı, yüksek makarayla yapılan tek kollu arka kol ekstansiyonu."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a single handle to a high pulley and grip it with your working hand; keep your elbow at your side.",
+      "Extend your forearm under control across your body and downward.",
+      "Return to the start with your elbow fixed; do not rotate your shoulder, and stop if you feel pain."
+    ],
+    "tr": [
+      "Yüksek makaraya tek tutacak tak ve çalışma kolunla kavra; dirseğini gövdenin yanında tut.",
+      "Ön kolunu kontrollü biçimde gövdenin karşı tarafına ve aşağıya doğru aç.",
+      "Dirseğini sabit tutarak başlangıca dön; omzunu döndürme ve ağrı olursa bırak."
+    ]
+  },
+  "legacyIds": [
+    "monk-triceps-cross-body-cable-extension"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "single-arm-cable-pushdown",
+    "overhead-cable-triceps-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cross-body-cable-triceps-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cross-Body Cable Triceps Extension, triceps highlighted in red.",
+        "tr": "Çapraz Kablo Arka Kol Ekstansiyonu hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-cross-body-cable-extension.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

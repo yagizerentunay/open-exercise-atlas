@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-squeeze-press",
+  "slug": "dumbbell-squeeze-press",
+  "name": {
+    "en": "Dumbbell Squeeze Press",
+    "tr": "Dambıl Sıkıştırma Presi"
+  },
+  "description": {
+    "en": "A dumbbell press in which the dumbbells are pressed together throughout the lift to keep the chest under tension.",
+    "tr": "Dambılların hareket boyunca birbirine bastırılarak göğsün gergin tutulduğu dambıl press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a flat bench and hold light dumbbells over your chest so that they touch each other.",
+      "Keep pressing the dumbbells together as you lower them to your chest under control.",
+      "Press up from chest level; set your shoulders on the bench and do not attempt this with heavy loads."
+    ],
+    "tr": [
+      "Düz sehpaya uzan ve hafif dambılları göğsünün üzerinde birbirine değecek biçimde tut.",
+      "Dambılları birbirine bastırmayı sürdürerek kontrollü biçimde göğsüne indir.",
+      "Göğüs hizasından yukarı it; omuzlarını sehpaya yerleştir ve ağır yükle deneme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-chest-dumbbell-squeeze-press"
+  ],
+  "alternatives": [
+    "dumbbell-bench-press",
+    "dumbbell-fly",
+    "incline-barbell-bench-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-squeeze-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Squeeze Press, chest highlighted in red.",
+        "tr": "Dambıl Sıkıştırma Presi hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-dumbbell-squeeze-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

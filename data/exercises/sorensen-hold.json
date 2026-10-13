@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "sorensen-hold",
+  "slug": "sorensen-hold",
+  "name": {
+    "en": "Sorensen Hold",
+    "tr": "Sorensen Tutuşu"
+  },
+  "description": {
+    "en": "An isometric back-extension hold on a Roman chair with the torso held in line with the legs.",
+    "tr": "Roman chair üzerinde gövdenin bacaklarla aynı hizada tutulduğu izometrik sırt ekstansiyonu."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "force": "static",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the Roman chair pad below your hip crease and secure your ankles safely under the supports.",
+      "Hold your torso in line with your legs with your arms crossed over your chest; keep your lower back neutral.",
+      "Hold this position for a short, comfortable time and come out under control; do not over-arch your lower back, and stop if you feel pain."
+    ],
+    "tr": [
+      "Roman chair pedini kalça kıvrımının altına ayarla ve ayak bileklerini desteklere güvenle sabitle.",
+      "Gövdeni bacaklarınla aynı hizada tutup kollarını göğsünde kavuştur; belini nötr konumda koru.",
+      "Bu pozisyonu kısa ve rahat bir süre koruyup kontrollü çık; belini geriye aşırı çukurlaştırma ve ağrı olursa bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lower-back-sorensen-hold"
+  ],
+  "alternatives": [
+    "back-extension-45-degree",
+    "prone-cobra-hold",
+    "seated-back-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/sorensen-hold.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Sorensen Hold, lower back highlighted in red.",
+        "tr": "Sorensen Tutuşu hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-sorensen-hold.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

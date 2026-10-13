@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-woodchop",
+  "slug": "cable-woodchop",
+  "name": {
+    "en": "Cable Woodchop",
+    "tr": "Kablo Woodchop"
+  },
+  "description": {
+    "en": "A standing rotational exercise in which a cable is pulled diagonally downward across the body with the torso.",
+    "tr": "Kablonun gövdeyle birlikte çapraz aşağı doğru çekildiği, ayakta yapılan bir rotasyon egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "rotation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Set the cable above head height and grip the handle with both hands; set your feet balanced.",
+      "Keeping your arms slightly bent, rotate your torso diagonally downward in a controlled way; keep your hips still.",
+      "Return to the start slowly; do not swing the movement from your lower back and work both sides equally."
+    ],
+    "tr": [
+      "Kabloyu baş hizanın üstüne alıp tutacağı iki elinle kavra; ayaklarını dengeli aç.",
+      "Kollarını hafif bükülü tutarak gövdeni kontrollü biçimde çapraz aşağı çevir; kalçalarını sabit tut.",
+      "Başlangıca yavaşça dön; hareketi belden savurarak yapma ve iki tarafı eşit çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "bicycle-crunch",
+    "cable-crunch"
+  ],
+  "legacyIds": [
+    "monk-abdominals-cable-woodchop"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-woodchop.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the cable woodchop, abdominal muscles highlighted in red.",
+        "tr": "Kablo Woodchop yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-cable-woodchop.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

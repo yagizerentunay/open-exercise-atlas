@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-step-up",
+  "slug": "dumbbell-step-up",
+  "name": {
+    "en": "Dumbbell Step Ups",
+    "tr": "Dambıllı Step-Up"
+  },
+  "description": {
+    "en": "A step-up onto a stable box performed with a dumbbell held in each hand.",
+    "tr": "Her elde bir dambıl tutarak sağlam bir kutuya adım atıp yükselmeyi içeren step-up hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Stand in front of a sturdy box of a manageable height, holding light dumbbells at your sides.",
+      "Place one foot fully on the box and rise with that leg, keeping the knee in line with the toes.",
+      "Lower the other foot under control and switch sides; make sure the box is stable."
+    ],
+    "tr": [
+      "Kontrol edilebilir alçaklıkta sağlam bir kutunun önünde hafif dambılları yanında tut.",
+      "Bir ayağını tamamen kutuya basıp o bacağınla yüksel; dizini ayak parmakların yönünde tut.",
+      "Diğer ayağını kontrollü indir ve taraf değiştir; kutunun sabit olduğundan emin ol."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Dumbbell_Step_Ups"
+  ],
+  "alternatives": [
+    "step-up",
+    "walking-lunge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-step-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Step Ups, quadriceps highlighted in red.",
+        "tr": "Dambıllı Step-Up hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-dumbbell-step-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

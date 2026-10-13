@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-wrist-curl",
+  "slug": "cable-wrist-curl",
+  "name": {
+    "en": "Cable Wrist Curl",
+    "tr": "Kablo Bilek Curl"
+  },
+  "description": {
+    "en": "A wrist curl with the palms facing up and a short bar on a low cable pulley to train the forearm flexors.",
+    "tr": "Alt makaraya takılan kısa barla, avuç içleri yukarı bakacak şekilde yapılan, ön kol fleksörlerini çalıştıran bilek curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Attach a short bar to a low pulley; support your forearms on your thighs and turn your palms up.",
+      "Without moving your forearms, raise the bar slightly by bending your wrists.",
+      "Lower the bar under control; stop the movement if you feel wrist pain."
+    ],
+    "tr": [
+      "Alt makaraya kısa bar tak; ön kollarını uyluklarına destekleyip avuçlarını yukarı çevir.",
+      "Ön kollarını oynatmadan bileklerini bükerek barı hafifçe kaldır.",
+      "Barı kontrollü indir; bilekte ağrı olursa hareketi bırak."
+    ]
+  },
+  "legacyIds": [
+    "monk-forearms-cable-wrist-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "seated-dumbbell-wrist-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-wrist-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cable Wrist Curl, forearms highlighted in red.",
+        "tr": "Kablo Bilek Curl hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-cable-wrist-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "behind-the-back-barbell-wrist-curl",
+  "slug": "behind-the-back-barbell-wrist-curl",
+  "name": {
+    "en": "Behind-the-Back Barbell Wrist Curl",
+    "tr": "Sırt Arkasında Halterle Bilek Curl"
+  },
+  "description": {
+    "en": "A wrist flexion exercise performed with a light barbell held behind the body to train the forearm flexors.",
+    "tr": "Hafif bir barın vücudun arkasında tutulduğu, ön kol fleksörlerini çalıştıran bilek bükme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Hold a light bar behind you with your arms extended comfortably and your palms facing backward.",
+      "Keeping your shoulders still, raise the bar by curling your wrists in a controlled way.",
+      "Lower your wrists slowly back to the start; stop if you feel pain or numbness."
+    ],
+    "tr": [
+      "Hafif bir barı arkanda, kolların rahatça uzanmış ve avuçların geriye bakacak biçimde tut.",
+      "Omuzlarını sabit bırakıp bileklerini kontrollü biçimde kıvırarak barı yükselt.",
+      "Bileklerini yavaşça başlangıca indir; ağrı veya uyuşma olursa dur."
+    ]
+  },
+  "legacyIds": [
+    "monk-forearms-behind-back-wrist-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "seated-dumbbell-wrist-curl",
+    "cable-wrist-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/behind-the-back-barbell-wrist-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Behind-the-Back Barbell Wrist Curl, forearms highlighted in red.",
+        "tr": "Sırt Arkasında Halterle Bilek Curl hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-behind-back-wrist-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

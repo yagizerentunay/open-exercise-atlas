@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "prone-incline-y-raise",
+  "slug": "prone-incline-y-raise",
+  "name": {
+    "en": "Prone Incline Y Raise",
+    "tr": "Eğimli Sehpada Yüzüstü Y Kaldırış"
+  },
+  "description": {
+    "en": "A light dumbbell raise performed face down on an incline bench with the arms moving into a Y shape.",
+    "tr": "Eğimli sehpada yüzüstü yapılan, kolların Y biçiminde kaldırıldığı hafif dambıl kaldırışı."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on an incline bench with light dumbbells; extend your arms in a Y shape in front of your head.",
+      "With your thumbs pointing up, raise your arms under control; keep your neck and torso still.",
+      "Lower the dumbbells slowly; if you feel pinching in your shoulders, reduce the weight or stop the movement."
+    ],
+    "tr": [
+      "Hafif dambıllarla eğimli sehpaya yüzüstü uzan; kollarını başının önünde Y biçiminde uzat.",
+      "Başparmakların yukarı bakarken kollarını kontrollü biçimde kaldır; boynunu ve gövdeni sabit tut.",
+      "Dambılları yavaşça indir; omuzlarında sıkışma hissedersen ağırlığı azalt veya hareketi bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-prone-incline-y-raise"
+  ],
+  "alternatives": [
+    "prone-trap-3-raise",
+    "kelso-shrug",
+    "band-pull-apart"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/prone-incline-y-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Prone Incline Y Raise, upper back highlighted in red.",
+        "tr": "Eğimli Sehpada Yüzüstü Y Kaldırış hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-prone-incline-y-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

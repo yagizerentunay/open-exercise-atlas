@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "hamstring-walkout",
+  "slug": "hamstring-walkout",
+  "name": {
+    "en": "Hamstring Walkout",
+    "tr": "Hamstring Walkout"
+  },
+  "description": {
+    "en": "A bodyweight bridge exercise in which the heels walk away from the hips while the hips stay lifted.",
+    "tr": "Kalça havadayken topukların kalçadan uzağa yürütüldüğü, vücut ağırlıklı bir köprü hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back with the knees bent and the feet close to the hips; lift the hips into a bridge position.",
+      "Walk the heels forward in small steps, extending as far as you can while keeping the hips controlled and high.",
+      "Walk the heels back with steps and lower the hips; do not arch the lower back."
+    ],
+    "tr": [
+      "Sırtüstü yatıp dizlerini bük; ayaklarını kalçana yakın koy ve kalçanı köprü pozisyonunda kaldır.",
+      "Topuklarını küçük adımlarla ileri götür; kalçanı kontrollü yüksekte tutabildiğin kadar uzat.",
+      "Topuklarını adımlarla geri getirip kalçanı indir; belini çukurlaştırma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-hamstrings-hamstring-walkout"
+  ],
+  "alternatives": [
+    "slider-leg-curl",
+    "single-leg-glute-bridge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hamstring-walkout.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Hamstring Walkout, hamstrings highlighted in red.",
+        "tr": "Hamstring Walkout hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-hamstring-walkout.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

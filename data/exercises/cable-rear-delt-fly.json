@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-rear-delt-fly",
+  "slug": "cable-rear-delt-fly",
+  "name": {
+    "en": "Cable Rear Delt Fly",
+    "tr": "Kablo Arka Omuz Fly"
+  },
+  "description": {
+    "en": "A cable fly in which the arms open out to the sides to train the rear deltoids.",
+    "tr": "Kolların yanlara açıldığı, arka omuz kaslarını çalıştıran kablo fly hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Attach handles to two low pulleys and stand in front of the cables; grip the handles with crossed hands.",
+      "Keeping your elbows slightly bent, open your arms out to the sides; keep your torso still.",
+      "Bring your arms back to the crossed start position under control; do not swing the weight."
+    ],
+    "tr": [
+      "İki alçak makaraya tutacak takıp kabloların önünde dur; tutacakları çapraz ellerle kavra.",
+      "Dirseklerini hafif bükülü tutarak kollarını yanlara aç; gövdeni sabit tut.",
+      "Kollarını kontrollü biçimde çapraz başlangıca getir; ağırlığı savurma."
+    ]
+  },
+  "legacyIds": [
+    "Cable_Rear_Delt_Fly"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "face-pull"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-rear-delt-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cable Rear Delt Fly, rear deltoids highlighted in red.",
+        "tr": "Kablo Arka Omuz Fly hareketini yapan gri tonlu sporcu; arka omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-cable-rear-delt-fly.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

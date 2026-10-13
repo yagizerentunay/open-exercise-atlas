@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "hand-resisted-neck-isometric",
+  "slug": "hand-resisted-neck-isometric",
+  "name": {
+    "en": "Hand-Resisted Neck Isometric",
+    "tr": "El Dirençli Boyun İzometriği"
+  },
+  "description": {
+    "en": "A gentle isometric neck hold in which one hand provides very light resistance beside the temple.",
+    "tr": "Şakağın yanındaki elin çok hafif direnç sağladığı, nazik bir boyun izometrik tutuşudur."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "static",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright and keep your head neutral; lightly place your palm beside your temple.",
+      "Apply very light resistance with your hand without turning your head, and gently tense your neck muscles.",
+      "Hold briefly and release; stop immediately if you feel sharp pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik otur ve başını nötr konumda tut; avucunu şakağının yanına hafifçe yerleştir.",
+      "Başını yana çevirmeden elinle çok hafif direnç uygula ve boyun kaslarını nazikçe sık.",
+      "Kısa süre tutup bırak; keskin ağrı, uyuşma veya baş dönmesi olursa hemen dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "lateral-hand-resisted-neck-isometric",
+    "neck-flexion-isometric"
+  ],
+  "legacyIds": [
+    "monk-neck-hand-resisted-isometric"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hand-resisted-neck-isometric.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the hand-resisted neck isometric, neck muscles highlighted in red.",
+        "tr": "El Dirençli Boyun İzometriği yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

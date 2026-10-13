@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "good-morning",
+  "slug": "good-morning",
+  "name": {
+    "en": "Good Morning",
+    "tr": "Good Morning"
+  },
+  "description": {
+    "en": "A barbell hip hinge performed with the bar across the upper back and the torso tipping forward from the hips.",
+    "tr": "Halter üst sırttayken gövdenin kalçadan öne eğildiği, halterli bir kalça menteşesi hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Place a light bar securely on the upper back; set the feet hip-width apart with the knees slightly bent.",
+      "Keep the spine neutral, send the hips back and tip the torso forward from the hips.",
+      "When you feel tension in the hamstrings, bring the hips forward and stand up; do not round the lower back and start light."
+    ],
+    "tr": [
+      "Hafif bir barı üst sırtına güvenle yerleştir; ayaklarını kalça genişliğinde açıp dizlerini hafif bük.",
+      "Omurganı nötr tutarak kalçanı geriye gönder ve gövdeni kalçadan öne eğ.",
+      "Arka bacaklarında gerginlik hissedince kalçanı öne getirip doğrul; belini yuvarlama ve hafif yükle başla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Good_Morning"
+  ],
+  "alternatives": [
+    "romanian-deadlift",
+    "cable-pull-through"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/good-morning.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Good Morning, hamstrings highlighted in red.",
+        "tr": "Good Morning hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-good-morning.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

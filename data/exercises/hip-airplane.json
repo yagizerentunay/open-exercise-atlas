@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "hip-airplane",
+  "slug": "hip-airplane",
+  "name": {
+    "en": "Hip Airplane",
+    "tr": "Hip Airplane"
+  },
+  "description": {
+    "en": "A single-leg balance drill that rotates the pelvis open and closed over a hinged hip.",
+    "tr": "Menteşe yapılmış kalça üzerinde pelvisi tek bacak üzerinde açıp kapatan bir denge ve kalça rotasyonu çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Stand on one foot with the knee slightly bent; hinge forward at the hips and extend the free leg backward.",
+      "With the torso steady, rotate the pelvis open and closed under control; extend the arms to the sides or take support for balance.",
+      "Return upright; keep the movement small and pain-free, then switch sides."
+    ],
+    "tr": [
+      "Bir ayağının üzerinde durup dizini hafifçe bük; kalçadan öne eğil ve serbest bacağını geriye uzat.",
+      "Gövden sabitken pelvisini kontrollü biçimde açıp kapat; denge için kollarını yana uzat veya destek al.",
+      "Dik konuma dön; hareketi küçük aralıkta ve ağrısız yap, sonra diğer tarafa geç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-glutes-hip-airplane"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hip-airplane.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Hip Airplane, glutes highlighted in red.",
+        "tr": "Hip Airplane hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-hip-airplane.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

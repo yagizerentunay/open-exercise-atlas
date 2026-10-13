@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ab-wheel-rollout",
+  "slug": "ab-wheel-rollout",
+  "name": {
+    "en": "Ab Wheel Rollout",
+    "tr": "Ab Wheel ile Roll-out"
+  },
+  "description": {
+    "en": "A kneeling core exercise in which an ab wheel is rolled forward and pulled back with the abs.",
+    "tr": "Karın kaslarıyla bir ab wheel'in öne yuvarlanıp geri çekildiği diz çökmüş bir core egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Kneel with the wheel under your shoulders; brace your abs and set your back in a neutral position.",
+      "Roll the wheel forward without arching your lower back; stay within the distance where you can keep your torso steady.",
+      "Pull the wheel back toward your knees with your abs; shorten the range or stop if you feel discomfort in your lower back."
+    ],
+    "tr": [
+      "Diz çöküp tekerleği omuzlarının altında tut; karnını sık ve sırtını nötr konumda hazırla.",
+      "Belini çukurlaştırmadan tekerleği öne yuvarla; gövdeni sabit tutabildiğin mesafede kal.",
+      "Karın kaslarınla tekerleği dizlerine doğru geri çek; belinde rahatsızlık olursa aralığı kısalt veya dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "stability-ball-rollout",
+    "plank"
+  ],
+  "legacyIds": [
+    "monk-abdominals-ab-wheel-rollout"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/ab-wheel-rollout.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the ab wheel rollout, abdominal muscles highlighted in red.",
+        "tr": "Ab Wheel ile Roll-out yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-ab-wheel-rollout.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

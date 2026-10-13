@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-pull-through",
+  "slug": "cable-pull-through",
+  "name": {
+    "en": "Cable Pull-Through",
+    "tr": "Kablo Pull-Through"
+  },
+  "description": {
+    "en": "A cable hip hinge in which the rope is pulled through the legs from a low pulley.",
+    "tr": "Halatın alçak makaradan bacakların arasından çekildiği, kablolu bir kalça menteşesi hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a rope to the low pulley, face away from the cable and hold the rope between the legs.",
+      "Bend the knees slightly and send the hips back while keeping the back neutral.",
+      "Stand tall by bringing the hips forward; repeat with control without pushing the lower back backward."
+    ],
+    "tr": [
+      "Alçak makaraya halat takıp kabloya sırtını dön; halatı bacaklarının arasından tut.",
+      "Dizlerini hafif bükerek kalçanı geriye gönder; sırtını nötr tut.",
+      "Kalçanı öne getirerek dikleş; beli geriye aşırı itmeden kontrollü tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-glutes-cable-pull-through"
+  ],
+  "alternatives": [
+    "romanian-deadlift",
+    "kettlebell-swing",
+    "good-morning"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-pull-through.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cable Pull-Through, glutes highlighted in red.",
+        "tr": "Kablo Pull-Through hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-cable-pull-through.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

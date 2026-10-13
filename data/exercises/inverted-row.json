@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "inverted-row",
+  "slug": "inverted-row",
+  "name": {
+    "en": "Inverted Row",
+    "tr": "Ters Kürek"
+  },
+  "description": {
+    "en": "A bodyweight row performed hanging under a fixed bar with the body held straight.",
+    "tr": "Sabit bir barın altında vücut düz tutularak yapılan vücut ağırlıklı kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Get under a sturdy, waist-height bar and grip it at shoulder width; keep your body straight.",
+      "Pull your chest toward the bar and bring your shoulder blades toward each other.",
+      "Extend your arms under control and return to the start; do not let your hips drop."
+    ],
+    "tr": [
+      "Sağlam, bel hizasında bir barın altına girip barı omuz genişliğinde kavra; vücudunu düz tut.",
+      "Göğsünü bara doğru çekip kürek kemiklerini birbirine yaklaştır.",
+      "Kollarını kontrollü uzatarak başlangıca dön; kalçanı düşürme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-inverted-row"
+  ],
+  "alternatives": [
+    "bent-over-row",
+    "pull-up",
+    "seated-cable-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/inverted-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Inverted Row, upper back highlighted in red.",
+        "tr": "Ters Kürek hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-inverted-row.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

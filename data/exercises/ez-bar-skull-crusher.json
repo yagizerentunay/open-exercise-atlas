@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "ez-bar-skull-crusher",
+  "slug": "ez-bar-skull-crusher",
+  "name": {
+    "en": "EZ-Bar Skull Crusher",
+    "tr": "EZ Barla Skull Crusher"
+  },
+  "description": {
+    "en": "A lying triceps extension in which an EZ bar is lowered toward the forehead by bending the elbows.",
+    "tr": "Düz sehpada uzanırken dirsekler bükülerek EZ barın alna doğru indirildiği arka kol ekstansiyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "ez-bar"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Lie on a flat bench and hold a light EZ bar above your chest; keep your wrists neutral.",
+      "Keeping your upper arms still, bend your elbows and lower the bar under control to near your forehead.",
+      "Extend your elbows to bring the bar back to the start; do not touch the bar to your face and use a spotter if needed."
+    ],
+    "tr": [
+      "Düz sehpaya uzanıp hafif EZ barı göğsünün üzerinde tut; bileklerini nötrle.",
+      "Üst kollarını sabit tutarak dirseklerini bük; barı alnının yakınına kontrollü indir.",
+      "Dirseklerini açıp barı başlangıca getir; barı yüzüne değdirme ve gerekirse gözcü kullan."
+    ]
+  },
+  "legacyIds": [
+    "monk-triceps-ez-bar-skull-crusher"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-skull-crusher"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/ez-bar-skull-crusher.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the EZ-Bar Skull Crusher, triceps highlighted in red.",
+        "tr": "EZ Barla Skull Crusher hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-ez-bar-skull-crusher.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

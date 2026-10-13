@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-dumbbell-shoulder-press",
+  "slug": "seated-dumbbell-shoulder-press",
+  "name": {
+    "en": "Seated Dumbbell Shoulder Press",
+    "tr": "Oturarak Dambılla Omuz Press"
+  },
+  "description": {
+    "en": "An overhead press performed seated on a bench with back support, with a dumbbell in each hand.",
+    "tr": "Sırt destekli sehpada oturarak, her elde bir dambılla yapılan baş üstü omuz press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Sit on a bench with back support and hold the dumbbells at shoulder height, with your wrists above your elbows.",
+      "Keeping your torso still, press the dumbbells overhead.",
+      "Lower the dumbbells under control to shoulder height; do not over-arch your lower back."
+    ],
+    "tr": [
+      "Sırt destekli sehpaya otur ve dambılları omuz hizasında, bileklerin dirseklerin üzerinde tut.",
+      "Gövdeni sabit tutarak dambılları başının üzerine doğru it.",
+      "Dambılları kontrollü biçimde omuz hizasına indir; belini aşırı kavislendirme."
+    ]
+  },
+  "aliases": [
+    "Dumbbell Shoulder Press"
+  ],
+  "legacyIds": [
+    "Dumbbell_Shoulder_Press"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-shoulder-press",
+    "arnold-press",
+    "machine-shoulder-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-dumbbell-shoulder-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Seated Dumbbell Shoulder Press, shoulders highlighted in red.",
+        "tr": "Oturarak Dambılla Omuz Press hareketini yapan gri tonlu sporcu; omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

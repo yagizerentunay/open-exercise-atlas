@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "full-copenhagen-plank",
+  "slug": "full-copenhagen-plank",
+  "name": {
+    "en": "Full Copenhagen Plank",
+    "tr": "Tam Kopenhag Plank"
+  },
+  "description": {
+    "en": "A side plank with the top ankle on a bench and the bottom leg lifted, loading the inner thigh muscles with a short isometric hold.",
+    "tr": "Üst ayak bileğinin sehpada olduğu ve alt bacağın kaldırıldığı, iç bacak kaslarını kısa izometrik tutuşla çalıştıran bir yan plank egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "force": "static",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Get into a side plank position; place your top ankle on a sturdy bench and align your elbow under your shoulder.",
+      "Lift your hips to form a straight line from head to ankle; raise your bottom leg off the floor.",
+      "Hold the position briefly and in control, then lower; work both sides and release if you feel pain in the groin."
+    ],
+    "tr": [
+      "Yan plank pozisyonu al; üst ayak bileğini sağlam bir sehpaya koy, dirseğini omzunun altına hizala.",
+      "Kalçanı kaldırıp başından ayak bileğine düz çizgi oluştur; alt bacağını yerden kaldır.",
+      "Pozisyonu kısa ve kontrollü tutup in; iki tarafı çalıştır, kasıkta ağrı olursa bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "knee-supported-copenhagen-plank",
+    "side-plank"
+  ],
+  "legacyIds": [
+    "monk-adductors-full-copenhagen-plank"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/full-copenhagen-plank.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the full copenhagen plank, adductors highlighted in red.",
+        "tr": "Tam Kopenhag Plank yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-full-copenhagen-plank.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

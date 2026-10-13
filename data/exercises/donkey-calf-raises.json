@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "donkey-calf-raises",
+  "slug": "donkey-calf-raises",
+  "name": {
+    "en": "Donkey Calf Raises",
+    "tr": "Eşek Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A calf raise performed bent forward at the hips with the toes on a raised surface and the hands on a support.",
+    "tr": "Gövde kalçadan öne eğikken, ayak uçları yükseltide ve eller bir destekteyken yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Place the toes on a stable raised surface and support yourself with the hands on a sturdy bench; hinge forward at the hips.",
+      "Lower the heels within a comfortable range, then rise up onto the toes.",
+      "Pause briefly at the top and lower slowly; do not bounce or let go of the balance support."
+    ],
+    "tr": [
+      "Ayak uçlarını sabit bir yükseltiye koyup ellerinle sağlam bir sehpaya destek al; gövdeni kalçadan öne eğ.",
+      "Topuklarını rahat aralıkta aşağı indir, ardından ayak uçlarından yüksel.",
+      "Üstte kısa süre durup yavaşça in; zıplama ve denge desteğini bırakma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Donkey_Calf_Raises"
+  ],
+  "alternatives": [
+    "calf-raise",
+    "seated-calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/donkey-calf-raises.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Donkey Calf Raises, calves highlighted in red.",
+        "tr": "Eşek Baldır Yükseltme hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-donkey-calf-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

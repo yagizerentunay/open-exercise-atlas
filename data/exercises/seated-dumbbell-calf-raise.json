@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-dumbbell-calf-raise",
+  "slug": "seated-dumbbell-calf-raise",
+  "name": {
+    "en": "Seated Dumbbell Calf Raise",
+    "tr": "Dambılla Oturarak Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A seated calf raise performed with a dumbbell resting on the thighs just above the knees.",
+    "tr": "Dambılın dizlerin hemen üzerinde uyluklara yerleştirildiği, oturarak yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit on a bench; place the toes on a low, stable raised surface and bend the knees to about a right angle.",
+      "Place the dumbbell securely just above the knees and raise the heels in a controlled way.",
+      "Pause briefly and lower the heels slowly; do not press the weight into the kneecaps and do not bounce."
+    ],
+    "tr": [
+      "Bir sehpaya otur; ayak uçlarını alçak ve sabit bir yükseltiye koyup dizlerini yaklaşık dik açıyla bük.",
+      "Dambılı dizlerinin hemen üzerine güvenli biçimde yerleştir; topuklarını kontrollü olarak yükselt.",
+      "Kısa süre duraklayıp topuklarını yavaşça indir; ağırlığı diz kapağına bastırma ve zıplama."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-calves-seated-dumbbell-calf-raise"
+  ],
+  "alternatives": [
+    "seated-calf-raise",
+    "calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-dumbbell-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Seated Dumbbell Calf Raise, calves highlighted in red.",
+        "tr": "Dambılla Oturarak Baldır Yükseltme hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-seated-dumbbell-calf-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-skull-crusher",
+  "slug": "dumbbell-skull-crusher",
+  "name": {
+    "en": "Dumbbell Skull Crusher",
+    "tr": "Dambılla Skull Crusher"
+  },
+  "description": {
+    "en": "A lying triceps extension in which light dumbbells are lowered toward the sides of the head by bending the elbows.",
+    "tr": "Sehpada uzanırken dirsekler bükülerek hafif dambılların başın iki yanına indirildiği arka kol ekstansiyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Lie on a bench and hold light dumbbells above your chest; straighten your arms.",
+      "Keeping your upper arms still, bend your elbows and lower the dumbbells toward the sides of your head.",
+      "Extend your elbows under control to return to the start; do not bring the weight close to your head and stay in a comfortable range."
+    ],
+    "tr": [
+      "Sehpaya uzanıp hafif dambılları göğsünün üzerinde tut; kollarını düzleştir.",
+      "Üst kollarını sabit tutarak dirseklerini bük ve dambılları başının iki yanına doğru indir.",
+      "Dirseklerini kontrollü açıp başlangıca dön; ağırlığı başına yaklaştırma ve rahat aralıkta kal."
+    ]
+  },
+  "legacyIds": [
+    "monk-triceps-dumbbell-skull-crusher"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "ez-bar-skull-crusher",
+    "dumbbell-triceps-kickback"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-skull-crusher.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Skull Crusher, triceps highlighted in red.",
+        "tr": "Dambılla Skull Crusher hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-dumbbell-skull-crusher.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

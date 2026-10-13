@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-radial-deviation",
+  "slug": "dumbbell-radial-deviation",
+  "name": {
+    "en": "Dumbbell Radial Deviation",
+    "tr": "Dambılla Radyal Deviasyon"
+  },
+  "description": {
+    "en": "A light wrist exercise in which an upright dumbbell is raised toward the thumb side of the wrist.",
+    "tr": "Dik tutulan dambılın bileğin başparmak tarafına doğru kaldırıldığı hafif bir bilek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Rest your forearm on a bench with your wrist hanging off the edge; hold a light dumbbell upright.",
+      "Without moving your forearm, raise your wrist in the direction of your thumb through a small range.",
+      "Lower the dumbbell slowly to the start; work with a light load and stop if you feel wrist pain."
+    ],
+    "tr": [
+      "Ön kolunu sehpaya dayayıp bileğini kenardan dışarı çıkar; hafif bir dambılı dik tut.",
+      "Ön kolunu oynatmadan bileğini başparmak yönüne doğru küçük bir aralıkta kaldır.",
+      "Dambılı yavaşça başlangıca indir; hafif yükle çalış ve bilekte ağrı oluşursa bırak."
+    ]
+  },
+  "legacyIds": [
+    "monk-forearms-dumbbell-radial-deviation"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-forearm-pronation-supination"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-radial-deviation.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Radial Deviation, forearms highlighted in red.",
+        "tr": "Dambılla Radyal Deviasyon hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-dumbbell-radial-deviation.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

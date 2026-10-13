@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-chest-press",
+  "slug": "machine-chest-press",
+  "name": {
+    "en": "Machine Chest Press",
+    "tr": "Makinede Göğüs Presi"
+  },
+  "description": {
+    "en": "A seated machine press that pushes the handles forward from chest level.",
+    "tr": "Tutacakların göğüs hizasından öne itildiği oturarak makine press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the seat height so the handles are at chest level; plant your feet on the floor.",
+      "Push the handles forward; keep your shoulders down and do not lock your elbows.",
+      "Release the resistance under control and bring the handles back toward your chest."
+    ],
+    "tr": [
+      "Koltuk yüksekliğini kollar göğüs hizasında olacak şekilde ayarla; ayaklarını yere bas.",
+      "Kolları öne it; omuzlarını aşağıda tut ve dirseklerini kilitleme.",
+      "Direnci kontrollü bırakıp kolları göğsüne yaklaştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-chest-machine-chest-press"
+  ],
+  "alternatives": [
+    "barbell-bench-press",
+    "dumbbell-bench-press",
+    "cable-crossover"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/machine-chest-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Machine Chest Press, chest highlighted in red.",
+        "tr": "Makinede Göğüs Presi hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-machine-chest-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

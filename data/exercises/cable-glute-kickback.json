@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-glute-kickback",
+  "slug": "cable-glute-kickback",
+  "name": {
+    "en": "Cable Glute Kickback",
+    "tr": "Kablo Glute Kickback"
+  },
+  "description": {
+    "en": "A cable hip extension in which the leg is driven backward against a low pulley with an ankle cuff.",
+    "tr": "Bilek manşetiyle alçak makaraya karşı bacağın geriye uzatıldığı, kablolu bir kalça ekstansiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Attach the ankle cuff to the low pulley and take support from a stable point.",
+      "Keep the knee slightly bent and extend the leg backward from the hip; hold the torso and lower back still.",
+      "Slowly bring the leg back to the start; work both sides without arching the lower back."
+    ],
+    "tr": [
+      "Ayak bileği manşetini alçak makaraya takıp sağlam bir noktadan destek al.",
+      "Dizini hafif bükülü tutarak bacağını kalçadan geriye uzat; gövdeni ve belini sabit tut.",
+      "Bacağını yavaşça başlangıca getir; belini çukurlaştırmadan iki tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-glutes-cable-glute-kickback"
+  ],
+  "alternatives": [
+    "donkey-kick",
+    "frog-pump"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-glute-kickback.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cable Glute Kickback, glutes highlighted in red.",
+        "tr": "Kablo Glute Kickback hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-cable-glute-kickback.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "hack-squat",
+  "slug": "hack-squat",
+  "name": {
+    "en": "Hack Squat",
+    "tr": "Hack Squat"
+  },
+  "description": {
+    "en": "A machine squat performed with the back against a pad and the feet on an angled platform.",
+    "tr": "Sırt pede yaslıyken ve ayaklar eğimli platformdayken makinede yapılan bir squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Set the shoulders under the pads and the back against the machine; place the feet on the platform at a comfortable width.",
+      "Lower the platform under control while the knees travel in line with the feet.",
+      "Keeping the heels on the platform, push back up and return to the start without locking the knees at the top."
+    ],
+    "tr": [
+      "Omuzlarını pedlere yerleştirip sırtını makineye yasla; ayaklarını platformda rahat genişlikte aç.",
+      "Dizlerin ayak yönünde ilerlerken platformu kontrollü biçimde aşağı indir.",
+      "Topuklarını platformda tutarak it; dizlerini üstte kilitlemeden başlangıca dön."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-quadriceps-hack-squat"
+  ],
+  "alternatives": [
+    "barbell-back-squat",
+    "goblet-squat",
+    "leg-extensions"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hack-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Hack Squat, quadriceps highlighted in red.",
+        "tr": "Hack Squat hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-hack-squat.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

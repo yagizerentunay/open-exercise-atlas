@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "close-grip-push-up",
+  "slug": "close-grip-push-up",
+  "name": {
+    "en": "Close-Grip Push-Up",
+    "tr": "Dar Tutuşlu Şınav"
+  },
+  "description": {
+    "en": "A push-up with the hands placed at shoulder width or closer and the elbows kept near the torso to emphasize the triceps.",
+    "tr": "Ellerin omuz genişliğinde veya daha dar yerleştirildiği ve dirseklerin gövdeye yakın tutulduğu, arka kol kaslarını vurgulayan şınav varyasyonu."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Get into a plank position with your hands at shoulder width or slightly narrower; keep your body straight.",
+      "Keeping your elbows close to your torso, lower your chest toward the floor under control.",
+      "Push the floor away to return to the start; if needed, put your knees on the floor and keep your wrists in a pain-free position."
+    ],
+    "tr": [
+      "Ellerini omuz genişliğinde veya biraz dar yerleştirip plank pozisyonu al; vücudunu düz tut.",
+      "Dirseklerini gövdene yakın izletip göğsünü kontrollü biçimde yere indir.",
+      "Yeri iterek başlangıca dön; gerekirse dizlerini yere koy ve bileklerini ağrısız konumda tut."
+    ]
+  },
+  "legacyIds": [
+    "monk-triceps-close-grip-push-up"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "push-up",
+    "bench-dip"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/close-grip-push-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Close-Grip Push-Up, triceps highlighted in red.",
+        "tr": "Dar Tutuşlu Şınav hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-close-grip-push-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

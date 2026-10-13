@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "chest-supported-dumbbell-row",
+  "slug": "chest-supported-dumbbell-row",
+  "name": {
+    "en": "Chest-Supported Dumbbell Row",
+    "tr": "Göğüs Destekli Dambıl Kürek"
+  },
+  "description": {
+    "en": "A dumbbell row performed lying face down on an incline bench so the chest supports the torso.",
+    "tr": "Eğimli sehpada yüzüstü uzanıp göğsün gövdeyi desteklediği dambıl kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on an incline bench and hold the dumbbells with your arms hanging down.",
+      "Keeping your chest on the bench, pull your elbows back and bring the dumbbells toward your ribs.",
+      "Extend your arms under control without letting your shoulders drop forward."
+    ],
+    "tr": [
+      "Eğimli sehpaya yüzüstü uzan ve dambılları kolların aşağı sarkacak şekilde tut.",
+      "Göğsünü sehpada tutarak dirseklerini geriye çek ve dambılları kaburgalarına yaklaştır.",
+      "Omuzlarını öne düşürmeden kollarını kontrollü biçimde uzat."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-chest-supported-row"
+  ],
+  "alternatives": [
+    "seal-row",
+    "one-arm-dumbbell-row",
+    "landmine-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/chest-supported-dumbbell-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Chest-Supported Dumbbell Row, upper back highlighted in red.",
+        "tr": "Göğüs Destekli Dambıl Kürek hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-chest-supported-row.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

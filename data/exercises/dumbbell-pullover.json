@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-pullover",
+  "slug": "dumbbell-pullover",
+  "name": {
+    "en": "Dumbbell Pullover",
+    "tr": "Dambıl Pullover"
+  },
+  "description": {
+    "en": "A bench movement in which one dumbbell is moved in an arc from above the chest to behind the head.",
+    "tr": "Tek dambılın göğüs üzerinden başın arkasına yay çizerek götürüldüğü sehpa hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a bench and hold one light dumbbell over your chest with both hands; keep your elbows soft.",
+      "Move your arms in a controlled arc behind your head; stop where your shoulders feel comfortable.",
+      "Bring the dumbbell back over your chest; do not over-arch your lower back."
+    ],
+    "tr": [
+      "Sehpaya uzanıp hafif bir dambılı iki elinle göğsünün üzerinde tut; dirseklerini yumuşak bırak.",
+      "Kollarını kontrollü yay çizerek başının gerisine götür; omuzlarının rahat ettiği noktada dur.",
+      "Dambılı göğsünün üzerine geri getir; belini aşırı kavislendirme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lats-dumbbell-pullover"
+  ],
+  "alternatives": [
+    "machine-pullover",
+    "straight-arm-cable-pulldown",
+    "dumbbell-fly"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-pullover.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Pullover, lats highlighted in red.",
+        "tr": "Dambıl Pullover hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-dumbbell-pullover.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

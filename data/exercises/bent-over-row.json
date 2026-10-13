@@ -3,11 +3,15 @@
   "id": "bent-over-row",
   "slug": "bent-over-row",
   "name": {
-    "en": "Barbell Bent-Over Row",
+    "en": "Bent-Over Barbell Row",
     "tr": "Halterle Eğilerek Kürek"
   },
+  "aliases": [
+    "Barbell Bent-Over Row"
+  ],
   "description": {
-    "en": "A barbell row performed while holding a stable hip hinge."
+    "en": "A barbell row performed while holding a stable hip hinge.",
+    "tr": "Kalçadan menteşe pozisyonu korunarak yapılan halter kürek hareketi."
   },
   "category": "strength",
   "movementPattern": "pull",
@@ -16,16 +20,23 @@
     "barbell"
   ],
   "primaryMuscles": [
-    "upper-back",
-    "lats"
+    "upper-back"
   ],
   "secondaryMuscles": [
-    "biceps"
+    "lats",
+    "biceps",
+    "lower-back"
   ],
   "instructions": {
     "en": [
-      "Hinge at the hips while holding a bar below the shoulders.",
-      "Pull the bar toward the torso and lower without losing the hinge."
+      "Grip the bar and hinge at the hips; keep the back neutral and hold the torso angle.",
+      "Drive the elbows back and row the bar toward the lower ribs.",
+      "Lower the bar under control; reduce the load if the lower back starts to round."
+    ],
+    "tr": [
+      "Barı kavrayıp kalçadan menteşe yap; sırtını nötr tut ve gövde açını sabitle.",
+      "Dirseklerini geriye çekerek barı alt kaburgalarına doğru kürekle.",
+      "Barı kontrollü indir; belin yuvarlanmaya başlarsa ağırlığı azalt."
     ]
   },
   "source": {
@@ -33,5 +44,22 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-bent-over-barbell-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/bent-over-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Barbell Bent-Over Row, upper back highlighted in red.",
+        "tr": "Halterle Eğilerek Kürek hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-bent-over-barbell-row.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

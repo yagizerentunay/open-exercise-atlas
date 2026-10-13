@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "kettlebell-swing",
+  "slug": "kettlebell-swing",
+  "name": {
+    "en": "Kettlebell Swing",
+    "tr": "Kettlebell Swing"
+  },
+  "description": {
+    "en": "A ballistic hip hinge in which a kettlebell is swung to chest height by a powerful hip drive.",
+    "tr": "Kettlebell’in güçlü bir kalça hareketiyle göğüs hizasına savrulduğu balistik bir kalça menteşesi hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "kettlebell"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the kettlebell with both hands and set the feet shoulder-width apart; hinge back at the hips.",
+      "Drive the hips forward powerfully but under control and swing the kettlebell to chest height; keep the arms loose.",
+      "Let the weight swing back between the legs and hinge at the hips again; do not round the lower back and learn with a light load."
+    ],
+    "tr": [
+      "Kettlebell’i iki elinle tutup ayaklarını omuz genişliğinde aç; kalçadan geriye menteşe yap.",
+      "Kalçanı güçlü ama kontrollü öne getirerek kettlebell’i göğüs hizasına savur; kollarını gevşek bırak.",
+      "Ağırlığın bacaklarının arasına dönmesine izin verip kalçadan yeniden menteşe yap; belini yuvarlama, hafif yükle öğren."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-hamstrings-kettlebell-swing"
+  ],
+  "alternatives": [
+    "kettlebell-deadlift",
+    "cable-pull-through"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/kettlebell-swing.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Kettlebell Swing, hamstrings highlighted in red.",
+        "tr": "Kettlebell Swing hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-kettlebell-swing.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

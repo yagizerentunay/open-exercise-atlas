@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "seal-row",
+  "slug": "seal-row",
+  "name": {
+    "en": "Seal Row",
+    "tr": "Seal Row"
+  },
+  "description": {
+    "en": "A dumbbell row performed lying face down on a high bench so the torso is fully supported.",
+    "tr": "Yüksek bir sehpada yüzüstü uzanarak gövdenin tamamen desteklendiği dambıl kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on a high bench with your chest supported and your arms hanging down; hold light dumbbells.",
+      "Pull your elbows back and raise the dumbbells toward the bench; do not lift your torso off the support.",
+      "Lower the weights under control and do not shrug your shoulders toward your ears."
+    ],
+    "tr": [
+      "Göğsün destekli ve kolların aşağı sarkacak biçimde yüksek bir sehpaya yüzüstü uzan; hafif dambılları kavra.",
+      "Dirseklerini geriye çekip dambılları sehpaya doğru kaldır; gövdeni destekten ayırma.",
+      "Ağırlıkları kontrollü biçimde indir ve omuzlarını kulaklarına çekme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-seal-row"
+  ],
+  "alternatives": [
+    "chest-supported-dumbbell-row",
+    "landmine-row",
+    "one-arm-dumbbell-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seal-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Seal Row, upper back highlighted in red.",
+        "tr": "Seal Row hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-seal-row.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

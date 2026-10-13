@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-shoulder-press",
+  "slug": "machine-shoulder-press",
+  "name": {
+    "en": "Machine Shoulder Press",
+    "tr": "Makinede Omuz Press"
+  },
+  "description": {
+    "en": "A seated overhead press on a guided machine that trains the shoulders and triceps.",
+    "tr": "Yönlendirmeli makinede oturarak yapılan, omuz ve arka kol kaslarını çalıştıran baş üstü press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the seat and handles to your shoulder height; rest your back on the support and plant your feet on the floor.",
+      "Press the handles overhead; do not over-arch your lower back or lock your elbows.",
+      "Lower the weight under control and stop at shoulder height."
+    ],
+    "tr": [
+      "Koltuk ve tutacakları omuz hizana ayarla; sırtını desteğe yaslayıp ayaklarını yere bas.",
+      "Tutacakları başının üzerine doğru it; belini aşırı çukurlaştırma ve dirsekleri kilitleme.",
+      "Ağırlığı kontrollü indirip omuz hizasında dur."
+    ]
+  },
+  "legacyIds": [
+    "monk-shoulders-machine-shoulder-press"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-shoulder-press",
+    "overhead-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/machine-shoulder-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Machine Shoulder Press, shoulders highlighted in red.",
+        "tr": "Makinede Omuz Press hareketini yapan gri tonlu sporcu; omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-machine-shoulder-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -7,11 +7,12 @@
     "tr": "Ön Squat"
   },
   "description": {
-    "en": "A barbell squat with the load across the front of the shoulders."
+    "en": "A barbell squat with the load across the front of the shoulders.",
+    "tr": "Yükün omuzların önünde taşındığı halterli bir squat hareketi."
   },
   "category": "strength",
   "movementPattern": "squat",
-  "difficulty": "advanced",
+  "difficulty": "intermediate",
   "equipment": [
     "barbell"
   ],
@@ -19,12 +20,19 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "glutes"
+    "glutes",
+    "adductors"
   ],
   "instructions": {
     "en": [
-      "Support the bar across the front of the shoulders.",
-      "Sit between the hips and rise with the chest upright."
+      "Rest the bar on the front of the shoulders with the elbows raised and feet at a comfortable width.",
+      "Brace the abs and squat; track the knees over the toes and keep the heels down.",
+      "From a controlled depth, drive through the feet to stand with the torso upright."
+    ],
+    "tr": [
+      "Barı ön omuzlarında dengede tut; dirseklerini öne kaldırıp ayaklarını rahat genişlikte aç.",
+      "Karnını sıkıp çömel; dizlerini ayak parmaklarının yönünde izle ve topuklarını yerde tut.",
+      "Kontrollü derinlikten ayak tabanını iterek ayağa kalk; gövdeni dik tut."
     ]
   },
   "source": {
@@ -32,5 +40,22 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-quadriceps-front-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/front-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Front Squat, quadriceps highlighted in red.",
+        "tr": "Ön Squat hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-front-squat.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

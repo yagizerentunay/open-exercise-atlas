@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "slider-leg-curl",
+  "slug": "slider-leg-curl",
+  "name": {
+    "en": "Slider Leg Curl",
+    "tr": "Kaydırıcıyla Bacak Curl"
+  },
+  "description": {
+    "en": "A bridge-position leg curl in which the heels slide on sliders or towels.",
+    "tr": "Topukların kaydırıcı veya havlu üzerinde kaydığı, köprü pozisyonunda yapılan bir bacak curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back with sliders or a towel under the heels and lift the hips into a bridge position.",
+      "With the hips staying up, drag the heels toward you and bend the knees.",
+      "Extend the legs slowly; if the lower back drops, shorten the range or lower the hips to the floor."
+    ],
+    "tr": [
+      "Sırtüstü yatıp topuklarının altına kaydırıcı veya havlu koy; kalçanı köprü pozisyonunda kaldır.",
+      "Kalçan havada kalırken topuklarını kendine doğru çekip dizlerini bük.",
+      "Bacaklarını yavaşça uzat; belin düşerse hareket aralığını kısalt veya kalçanı yere indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-hamstrings-slider-leg-curl"
+  ],
+  "alternatives": [
+    "stability-ball-leg-curl",
+    "hamstring-walkout"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/slider-leg-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Slider Leg Curl, hamstrings highlighted in red.",
+        "tr": "Kaydırıcıyla Bacak Curl hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-slider-leg-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

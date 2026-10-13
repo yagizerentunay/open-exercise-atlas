@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "band-resisted-neck-flexion",
+  "slug": "band-resisted-neck-flexion",
+  "name": {
+    "en": "Band-Resisted Neck Flexion",
+    "tr": "Bantlı Boyun Fleksiyonu"
+  },
+  "description": {
+    "en": "A very light band-resisted forward neck flexion performed through a small range of motion.",
+    "tr": "Çok hafif bir bantla, küçük bir hareket aralığında yapılan boyun öne eğme egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright; place a very light band on your forehead and anchor it behind you at head height.",
+      "Tilt your neck forward only a few degrees to gently resist the band; keep your shoulders relaxed.",
+      "Return to the neutral position in a controlled way; stop immediately if you feel pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik otur; çok hafif bandı alnına yerleştirip baş hizasında arkaya sabitle.",
+      "Boynunu yalnız birkaç derece öne eğerek banda nazikçe diren; omuzlarını gevşek tut.",
+      "Nötr konuma kontrollü dön; ağrı, uyuşma veya baş dönmesinde hemen dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "neck-flexion-isometric",
+    "chin-tuck"
+  ],
+  "legacyIds": [
+    "monk-neck-band-resisted-neck-flexion"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/band-resisted-neck-flexion.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the band-resisted neck flexion, neck muscles highlighted in red.",
+        "tr": "Bantlı Boyun Fleksiyonu yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck-band-resisted-neck-flexion.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

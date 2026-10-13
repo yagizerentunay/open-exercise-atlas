@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "close-grip-front-lat-pulldown",
+  "slug": "close-grip-front-lat-pulldown",
+  "name": {
+    "en": "Close-Grip Front Lat Pulldown",
+    "tr": "Dar Tutuşla Önden Lat Çekiş"
+  },
+  "description": {
+    "en": "A cable pulldown with a close neutral-grip V handle that brings the handle to the upper chest.",
+    "tr": "Dar tutuşlu V tutacakla yapılan, tutacağın üst göğse indirildiği önden kablo çekiş hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a close-grip V bar to the high pulley; secure the thigh pad and grip the handle.",
+      "Keeping your torso upright, pull your elbows down and close to your body; bring the bar to your upper chest.",
+      "Extend your arms under control; do not pull the bar behind your neck and do not swing your torso."
+    ],
+    "tr": [
+      "Dar tutuşlu V barı yüksek makaraya tak; diz pedini sabitleyip tutacağı kavra.",
+      "Gövdeni dik tutarak dirseklerini aşağı ve gövdene yakın çek; barı üst göğsüne indir.",
+      "Kollarını kontrollü biçimde uzat; barı ensene çekme ve gövdeni sallama."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Close-Grip_Front_Lat_Pulldown"
+  ],
+  "alternatives": [
+    "wide-grip-lat-pulldown",
+    "lat-pulldown",
+    "single-arm-kneeling-lat-pulldown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/close-grip-front-lat-pulldown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Close-Grip Front Lat Pulldown, lats highlighted in red.",
+        "tr": "Dar Tutuşla Önden Lat Çekiş hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-close-grip-front-lat-pulldown.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "overhead-cable-triceps-extension",
+  "slug": "overhead-cable-triceps-extension",
+  "name": {
+    "en": "Overhead Cable Triceps Extension",
+    "tr": "Kabloyla Baş Üstü Arka Kol Ekstansiyonu"
+  },
+  "description": {
+    "en": "A cable triceps extension performed with the rope held behind the head and the arms extended overhead.",
+    "tr": "Halatın baş arkasında tutulup kolların yukarı açıldığı, arka kol kaslarını çalıştıran kablo ekstansiyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Attach a rope to a low pulley and turn your back to the pulley; hold the rope behind your head.",
+      "Fix your elbows beside your head and extend your arms upward under control.",
+      "Slowly bend your elbows to return to the start; do not over-arch your lower back."
+    ],
+    "tr": [
+      "Alçak makaraya halat takıp makaraya sırtını dön; halatı başının arkasında tut.",
+      "Dirseklerini başının yanında sabitleyerek kollarını kontrollü biçimde yukarı aç.",
+      "Dirseklerini yavaşça büküp başlangıca dön; belini aşırı çukurlaştırma."
+    ]
+  },
+  "legacyIds": [
+    "monk-triceps-overhead-cable-extension"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "triceps-pushdown",
+    "dumbbell-skull-crusher"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/overhead-cable-triceps-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Overhead Cable Triceps Extension, triceps highlighted in red.",
+        "tr": "Kabloyla Baş Üstü Arka Kol Ekstansiyonu hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-overhead-cable-extension.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

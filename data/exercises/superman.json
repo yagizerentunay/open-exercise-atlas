@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "superman",
+  "slug": "superman",
+  "name": {
+    "en": "Superman",
+    "tr": "Superman"
+  },
+  "description": {
+    "en": "A prone exercise in which the opposite arm and leg are lifted slightly off the floor.",
+    "tr": "Yüzüstü yatarken karşı kol ve bacağın yerden hafifçe kaldırıldığı alt sırt egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down with your arms extended forward; bring your forehead close to the floor and keep your neck neutral.",
+      "Without compressing your lower back, lift the opposite arm and leg slightly; keep the movement small and controlled.",
+      "Lower slowly and switch sides; if you feel discomfort in your lower back, reduce the lift height or stop."
+    ],
+    "tr": [
+      "Yüzüstü yatıp kollarını öne uzat; alnını yere yaklaştır ve boynunu nötr tut.",
+      "Belini sıkıştırmadan karşı kolunu ve bacağını hafifçe kaldır; hareketi küçük ve kontrollü yap.",
+      "Yavaşça indirip taraf değiştir; belinde rahatsızlık olursa kaldırma yüksekliğini azalt veya dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Superman"
+  ],
+  "alternatives": [
+    "bird-dog",
+    "prone-cobra-hold",
+    "back-extension-45-degree"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/superman.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Superman, lower back highlighted in red.",
+        "tr": "Superman hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-superman.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

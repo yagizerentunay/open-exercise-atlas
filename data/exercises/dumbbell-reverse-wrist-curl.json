@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-reverse-wrist-curl",
+  "slug": "dumbbell-reverse-wrist-curl",
+  "name": {
+    "en": "Dumbbell Reverse Wrist Curl",
+    "tr": "Dambılla Ters Bilek Curl"
+  },
+  "description": {
+    "en": "A wrist extension exercise with the palm facing down, using a dumbbell to train the forearm extensors.",
+    "tr": "Avuç içi aşağı bakacak şekilde dambıl ile yapılan, ön kol ekstansör kaslarını çalıştıran bilek kaldırma hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit and rest your forearm on your thigh; hold the dumbbell with your palm facing down.",
+      "Keeping your forearm still, raise the back of your hand upward in a controlled way.",
+      "Lower your wrist slowly; use a small, comfortable range of motion."
+    ],
+    "tr": [
+      "Oturup ön kolunu uyluğuna dayandır; dambılı avuç içi aşağı bakacak şekilde tut.",
+      "Ön kolunu sabit bırakıp elinin üstünü kontrollü biçimde yukarı kaldır.",
+      "Bileğini yavaşça indir; küçük ve rahat bir hareket aralığı kullan."
+    ]
+  },
+  "legacyIds": [
+    "monk-forearms-dumbbell-reverse-wrist-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "reverse-ez-bar-curl",
+    "cable-wrist-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-reverse-wrist-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Reverse Wrist Curl, forearms highlighted in red.",
+        "tr": "Dambılla Ters Bilek Curl hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-dumbbell-reverse-wrist-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

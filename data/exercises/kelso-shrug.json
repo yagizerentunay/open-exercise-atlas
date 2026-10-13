@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "kelso-shrug",
+  "slug": "kelso-shrug",
+  "name": {
+    "en": "Kelso Shrug",
+    "tr": "Kelso Omuz Silkme"
+  },
+  "description": {
+    "en": "A shrug variation performed face down on an incline bench that pulls the shoulder blades together.",
+    "tr": "Eğimli sehpada yüzüstü yapılan, kürek kemiklerini birbirine yaklaştıran omuz silkme varyasyonu."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on an incline bench and hold light dumbbells with your arms hanging down.",
+      "Without bending your elbows, pull your shoulder blades toward each other.",
+      "Pause briefly and lower your shoulders forward under control; do not swing the weight."
+    ],
+    "tr": [
+      "Eğimli sehpaya yüzüstü uzanıp hafif dambılları kolların aşağı sarkacak şekilde tut.",
+      "Dirseklerini bükmeden kürek kemiklerini birbirine doğru çek.",
+      "Kısa süre durup omuzlarını kontrollü biçimde öne bırak; ağırlığı savurma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-traps-kelso-shrug"
+  ],
+  "alternatives": [
+    "chest-supported-dumbbell-shrug",
+    "dumbbell-shrug",
+    "prone-trap-3-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/kelso-shrug.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Kelso Shrug, traps highlighted in red.",
+        "tr": "Kelso Omuz Silkme hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-kelso-shrug.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

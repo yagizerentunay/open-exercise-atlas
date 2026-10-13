@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "spider-curl",
+  "slug": "spider-curl",
+  "name": {
+    "en": "Spider Curl",
+    "tr": "Spider Curl"
+  },
+  "description": {
+    "en": "An EZ-bar curl performed lying face down on an incline bench so the upper arms hang straight down and the biceps stay loaded.",
+    "tr": "Eğimli sehpaya yüzüstü uzanılarak kollar aşağı sarkıtılıp EZ bar ile yapılan, pazı kaslarını çalıştıran curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "ez-bar"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on an incline bench; let your arms hang down and grip the EZ bar with your palms facing up.",
+      "Keeping your upper arms still, bend your elbows and raise the bar toward your shoulders.",
+      "Lower the bar under control; keep your chest supported on the bench."
+    ],
+    "tr": [
+      "Eğimli sehpaya yüzüstü uzan; kollarını aşağı sarkıtıp EZ barı avuçların yukarı bakacak biçimde kavra.",
+      "Üst kollarını sabit tutarak dirseklerini bük ve barı omuzlarına doğru kaldır.",
+      "Barı kontrollü biçimde indir; sehpada göğüs desteğini koru."
+    ]
+  },
+  "legacyIds": [
+    "Spider_Curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "preacher-curl",
+    "incline-dumbbell-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/spider-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Spider Curl, biceps highlighted in red.",
+        "tr": "Spider Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-spider-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

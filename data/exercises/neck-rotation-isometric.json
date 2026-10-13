@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "neck-rotation-isometric",
+  "slug": "neck-rotation-isometric",
+  "name": {
+    "en": "Neck Rotation Isometric",
+    "tr": "Boyun Rotasyon İzometriği"
+  },
+  "description": {
+    "en": "A gentle isometric hold in which the head presses toward a turn against the hand, without moving, to work the neck rotators.",
+    "tr": "Başın dönme yönünde ele bastırıldığı, hareket olmadan boyun rotatörlerini çalıştıran nazik bir izometrik tutuştur."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "static",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright and keep your head neutral; lightly place your palm beside your temple.",
+      "Press very lightly toward your hand without turning your head; keep breathing comfortably.",
+      "Release after a short time and try the other side; stop if you feel pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik oturup başını nötr tut; avucunu şakağının yanına hafifçe yerleştir.",
+      "Başını çevirmeden eline doğru çok hafifçe bastır; rahatça nefes almaya devam et.",
+      "Kısa süre sonra bırakıp diğer tarafı dene; ağrı, uyuşma veya baş dönmesi olursa dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "lateral-hand-resisted-neck-isometric",
+    "neck-flexion-isometric"
+  ],
+  "legacyIds": [
+    "monk-neck-rotation-isometric"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/neck-rotation-isometric.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the neck rotation isometric, neck muscles highlighted in red.",
+        "tr": "Boyun Rotasyon İzometriği yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck-rotation-isometric.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "pogo-hops",
+  "slug": "pogo-hops",
+  "name": {
+    "en": "Pogo Hops",
+    "tr": "Pogo Sıçramaları"
+  },
+  "description": {
+    "en": "A low-amplitude plyometric drill of small, rhythmic hops driven from the ankles.",
+    "tr": "Ayak bileklerinden yapılan küçük ve ritmik sıçramalardan oluşan, düşük genlikli pliometrik bir çalışma."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Stand tall with the feet hip-width apart and the knees slightly softened.",
+      "Make small, rhythmic hops from the ankles, touching the floor lightly with the forefoot.",
+      "Continue with soft landings without bending the knees deeply; stop if you feel discomfort."
+    ],
+    "tr": [
+      "Dik durup ayaklarını kalça genişliğinde aç; dizlerini hafif yumuşat.",
+      "Ayak bileklerinden küçük, ritmik sıçramalar yap; yere ön ayakla hafifçe temas et.",
+      "Dizlerini derin bükmeden yumuşak inişlerle devam et; rahatsızlıkta dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-calves-pogo-hops"
+  ],
+  "alternatives": [
+    "calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/pogo-hops.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Pogo Hops, calves highlighted in red.",
+        "tr": "Pogo Sıçramaları hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-pogo-hops.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

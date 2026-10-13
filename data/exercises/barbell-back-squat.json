@@ -7,7 +7,8 @@
     "tr": "Halterle Sırt Squatı"
   },
   "description": {
-    "en": "A loaded squat with the bar supported across the upper back."
+    "en": "A loaded squat with the bar supported across the upper back.",
+    "tr": "Halterin üst sırtta taşındığı yüklü bir squat hareketi."
   },
   "category": "strength",
   "movementPattern": "squat",
@@ -16,16 +17,22 @@
     "barbell"
   ],
   "primaryMuscles": [
-    "quadriceps",
-    "glutes"
+    "quadriceps"
   ],
   "secondaryMuscles": [
+    "glutes",
     "hamstrings"
   ],
   "instructions": {
     "en": [
-      "Place the bar on the upper back and brace the torso.",
-      "Squat to a controlled depth, then stand."
+      "Place the bar across the upper back and set your feet at a comfortable, balanced width.",
+      "Brace the abs and send the hips down and back; keep the knees tracking over the toes.",
+      "Descend to a depth you can control and drive up through the feet to stand."
+    ],
+    "tr": [
+      "Barı üst sırtına yerleştir, ayaklarını rahat ve dengeli bir genişlikte aç.",
+      "Karnını sıkıp kalçanı aşağı-arkaya gönder; dizlerini ayak parmaklarının yönünde takip ettir.",
+      "Kontrolünü koruyabildiğin derinliğe in ve ayak tabanından kuvvet alarak ayağa kalk."
     ]
   },
   "source": {
@@ -33,5 +40,25 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "aliases": [
+    "Barbell Squat"
+  ],
+  "legacyIds": [
+    "Barbell_Squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-back-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Barbell Back Squat, quadriceps highlighted in red.",
+        "tr": "Halterle Sırt Squatı hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }

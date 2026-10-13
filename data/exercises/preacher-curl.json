@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "preacher-curl",
+  "slug": "preacher-curl",
+  "name": {
+    "en": "Preacher Curl",
+    "tr": "Scott Curl"
+  },
+  "description": {
+    "en": "An EZ-bar curl performed with the upper arms resting on a preacher pad, which limits swinging and isolates the biceps.",
+    "tr": "Üst kolların scott sehpasının pedine dayandığı, sallanmayı sınırlayıp pazı kaslarını izole eden EZ bar curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "ez-bar"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Sit at the preacher bench and place your upper arms on the pad; grip the EZ bar with your palms facing up.",
+      "Without lifting your elbows from the pad, curl the bar toward your shoulders under control.",
+      "Lower the bar slowly; do not lock your elbows hard and do not swing the load."
+    ],
+    "tr": [
+      "Preacher sehpasına oturup üst kollarını pede yerleştir; EZ barı avuçların yukarı bakacak şekilde kavra.",
+      "Dirseklerini pedden kaldırmadan barı kontrollü biçimde omuzlarına doğru kıvır.",
+      "Barı yavaşça indir; dirseklerini sertçe kilitleme ve yükü savurma."
+    ]
+  },
+  "legacyIds": [
+    "monk-biceps-preacher-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "spider-curl",
+    "concentration-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/preacher-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Preacher Curl, biceps highlighted in red.",
+        "tr": "Scott Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-preacher-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

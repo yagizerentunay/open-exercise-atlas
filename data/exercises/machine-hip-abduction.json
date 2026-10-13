@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-hip-abduction",
+  "slug": "machine-hip-abduction",
+  "name": {
+    "en": "Machine Hip Abduction",
+    "tr": "Makinede Kalça Abdüksiyonu"
+  },
+  "description": {
+    "en": "A seated machine exercise in which the knees are pressed outward against pads to work the outer hip muscles.",
+    "tr": "Dizlerin pedlere karşı dışa doğru açıldığı, dış kalça kaslarını çalıştıran oturarak yapılan makine egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the machine; place the outsides of your knees on the pads and keep your torso upright.",
+      "Open your knees outward in a controlled way; do not rock your torso or move your lower back.",
+      "Slowly release the resistance and bring your knees back to the start."
+    ],
+    "tr": [
+      "Makineyi ayarla; dizlerinin dışını pedlere yerleştirip gövdeni dik tut.",
+      "Dizlerini kontrollü biçimde dışa aç; gövdeni sallama ve beli oynatma.",
+      "Direnci yavaşça bırakıp dizlerini başlangıca getir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "cable-hip-abduction",
+    "standing-band-hip-abduction"
+  ],
+  "legacyIds": [
+    "monk-abductors-machine-hip-abduction"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/machine-hip-abduction.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the machine hip abduction, hip abductors highlighted in red.",
+        "tr": "Makinede Kalça Abdüksiyonu yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-machine-hip-abduction.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

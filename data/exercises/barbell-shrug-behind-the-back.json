@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-shrug-behind-the-back",
+  "slug": "barbell-shrug-behind-the-back",
+  "name": {
+    "en": "Barbell Shrug Behind The Back",
+    "tr": "Arkadan Halterle Omuz Silkme"
+  },
+  "description": {
+    "en": "A standing shrug with the barbell held behind the body, raising the shoulders straight up.",
+    "tr": "Halterin vücudun arkasında tutulduğu, omuzların dikey olarak kaldırıldığı omuz silkme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold a light bar behind you with your arms straight and your palms facing backward.",
+      "Raise your shoulders straight up; do not bend your elbows or roll your shoulders in circles.",
+      "Pause briefly and slowly lower your shoulders; make sure the bar does not hit your legs."
+    ],
+    "tr": [
+      "Hafif bir barı arkanda, kolların düz ve avuçların geriye bakacak biçimde tut.",
+      "Omuzlarını dikey olarak yukarı kaldır; dirseklerini bükme ve omuzlarını daire çizdirerek döndürme.",
+      "Kısa süre durup omuzlarını yavaşça indir; barın bacaklarına çarpmadığından emin ol."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Barbell_Shrug_Behind_The_Back"
+  ],
+  "alternatives": [
+    "barbell-shrug",
+    "dumbbell-shrug"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-shrug-behind-the-back.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Barbell Shrug Behind The Back, traps highlighted in red.",
+        "tr": "Arkadan Halterle Omuz Silkme hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-barbell-shrug-behind-back.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

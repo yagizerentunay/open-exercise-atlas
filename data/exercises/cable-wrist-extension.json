@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-wrist-extension",
+  "slug": "cable-wrist-extension",
+  "name": {
+    "en": "Cable Wrist Extension",
+    "tr": "Kablo Bilek Ekstansiyonu"
+  },
+  "description": {
+    "en": "A wrist extension with the palms facing down and a short bar on a low cable pulley to train the forearm extensors.",
+    "tr": "Alt makaraya takılan kısa barla, avuç içleri aşağı bakacak şekilde yapılan, ön kol ekstansörlerini çalıştıran bilek ekstansiyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Attach a short bar to a low pulley; support your forearms on your thighs and turn your palms down.",
+      "With your forearms still, extend your wrists backward.",
+      "Lower the bar slowly; work within a small, pain-free range."
+    ],
+    "tr": [
+      "Alt makaraya kısa bar tak; ön kollarını uyluklarına destekleyip avuçlarını aşağı çevir.",
+      "Ön kolların sabitken bileklerini geriye doğru aç.",
+      "Barı yavaşça indir; küçük ve ağrısız bir aralıkta çalış."
+    ]
+  },
+  "legacyIds": [
+    "monk-forearms-cable-wrist-extension"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-reverse-wrist-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-wrist-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cable Wrist Extension, forearms highlighted in red.",
+        "tr": "Kablo Bilek Ekstansiyonu hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-cable-wrist-extension.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

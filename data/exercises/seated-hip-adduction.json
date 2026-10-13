@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-hip-adduction",
+  "slug": "seated-hip-adduction",
+  "name": {
+    "en": "Seated Hip Adduction",
+    "tr": "Makinede Oturarak Kalça Addüksiyonu"
+  },
+  "description": {
+    "en": "A seated machine exercise in which the legs are squeezed together against pads to work the inner thigh muscles.",
+    "tr": "Bacakların pedlere karşı birbirine yaklaştırıldığı, iç bacak kaslarını çalıştıran oturarak yapılan makine egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Adjust the machine to your body and place the insides of your knees on the pads.",
+      "Lean back against the support and bring the pads together in a controlled way.",
+      "Resist the pull of the weight and slowly open your legs back to the start."
+    ],
+    "tr": [
+      "Makineyi bedenine göre ayarla ve dizlerinin iç kısmını pedlere yerleştir.",
+      "Sırtını desteğe yaslayıp pedleri kontrollü biçimde birbirine yaklaştır.",
+      "Ağırlığın çekişine direnerek bacaklarını yavaşça başlangıca aç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "cable-hip-adduction",
+    "adductor-ball-squeeze"
+  ],
+  "legacyIds": [
+    "monk-adductors-machine"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-hip-adduction.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the seated hip adduction, adductors highlighted in red.",
+        "tr": "Makinede Oturarak Kalça Addüksiyonu yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

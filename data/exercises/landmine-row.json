@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "landmine-row",
+  "slug": "landmine-row",
+  "name": {
+    "en": "Landmine Row",
+    "tr": "Landmine Kürek"
+  },
+  "description": {
+    "en": "A barbell row with one end of the bar anchored in a landmine sleeve.",
+    "tr": "Barın bir ucunun landmine yuvasına sabitlendiği halter kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Place one end of the bar in a fixed landmine sleeve and take a suitable handle.",
+      "Lean your torso forward and keep your back neutral; pull your elbows back and bring the bar toward your lower ribs.",
+      "Lower the weight to the start without jerking; do not rotate your torso during the pull."
+    ],
+    "tr": [
+      "Barın bir ucunu sabit landmine yuvasına yerleştir ve uygun tutacağı kavra.",
+      "Gövdeni öne eğip sırtını nötr tut; dirseklerini geriye çekerek barı alt kaburgana yaklaştır.",
+      "Ağırlığı sarsmadan başlangıca indir; gövdeni çekişle birlikte döndürme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-landmine-row"
+  ],
+  "alternatives": [
+    "t-bar-row",
+    "bent-over-row",
+    "chest-supported-dumbbell-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/landmine-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Landmine Row, upper back highlighted in red.",
+        "tr": "Landmine Kürek hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-landmine-row.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

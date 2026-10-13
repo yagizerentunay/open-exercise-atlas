@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "band-pull-apart",
+  "slug": "band-pull-apart",
+  "name": {
+    "en": "Band Pull-Apart",
+    "tr": "Bant Pull-Apart"
+  },
+  "description": {
+    "en": "A light band exercise in which the arms are opened to the sides to bring the shoulder blades together.",
+    "tr": "Kolların yana açılarak kürek kemiklerinin birbirine yaklaştırıldığı hafif bant egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Hold a light band at chest height with your arms in front and your elbows soft.",
+      "Open your arms to the sides while bringing your shoulder blades toward each other; do not raise your shoulders.",
+      "Slowly bring the band back to the start while keeping tension; keep your torso still."
+    ],
+    "tr": [
+      "Hafif bir bandı göğüs hizasında, kolların önde ve dirseklerin yumuşak olacak şekilde tut.",
+      "Kollarını iki yana açarken kürek kemiklerini birbirine yaklaştır; omuzlarını yukarı çekme.",
+      "Bandı gerilimi koruyarak yavaşça başlangıca getir; gövdeni sabit tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-middle-back-band-pull-apart"
+  ],
+  "alternatives": [
+    "prone-trap-3-raise",
+    "prone-incline-y-raise",
+    "kelso-shrug"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/band-pull-apart.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Band Pull-Apart, upper back highlighted in red.",
+        "tr": "Bant Pull-Apart hareketini yapan gri tonlu sporcu; üst sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-band-pull-apart.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

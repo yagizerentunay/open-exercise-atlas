@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "cross-body-hammer-curl",
+  "slug": "cross-body-hammer-curl",
+  "name": {
+    "en": "Cross-Body Hammer Curl",
+    "tr": "Çapraz Çekiç Curl"
+  },
+  "description": {
+    "en": "A hammer curl in which the dumbbell is raised across the torso toward the opposite shoulder to train the biceps and brachialis.",
+    "tr": "Dambılın gövdenin önünden karşı omza doğru kaldırıldığı, pazı kaslarını ve brachialis kasını çalıştıran çekiç curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the dumbbells with your palms facing each other; keep your elbows fixed at your sides.",
+      "Raise one dumbbell across the front of your torso toward the opposite shoulder; do not rotate your wrist.",
+      "Lower the weight under control and repeat with the other arm; do not round your shoulder forward."
+    ],
+    "tr": [
+      "Dambılları avuç içlerin birbirine bakacak şekilde tut; dirseklerini gövdenin yanında sabitle.",
+      "Bir dambılı gövdenin önünden karşı omzuna doğru kaldır; bileğini döndürme.",
+      "Ağırlığı kontrollü indirip diğer kolla tekrarla; omuzunu öne yuvarlama."
+    ]
+  },
+  "legacyIds": [
+    "monk-biceps-cross-body-hammer-curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "hammer-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cross-body-hammer-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cross-Body Hammer Curl, biceps highlighted in red.",
+        "tr": "Çapraz Çekiç Curl hareketini yapan gri tonlu sporcu; pazı kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/biceps-cross-body-hammer-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

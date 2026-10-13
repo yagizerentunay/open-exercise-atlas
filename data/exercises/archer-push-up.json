@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "archer-push-up",
+  "slug": "archer-push-up",
+  "name": {
+    "en": "Archer Push-Up",
+    "tr": "Okçu Şınavı"
+  },
+  "description": {
+    "en": "A wide-handed push-up in which the body shifts toward one arm while the opposite arm extends to the side.",
+    "tr": "Ellerin geniş yerleştirildiği, gövdenin bir koluna doğru kaydığı ve karşı kolun yana uzatıldığı şınav varyasyonu."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Place your hands wider than your shoulders and take a plank position; keep the body in a straight line from head to heels.",
+      "Bend one elbow and lower your chest toward that hand while extending the opposite arm out to the side.",
+      "Push back to the center under control; work both sides equally and put your knees down if needed."
+    ],
+    "tr": [
+      "Ellerini omuzlarından geniş yerleştirip plank pozisyonu al; gövdeni baştan topuğa düz tut.",
+      "Bir dirseğini bükerek göğsünü o ele doğru indirirken karşı kolunu yana doğru uzat.",
+      "Yere kontrollü biçimde iterek merkeze dön; iki tarafı eşit çalıştır ve gerekirse dizlerini yere koy."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-chest-archer-push-up"
+  ],
+  "alternatives": [
+    "push-up",
+    "decline-push-up",
+    "deficit-push-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/archer-push-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Archer Push-Up, chest highlighted in red.",
+        "tr": "Okçu Şınavı hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-archer-push-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

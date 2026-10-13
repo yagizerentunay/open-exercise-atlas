@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "kettlebell-suitcase-deadlift",
+  "slug": "kettlebell-suitcase-deadlift",
+  "name": {
+    "en": "Kettlebell Suitcase Deadlift",
+    "tr": "Kettlebell Valiz Deadlift"
+  },
+  "description": {
+    "en": "A single-kettlebell deadlift with the weight beside one foot, which resists side bending of the trunk.",
+    "tr": "Kettlebell'in bir ayağın yanında durduğu, gövdenin yana eğilmesine karşı direnç gerektiren tek kettlebell deadlift'i."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "kettlebell"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Place the kettlebell beside the outside of one foot; set your feet hip-width apart and hinge at the hips and knees.",
+      "Keeping your spine neutral and your shoulders level, lift the kettlebell off the floor.",
+      "Lower the weight to the floor along the same controlled path; do not lean sideways and start with a light load."
+    ],
+    "tr": [
+      "Kettlebell’i bir ayağının dış yanına koy; ayaklarını kalça genişliğinde açıp kalçadan ve dizden eğil.",
+      "Omurganı nötr, omuzlarını hizalı tutarak kettlebell’i yerden kaldır.",
+      "Ağırlığı aynı kontrollü yolla yere bırak; yana eğilme ve hafif yükle başla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lower-back-kettlebell-suitcase-deadlift"
+  ],
+  "alternatives": [
+    "kettlebell-deadlift",
+    "conventional-deadlift",
+    "rack-pull"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/kettlebell-suitcase-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Kettlebell Suitcase Deadlift, lower back highlighted in red.",
+        "tr": "Kettlebell Valiz Deadlift hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-kettlebell-suitcase-deadlift.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "single-leg-calf-raise",
+  "slug": "single-leg-calf-raise",
+  "name": {
+    "en": "Single-Leg Calf Raise",
+    "tr": "Tek Bacak Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A calf raise performed on one foot from a step with a hand on a support for balance.",
+    "tr": "Dengede kalmak için bir yere tutunarak, basamakta tek ayak üzerinde yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Place one foot on a stable step; take support from a wall or railing for balance.",
+      "Lower the heel in a controlled way, then rise onto the toes.",
+      "Return to the start slowly and switch sides; do not bounce or let go of the balance support."
+    ],
+    "tr": [
+      "Tek ayağını sabit bir basamağa yerleştir; denge için duvar veya korkuluktan destek al.",
+      "Topuğunu kontrollü biçimde aşağı indirip ardından ayak ucundan yüksel.",
+      "Yavaşça başlangıca dön ve taraf değiştir; zıplama ya da denge desteğini bırakma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-calves-single-leg-calf-raise"
+  ],
+  "alternatives": [
+    "calf-raise",
+    "heel-drop-calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/single-leg-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Single-Leg Calf Raise, calves highlighted in red.",
+        "tr": "Tek Bacak Baldır Yükseltme hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-single-leg-calf-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

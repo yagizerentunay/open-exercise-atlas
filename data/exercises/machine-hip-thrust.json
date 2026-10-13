@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-hip-thrust",
+  "slug": "machine-hip-thrust",
+  "name": {
+    "en": "Machine Hip Thrust",
+    "tr": "Makinede Hip Thrust"
+  },
+  "description": {
+    "en": "A hip thrust performed on a dedicated machine with a pad across the hips.",
+    "tr": "Kalça üzerinde ped bulunan özel bir makinede yapılan hip thrust hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Set the back against the support, bring the machine pad to the crease of the hips and plant the feet on the floor.",
+      "Keeping the ribs down, lift the hips until the shoulders, hips and knees are in line.",
+      "Squeeze the glutes with a brief pause and lower under control without over-arching the lower back."
+    ],
+    "tr": [
+      "Sırtını desteğe yerleştir; makine pedini kalça kıvrımına alıp ayaklarını yere bas.",
+      "Kaburgalarını aşağıda tutarak kalçanı yükselt; omuz, kalça ve dizini aynı çizgiye getir.",
+      "Kalçanı sıkarak kısa durakla; belini aşırı çukurlaştırmadan kontrollü in."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-glutes-machine-hip-thrust"
+  ],
+  "alternatives": [
+    "barbell-hip-thrust",
+    "glute-bridge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/machine-hip-thrust.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Machine Hip Thrust, glutes highlighted in red.",
+        "tr": "Makinede Hip Thrust hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-machine-hip-thrust.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "cuban-press",
+  "slug": "cuban-press",
+  "name": {
+    "en": "Cuban Press",
+    "tr": "Cuban Press"
+  },
+  "description": {
+    "en": "A light dumbbell exercise that rotates the forearms upward from an elbow-bent position at shoulder height to train the rotator cuff and deltoids.",
+    "tr": "Dirsekler omuz hizasında bükülüyken ön kolların yukarı döndürüldüğü, rotator manşet ve omuz kaslarını çalıştıran hafif dambıl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Hold very light dumbbells and bend your elbows at shoulder height; spread your upper arms out to the sides.",
+      "Keeping the elbow angle, slowly rotate your forearms upward; progress only within a comfortable range.",
+      "Return to the start under control; use a very light load in this movement and stop if your shoulder is uncomfortable."
+    ],
+    "tr": [
+      "Çok hafif dambılları tutup dirseklerini omuz hizasında bük; üst kollarını yana aç.",
+      "Dirsek açısını koruyarak ön kollarını yavaşça yukarı döndür; yalnız rahat aralıkta ilerle.",
+      "Kontrollü başlangıca dön; bu harekette çok hafif yük kullan ve omuz rahatsızlığında dur."
+    ]
+  },
+  "legacyIds": [
+    "monk-shoulders-cuban-press"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-lateral-raise",
+    "face-pull"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cuban-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Cuban Press, shoulders highlighted in red.",
+        "tr": "Cuban Press hareketini yapan gri tonlu sporcu; omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-cuban-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

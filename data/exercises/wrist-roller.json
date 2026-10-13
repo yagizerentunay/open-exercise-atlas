@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "wrist-roller",
+  "slug": "wrist-roller",
+  "name": {
+    "en": "Wrist Roller",
+    "tr": "Bilek Makarası"
+  },
+  "description": {
+    "en": "A forearm exercise in which a rope-and-handle roller is turned with the wrists to wind a weight up and unwind it again.",
+    "tr": "Bileklerin çevrilmesiyle ipin sarılıp ağırlığın yükseltildiği ve tekrar indirildiği, ön kolları çalıştıran makaralı tutacak hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Attach a light weight to the rope on a roller handle; hold the handle in front of you at shoulder height with both hands.",
+      "Turn your wrists alternately to wind the rope and slowly raise the weight.",
+      "Unwind the rope in the opposite direction under control to lower the weight; keep the load light and do not let go."
+    ],
+    "tr": [
+      "Hafif bir ağırlığı ip ve makaralı tutacağa bağla; tutacağı iki elinle omuz hizasında önde tut.",
+      "Bileklerini sırayla çevirerek ipi sar ve ağırlığı yavaşça yükselt.",
+      "İpi ters yönde kontrollü açarak ağırlığı indir; yükü hafif tut ve bırakma."
+    ]
+  },
+  "legacyIds": [
+    "monk-forearms-wrist-roller"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "plate-pinch",
+    "seated-dumbbell-wrist-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/wrist-roller.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Wrist Roller, forearms highlighted in red.",
+        "tr": "Bilek Makarası hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-wrist-roller.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

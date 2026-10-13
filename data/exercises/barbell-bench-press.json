@@ -6,27 +6,37 @@
     "en": "Barbell Bench Press",
     "tr": "Halterle Bench Press"
   },
+  "aliases": [
+    "Barbell Bench Press - Medium Grip"
+  ],
   "description": {
-    "en": "A horizontal barbell press performed while lying on a bench."
+    "en": "A horizontal barbell press performed while lying on a bench.",
+    "tr": "Düz sehpada yatarken yapılan yatay halter press hareketi."
   },
   "category": "strength",
   "movementPattern": "push",
-  "difficulty": "intermediate",
+  "difficulty": "beginner",
   "equipment": [
     "barbell",
     "bench"
   ],
   "primaryMuscles": [
-    "chest",
-    "triceps"
+    "chest"
   ],
   "secondaryMuscles": [
-    "shoulders"
+    "shoulders",
+    "triceps"
   ],
   "instructions": {
     "en": [
-      "Lie on a bench and take a secure grip on the bar.",
-      "Lower the bar toward the chest, then press it upward."
+      "Lie on a flat bench, plant your feet firmly and hold the bar slightly wider than shoulder width.",
+      "Set the shoulder blades into the bench and lower the bar under control to the mid-lower chest.",
+      "Keep the wrists stacked over the elbows and press the bar up; use a spotter on heavy attempts."
+    ],
+    "tr": [
+      "Düz sehpaya uzan, ayaklarını yere sağlam bas ve barı omuz genişliğinden biraz açık tut.",
+      "Kürek kemiklerini sehpaya yerleştir; barı kontrollü biçimde göğsünün orta-alt bölümüne indir.",
+      "Bileklerini dirseklerinin üzerinde tutarak barı yukarı it; ağır denemelerde gözcü kullan."
     ]
   },
   "source": {
@@ -35,6 +45,9 @@
     "license": "CC0-1.0"
   },
   "reviewStatus": "pending",
+  "legacyIds": [
+    "Barbell_Bench_Press_-_Medium_Grip"
+  ],
   "alternatives": [
     "dumbbell-bench-press",
     "push-up"
@@ -51,6 +64,18 @@
       "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-bench-press.png",
       "license": "CC0-1.0",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    },
+    {
+      "path": "media/exercises/barbell-bench-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Barbell Bench Press, chest highlighted in red.",
+        "tr": "Halterle Bench Press hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/barbell-bench-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
     }
   ]
 }

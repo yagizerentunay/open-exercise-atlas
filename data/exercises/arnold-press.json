@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "arnold-press",
+  "slug": "arnold-press",
+  "name": {
+    "en": "Arnold Press",
+    "tr": "Arnold Press"
+  },
+  "description": {
+    "en": "A seated dumbbell press that rotates the palms from facing the body to facing forward as the weights go overhead.",
+    "tr": "Dambıllar yukarı itilirken avuç içlerinin gövdeye bakan konumdan öne bakan konuma döndürüldüğü, oturarak yapılan omuz press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Sit on a bench with back support; hold the dumbbells at shoulder height with your palms facing your torso.",
+      "As you press the dumbbells up, rotate your palms to face forward; keep your back against the bench and your torso still.",
+      "Perform the rotation under control and lower the dumbbells to shoulder height; shorten the range if your shoulder hurts."
+    ],
+    "tr": [
+      "Sırt destekli sehpaya otur; dambılları omuz hizasında, avuçların gövdene dönük tut.",
+      "Dambılları yukarı iterken avuçlarını öne çevir; belini sehpaya yaslı ve gövdeni sabit tut.",
+      "Dönüşü kontrollü yapıp dambılları omuz hizasına indir; omuz ağrısında aralığı kısalt."
+    ]
+  },
+  "legacyIds": [
+    "monk-shoulders-arnold-press"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-shoulder-press",
+    "seated-dumbbell-shoulder-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/arnold-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Arnold Press, shoulders highlighted in red.",
+        "tr": "Arnold Press hareketini yapan gri tonlu sporcu; omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-arnold-press.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

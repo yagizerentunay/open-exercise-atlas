@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-dumbbell-wrist-curl",
+  "slug": "seated-dumbbell-wrist-curl",
+  "name": {
+    "en": "Seated Dumbbell Wrist Curl",
+    "tr": "Oturarak Dambılla Bilek Curl"
+  },
+  "description": {
+    "en": "A seated wrist curl with the palms facing up and the forearms supported on the thighs to train the forearm flexors.",
+    "tr": "Ön kolların uyluklara dayandığı, avuç içleri yukarı bakacak şekilde oturarak yapılan, ön kol fleksörlerini çalıştıran bilek curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Sit and rest your forearms on your thighs, letting your wrists hang freely in front of your knees.",
+      "Grip the dumbbells; with your forearms still, curl your wrists upward under control.",
+      "Lower the weight slowly and keep the movement within a pain-free range."
+    ],
+    "tr": [
+      "Otur ve ön kollarını uyluklarına dayayarak bileklerini dizlerinin önünde serbest bırak.",
+      "Dambılları kavra; ön kolların sabitken bileklerini kontrollü biçimde yukarı bük.",
+      "Ağırlığı yavaşça indir ve hareketi ağrısız aralıkta tut."
+    ]
+  },
+  "aliases": [
+    "Seated Dumbbell Palms-Up Wrist Curl"
+  ],
+  "legacyIds": [
+    "Seated_Dumbbell_Palms-Up_Wrist_Curl"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "cable-wrist-curl",
+    "behind-the-back-barbell-wrist-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-dumbbell-wrist-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Seated Dumbbell Wrist Curl, forearms highlighted in red.",
+        "tr": "Oturarak Dambılla Bilek Curl hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-shrug",
+  "slug": "barbell-shrug",
+  "name": {
+    "en": "Barbell Shrug",
+    "tr": "Halterle Omuz Silkme"
+  },
+  "description": {
+    "en": "A standing shrug that raises the shoulders toward the ears while holding a barbell in front of the thighs.",
+    "tr": "Halter uyluğun önünde tutulurken omuzların kulaklara doğru kaldırıldığı ayakta omuz silkme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the bar in front of your thighs with your arms straight.",
+      "Raise your shoulders straight up toward your ears; do not roll them in circles.",
+      "Pause briefly at the top and slowly lower your shoulders back to the start."
+    ],
+    "tr": [
+      "Barı uyluklarının önünde tut ve kollarını düz bırak.",
+      "Omuzlarını kulaklarına doğru dikey olarak kaldır; omuzlarını daire çizdirerek döndürme.",
+      "Üstte kısa süre dur ve omuzlarını yavaşça başlangıca indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Barbell_Shrug"
+  ],
+  "alternatives": [
+    "barbell-shrug-behind-the-back",
+    "dumbbell-shrug"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-shrug.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Barbell Shrug, traps highlighted in red.",
+        "tr": "Halterle Omuz Silkme hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

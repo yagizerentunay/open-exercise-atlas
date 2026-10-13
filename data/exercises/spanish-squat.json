@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "spanish-squat",
+  "slug": "spanish-squat",
+  "name": {
+    "en": "Spanish Squat",
+    "tr": "İspanyol Squat"
+  },
+  "description": {
+    "en": "A squat in which a band behind the knees counterbalances the body so the shins stay vertical.",
+    "tr": "Dizlerin arkasındaki bandın vücudu dengelediği ve kaval kemiklerinin dik kalmasını sağlayan bir squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Place a wide, sturdy band behind the knees and anchor it securely to a fixed point.",
+      "Keep the torso upright and the heels down, then bend the knees and squat in a controlled way.",
+      "Push through the soles of the feet to stand; check that the band does not slip and release it if you feel discomfort."
+    ],
+    "tr": [
+      "Geniş ve sağlam bir bandı dizlerinin arkasına yerleştirip sabit bir noktaya güvenle bağla.",
+      "Gövdeni dik ve topuklarını yerde tutarak dizlerini büküp kontrollü biçimde çömel.",
+      "Ayak tabanından iterek ayağa kalk; bandın kaymadığını kontrol et ve rahatsızlıkta bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-quadriceps-spanish-squat"
+  ],
+  "alternatives": [
+    "leg-extensions",
+    "bodyweight-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/spanish-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Spanish Squat, quadriceps highlighted in red.",
+        "tr": "İspanyol Squat hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-spanish-squat.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

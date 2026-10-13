@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "decline-sit-up",
+  "slug": "decline-sit-up",
+  "name": {
+    "en": "Decline Sit-Up",
+    "tr": "Eğimli Sehpada Mekik"
+  },
+  "description": {
+    "en": "A sit-up performed on a decline bench with the feet anchored to increase the range and load on the abs.",
+    "tr": "Ayaklar sabitlenmiş halde eğimli bir sehpada yapılan, karın kaslarının hareket aralığını ve yükünü artıran bir mekik hareketidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Secure your feet safely to the decline bench; cross your arms over your chest.",
+      "Brace your abs and raise your torso toward your knees; do not pull your neck with your hands.",
+      "Lower your torso to the bench in a controlled way; do not work at a depth that strains your lower back."
+    ],
+    "tr": [
+      "Ayaklarını eğimli sehpaya güvenle sabitle; ellerini göğsünde çaprazla.",
+      "Karnını sıkarak gövdeni dizlerine doğru kaldır; boynunu ellerinle çekme.",
+      "Gövdeni sehpaya kontrollü indir; belini zorlayan derinlikte çalışma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "floor-crunch",
+    "cable-crunch"
+  ],
+  "legacyIds": [
+    "monk-abdominals-decline-sit-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/decline-sit-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the decline sit-up, abdominal muscles highlighted in red.",
+        "tr": "Eğimli Sehpada Mekik yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-decline-sit-up.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

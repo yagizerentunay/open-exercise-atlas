@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "cossack-squat",
+  "slug": "cossack-squat",
+  "name": {
+    "en": "Cossack Squat",
+    "tr": "Kosak Squat"
+  },
+  "description": {
+    "en": "A wide-stance lateral squat in which the body shifts onto one bent leg while the other leg stays straight.",
+    "tr": "Vücudun bir bükülü bacağa kaydığı, diğer bacağın düz kaldığı geniş duruşlu yana squat hareketidir."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Set your feet wide apart; if needed, lightly hold a stable support for balance.",
+      "Send your hips to one side and bend that knee; keep the other leg comfortably straight.",
+      "Push through your foot to return to the center and move to the other side; stay in a pain-free, controllable depth."
+    ],
+    "tr": [
+      "Ayaklarını geniş aç; dengeni almak için gerekirse sabit bir desteği hafifçe tut.",
+      "Kalçanı bir yana gönderip o dizini bük; diğer bacağını rahatça düz tut.",
+      "Ayağından kuvvet alarak merkeze dön ve diğer tarafa geç; ağrısız, kontrol edilebilir derinlikte kal."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "lateral-lunge",
+    "sumo-squat"
+  ],
+  "legacyIds": [
+    "monk-adductors-cossack-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cossack-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the cossack squat, adductors highlighted in red.",
+        "tr": "Kosak Squat yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-cossack-squat.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

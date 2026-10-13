@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "knee-supported-copenhagen-plank",
+  "slug": "knee-supported-copenhagen-plank",
+  "name": {
+    "en": "Knee-Supported Copenhagen Plank",
+    "tr": "Diz Destekli Kopenhag Plank"
+  },
+  "description": {
+    "en": "A side plank variation in which the top knee rests on a bench to load the inner thigh muscles with a short isometric hold.",
+    "tr": "Üstteki dizin sehpada durduğu, iç bacak kaslarını kısa izometrik tutuşla çalıştıran bir yan plank varyasyonudur."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "force": "static",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Get into a side plank position and place your top knee on a sturdy, non-slip bench.",
+      "Lift your hips off the floor to form a straight line from head to knee; hold briefly.",
+      "Lower in a controlled way; start with short holds and release if you feel pain in the knee or groin."
+    ],
+    "tr": [
+      "Yan plank pozisyonu al ve üstteki dizini sağlam, kaymayan bir sehpaya yerleştir.",
+      "Kalçanı yerden kaldırıp başından dizine kadar düz bir çizgi oluştur; kısa süre tut.",
+      "Kontrollü biçimde in; önce kısa tutuşlarla başla ve dizinde ya da kasığında ağrı olursa bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "full-copenhagen-plank",
+    "side-plank"
+  ],
+  "legacyIds": [
+    "monk-adductors-copenhagen-plank"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/knee-supported-copenhagen-plank.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the knee-supported copenhagen plank, adductors highlighted in red.",
+        "tr": "Diz Destekli Kopenhag Plank yapan gri tonlu sporcu; iç bacak kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-copenhagen-plank.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

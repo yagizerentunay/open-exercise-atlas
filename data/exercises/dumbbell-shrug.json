@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-shrug",
+  "slug": "dumbbell-shrug",
+  "name": {
+    "en": "Dumbbell Shrug",
+    "tr": "Dambılla Omuz Silkme"
+  },
+  "description": {
+    "en": "A standing shrug performed with a dumbbell in each hand at the sides.",
+    "tr": "Her elde yanlarda tutulan dambıllarla yapılan ayakta omuz silkme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Stand tall holding the dumbbells at your sides and let your arms hang relaxed.",
+      "Raise your shoulders straight up toward your ears without rolling them forward or back.",
+      "Slowly lower your shoulders back to the start; do not strain your neck."
+    ],
+    "tr": [
+      "Dambılları yanında tutup dik dur; kollarını rahatça aşağı sarkıt.",
+      "Omuzlarını öne-arkaya yuvarlamadan dikey olarak kulaklarına yaklaştır.",
+      "Omuzlarını yavaşça indirip başlangıca dön; boynunu sıkıştırma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-traps-dumbbell-shrug"
+  ],
+  "alternatives": [
+    "barbell-shrug",
+    "chest-supported-dumbbell-shrug",
+    "kelso-shrug"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-shrug.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Shrug, traps highlighted in red.",
+        "tr": "Dambılla Omuz Silkme hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-dumbbell-shrug.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

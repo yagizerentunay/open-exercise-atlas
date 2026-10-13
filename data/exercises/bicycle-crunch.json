@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "bicycle-crunch",
+  "slug": "bicycle-crunch",
+  "name": {
+    "en": "Bicycle Crunch",
+    "tr": "Bisiklet Crunch"
+  },
+  "description": {
+    "en": "A floor abdominal exercise in which opposite elbow and knee are brought together in an alternating pedaling motion.",
+    "tr": "Karşı dirsek ve dizin pedal çevirir gibi dönüşümlü olarak birbirine yaklaştırıldığı bir yer karın egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "obliques"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back, bend your knees and lightly place your hands beside your head.",
+      "Rotate one shoulder toward the opposite knee in a controlled way while extending the other leg; keep your lower back comfortably on the floor.",
+      "Alternate sides as if pedaling; work slowly and in control without pulling your neck with your hands."
+    ],
+    "tr": [
+      "Sırtüstü yat, dizlerini bük ve ellerini başının yanına hafifçe koy.",
+      "Bir omzunu karşı dizine doğru kontrollü çevirirken diğer bacağını uzat; belini rahatça yerde tut.",
+      "Tarafları pedal çevirir gibi değiştir; boynunu ellerinle çekmeden yavaş ve kontrollü çalış."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "floor-crunch",
+    "reverse-crunch"
+  ],
+  "legacyIds": [
+    "monk-abdominals-bicycle-crunch"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/bicycle-crunch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the bicycle crunch, abdominal muscles highlighted in red.",
+        "tr": "Bisiklet Crunch yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-bicycle-crunch.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

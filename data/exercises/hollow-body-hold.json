@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "hollow-body-hold",
+  "slug": "hollow-body-hold",
+  "name": {
+    "en": "Hollow Body Hold",
+    "tr": "Hollow Body Tutuşu"
+  },
+  "description": {
+    "en": "A static core hold lying on the back in which the shoulders and feet are lifted while the lower back stays pressed down.",
+    "tr": "Sırtüstü yatarken omuzların ve ayakların kaldırılıp belin yere bastırıldığı statik bir core tutuşudur."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "force": "static",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Lie on your back and gently press your lower back into the floor; start with your knees bent.",
+      "Lift your shoulders and feet slightly and hold the position by bracing your abs.",
+      "If your lower back starts to lift, bend your knees more; hold for a controlled time without holding your breath."
+    ],
+    "tr": [
+      "Sırtüstü yatıp belini nazikçe yere bastır; başlangıçta dizlerini bükülü tut.",
+      "Omuzlarını ve ayaklarını hafifçe kaldırıp karnını sıkarak pozisyonu koru.",
+      "Belin yerden kalkacaksa dizlerini daha çok bük; nefesini tutmadan kontrollü süreyle tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "plank",
+    "bicycle-crunch"
+  ],
+  "legacyIds": [
+    "monk-abdominals-hollow-body-hold"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hollow-body-hold.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the hollow body hold, abdominal muscles highlighted in red.",
+        "tr": "Hollow Body Tutuşu yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-hollow-body-hold.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

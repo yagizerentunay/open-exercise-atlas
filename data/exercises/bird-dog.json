@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "bird-dog",
+  "slug": "bird-dog",
+  "name": {
+    "en": "Bird Dog",
+    "tr": "Bird Dog"
+  },
+  "description": {
+    "en": "A quadruped exercise in which the opposite arm and leg are extended while the spine stays neutral.",
+    "tr": "Dört ayak pozisyonunda omurga nötr tutulurken karşı kol ve bacağın uzatıldığı denge ve stabilite egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "force": "static",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Place your hands under your shoulders and your knees under your hips; keep your back neutral.",
+      "Extend the opposite arm and leg without rotating the torso and hold your balance briefly.",
+      "Return to the start under control and switch sides; do not let your lower back sag."
+    ],
+    "tr": [
+      "Ellerini omuzlarının, dizlerini kalçalarının altına koy; sırtını nötr tut.",
+      "Gövdeni döndürmeden karşı kolunu ve bacağını uzat; kısa süre dengede kal.",
+      "Kontrollü biçimde başlangıca dön ve taraf değiştir; belini çukurlaştırma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-lower-back-bird-dog"
+  ],
+  "alternatives": [
+    "plank",
+    "superman",
+    "side-plank"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/bird-dog.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Bird Dog, lower back highlighted in red.",
+        "tr": "Bird Dog hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-bird-dog.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

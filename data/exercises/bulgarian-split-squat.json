@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "bulgarian-split-squat",
+  "slug": "bulgarian-split-squat",
+  "name": {
+    "en": "Bulgarian Split Squat",
+    "tr": "Bulgar Split Squat"
+  },
+  "description": {
+    "en": "A single-leg squat with the rear foot raised on a low, stable bench.",
+    "tr": "Arka ayağın alçak ve sabit bir sehpaya konduğu, tek bacak squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Place the rear foot on a low, stable bench and set the front foot at a balanced distance.",
+      "Keep the torso balanced, bend both knees and lower to a depth you can control.",
+      "Drive up through the front foot; work both sides and take support if needed."
+    ],
+    "tr": [
+      "Arka ayağını alçak ve sabit bir sehpaya koy; ön ayağını dengeli bir mesafede yerleştir.",
+      "Gövdeni dengede tutarak iki dizini bük ve kontrol edebildiğin derinliğe in.",
+      "Ön ayağından kuvvet alarak yüksel; iki tarafı da çalıştır ve gerekirse destek al."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-glutes-bulgarian-split-squat"
+  ],
+  "alternatives": [
+    "reverse-lunge",
+    "step-up",
+    "goblet-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/bulgarian-split-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Bulgarian Split Squat, glutes highlighted in red.",
+        "tr": "Bulgar Split Squat hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-bulgarian-split-squat.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

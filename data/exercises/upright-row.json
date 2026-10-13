@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "upright-row",
+  "slug": "upright-row",
+  "name": {
+    "en": "Upright Row",
+    "tr": "Halterle Dik Kürek"
+  },
+  "description": {
+    "en": "A barbell pull from the thighs to lower-chest height with the elbows leading the movement.",
+    "tr": "Barın dirsekler öncülüğünde uyluktan alt göğüs hizasına çekildiği hareket."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Stand tall holding a light bar slightly wider than shoulder width; keep your wrists relaxed.",
+      "Pull the bar close to your body up to lower-chest height; do not raise your elbows above shoulder level.",
+      "Lower the bar slowly; if you feel pinching or pain in your shoulders, stop the movement."
+    ],
+    "tr": [
+      "Hafif barı omuz genişliğinden biraz açık tutup dik dur; bileklerini rahat bırak.",
+      "Barı gövdene yakın biçimde alt göğüs hizasına kadar çek; dirseklerini omuz hizasının üzerine çıkarma.",
+      "Barı yavaşça indir; omuzda sıkışma veya ağrı olursa hareketi bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-traps-upright-row"
+  ],
+  "alternatives": [
+    "barbell-shrug",
+    "dumbbell-shrug",
+    "overhead-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/upright-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Upright Row, traps highlighted in red.",
+        "tr": "Halterle Dik Kürek hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-upright-row.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

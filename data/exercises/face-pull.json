@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "face-pull",
+  "slug": "face-pull",
+  "name": {
+    "en": "Face Pull",
+    "tr": "Face Pull"
+  },
+  "description": {
+    "en": "A cable row to the face with a rope that trains the rear deltoids and the muscles around the shoulder blades.",
+    "tr": "Halatla yüze doğru yapılan, arka omuz kaslarını ve kürek kemiği çevresindeki kasları çalıştıran kablo çekiş hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Attach the rope to a pulley at face height and grip both ends with your thumbs pointing backward.",
+      "Pull the rope toward your face by flaring your elbows out; do not shrug your shoulders toward your ears.",
+      "Extend your arms under control and keep your torso still."
+    ],
+    "tr": [
+      "Halatı yüz hizasındaki makaraya tak ve iki ucunu başparmakların arkaya bakacak şekilde kavra.",
+      "Dirseklerini yana açarak halatı yüzüne doğru çek; omuzlarını kulaklarına kaldırma.",
+      "Kollarını kontrollü biçimde uzat ve gövdeni sabit tut."
+    ]
+  },
+  "legacyIds": [
+    "Face_Pull"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "cable-rear-delt-fly"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/face-pull.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Face Pull, rear deltoids highlighted in red.",
+        "tr": "Face Pull hareketini yapan gri tonlu sporcu; arka omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-face-pull.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

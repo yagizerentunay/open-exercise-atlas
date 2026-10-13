@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "reverse-nordic-curl",
+  "slug": "reverse-nordic-curl",
+  "name": {
+    "en": "Reverse Nordic Curl",
+    "tr": "Ters Nordic Curl"
+  },
+  "description": {
+    "en": "A kneeling bodyweight exercise in which the torso leans back from the knees to load the front of the thighs.",
+    "tr": "Gövdenin dizlerden geriye doğru yatırıldığı ve ön uyluğu yükleyen, diz çökerek yapılan vücut ağırlıklı bir hareket."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Kneel with a pad under the knees; keep the hips open and the torso straight.",
+      "Keeping the hips in line, lean the torso back slightly from the knees.",
+      "Squeeze the front of the thighs to return upright; start with a small range and stop if the knees hurt."
+    ],
+    "tr": [
+      "Dizlerinin altına minder koyup diz çök; kalçanı açık, gövdeni düz tut.",
+      "Kalça hizanı koruyarak gövdeni dizlerinden geriye doğru az miktarda yatır.",
+      "Ön bacaklarını sıkarak dik konuma dön; küçük aralıkta başla ve diz ağrısında dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-quadriceps-reverse-nordic-curl"
+  ],
+  "alternatives": [
+    "leg-extensions",
+    "spanish-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/reverse-nordic-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Reverse Nordic Curl, quadriceps highlighted in red.",
+        "tr": "Ters Nordic Curl hareketini yapan gri tonlu sporcu; ön uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-reverse-nordic-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "lateral-band-walk",
+  "slug": "lateral-band-walk",
+  "name": {
+    "en": "Lateral Band Walk",
+    "tr": "Bantlı Yana Yürüyüş"
+  },
+  "description": {
+    "en": "A band-resisted sideways walk in a shallow squat that works the outer hip muscles.",
+    "tr": "Dış kalça kaslarını çalıştıran, sığ çömelmede bant direnciyle yapılan yana yürüyüştür."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Place a light band above your knees; set your feet hip-width apart and soften your knees.",
+      "Keeping the shallow squat position, take small, controlled steps to the side.",
+      "Keep the band tense as you bring your feet back together; travel equally in both directions."
+    ],
+    "tr": [
+      "Hafif bir bandı dizlerinin üzerine geçir; ayaklarını kalça genişliğinde açıp dizlerini yumuşat.",
+      "Sığ çömelme konumunu koruyarak yana doğru küçük, kontrollü adımlar at.",
+      "Ayaklarını tekrar yaklaştırırken bandın gerginliğini koru; iki yönde de eşit ilerle."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "banded-monster-walk",
+    "standing-band-hip-abduction"
+  ],
+  "legacyIds": [
+    "monk-abductors-lateral-band-walk"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/lateral-band-walk.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the lateral band walk, hip abductors highlighted in red.",
+        "tr": "Bantlı Yana Yürüyüş yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-lateral-band-walk.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

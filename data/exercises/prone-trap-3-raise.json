@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "prone-trap-3-raise",
+  "slug": "prone-trap-3-raise",
+  "name": {
+    "en": "Prone Trap-3 Raise",
+    "tr": "Yüzüstü Trap-3 Kaldırış"
+  },
+  "description": {
+    "en": "A light dumbbell raise performed face down on an incline bench with the arms moving along a Y line.",
+    "tr": "Eğimli sehpada yüzüstü yapılan, kolların Y hattında kaldırıldığı hafif dambıl kaldırışı."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on an incline bench with light dumbbells; let your arms hang in a Y shape in front of your head.",
+      "With your thumbs pointing up, raise your arms under control along the Y line; keep your neck neutral.",
+      "Lower the dumbbells slowly; if you feel pinching in your shoulders, reduce the load or stop."
+    ],
+    "tr": [
+      "Hafif dambıllarla eğimli sehpaya yüzüstü uzan; kollarını başının önünde Y biçiminde sarkıt.",
+      "Başparmakların yukarı bakarken kollarını Y yönünde kontrollü kaldır; boynunu nötr tut.",
+      "Dambılları yavaşça indir; omuzda sıkışma olursa yükü azalt veya bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-traps-prone-trap-3-raise"
+  ],
+  "alternatives": [
+    "prone-incline-y-raise",
+    "kelso-shrug",
+    "band-pull-apart"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/prone-trap-3-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Prone Trap-3 Raise, traps highlighted in red.",
+        "tr": "Yüzüstü Trap-3 Kaldırış hareketini yapan gri tonlu sporcu; trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-prone-trap-3-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

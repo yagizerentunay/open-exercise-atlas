@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "single-arm-cable-pushdown",
+  "slug": "single-arm-cable-pushdown",
+  "name": {
+    "en": "Single-Arm Cable Pushdown",
+    "tr": "Tek Kollu Kablo Arka Kol İtişi"
+  },
+  "description": {
+    "en": "A single-arm cable pushdown that extends the elbow against a high cable to train the triceps one side at a time.",
+    "tr": "Yüksek kabloya karşı dirseğin tek kolla açıldığı, arka kol kaslarını her seferinde bir tarafta çalıştıran kablo itiş hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Set the cable to the upper position and grip the single handle; keep your elbow fixed at your side.",
+      "Extend your elbow and push the handle down; do not move your upper arm or shoulder.",
+      "Raise your forearm back to the start under control; work both arms equally."
+    ],
+    "tr": [
+      "Kabloyu üst konuma alıp tekli tutacağı kavra; dirseğini gövdenin yanında sabitle.",
+      "Dirseğini açarak tutacağı aşağı doğru it; üst kolunu ve omzunu oynatma.",
+      "Ön kolunu kontrollü biçimde başlangıca kaldır; iki kolu da eşit çalıştır."
+    ]
+  },
+  "legacyIds": [
+    "monk-triceps-single-arm-cable-pushdown"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "triceps-pushdown",
+    "cross-body-cable-triceps-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/single-arm-cable-pushdown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Single-Arm Cable Pushdown, triceps highlighted in red.",
+        "tr": "Tek Kollu Kablo Arka Kol İtişi hareketini yapan gri tonlu sporcu; arka kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/triceps-single-arm-cable-pushdown.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

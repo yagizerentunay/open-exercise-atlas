@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "heel-drop-calf-raise",
+  "slug": "heel-drop-calf-raise",
+  "name": {
+    "en": "Heel-Drop Calf Raise",
+    "tr": "Topuk Düşürmeli Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A calf raise from the edge of a step that lets the heels sink below step level for a deeper stretch.",
+    "tr": "Topukların basamak seviyesinin altına indiği, daha derin bir gerilme sağlayan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Press the toes onto the edge of a stable step; take support from a railing or wall for balance.",
+      "Lower the heels in a controlled way below step level within a comfortable range.",
+      "Rise onto the toes and return slowly to the start; do not bounce and do not go to a depth that causes pain."
+    ],
+    "tr": [
+      "Sabit bir basamağın kenarında ayak uçlarını bas; denge için korkuluk veya duvardan destek al.",
+      "Topuklarını rahat aralıkta basamak seviyesinin altına kontrollü indir.",
+      "Ayak uçlarından yüksel ve yavaşça başlangıca dön; zıplama ve ağrı veren derinliğe inme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-calves-heel-drop-calf-raise"
+  ],
+  "alternatives": [
+    "calf-raise",
+    "single-leg-calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/heel-drop-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Heel-Drop Calf Raise, calves highlighted in red.",
+        "tr": "Topuk Düşürmeli Baldır Yükseltme hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-heel-drop-calf-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

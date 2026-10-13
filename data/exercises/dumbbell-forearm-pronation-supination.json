@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-forearm-pronation-supination",
+  "slug": "dumbbell-forearm-pronation-supination",
+  "name": {
+    "en": "Dumbbell Forearm Pronation-Supination",
+    "tr": "Dambılla Ön Kol Pronasyon-Supinasyon"
+  },
+  "description": {
+    "en": "A light forearm rotation exercise in which a dumbbell held by one end is turned palm up and palm down.",
+    "tr": "Bir ucundan tutulan dambılın avuç içi yukarı ve aşağı bakacak şekilde çevrildiği, hafif bir ön kol rotasyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit and rest your forearm on your thigh or a bench; hold a very light dumbbell by one end.",
+      "Keeping your elbow fixed, slowly turn your palm up, then down.",
+      "Return to the start under control; reduce the range or stop if your wrist hurts."
+    ],
+    "tr": [
+      "Oturup ön kolunu uyluğuna veya sehpaya dayandır; çok hafif bir dambılı bir ucundan tut.",
+      "Dirseğini sabit tutarak avuç içini yavaşça yukarı, sonra aşağı çevir.",
+      "Kontrollü biçimde başlangıca dön; bileğinde ağrı olursa hareket aralığını azalt veya bırak."
+    ]
+  },
+  "legacyIds": [
+    "monk-forearms-dumbbell-pronation-supination"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-radial-deviation"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-forearm-pronation-supination.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Forearm Pronation-Supination, forearms highlighted in red.",
+        "tr": "Dambılla Ön Kol Pronasyon-Supinasyon hareketini yapan gri tonlu sporcu; ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-dumbbell-pronation-supination.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

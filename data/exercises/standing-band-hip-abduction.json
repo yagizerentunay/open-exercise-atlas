@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-band-hip-abduction",
+  "slug": "standing-band-hip-abduction",
+  "name": {
+    "en": "Standing Band Hip Abduction",
+    "tr": "Ayakta Bantlı Kalça Abdüksiyonu"
+  },
+  "description": {
+    "en": "A standing exercise in which one leg is opened to the side against a band around the ankles.",
+    "tr": "Bir bacağın ayak bileklerindeki bandın direncine karşı yana açıldığı ayakta yapılan bir egzersizdir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Put a light band around your ankles; lightly hold onto a stable object for balance.",
+      "Keeping your torso upright, open one leg out to the side; point your toes forward.",
+      "Bring your leg back against the resistance of the band in a controlled way; do not lean your hips sideways and switch sides."
+    ],
+    "tr": [
+      "Hafif bir bandı ayak bileklerine geçir; dengeni almak için sabit bir yere hafifçe tutun.",
+      "Gövdeni dik tutarak bir bacağını yana doğru aç; ayak parmaklarını öne çevir.",
+      "Bacağını bandın direncine karşı kontrollü biçimde geri getir; kalçanı yana yatırma ve taraf değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "cable-hip-abduction",
+    "side-lying-hip-abduction"
+  ],
+  "legacyIds": [
+    "monk-abductors-standing-band-hip-abduction"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/standing-band-hip-abduction.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the standing band hip abduction, hip abductors highlighted in red.",
+        "tr": "Ayakta Bantlı Kalça Abdüksiyonu yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors-standing-band-hip-abduction.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

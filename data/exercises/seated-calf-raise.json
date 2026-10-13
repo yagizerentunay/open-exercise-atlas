@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-calf-raise",
+  "slug": "seated-calf-raise",
+  "name": {
+    "en": "Seated Calf Raise",
+    "tr": "Oturarak Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A machine calf raise performed seated with the knees bent and the pad resting on the thighs.",
+    "tr": "Dizler bükülü ve ped uyluklardayken, oturarak makinede yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit in the machine and place the knee pad on the thighs; set the toes on the platform.",
+      "Lower the heels in a controlled way, then push through the toes to raise them.",
+      "Pause briefly at the top and lower the weight to the start without jerking."
+    ],
+    "tr": [
+      "Makineye otur ve diz pedini uyluklarına yerleştir; ayak uçlarını platforma bas.",
+      "Topuklarını kontrollü biçimde aşağı indir, ardından ayak uçlarından iterek yükselt.",
+      "Üstte kısa dur ve ağırlığı sarsmadan başlangıca indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Seated_Calf_Raise"
+  ],
+  "alternatives": [
+    "calf-raise",
+    "seated-dumbbell-calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Seated Calf Raise, calves highlighted in red.",
+        "tr": "Oturarak Baldır Yükseltme hareketini yapan gri tonlu sporcu; baldır kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/calves-seated-calf-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

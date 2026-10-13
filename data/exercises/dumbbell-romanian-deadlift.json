@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-romanian-deadlift",
+  "slug": "dumbbell-romanian-deadlift",
+  "name": {
+    "en": "Dumbbell Romanian Deadlift",
+    "tr": "Dambılla Romanya Deadlift"
+  },
+  "description": {
+    "en": "A hip hinge performed with a dumbbell in each hand held close to the legs.",
+    "tr": "Her elde bir dambıl bacaklara yakın tutularak yapılan bir kalça menteşesi hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Hold the dumbbells in front of the thighs; set the feet hip-width apart with the knees slightly bent.",
+      "Keeping the back neutral, send the hips back and lower the dumbbells close to the legs.",
+      "When you feel a stretch in the hamstrings, bring the hips forward and stand up; do not round the lower back."
+    ],
+    "tr": [
+      "Dambılları uyluklarının önünde tut; ayaklarını kalça genişliğinde açıp dizlerini hafifçe bük.",
+      "Sırtını nötr tutarak kalçanı geriye gönder ve dambılları bacaklarına yakın biçimde aşağı indir.",
+      "Arka bacaklarında gerilme hissedince kalçanı öne getirerek doğrul; belini yuvarlama."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-hamstrings-dumbbell-romanian-deadlift"
+  ],
+  "alternatives": [
+    "romanian-deadlift",
+    "kettlebell-deadlift"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-romanian-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Romanian Deadlift, hamstrings highlighted in red.",
+        "tr": "Dambılla Romanya Deadlift hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-dumbbell-romanian-deadlift.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

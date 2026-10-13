@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "band-resisted-lateral-neck-flexion",
+  "slug": "band-resisted-lateral-neck-flexion",
+  "name": {
+    "en": "Band-Resisted Lateral Neck Flexion",
+    "tr": "Bantlı Yan Boyun Fleksiyonu"
+  },
+  "description": {
+    "en": "A very light band-resisted sideways neck bend performed through a small, comfortable range of motion.",
+    "tr": "Çok hafif bir bantla, küçük ve rahat bir hareket aralığında yapılan boyun yana eğme egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit upright; place a very light band beside your head and tie it to a fixed point at head height.",
+      "Tilt your head sideways only through a small, comfortable range to gently resist the band; keep your shoulders relaxed.",
+      "Slowly return to the neutral position; stop immediately if you feel pain, numbness or dizziness."
+    ],
+    "tr": [
+      "Dik otur; çok hafif bandı başının yanına yerleştirip baş hizasında sabit bir noktaya bağla.",
+      "Başını yana yalnızca küçük ve rahat bir aralıkta eğerek banda nazikçe diren; omuzlarını gevşek tut.",
+      "Nötr konuma yavaşça dön; ağrı, uyuşma veya baş dönmesi olursa hemen dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "lateral-hand-resisted-neck-isometric",
+    "band-resisted-neck-flexion"
+  ],
+  "legacyIds": [
+    "monk-neck-band-resisted-lateral-flexion"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/band-resisted-lateral-neck-flexion.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the band-resisted lateral neck flexion, neck muscles highlighted in red.",
+        "tr": "Bantlı Yan Boyun Fleksiyonu yapan gri tonlu sporcu; boyun kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/neck-band-resisted-lateral-flexion.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

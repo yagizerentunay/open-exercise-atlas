@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "stability-ball-leg-curl",
+  "slug": "stability-ball-leg-curl",
+  "name": {
+    "en": "Stability Ball Leg Curl",
+    "tr": "Pilates Topuyla Bacak Curl"
+  },
+  "description": {
+    "en": "A bridge-position leg curl performed with the heels on a stability ball.",
+    "tr": "Topuklar pilates topunun üzerindeyken, köprü pozisyonunda yapılan bir bacak curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "exercise-ball"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back with the heels on a stability ball and lift the hips into a bridge position.",
+      "Pull the ball toward you with the heels and bend the knees; keep the hips up as long as you can control them.",
+      "Extend the legs slowly; if the lower back drops, reduce the range of motion."
+    ],
+    "tr": [
+      "Sırtüstü yatıp topuklarını pilates topunun üzerine koy; kalçanı köprü konumunda kaldır.",
+      "Topu topuklarınla kendine doğru çekerek dizlerini bük; kalçalarını kontrol edebildiğin kadar havada tut.",
+      "Bacaklarını yavaşça uzat; belin düşüyorsa hareket aralığını azalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-hamstrings-stability-ball-leg-curl"
+  ],
+  "alternatives": [
+    "slider-leg-curl",
+    "lying-leg-curls"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/stability-ball-leg-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Stability Ball Leg Curl, hamstrings highlighted in red.",
+        "tr": "Pilates Topuyla Bacak Curl hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-stability-ball-leg-curl.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-fly",
+  "slug": "dumbbell-fly",
+  "name": {
+    "en": "Dumbbell Fly",
+    "tr": "Dambıl Fly"
+  },
+  "description": {
+    "en": "A chest isolation movement in which dumbbells are opened in a wide arc while lying on a flat bench.",
+    "tr": "Düz sehpada uzanırken dambılların geniş bir yay çizerek yana açıldığı göğüs izolasyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a flat bench and hold light dumbbells over your chest; bend your elbows slightly.",
+      "Open your arms to the sides in a wide arc, down to a depth where your shoulders feel comfortable.",
+      "Use your chest muscles to bring the dumbbells back up; if you feel strain in your shoulders, shorten the range."
+    ],
+    "tr": [
+      "Düz sehpaya uzanıp hafif dambılları göğsünün üzerinde tut; dirseklerini hafifçe bük.",
+      "Kollarını geniş bir yay çizerek omuzların rahat ettiği derinliğe kadar yana aç.",
+      "Göğüs kaslarını kullanıp dambılları tekrar yukarı getir; omuzlarda gerilme olursa aralığı kısalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "monk-chest-dumbbell-fly"
+  ],
+  "alternatives": [
+    "cable-crossover",
+    "dumbbell-bench-press",
+    "dumbbell-squeeze-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Fly, chest highlighted in red.",
+        "tr": "Dambıl Fly hareketini yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-dumbbell-fly.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

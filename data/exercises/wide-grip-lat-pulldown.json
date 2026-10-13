@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "wide-grip-lat-pulldown",
+  "slug": "wide-grip-lat-pulldown",
+  "name": {
+    "en": "Wide-Grip Lat Pulldown",
+    "tr": "Geniş Tutuşla Lat Çekiş"
+  },
+  "description": {
+    "en": "A cable pulldown with a wide overhand grip that brings the bar to the upper chest.",
+    "tr": "Geniş tutuşla yapılan, barın üst göğse indirildiği kablo lat çekişi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Secure the thigh pad and grip the bar slightly wider than your shoulders.",
+      "Keeping your torso upright, pull your elbows down and out to the sides; bring the bar toward your upper chest.",
+      "Do not pull the bar behind your head; extend your arms back to the start under control."
+    ],
+    "tr": [
+      "Diz pedini sabitle ve barı omuzlarından biraz geniş tutuşla kavra.",
+      "Gövdeni dik tutarak dirseklerini aşağı ve yanlara çek; barı üst göğsüne doğru indir.",
+      "Barı başının arkasına çekme; kollarını kontrollü biçimde başlangıca uzat."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Wide-Grip_Lat_Pulldown"
+  ],
+  "alternatives": [
+    "lat-pulldown",
+    "close-grip-front-lat-pulldown",
+    "assisted-pull-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/wide-grip-lat-pulldown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Wide-Grip Lat Pulldown, lats highlighted in red.",
+        "tr": "Geniş Tutuşla Lat Çekiş hareketini yapan gri tonlu sporcu; kanat kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

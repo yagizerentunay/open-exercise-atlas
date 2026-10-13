@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-lateral-raise",
+  "slug": "dumbbell-lateral-raise",
+  "name": {
+    "en": "Dumbbell Lateral Raise",
+    "tr": "Dambılla Yana Kaldırış"
+  },
+  "description": {
+    "en": "A standing dumbbell raise that lifts the arms out to the sides to train the side deltoids.",
+    "tr": "Kolların yanlara kaldırıldığı, yan omuz kaslarını çalıştıran ayakta dambıl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Hold light dumbbells at your sides; keep your elbows soft and your torso still.",
+      "Raise your arms out to the sides up to shoulder height; do not pull your shoulders toward your ears.",
+      "Lower the dumbbells under control; choose a load you can lift without swinging."
+    ],
+    "tr": [
+      "Hafif dambılları yanında tut; dirseklerini yumuşak bırakıp gövdeni sabitle.",
+      "Kollarını yana omuz hizasına kadar kaldır; omuzlarını kulaklarına çekme.",
+      "Dambılları kontrollü indir; sallanmadan yapabildiğin yükü seç."
+    ]
+  },
+  "legacyIds": [
+    "monk-shoulders-dumbbell-lateral-raise"
+  ],
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "single-arm-cable-lateral-raise",
+    "plate-front-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-lateral-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Dumbbell Lateral Raise, side deltoids highlighted in red.",
+        "tr": "Dambılla Yana Kaldırış hareketini yapan gri tonlu sporcu; yan omuz kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-dumbbell-lateral-raise.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-hip-thrust",
+  "slug": "barbell-hip-thrust",
+  "name": {
+    "en": "Barbell Hip Thrust",
+    "tr": "Halterle Hip Thrust"
+  },
+  "description": {
+    "en": "A hip extension movement performed with the upper back on a bench and a loaded barbell across the hips.",
+    "tr": "Üst sırt sehpada, halter kalça üzerindeyken yapılan bir kalça ekstansiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Rest the upper back on a bench and place the bar in the crease of the hips; use a pad for comfort.",
+      "Plant the feet on the floor and lift the hips upward while keeping the ribs down.",
+      "Squeeze the glutes when the torso is parallel to the floor; lower under control without over-arching the lower back."
+    ],
+    "tr": [
+      "Üst sırtını sehpaya dayayıp barı kalça kıvrımına yerleştir; rahatlık için ped kullan.",
+      "Ayaklarını yere bas ve kalçanı, kaburgalarını aşağıda tutarak yukarı kaldır.",
+      "Gövden yere paralel olduğunda kalçanı sık; belini aşırı çukurlaştırmadan kontrollü in."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Barbell_Hip_Thrust"
+  ],
+  "alternatives": [
+    "glute-bridge",
+    "machine-hip-thrust",
+    "single-leg-glute-bridge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-hip-thrust.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Barbell Hip Thrust, glutes highlighted in red.",
+        "tr": "Halterle Hip Thrust hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "stability-ball-rollout",
+  "slug": "stability-ball-rollout",
+  "name": {
+    "en": "Stability Ball Rollout",
+    "tr": "Denge Topuyla Roll-out"
+  },
+  "description": {
+    "en": "A kneeling core exercise in which the forearms roll a stability ball forward while the torso stays in a straight line.",
+    "tr": "Gövde düz bir çizgide tutulurken ön kolların denge topunu öne yuvarladığı diz çökmüş bir core egzersizidir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "exercise-ball"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Kneel and place your forearms on the stability ball; brace your abs and keep your lower back neutral.",
+      "Keeping your torso in a straight line, roll the ball forward in a controlled way.",
+      "Return without letting your lower back sag; use only as much range as you can control."
+    ],
+    "tr": [
+      "Diz çöküp ön kollarını denge topuna koy; karnını sık ve belini nötr tut.",
+      "Gövdeni düz bir çizgide koruyarak topu kontrollü biçimde öne yuvarla.",
+      "Belin çukurlaşmadan geri dön; hareket aralığını kontrol edebildiğin kadar kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Monk Mode illustrated exercise library",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "ab-wheel-rollout",
+    "plank"
+  ],
+  "legacyIds": [
+    "monk-abdominals-stability-ball-rollout"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/stability-ball-rollout.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the stability ball rollout, abdominal muscles highlighted in red.",
+        "tr": "Denge Topuyla Roll-out yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals-stability-ball-rollout.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
+}

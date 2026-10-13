@@ -7,7 +7,8 @@
     "tr": "Romanya Deadlift"
   },
   "description": {
-    "en": "A barbell hip hinge performed with soft knees and the weight kept close to the legs."
+    "en": "A barbell hip hinge performed with soft knees and the weight kept close to the legs.",
+    "tr": "Dizler hafif bükülü ve ağırlık bacaklara yakın tutularak yapılan halterli bir kalça menteşesi hareketi."
   },
   "category": "strength",
   "movementPattern": "hinge",
@@ -16,16 +17,22 @@
     "barbell"
   ],
   "primaryMuscles": [
-    "hamstrings",
-    "glutes"
+    "hamstrings"
   ],
   "secondaryMuscles": [
+    "glutes",
     "lower-back"
   ],
   "instructions": {
     "en": [
-      "Hold a bar in front of the thighs with soft knees.",
-      "Hinge at the hips, keep the bar close, then return upright."
+      "Hold the bar in front of the thighs with a slight knee bend and a neutral spine.",
+      "Send the hips back and lower the bar close to the legs.",
+      "When you feel the hamstrings stretch, drive the hips forward to stand; do not pull with the lower back."
+    ],
+    "tr": [
+      "Barı uyluklarının önünde tut; dizlerini hafifçe bük ve sırtını nötr konumda koru.",
+      "Kalçanı geriye göndererek barı bacaklarına yakın biçimde aşağı indir.",
+      "Arka bacaklarında gerginlik hissedince kalçanı öne getirerek ayağa kalk; belinden çekme."
     ]
   },
   "source": {
@@ -33,5 +40,22 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Romanian_Deadlift"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/romanian-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing the Romanian Deadlift, hamstrings highlighted in red.",
+        "tr": "Romanya Deadlift hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Monk Mode (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings.webp",
+      "license": "MIT",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+    }
+  ]
 }
