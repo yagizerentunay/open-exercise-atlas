@@ -1,4 +1,4 @@
-import type { Exercise, Locale, ResolvedExercise } from './types.ts'
+import type { Exercise, Locale, MediaAsset, ResolvedExercise } from './types.ts'
 
 export function localize(exercise: Exercise, locale: Locale): ResolvedExercise {
   const pick = <T>(value: { en: T; tr?: T } | undefined): T | undefined => value?.[locale] ?? value?.en
@@ -12,13 +12,29 @@ export function localize(exercise: Exercise, locale: Locale): ResolvedExercise {
   }
 }
 
+/** Preference order for the single image that represents an exercise: reference, then finish, then start. Animations are never a cover. */
+const illustrationOrder: MediaAsset['role'][] = ['reference', 'finish', 'start']
+export function pickIllustration(media: readonly MediaAsset[] | undefined): MediaAsset | undefined {
+  for (const role of illustrationOrder) {
+    const found = media?.find((asset) => asset.role === role)
+    if (found) return found
+  }
+  return undefined
+}
+
+/** Equipment filter value that matches exercises needing no equipment (`equipment: []`). */
+export const NO_EQUIPMENT = 'none'
+
 export interface Filters { query?: string; muscle?: string; equipment?: string; difficulty?: string; category?: string; movementPattern?: string }
 export function filterExercises(exercises: ResolvedExercise[], filters: Filters): ResolvedExercise[] {
   const query = (filters.query ?? '').trim().toLocaleLowerCase()
+  const matchesEquipment = (exercise: ResolvedExercise) =>
+    !filters.equipment ||
+    (filters.equipment === NO_EQUIPMENT ? exercise.equipment.length === 0 : exercise.equipment.includes(filters.equipment as never))
   return exercises.filter((exercise) =>
     (!query || exercise.name.toLocaleLowerCase().includes(query)) &&
     (!filters.muscle || [...exercise.primaryMuscles, ...exercise.secondaryMuscles].includes(filters.muscle as never)) &&
-    (!filters.equipment || exercise.equipment.includes(filters.equipment as never)) &&
+    matchesEquipment(exercise) &&
     (!filters.difficulty || exercise.difficulty === filters.difficulty) &&
     (!filters.category || exercise.category === filters.category) &&
     (!filters.movementPattern || exercise.movementPattern === filters.movementPattern))

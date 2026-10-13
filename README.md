@@ -2,7 +2,7 @@
 
 An open-source, multilingual exercise database with structured JSON data, muscle targeting, equipment information, and visual exercise guides. The JSON data works without a server or the web explorer.
 
-**Status: pre-release editorial draft.** There are 30 original exercise records, but **0 technique-reviewed records**. Turkish names exist for all 30; descriptions and instructions currently fall back to English (33% field coverage). No third-party images are included.
+**Status: pre-release editorial draft.** All records are `reviewStatus: pending`: **0 technique-reviewed records**. The catalog includes the owner's own Monk Mode illustrated exercise library (Turkish steps and MIT-licensed illustrations, see [media provenance](docs/media-provenance.md)); `npm run translation:report` prints the current Turkish coverage. No third-party images are included.
 
 ## Quick start
 
@@ -33,12 +33,13 @@ Consumers should pin a release tag or package version and persist `id`, never `s
 | Path | Role |
 | --- | --- |
 | `data/exercises/` | One authoritative JSON file per stable ID |
+| `media/exercises/` | Exercise illustrations (`.webp`, `.png`), each with file-level provenance in its record |
 | `data/id-registry.json` | Detects accidental ID deletion or slug reassignment |
 | `data/translations/` | Locale labels for controlled codes |
 | `schemas/` | Versioned JSON Schema |
-| `src/` | Types, localization, filtering and Monk Mode sample adapter |
+| `src/` | Vocabulary, types, localization, filtering and the Monk Mode consumer adapter |
 | `scripts/` | Independent validation, coverage and exports |
-| `media/muscles/` | Original anatomy reference illustrations for all muscle filters |
+| `media/muscles/` | Original anatomy reference illustrations for the muscle filters (`neck` and `hip-flexors` have none yet) |
 | `dist/` | Generated, committed consumer files |
 | `site/` | Static React explorer |
 | `tests/` | Data and adapter tests |

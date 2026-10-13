@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+- Additive vocabulary for the Monk Mode migration (schema version stays `1`): muscles `neck` and `hip-flexors`; equipment `ez-bar`, `exercise-ball` and `other`; an empty `equipment` list now explicitly means "no equipment"; optional `aliases` (other English names, used only for import matching); media role `reference` (one illustration that is neither a start nor a finish frame). Media licenses are limited to the documented allow-list `CC0-1.0` and `MIT`; `.webp` and `.png` paths under `media/exercises/` are accepted.
+- Turkish labels for the new codes: Boyun, Kalça fleksörleri, EZ bar, Pilates topu, Diğer; the explorer shows "No equipment" / "Ekipmansız" and a `none` equipment filter.
+- The explorer's muscle gallery no longer assumes one illustration per muscle: `neck` and `hip-flexors` have no artwork yet and render as text-only tiles (the filter still works).
+- Rewrite `src/monkAdapter.ts` for the pinned-sync consumer model (`toMonkExercise`, `toMonkCatalog`); `mergeForMonkMode` is removed.
+- Share media copying between `copy-media.ts` and `stage-dev-media.ts` (`scripts/media.ts`) and test it.
+- Document the batch of Monk Mode illustrations (MIT, copied from `monk-mode` commit `cba2d06`) in `docs/media-provenance.md`.
+
 - Define v1 source schema, stable ID registry and deterministic exports.
 - Add 30 original editorial drafts, English fallback, Turkish exercise names and facet labels.
 - Add static React explorer, automated validation, tests and CI/Pages workflow.

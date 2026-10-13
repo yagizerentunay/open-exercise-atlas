@@ -1,6 +1,6 @@
 # Muscle reference illustrations
 
-The explorer includes one anatomical reference image for each muscle code in the Atlas vocabulary. These images are a visual index for the muscle filter; they are not exercise demonstrations and do not indicate that a record has passed technique review.
+The explorer includes an anatomical reference image for 17 of the 19 muscle codes in the Atlas vocabulary. `neck` and `hip-flexors` were added later for the Monk Mode migration and have **no illustration yet**; the gallery shows a text-only tile for them and the muscle filter works the same. Do not add a placeholder picture; add `media/muscles/<code>.png` when a real one exists and the gallery picks it up automatically. These images are a visual index for the muscle filter; they are not exercise demonstrations and do not indicate that a record has passed technique review.
 
 | Muscle code | Asset |
 | --- | --- |
@@ -21,6 +21,8 @@ The explorer includes one anatomical reference image for each muscle code in the
 | `adductors` | `media/muscles/adductors.png` |
 | `abductors` | `media/muscles/abductors.png` |
 | `traps` | `media/muscles/traps.png` |
+| `neck` | none yet (text-only tile) |
+| `hip-flexors` | none yet (text-only tile) |
 
 ## Provenance
 

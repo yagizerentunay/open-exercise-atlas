@@ -7,11 +7,17 @@ import type { Exercise } from '../src/types.ts'
 export const root = resolve(import.meta.dirname, '..')
 const read = (path: string) => JSON.parse(readFileSync(resolve(root, path), 'utf8')) as unknown
 
-export function loadAndValidate(): Exercise[] {
+/** Compiles the record schema. Returns a function that yields a readable error string, or null when the record is valid. */
+export function createRecordValidator(): (record: unknown) => string | null {
   const schema = read('schemas/exercise.schema.json')
   const ajv = new Ajv2020({ allErrors: true })
   addFormats(ajv)
   const validate = ajv.compile(schema as AnySchema)
+  return (record) => (validate(record) ? null : ajv.errorsText(validate.errors))
+}
+
+export function loadAndValidate(): Exercise[] {
+  const validate = createRecordValidator()
   const files = readdirSync(resolve(root, 'data/exercises')).filter((name) => name.endsWith('.json')).sort()
   const records: Exercise[] = []
   const ids = new Set<string>()
@@ -19,7 +25,8 @@ export function loadAndValidate(): Exercise[] {
   const legacyIds = new Set<string>()
   for (const file of files) {
     const raw = read(`data/exercises/${file}`)
-    if (!validate(raw)) throw new Error(`${file}: ${ajv.errorsText(validate.errors)}`)
+    const problem = validate(raw)
+    if (problem) throw new Error(`${file}: ${problem}`)
     const ex = raw as Exercise
     if (basename(file, '.json') !== ex.id) throw new Error(`${file}: filename must match ID`)
     if (ids.has(ex.id) || slugs.has(ex.slug)) throw new Error(`${file}: duplicate ID or slug`)
@@ -31,7 +38,12 @@ export function loadAndValidate(): Exercise[] {
     if (ex.reviewStatus === 'reviewed' && (!ex.source.reviewedBy || !ex.source.reviewedAt)) throw new Error(`${file}: reviewed record needs reviewer and date`)
     if (ex.source.type === 'adapted' && !ex.source.url) throw new Error(`${file}: adapted record needs source URL`)
     if (ex.primaryMuscles.some((m) => ex.secondaryMuscles.includes(m))) throw new Error(`${file}: muscle appears in both groups`)
-    for (const media of ex.media ?? []) if (!existsSync(resolve(root, media.path))) throw new Error(`${file}: missing media ${media.path}`)
+    const mediaPaths = new Set<string>()
+    for (const media of ex.media ?? []) {
+      if (mediaPaths.has(media.path)) throw new Error(`${file}: duplicate media path ${media.path}`)
+      mediaPaths.add(media.path)
+      if (!existsSync(resolve(root, media.path))) throw new Error(`${file}: missing media ${media.path}`)
+    }
     records.push(ex)
   }
   for (const ex of records) for (const related of [...(ex.alternatives ?? []), ...(ex.variations ?? [])]) {

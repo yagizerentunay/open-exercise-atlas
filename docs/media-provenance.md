@@ -26,3 +26,14 @@ This illustration is a visual guide, not a substitute for the pending technique 
 - **Rights:** Following the project's media policy above, the project dedicates any rights it holds in these original outputs under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by law. AI output may not be unique; this record does not claim exclusivity or third-party rights.
 - **Redistribution evidence:** this provenance record and the linked OpenAI terms.
 - **Scope and review:** These frames show a wide-grip example in the generic Atlas `lat-pulldown` media field. They do not establish exact equivalence with Monk Mode `Wide-Grip_Lat_Pulldown`; no `legacyIds` mapping was added. The exercise `reviewStatus` remains `pending`, and expert review of joint mechanics, muscle overlay boundaries, and machine geometry is still needed.
+
+## Monk Mode illustrated exercise library (batch migration)
+
+- **Assets:** every `media/exercises/<id>.webp` whose record has a media entry with `creator` "Monk Mode (AI-assisted original illustration)" and role `reference`. Each record names its own file; `lat-pulldown-*.webp` and `barbell-bench-press.png` above are separate assets.
+- **Date:** 2026-10-13.
+- **Creator:** Monk Mode (`yagizerentunay/monk-mode`). The images are AI-assisted original illustrations generated for Yagiz with OpenAI image generation (grayscale athlete, target muscle highlighted in red).
+- **Origin of the files:** copied byte-for-byte from `public/exercises/` of `yagizerentunay/monk-mode` at commit `cba2d06`. Nothing was resized, re-encoded or edited, so the bytes (and SHA-256) equal the Monk Mode files; Monk Mode's synced catalog must show identical image bytes.
+- **Per-asset facts:** `sourceUrl` is `https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/<original-file-name>`; the original file name can differ from the Atlas file name (Atlas names it `<id>.webp`).
+- **Rights:** both repositories belong to the same owner. The illustrations are published in the Monk Mode repository under the MIT License, so their media `license` is `MIT` (not the CC0 used for original Atlas text). [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law. AI output may not be unique; no exclusivity is claimed.
+- **Redistribution evidence:** https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE
+- **Scope and review:** these are visual guides, not technique review. The records that use them keep `reviewStatus: pending`. Where an existing Atlas record already had its own illustration (for example `barbell-bench-press`), that asset is kept and the Monk Mode file is added only when it is a different picture.
