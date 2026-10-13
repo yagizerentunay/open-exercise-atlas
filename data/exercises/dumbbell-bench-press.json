@@ -7,7 +7,8 @@
     "tr": "Dambılla Bench Press"
   },
   "description": {
-    "en": "A horizontal press using a dumbbell in each hand while lying on a bench."
+    "en": "A horizontal press using a dumbbell in each hand while lying on a bench.",
+    "tr": "Bir sehpada yatarken her elde bir dambılla yapılan yatay itiş hareketi."
   },
   "category": "strength",
   "movementPattern": "push",
@@ -27,6 +28,10 @@
     "en": [
       "Lie on a bench with a dumbbell in each hand.",
       "Lower the weights beside the chest and press upward."
+    ],
+    "tr": [
+      "Her elinde bir dambılla sehpaya uzan.",
+      "Ağırlıkları göğsünün yanına indir ve yukarı doğru it."
     ]
   },
   "source": {
@@ -37,5 +42,12 @@
   "reviewStatus": "pending",
   "alternatives": [
     "barbell-bench-press"
+  ],
+  "legacyIds": [
+    "Dumbbell_Bench_Press"
+  ],
+  "aliases": [
+    "DB Bench Press",
+    "Flat Dumbbell Bench Press"
   ]
 }

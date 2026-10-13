@@ -7,7 +7,8 @@
     "tr": "Ayakta Baş Üstü Press"
   },
   "description": {
-    "en": "A standing barbell press that moves the weight from shoulder height to overhead."
+    "en": "A standing barbell press that moves the weight from shoulder height to overhead.",
+    "tr": "Ağırlığı omuz hizasından baş üstüne taşıyan, ayakta yapılan bir barbell itişi."
   },
   "category": "strength",
   "movementPattern": "push",
@@ -26,6 +27,10 @@
     "en": [
       "Hold a bar at shoulder height and brace the torso.",
       "Press overhead, then lower to the starting position."
+    ],
+    "tr": [
+      "Barı omuz hizasında tut ve gövdeni sık.",
+      "Baş üstüne doğru it, sonra başlangıç pozisyonuna indir."
     ]
   },
   "source": {
@@ -33,5 +38,14 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Barbell_Shoulder_Press"
+  ],
+  "aliases": [
+    "Overhead Press",
+    "Barbell Overhead Press",
+    "Barbell Shoulder Press",
+    "Military Press"
+  ]
 }

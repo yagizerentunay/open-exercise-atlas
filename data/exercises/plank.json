@@ -7,7 +7,8 @@
     "tr": "Ön Kol Plank"
   },
   "description": {
-    "en": "A static forearm support that challenges trunk position and bracing."
+    "en": "A static forearm support that challenges trunk position and bracing.",
+    "tr": "Gövde pozisyonunu ve sıkılığını zorlayan, ön kollar üzerinde statik bir duruş."
   },
   "category": "strength",
   "movementPattern": "core",
@@ -27,6 +28,10 @@
     "en": [
       "Place forearms and toes on the floor with elbows below shoulders.",
       "Brace the torso and hold a straight body line while breathing."
+    ],
+    "tr": [
+      "Ön kollarını ve ayak parmaklarını yere koy; dirsekler omuzların altında olsun.",
+      "Gövdeni sık ve nefes alırken vücudunu düz bir çizgide tut."
     ]
   },
   "source": {
@@ -34,5 +39,12 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Plank"
+  ],
+  "aliases": [
+    "Plank",
+    "Elbow Plank"
+  ]
 }

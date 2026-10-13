@@ -7,7 +7,8 @@
     "tr": "Yan Plank"
   },
   "description": {
-    "en": "A static side support that challenges lateral trunk stability."
+    "en": "A static side support that challenges lateral trunk stability.",
+    "tr": "Yanal gövde stabilitesini zorlayan, yana dönük statik bir duruş."
   },
   "category": "strength",
   "movementPattern": "core",
@@ -27,6 +28,10 @@
     "en": [
       "Lie on one side and support the body on a forearm.",
       "Lift the hips to align the body and hold; switch sides."
+    ],
+    "tr": [
+      "Yan yat ve vücudunu bir ön kolunun üzerinde destekle.",
+      "Kalçanı kaldırıp vücudunu hizala ve bekle; sonra taraf değiştir."
     ]
   },
   "source": {
@@ -34,5 +39,11 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Side_Bridge"
+  ],
+  "aliases": [
+    "Side Bridge"
+  ]
 }

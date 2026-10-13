@@ -7,7 +7,8 @@
     "tr": "Kalça Köprüsü"
   },
   "description": {
-    "en": "A floor-based hip extension movement with the upper back and feet supported."
+    "en": "A floor-based hip extension movement with the upper back and feet supported.",
+    "tr": "Üst sırt ve ayaklar destekliyken yerde yapılan bir kalça ekstansiyonu hareketi."
   },
   "category": "strength",
   "movementPattern": "hinge",
@@ -26,6 +27,10 @@
     "en": [
       "Lie on the back with knees bent and feet planted.",
       "Lift the hips until the torso and thighs align, then lower."
+    ],
+    "tr": [
+      "Sırtüstü yat, dizlerini bük ve ayaklarını yere sağlam bas.",
+      "Gövde ile uyluklar aynı hizaya gelene kadar kalçanı kaldır, sonra indir."
     ]
   },
   "source": {
@@ -33,5 +38,11 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Butt_Lift_Bridge"
+  ],
+  "aliases": [
+    "Hip Bridge"
+  ]
 }

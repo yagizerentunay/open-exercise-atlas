@@ -7,7 +7,8 @@
     "tr": "Şınav"
   },
   "description": {
-    "en": "A bodyweight horizontal press performed in a plank position."
+    "en": "A bodyweight horizontal press performed in a plank position.",
+    "tr": "Plank pozisyonunda yapılan, vücut ağırlığıyla yatay itiş hareketi."
   },
   "category": "strength",
   "movementPattern": "push",
@@ -26,6 +27,10 @@
     "en": [
       "Set hands under or slightly wider than the shoulders in a plank.",
       "Lower the chest with a straight torso, then press back up."
+    ],
+    "tr": [
+      "Plank pozisyonunda ellerini omuzların altına veya biraz dışına yerleştir.",
+      "Gövdeni düz tutarak göğsünü indir, sonra yukarı it."
     ]
   },
   "source": {
@@ -40,5 +45,13 @@
   ],
   "variations": [
     "incline-push-up"
+  ],
+  "legacyIds": [
+    "Pushups"
+  ],
+  "aliases": [
+    "Pushup",
+    "Push Up",
+    "Press-Up"
   ]
 }

@@ -7,7 +7,8 @@
     "tr": "Kettlebell Deadlift"
   },
   "description": {
-    "en": "A hip hinge that lifts a kettlebell from between the feet."
+    "en": "A hip hinge that lifts a kettlebell from between the feet.",
+    "tr": "Kettlebell’i ayakların arasından kaldıran bir kalça menteşesi hareketi."
   },
   "category": "strength",
   "movementPattern": "hinge",
@@ -26,6 +27,10 @@
     "en": [
       "Stand over a kettlebell and hinge to grip its handle.",
       "Push through the feet to stand, then hinge back down."
+    ],
+    "tr": [
+      "Kettlebell’in üzerinde dur, kalçadan menteşe yapıp sapını kavra.",
+      "Ayaklarınla iterek ayağa kalk, sonra kalçadan menteşe yaparak geri indir."
     ]
   },
   "source": {

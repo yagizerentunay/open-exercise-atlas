@@ -7,7 +7,8 @@
     "tr": "Vücut Ağırlığıyla Squat"
   },
   "description": {
-    "en": "A squat performed without external load, using the hips and knees to lower and rise."
+    "en": "A squat performed without external load, using the hips and knees to lower and rise.",
+    "tr": "Dış yük olmadan, kalça ve dizleri bükerek alçalıp kalkmaya dayalı bir squat hareketi."
   },
   "category": "strength",
   "movementPattern": "squat",
@@ -26,6 +27,10 @@
     "en": [
       "Stand with feet about shoulder width apart.",
       "Bend the knees and hips, then stand back up."
+    ],
+    "tr": [
+      "Ayaklarını yaklaşık omuz genişliğinde aç.",
+      "Dizlerini ve kalçanı bükerek alçal, sonra ayağa kalk."
     ]
   },
   "source": {
@@ -39,5 +44,11 @@
   ],
   "variations": [
     "goblet-squat"
+  ],
+  "legacyIds": [
+    "Bodyweight_Squat"
+  ],
+  "aliases": [
+    "Air Squat"
   ]
 }

@@ -7,7 +7,8 @@
     "tr": "Barfiks"
   },
   "description": {
-    "en": "A vertical bodyweight pull using an overhand grip on a secure bar."
+    "en": "A vertical bodyweight pull using an overhand grip on a secure bar.",
+    "tr": "Sağlam bir barda, avuç içleri öne bakan tutuşla yapılan dikey vücut ağırlığı çekişi."
   },
   "category": "strength",
   "movementPattern": "pull",
@@ -27,6 +28,10 @@
     "en": [
       "Hang from a secure bar with an overhand grip.",
       "Pull the chest toward the bar, then lower under control."
+    ],
+    "tr": [
+      "Sağlam bir bara avuçların öne bakacak şekilde asıl.",
+      "Göğsünü bara doğru çek, sonra kontrollü biçimde in."
     ]
   },
   "source": {
@@ -38,5 +43,12 @@
   "alternatives": [
     "chin-up",
     "lat-pulldown"
+  ],
+  "legacyIds": [
+    "Pullups"
+  ],
+  "aliases": [
+    "Pullup",
+    "Pull Up"
   ]
 }

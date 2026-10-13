@@ -7,7 +7,8 @@
     "tr": "Geri Hamle"
   },
   "description": {
-    "en": "A single-leg movement that steps backward before returning to a standing position."
+    "en": "A single-leg movement that steps backward before returning to a standing position.",
+    "tr": "Geriye adım atıp ayakta duruşa dönmeyi içeren tek bacaklı bir hareket."
   },
   "category": "strength",
   "movementPattern": "lunge",
@@ -26,6 +27,10 @@
     "en": [
       "Stand upright and step one foot back.",
       "Lower both knees under control, return and change sides."
+    ],
+    "tr": [
+      "Dik dur ve bir ayağınla geriye adım at.",
+      "İki dizini kontrollü biçimde bükerek alçal, geri dön ve taraf değiştir."
     ]
   },
   "source": {
@@ -33,5 +38,9 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "aliases": [
+    "Backward Lunge",
+    "Rear Lunge"
+  ]
 }

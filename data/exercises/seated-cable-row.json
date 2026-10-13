@@ -7,7 +7,8 @@
     "tr": "Oturarak Kablo Kürek"
   },
   "description": {
-    "en": "A horizontal cable pull performed from a seated position."
+    "en": "A horizontal cable pull performed from a seated position.",
+    "tr": "Oturarak yapılan yatay bir kablo çekişi."
   },
   "category": "strength",
   "movementPattern": "pull",
@@ -26,6 +27,10 @@
     "en": [
       "Sit at a cable row station and grasp the handle.",
       "Pull toward the torso, then extend the arms under control."
+    ],
+    "tr": [
+      "Kablo kürek istasyonuna otur ve tutacağı kavra.",
+      "Tutacağı gövdene doğru çek, sonra kollarını kontrollü biçimde uzat."
     ]
   },
   "source": {

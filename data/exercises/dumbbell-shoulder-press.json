@@ -7,7 +7,8 @@
     "tr": "Dambılla Omuz Press"
   },
   "description": {
-    "en": "An overhead press using two independently held dumbbells."
+    "en": "An overhead press using two independently held dumbbells.",
+    "tr": "Birbirinden bağımsız tutulan iki dambılla yapılan baş üstü itiş hareketi."
   },
   "category": "strength",
   "movementPattern": "push",
@@ -24,6 +25,10 @@
     "en": [
       "Hold dumbbells beside the shoulders with palms forward.",
       "Press upward without leaning back, then lower."
+    ],
+    "tr": [
+      "Dambılları avuç içlerin öne bakacak şekilde omuzların yanında tut.",
+      "Geriye yaslanmadan yukarı it, sonra kontrollü biçimde indir."
     ]
   },
   "source": {
@@ -31,5 +36,9 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "aliases": [
+    "Dumbbell Overhead Press",
+    "DB Shoulder Press"
+  ]
 }

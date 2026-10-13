@@ -7,7 +7,8 @@
     "tr": "Dambılla Pazı Curl"
   },
   "description": {
-    "en": "An elbow flexion movement with a dumbbell in each hand."
+    "en": "An elbow flexion movement with a dumbbell in each hand.",
+    "tr": "Her elde bir dambılla yapılan dirsek bükme hareketi."
   },
   "category": "strength",
   "movementPattern": "isolation",
@@ -25,6 +26,10 @@
     "en": [
       "Hold dumbbells at the sides with elbows near the torso.",
       "Bend the elbows to raise the weights and lower slowly."
+    ],
+    "tr": [
+      "Dambılları yanlarda, dirseklerin gövdeye yakın olacak şekilde tut.",
+      "Dirseklerini bükerek ağırlıkları kaldır ve yavaşça indir."
     ]
   },
   "source": {
@@ -32,5 +37,12 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Dumbbell_Bicep_Curl"
+  ],
+  "aliases": [
+    "Dumbbell Bicep Curl",
+    "Dumbbell Curl"
+  ]
 }

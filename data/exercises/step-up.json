@@ -7,7 +7,8 @@
     "tr": "Yükseltiye Adım"
   },
   "description": {
-    "en": "A unilateral leg movement that lifts the body onto a stable raised surface."
+    "en": "A unilateral leg movement that lifts the body onto a stable raised surface.",
+    "tr": "Vücudu sabit, yükseltilmiş bir yüzeye çıkaran tek bacaklı bir bacak hareketi."
   },
   "category": "strength",
   "movementPattern": "lunge",
@@ -27,6 +28,10 @@
     "en": [
       "Place one foot securely on a stable platform.",
       "Push through that foot to stand on the platform, then descend."
+    ],
+    "tr": [
+      "Bir ayağını sağlam bir platforma tamamen bas.",
+      "O ayağınla iterek platforma çık, sonra kontrollü biçimde in."
     ]
   },
   "source": {
@@ -34,5 +39,8 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "aliases": [
+    "Step Up"
+  ]
 }

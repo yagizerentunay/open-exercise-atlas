@@ -7,7 +7,8 @@
     "tr": "Bench Dip"
   },
   "description": {
-    "en": "A bodyweight elbow extension movement with the hands supported behind the body."
+    "en": "A bodyweight elbow extension movement with the hands supported behind the body.",
+    "tr": "Eller vücudun arkasında desteklenirken yapılan, dirsek ekstansiyonuna dayalı bir vücut ağırlığı hareketi."
   },
   "category": "strength",
   "movementPattern": "push",
@@ -27,6 +28,10 @@
     "en": [
       "Place hands behind the hips on a stable bench.",
       "Bend the elbows to lower, then press back up."
+    ],
+    "tr": [
+      "Ellerini kalçanın arkasına, sağlam bir sehpanın kenarına yerleştir.",
+      "Dirseklerini bükerek alçal, sonra kendini yukarı it."
     ]
   },
   "source": {
@@ -34,5 +39,11 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "legacyIds": [
+    "Bench_Dips"
+  ],
+  "aliases": [
+    "Bench Dips"
+  ]
 }
