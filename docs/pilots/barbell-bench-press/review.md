@@ -1,0 +1,11 @@
+# Barbell Bench Press illustration pilot — review required
+
+Monk Mode source ID: `Barbell_Bench_Press_-_Medium_Grip`. Atlas candidate: `barbell-bench-press`. The flat bench and barbell mechanics broadly align, but the Atlas record does not specify a medium grip. Monk calls chest primary and shoulders/triceps secondary; Atlas calls chest/triceps primary and shoulders secondary. No `legacyIds` link or muscle classification was changed. A reviewer must decide whether the records describe the same variation.
+
+This folder contains original PNG masters and 1024×1024 optimized WebP review copies for separate lowered and raised poses. The original registered `media/exercises/barbell-bench-press.png` remains untouched. The new images are **not approved** and are not referenced by `data/exercises/barbell-bench-press.json`, so the current site/build continues to use the existing finish illustration.
+
+Visual review findings: the start bar reads too high relative to the requested mid/lower-chest touch point from this perspective, despite one refinement attempt. The secondary red overlay also needs a human check for anterior deltoid and triceps placement. The finish pose has a clear raised bar and matching subject/equipment, but receives the same anatomy review. Neither image should be presented as a verified form guide yet.
+
+Generation: OpenAI built-in image generation on 2026-10-13. The exact model identifier was not exposed. The existing Atlas finish illustration was used as a continuity reference for the new start; the first start draft was used for the new finish; the start was refined once. The source file was not copied into the new image files. PNG SHA-256 hashes and individual prompts are recorded in `manifest.json`. Rights disposition, source URLs pointing to a final committed asset, and redistribution evidence remain pending. No CC0 assertion is made for these pilot files.
+
+After human form, anatomy, equivalence and rights review: store approved WebP assets at collision-free paths under `media/exercises/`; add `start` and `finish` objects using the current schema; record final provenance in `docs/media-provenance.md`; run the standard Atlas validation/build gates. The old finish should remain available until its replacement is explicitly accepted.
