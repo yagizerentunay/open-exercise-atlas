@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "triceps-pushdown",
+  "slug": "triceps-pushdown",
+  "name": {
+    "en": "Cable Triceps Pushdown",
+    "tr": "Kablo Arka Kol İtişi"
+  },
+  "description": {
+    "en": "An elbow extension movement using a high cable attachment."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Hold a high cable attachment with elbows near the ribs.",
+      "Extend the elbows downward and return under control."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

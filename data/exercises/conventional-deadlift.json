@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "conventional-deadlift",
+  "slug": "conventional-deadlift",
+  "name": {
+    "en": "Conventional Deadlift",
+    "tr": "Klasik Deadlift"
+  },
+  "description": {
+    "en": "A barbell lift from the floor that combines leg drive and hip extension."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Set the bar over midfoot and take a stable grip.",
+      "Brace and stand with the bar, then lower it under control."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

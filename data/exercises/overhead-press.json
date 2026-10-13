@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "overhead-press",
+  "slug": "overhead-press",
+  "name": {
+    "en": "Standing Overhead Press",
+    "tr": "Ayakta Baş Üstü Press"
+  },
+  "description": {
+    "en": "A standing barbell press that moves the weight from shoulder height to overhead."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Hold a bar at shoulder height and brace the torso.",
+      "Press overhead, then lower to the starting position."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

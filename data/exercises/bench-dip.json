@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "bench-dip",
+  "slug": "bench-dip",
+  "name": {
+    "en": "Bench Dip",
+    "tr": "Bench Dip"
+  },
+  "description": {
+    "en": "A bodyweight elbow extension movement with the hands supported behind the body."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bench",
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Place hands behind the hips on a stable bench.",
+      "Bend the elbows to lower, then press back up."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

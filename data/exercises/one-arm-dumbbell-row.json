@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "one-arm-dumbbell-row",
+  "slug": "one-arm-dumbbell-row",
+  "name": {
+    "en": "One-Arm Dumbbell Row",
+    "tr": "Tek Kol Dambıl Kürek"
+  },
+  "description": {
+    "en": "A unilateral dumbbell row with the opposite hand supported on a bench."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "lats",
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Support the free hand on a bench and hold a dumbbell below the shoulder.",
+      "Pull the elbow toward the hip, then lower; repeat on the other side."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/schemas/exercise.schema.json",
+  "title": "Open Exercise Atlas exercise v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "id", "slug", "name", "description", "category", "movementPattern", "difficulty", "equipment", "primaryMuscles", "secondaryMuscles", "instructions", "source", "reviewStatus"],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "id": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
+    "slug": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
+    "name": {"$ref": "#/$defs/text"},
+    "description": {"$ref": "#/$defs/text"},
+    "category": {"enum": ["strength", "mobility", "cardio"]},
+    "movementPattern": {"enum": ["squat", "hinge", "push", "pull", "lunge", "carry", "rotation", "core", "isolation"]},
+    "force": {"enum": ["push", "pull", "static"]},
+    "mechanic": {"enum": ["compound", "isolation"]},
+    "difficulty": {"enum": ["beginner", "intermediate", "advanced"]},
+    "equipment": {"type": "array", "uniqueItems": true, "items": {"enum": ["bodyweight", "barbell", "dumbbell", "kettlebell", "cable", "machine", "band", "bench", "pull-up-bar", "mat"]}},
+    "primaryMuscles": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"$ref": "#/$defs/muscle"}},
+    "secondaryMuscles": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/muscle"}},
+    "instructions": {"$ref": "#/$defs/steps"},
+    "formCues": {"$ref": "#/$defs/steps"},
+    "commonMistakes": {"$ref": "#/$defs/steps"},
+    "alternatives": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+    "variations": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+    "media": {"type": "array", "items": {"$ref": "#/$defs/media"}},
+    "source": {"type": "object", "additionalProperties": false, "required": ["type", "title", "license"], "properties": {"type": {"enum": ["original", "adapted"]}, "title": {"type": "string", "minLength": 1}, "url": {"type": "string", "format": "uri"}, "license": {"type": "string", "minLength": 1}, "reviewedBy": {"type": "string"}, "reviewedAt": {"type": "string", "format": "date"}}},
+    "reviewStatus": {"enum": ["pending", "reviewed"]},
+    "legacyIds": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}}
+  },
+  "$defs": {
+    "text": {"type": "object", "additionalProperties": false, "required": ["en"], "properties": {"en": {"type": "string", "minLength": 1}, "tr": {"type": "string", "minLength": 1}}},
+    "steps": {"type": "object", "additionalProperties": false, "required": ["en"], "properties": {"en": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}, "tr": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}}},
+    "muscle": {"enum": ["chest", "upper-back", "lats", "shoulders", "biceps", "triceps", "forearms", "abdominals", "obliques", "lower-back", "glutes", "quadriceps", "hamstrings", "calves", "adductors", "abductors", "traps"]},
+    "media": {"type": "object", "additionalProperties": false, "required": ["path", "role", "alt", "creator", "sourceUrl", "license", "redistributionEvidenceUrl"], "properties": {"path": {"type": "string", "pattern": "^media/exercises/[a-z0-9/-]+\\.(jpg|jpeg|png|webp|gif)$"}, "role": {"enum": ["start", "finish", "animation"]}, "alt": {"$ref": "#/$defs/text"}, "creator": {"type": "string", "minLength": 1}, "sourceUrl": {"type": "string", "format": "uri"}, "license": {"type": "string", "minLength": 1}, "redistributionEvidenceUrl": {"type": "string", "format": "uri"}}}
+  }
+}

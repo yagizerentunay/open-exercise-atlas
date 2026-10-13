@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "bent-over-row",
+  "slug": "bent-over-row",
+  "name": {
+    "en": "Barbell Bent-Over Row",
+    "tr": "Halterle Eğilerek Kürek"
+  },
+  "description": {
+    "en": "A barbell row performed while holding a stable hip hinge."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "upper-back",
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Hinge at the hips while holding a bar below the shoulders.",
+      "Pull the bar toward the torso and lower without losing the hinge."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "pull-up",
+  "slug": "pull-up",
+  "name": {
+    "en": "Pull-Up",
+    "tr": "Barfiks"
+  },
+  "description": {
+    "en": "A vertical bodyweight pull using an overhand grip on a secure bar."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "advanced",
+  "equipment": [
+    "pull-up-bar",
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "lats",
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Hang from a secure bar with an overhand grip.",
+      "Pull the chest toward the bar, then lower under control."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

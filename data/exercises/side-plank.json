@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "side-plank",
+  "slug": "side-plank",
+  "name": {
+    "en": "Side Plank",
+    "tr": "Yan Plank"
+  },
+  "description": {
+    "en": "A static side support that challenges lateral trunk stability."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on one side and support the body on a forearm.",
+      "Lift the hips to align the body and hold; switch sides."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

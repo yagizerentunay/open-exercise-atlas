@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "chin-up",
+  "slug": "chin-up",
+  "name": {
+    "en": "Chin-Up",
+    "tr": "Ters Tutuş Barfiks"
+  },
+  "description": {
+    "en": "A vertical bodyweight pull using an underhand grip on a secure bar."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "advanced",
+  "equipment": [
+    "pull-up-bar",
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Hang from a secure bar with an underhand grip.",
+      "Pull upward until the chin approaches the bar, then lower."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

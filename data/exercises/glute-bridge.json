@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "glute-bridge",
+  "slug": "glute-bridge",
+  "name": {
+    "en": "Glute Bridge",
+    "tr": "Kalça Köprüsü"
+  },
+  "description": {
+    "en": "A floor-based hip extension movement with the upper back and feet supported."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on the back with knees bent and feet planted.",
+      "Lift the hips until the torso and thighs align, then lower."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

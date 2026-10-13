@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "calf-raise",
+  "slug": "calf-raise",
+  "name": {
+    "en": "Standing Calf Raise",
+    "tr": "Ayakta Baldır Yükseltme"
+  },
+  "description": {
+    "en": "An ankle extension movement performed by rising onto the balls of the feet."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Stand tall with feet stable and hold support if needed.",
+      "Rise onto the balls of the feet and lower slowly."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

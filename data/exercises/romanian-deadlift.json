@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "romanian-deadlift",
+  "slug": "romanian-deadlift",
+  "name": {
+    "en": "Romanian Deadlift",
+    "tr": "Romanya Deadlift"
+  },
+  "description": {
+    "en": "A barbell hip hinge performed with soft knees and the weight kept close to the legs."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Hold a bar in front of the thighs with soft knees.",
+      "Hinge at the hips, keep the bar close, then return upright."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

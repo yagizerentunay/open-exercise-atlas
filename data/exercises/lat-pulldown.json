@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "lat-pulldown",
+  "slug": "lat-pulldown",
+  "name": {
+    "en": "Lat Pulldown",
+    "tr": "Lat Pulldown"
+  },
+  "description": {
+    "en": "A vertical cable pull that brings the handle toward the upper chest."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Sit at a pulldown station and grip the bar.",
+      "Pull the bar toward the upper chest, then let it rise slowly."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

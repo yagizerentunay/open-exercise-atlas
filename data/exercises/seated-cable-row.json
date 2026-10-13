@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-cable-row",
+  "slug": "seated-cable-row",
+  "name": {
+    "en": "Seated Cable Row",
+    "tr": "Oturarak Kablo Kürek"
+  },
+  "description": {
+    "en": "A horizontal cable pull performed from a seated position."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "upper-back",
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Sit at a cable row station and grasp the handle.",
+      "Pull toward the torso, then extend the arms under control."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

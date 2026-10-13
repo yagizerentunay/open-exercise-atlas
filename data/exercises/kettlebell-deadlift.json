@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "kettlebell-deadlift",
+  "slug": "kettlebell-deadlift",
+  "name": {
+    "en": "Kettlebell Deadlift",
+    "tr": "Kettlebell Deadlift"
+  },
+  "description": {
+    "en": "A hip hinge that lifts a kettlebell from between the feet."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "beginner",
+  "equipment": [
+    "kettlebell"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": {
+    "en": [
+      "Stand over a kettlebell and hinge to grip its handle.",
+      "Push through the feet to stand, then hinge back down."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

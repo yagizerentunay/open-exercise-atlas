@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-bench-press",
+  "slug": "dumbbell-bench-press",
+  "name": {
+    "en": "Dumbbell Bench Press",
+    "tr": "Dambılla Bench Press"
+  },
+  "description": {
+    "en": "A horizontal press using a dumbbell in each hand while lying on a bench."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a bench with a dumbbell in each hand.",
+      "Lower the weights beside the chest and press upward."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

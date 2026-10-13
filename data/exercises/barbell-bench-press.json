@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-bench-press",
+  "slug": "barbell-bench-press",
+  "name": {
+    "en": "Barbell Bench Press",
+    "tr": "Halterle Bench Press"
+  },
+  "description": {
+    "en": "A horizontal barbell press performed while lying on a bench."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a bench and take a secure grip on the bar.",
+      "Lower the bar toward the chest, then press it upward."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "front-squat",
+  "slug": "front-squat",
+  "name": {
+    "en": "Front Squat",
+    "tr": "Ön Squat"
+  },
+  "description": {
+    "en": "A barbell squat with the load across the front of the shoulders."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Support the bar across the front of the shoulders.",
+      "Sit between the hips and rise with the chest upright."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

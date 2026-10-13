@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "incline-push-up",
+  "slug": "incline-push-up",
+  "name": {
+    "en": "Incline Push-Up",
+    "tr": "Eğimli Şınav"
+  },
+  "description": {
+    "en": "A push-up with the hands elevated on a stable surface to adjust the load."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Place hands on a stable raised surface and walk the feet back.",
+      "Lower the chest toward the surface, then press away."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

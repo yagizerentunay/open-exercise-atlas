@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "goblet-squat",
+  "slug": "goblet-squat",
+  "name": {
+    "en": "Goblet Squat",
+    "tr": "Goblet Squat"
+  },
+  "description": {
+    "en": "A squat with a weight held in front of the chest, encouraging an upright torso."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Hold one dumbbell in front of the chest.",
+      "Lower into a squat and stand while keeping the weight close."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

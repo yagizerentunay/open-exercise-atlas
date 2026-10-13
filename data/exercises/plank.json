@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "plank",
+  "slug": "plank",
+  "name": {
+    "en": "Forearm Plank",
+    "tr": "Ön Kol Plank"
+  },
+  "description": {
+    "en": "A static forearm support that challenges trunk position and bracing."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Place forearms and toes on the floor with elbows below shoulders.",
+      "Brace the torso and hold a straight body line while breathing."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

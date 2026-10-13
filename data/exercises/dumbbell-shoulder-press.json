@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-shoulder-press",
+  "slug": "dumbbell-shoulder-press",
+  "name": {
+    "en": "Dumbbell Shoulder Press",
+    "tr": "Dambılla Omuz Press"
+  },
+  "description": {
+    "en": "An overhead press using two independently held dumbbells."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Hold dumbbells beside the shoulders with palms forward.",
+      "Press upward without leaning back, then lower."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-back-squat",
+  "slug": "barbell-back-squat",
+  "name": {
+    "en": "Barbell Back Squat",
+    "tr": "Halterle Sırt Squatı"
+  },
+  "description": {
+    "en": "A loaded squat with the bar supported across the upper back."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Place the bar on the upper back and brace the torso.",
+      "Squat to a controlled depth, then stand."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

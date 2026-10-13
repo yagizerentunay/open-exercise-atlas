@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "farmers-carry",
+  "slug": "farmers-carry",
+  "name": {
+    "en": "Farmer Carry",
+    "tr": "Çift Taraflı Ağırlık Taşıma"
+  },
+  "description": {
+    "en": "A loaded walk while holding a weight at each side."
+  },
+  "category": "strength",
+  "movementPattern": "carry",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "forearms",
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Hold a weight in each hand and stand tall.",
+      "Walk at a controlled pace while keeping the torso upright."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

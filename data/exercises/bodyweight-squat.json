@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "bodyweight-squat",
+  "slug": "bodyweight-squat",
+  "name": {
+    "en": "Bodyweight Squat",
+    "tr": "Vücut Ağırlığıyla Squat"
+  },
+  "description": {
+    "en": "A squat performed without external load, using the hips and knees to lower and rise."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with feet about shoulder width apart.",
+      "Bend the knees and hips, then stand back up."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

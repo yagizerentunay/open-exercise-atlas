@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "push-up",
+  "slug": "push-up",
+  "name": {
+    "en": "Push-Up",
+    "tr": "Şınav"
+  },
+  "description": {
+    "en": "A bodyweight horizontal press performed in a plank position."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Set hands under or slightly wider than the shoulders in a plank.",
+      "Lower the chest with a straight torso, then press back up."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

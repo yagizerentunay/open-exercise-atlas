@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "walking-lunge",
+  "slug": "walking-lunge",
+  "name": {
+    "en": "Walking Lunge",
+    "tr": "Yürüyerek Hamle"
+  },
+  "description": {
+    "en": "A series of forward lunges that alternates legs while moving across the floor."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Step forward into a long stance.",
+      "Lower into a lunge, then bring the rear foot through for the next step."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

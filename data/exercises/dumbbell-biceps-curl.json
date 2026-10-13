@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-biceps-curl",
+  "slug": "dumbbell-biceps-curl",
+  "name": {
+    "en": "Dumbbell Biceps Curl",
+    "tr": "Dambılla Pazı Curl"
+  },
+  "description": {
+    "en": "An elbow flexion movement with a dumbbell in each hand."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold dumbbells at the sides with elbows near the torso.",
+      "Bend the elbows to raise the weights and lower slowly."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}

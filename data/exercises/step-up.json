@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "step-up",
+  "slug": "step-up",
+  "name": {
+    "en": "Step-Up",
+    "tr": "Yükseltiye Adım"
+  },
+  "description": {
+    "en": "A unilateral leg movement that lifts the body onto a stable raised surface."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Place one foot securely on a stable platform.",
+      "Push through that foot to stand on the platform, then descend."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending"
+}
