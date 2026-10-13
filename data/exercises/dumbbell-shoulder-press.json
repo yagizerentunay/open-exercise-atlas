@@ -40,5 +40,19 @@
   "aliases": [
     "Dumbbell Overhead Press",
     "DB Shoulder Press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-shoulder-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing a standing dumbbell shoulder press, deltoids highlighted red.",
+        "tr": "Ayakta dambıl omuz press yapan gri tonlu sporcu; deltoidler kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-shoulder-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
   ]
 }

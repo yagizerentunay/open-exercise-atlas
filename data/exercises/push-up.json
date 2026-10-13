@@ -53,5 +53,19 @@
     "Pushup",
     "Push Up",
     "Press-Up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/push-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Grayscale athlete performing a push-up, chest and triceps highlighted red.",
+        "tr": "Şınav çeken gri tonlu sporcu; göğüs ve triseps kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/push-up.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
   ]
 }

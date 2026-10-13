@@ -1098,6 +1098,20 @@
     ],
     "aliases": [
       "Bench Dips"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/bench-dip.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a bench dip, triceps highlighted red.",
+          "tr": "Sehpada dips yapan gri tonlu sporcu; triseps kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bench-dip.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -1297,6 +1311,20 @@
     ],
     "aliases": [
       "Air Squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/bodyweight-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a bodyweight squat, quadriceps and glutes highlighted red.",
+          "tr": "Vücut ağırlığıyla squat yapan gri tonlu sporcu; ön bacak ve kalça kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bodyweight-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -3064,6 +3092,20 @@
     "aliases": [
       "DB Bench Press",
       "Flat Dumbbell Bench Press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-bench-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a flat dumbbell bench press, chest highlighted red.",
+          "tr": "Düz sehpada dambıl bench press yapan gri tonlu sporcu; göğüs kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-bench-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -3100,6 +3142,20 @@
     "aliases": [
       "Dumbbell Bicep Curl",
       "Dumbbell Curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-biceps-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a standing dumbbell biceps curl, biceps highlighted red.",
+          "tr": "Ayakta dambıl biseps curl yapan gri tonlu sporcu; biseps kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-biceps-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -3492,6 +3548,20 @@
     "aliases": [
       "Dumbbell Overhead Press",
       "DB Shoulder Press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-shoulder-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a standing dumbbell shoulder press, deltoids highlighted red.",
+          "tr": "Ayakta dambıl omuz press yapan gri tonlu sporcu; deltoidler kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-shoulder-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -4200,6 +4270,20 @@
     ],
     "aliases": [
       "Hip Bridge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/glute-bridge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a glute bridge on a mat, glutes highlighted red.",
+          "tr": "Minderde kalça köprüsü yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/glute-bridge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -4970,6 +5054,20 @@
     ],
     "aliases": [
       "Incline Pushup"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-push-up.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing an incline push-up with hands on a bench, chest highlighted red.",
+          "tr": "Elleri sehpada eğimli şınav çeken gri tonlu sporcu; göğüs kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-push-up.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -5109,7 +5207,21 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/kettlebell-deadlift.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a kettlebell deadlift, glutes and hamstrings highlighted red.",
+          "tr": "Kettlebell deadlift yapan gri tonlu sporcu; kalça ve arka bacak kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kettlebell-deadlift.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
   },
   {
     "schemaVersion": 1,
@@ -6352,6 +6464,20 @@
       "Barbell Overhead Press",
       "Barbell Shoulder Press",
       "Military Press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/overhead-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a standing barbell overhead press, shoulders highlighted red.",
+          "tr": "Ayakta halterle baş üstü press yapan gri tonlu sporcu; omuzlar kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/overhead-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -6390,6 +6516,20 @@
     "aliases": [
       "Plank",
       "Elbow Plank"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plank.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete holding a forearm plank, abdominal muscles highlighted red.",
+          "tr": "Ön kolları üzerinde plank duran gri tonlu sporcu; karın kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plank.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -6799,6 +6939,20 @@
     "aliases": [
       "Pullup",
       "Pull Up"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/pull-up.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a pull-up on a bar, lats and mid-back highlighted red.",
+          "tr": "Barfiks çeken gri tonlu sporcu; sırt ve orta sırt kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/pull-up.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -6844,6 +6998,20 @@
       "Pushup",
       "Push Up",
       "Press-Up"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/push-up.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a push-up, chest and triceps highlighted red.",
+          "tr": "Şınav çeken gri tonlu sporcu; göğüs ve triseps kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/push-up.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -7192,6 +7360,20 @@
     "aliases": [
       "Backward Lunge",
       "Rear Lunge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/reverse-lunge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a reverse lunge, front-leg quadriceps and glutes highlighted red.",
+          "tr": "Geri adım lunge yapan gri tonlu sporcu; ön bacak ve kalça kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/reverse-lunge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -7485,7 +7667,21 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/seated-cable-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a seated cable row, mid-back highlighted red.",
+          "tr": "Oturarak kablo kürek çeken gri tonlu sporcu; orta sırt kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-cable-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
   },
   {
     "schemaVersion": 1,
@@ -7999,6 +8195,20 @@
     ],
     "aliases": [
       "Side Bridge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/side-plank.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete holding a side plank on the forearm, obliques highlighted red.",
+          "tr": "Ön kol üzerinde yan plank yapan gri tonlu sporcu; yan karın kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/side-plank.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {
@@ -8871,6 +9081,20 @@
     "reviewStatus": "pending",
     "aliases": [
       "Step Up"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/step-up.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Grayscale athlete performing a step-up onto a box, quadriceps and glutes highlighted red.",
+          "tr": "Kutuya step-up yapan gri tonlu sporcu; ön bacak ve kalça kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/step-up.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
     ]
   },
   {

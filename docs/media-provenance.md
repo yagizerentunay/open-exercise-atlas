@@ -37,3 +37,29 @@ This illustration is a visual guide, not a substitute for the pending technique 
 - **Rights:** both repositories belong to the same owner. The illustrations are published in the Monk Mode repository under the MIT License, so their media `license` is `MIT` (not the CC0 used for original Atlas text). [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law. AI output may not be unique; no exclusivity is claimed.
 - **Redistribution evidence:** https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE
 - **Scope and review:** these are visual guides, not technique review. The records that use them keep `reviewStatus: pending`. Where an existing Atlas record already had its own illustration (for example `barbell-bench-press`), that asset is kept and the Monk Mode file is added only when it is a different picture.
+
+## Original START/FINISH exercise illustrations (16 assets)
+
+- **Date:** 2026-10-14.
+- **Creator:** Open Exercise Atlas (AI-assisted original illustration).
+- **Tool/model:** OpenAI image generation; model identifier not exposed.
+- **Method:** Each two-phase square illustration was generated from an exercise-specific text prompt. The existing Atlas `media/exercises/dumbbell-fly.webp` was supplied solely as a style/character reference; the generated art is original and does not reproduce its pose. Generated PNGs were converted to 1024×1024 WebP at quality 82 on a plain white background.
+- **Rights:** Following the project media policy, the project dedicates any rights it holds in these original outputs under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law. AI output may not be unique; no exclusivity is claimed.
+- **Scope and review:** Visual guides only; exercise records remain `reviewStatus: pending`. The images have been visually screened for composition and obvious anatomy/equipment errors, but are not expert form or anatomy reviews.
+- **Assets (SHA-256 of final WebP):**
+  - `media/exercises/dumbbell-bench-press.webp` — 59,932 bytes — `4e9d7379ec00d55dbbbf6adf7f538847e5d2e37a5002a272485202ca50a15695`
+  - `media/exercises/dumbbell-biceps-curl.webp` — 55,788 bytes — `d39e56c1c2efb5d1fa8d5334d633ea4e999791f230ef87f977d5087e2675b4c7`
+  - `media/exercises/dumbbell-shoulder-press.webp` — 51,412 bytes — `6d4686b545837818c4aa46fbcefbe5532145d60ba84d9252b464f138a1371852`
+  - `media/exercises/overhead-press.webp` — 52,954 bytes — `a29cbe4c2566d91e6d69f2b964ebda0ea75569142b561661ae1637a31da2c066`
+  - `media/exercises/push-up.webp` — 28,892 bytes — `38f1d58fbd574b433257fd9426adda7c2639203b2c51ef785d53d9d6a26067c3`
+  - `media/exercises/incline-push-up.webp` — 31,034 bytes — `633098ab29eaa9d9210396b47b9774806f8babd7020eb2856b524b79329e990a`
+  - `media/exercises/bench-dip.webp` — 36,990 bytes — `519f09bb6c369d318b57ebf66e5721a269aea9d2fab368a817592d78cb8ccc26`
+  - `media/exercises/bodyweight-squat.webp` — 53,326 bytes — `ea54fb6db64ab32860a61d7dc7a2d6757a401ff54b48cae7e5b90194331fe700`
+  - `media/exercises/glute-bridge.webp` — 24,714 bytes — `8d6bd3d2510b49b1e9e152898e4b4fd935e1c5c727da26300b35599460a93f55`
+  - `media/exercises/plank.webp` — 20,784 bytes — `dc5b475703b13fc6308d07639fc393eb791c1a0068362c03e509a1746162a100`
+  - `media/exercises/side-plank.webp` — 24,704 bytes — `40f83ffbd9cb1d311034237209c5c3988afc8630db5b46414342a2dec2d2b2ee`
+  - `media/exercises/pull-up.webp` — 51,818 bytes — `cba9969791840564e1966a1d708675243e87839a5d7fda6030c266cd0a91c3f1`
+  - `media/exercises/seated-cable-row.webp` — 49,408 bytes — `b567e56f254c290d49a66fc6b30f5764be985d9dd228bb10b4db61a4522b2986`
+  - `media/exercises/reverse-lunge.webp` — 40,222 bytes — `a16c2f8f6d52e12bf07ff7a973ec0885bdc3b392d7f3007cd1642bccf1bcade8`
+  - `media/exercises/step-up.webp` — 42,004 bytes — `9bc947b8d804419ab596b5ee13ed814d8c481970fd5b0514e692fc0405fb00e6`
+  - `media/exercises/kettlebell-deadlift.webp` — 45,442 bytes — `1d36d36b2fb42598bb9828ae7107a058389ec4bd7310f52deb622edf32300e36`
