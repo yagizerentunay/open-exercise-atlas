@@ -58,7 +58,11 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "alternatives": [
+      "dumbbell-bench-press",
+      "push-up"
+    ]
   },
   {
     "schemaVersion": 1,
@@ -149,7 +153,13 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "alternatives": [
+      "goblet-squat"
+    ],
+    "variations": [
+      "goblet-squat"
+    ]
   },
   {
     "schemaVersion": 1,
@@ -207,7 +217,11 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
   },
   {
     "schemaVersion": 1,
@@ -269,7 +283,10 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "alternatives": [
+      "barbell-bench-press"
+    ]
   },
   {
     "schemaVersion": 1,
@@ -446,7 +463,11 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "alternatives": [
+      "bodyweight-squat",
+      "barbell-back-squat"
+    ]
   },
   {
     "schemaVersion": 1,
@@ -477,7 +498,13 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "alternatives": [
+      "push-up"
+    ],
+    "variations": [
+      "push-up"
+    ]
   },
   {
     "schemaVersion": 1,
@@ -660,7 +687,11 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "alternatives": [
+      "chin-up",
+      "lat-pulldown"
+    ]
   },
   {
     "schemaVersion": 1,
@@ -690,7 +721,14 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
-    "reviewStatus": "pending"
+    "reviewStatus": "pending",
+    "alternatives": [
+      "incline-push-up",
+      "barbell-bench-press"
+    ],
+    "variations": [
+      "incline-push-up"
+    ]
   },
   {
     "schemaVersion": 1,

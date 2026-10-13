@@ -33,5 +33,11 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
-  "reviewStatus": "pending"
+  "reviewStatus": "pending",
+  "alternatives": [
+    "goblet-squat"
+  ],
+  "variations": [
+    "goblet-squat"
+  ]
 }
