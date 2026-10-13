@@ -44,3 +44,5 @@ Consumers should pin a release tag or package version and persist `id`, never `s
 | `docs/` | Architecture, rights, model and migration policies |
 
 Read [architecture](docs/architecture.md), [data model](docs/data-model.md), [rights policy](docs/rights.md), [contribution guide](CONTRIBUTING.md), and [Monk Mode integration](docs/monk-mode-integration.md).
+
+For interface work, use the [Atlas design system](ATLAS_DESIGN_SYSTEM.md) and [anti-slop rules](ANTI_SLOP_RULES.md). The [Codex/Claude design prompt](CODEX_CLAUDE_DESIGN_PROMPT.md) is a reusable starting point for a scoped design audit.
