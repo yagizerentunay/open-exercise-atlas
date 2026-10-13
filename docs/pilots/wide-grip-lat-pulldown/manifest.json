@@ -1,0 +1,113 @@
+{
+  "monk": {
+    "id": "Wide-Grip_Lat_Pulldown",
+    "name": "Wide-Grip Lat Pulldown",
+    "equipment": "cable",
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "middle back",
+      "shoulders"
+    ],
+    "images": [
+      "Wide-Grip_Lat_Pulldown/0.jpg",
+      "Wide-Grip_Lat_Pulldown/1.jpg"
+    ]
+  },
+  "sources": [
+    "data/free-exercise-db/exercises.json",
+    "public/data/exercises.json",
+    "public/data/instructions.json"
+  ],
+  "instructions": [
+    "Sit down on a pull-down machine with a wide bar attached to the top pulley. Make sure that you adjust the knee pad of the machine to fit your height. These pads will prevent your body from being raised by the resistance attached to the bar.",
+    "Grab the bar with the palms facing forward using the prescribed grip. Note on grips: For a wide grip, your hands need to be spaced out at a distance wider than shoulder width. For a medium grip, your hands need to be spaced out at a distance equal to your shoulder width and for a close grip at a distance smaller than your shoulder width.",
+    "As you have both arms extended in front of you holding the bar at the chosen grip width, bring your torso back around 30 degrees or so while creating a curvature on your lower back and sticking your chest out. This is your starting position.",
+    "As you breathe out, bring the bar down until it touches your upper chest by drawing the shoulders and the upper arms down and back. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary and only the arms should move. The forearms should do no other work except for holding the bar; therefore do not try to pull down the bar using the forearms.",
+    "After a second at the contracted position squeezing your shoulder blades together, slowly raise the bar back to the starting position when your arms are fully extended and the lats are fully stretched. Inhale during this portion of the movement.",
+    "Repeat this motion for the prescribed amount of repetitions."
+  ],
+  "atlasCandidates": [
+    {
+      "id": "lat-pulldown",
+      "name": "Lat Pulldown",
+      "legacyIdPresent": false,
+      "equipment": [
+        "cable"
+      ],
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "upper-back"
+      ],
+      "media": []
+    }
+  ],
+  "matchStatus": "needs-human-review",
+  "matchNotes": [
+    "Both records use cable and primary lats, with biceps and middle/upper back secondary.",
+    "Monk specifically names a wide overhand grip and also lists shoulders secondary; Atlas describes a generic bar pulldown with no grip width and does not list shoulders. Exact variation equivalence requires human review."
+  ],
+  "atlasId": "lat-pulldown",
+  "prompts": {
+    "start": "Original wide-grip front lat pulldown START: rear three-quarter adult athlete seated at charcoal cable station, thighs secured, feet planted, wide overhand bar high above head, near-extended arms, taut cable, primary latissimus dorsi in anatomically bounded #E53935, secondary biceps and middle-back subtle pale red, grayscale body, transparent background, no text or logos. Keep full equipment, symmetric grip, realistic joints.",
+    "finish": "Same athlete, camera, machine and bar in FINISH: wide overhand bar travels in FRONT of the face to the upper chest, elbows bent down toward ribs, stable torso and feet, taut cable and raised weight stack. Same red lat anatomy, lighter biceps/middle back. No behind-neck bar, face-height stopping point, strange hands, text or logo. Transparent background."
+  },
+  "assets": {
+    "start": {
+      "png": "docs/pilots/wide-grip-lat-pulldown/lat-pulldown-start-review.png",
+      "webp": "docs/pilots/wide-grip-lat-pulldown/lat-pulldown-start-review.webp",
+      "pngSha256": "04a667d64b306e5118159373d9bb14d372f4acad351782340fd28c2bb39783c4",
+      "webpSha256": "fd67db548b5418ebfad4b3a839f21fbd5663853136d130f6c6bf2434d016811f"
+    },
+    "finish": {
+      "png": "docs/pilots/wide-grip-lat-pulldown/lat-pulldown-finish-review.png",
+      "webp": "docs/pilots/wide-grip-lat-pulldown/lat-pulldown-finish-review.webp",
+      "pngSha256": "75ecec1bd517dbfb64c9c1d76085e2ba211fe10152ca6bc02b67d8bf344e7df8",
+      "webpSha256": "4f956c40156869f996326468616aa3e9442de4e11781291ddee4fa6ab0c06d5b"
+    }
+  },
+  "visualReview": "needs-human-review",
+  "rightsReview": "pending",
+  "issues": [
+    "Finish candidate leaves the bar at face height rather than clearly at the upper chest; do not use as approved front lat pulldown instruction.",
+    "Human review needed for lat, biceps, and middle-back overlay boundaries and consistent weight-stack mechanics.",
+    "Atlas generic lat-pulldown variation match unresolved; no legacyIds or production media change."
+  ],
+  "generation": {
+    "tool": "OpenAI built-in image generation",
+    "model": "not exposed by tool",
+    "date": "2026-10-13",
+    "method": "original START generation using Monk local art as style reference, then FINISH generation with START as continuity reference; two FINISH revisions attempted"
+  },
+  "mediaDraft": [
+    {
+      "path": "media/exercises/lat-pulldown-start.webp",
+      "role": "start",
+      "alt": {
+        "en": "Seated athlete holding a wide-grip pulldown bar overhead with lats highlighted red.",
+        "tr": "Geniş tutuşlu lat pulldown barını baş üstünde tutan oturur sporcu; lat kasları kırmızıyla gösteriliyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": null,
+      "license": null,
+      "redistributionEvidenceUrl": null
+    },
+    {
+      "path": "media/exercises/lat-pulldown-finish.webp",
+      "role": "finish",
+      "alt": {
+        "en": "Review draft of seated wide-grip pulldown with bent elbows and highlighted lats; bar position needs correction.",
+        "tr": "Dirsekleri bükülmüş ve lat kasları vurgulanmış geniş tutuş lat pulldown inceleme taslağı; bar konumu düzeltilmeli."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": null,
+      "license": null,
+      "redistributionEvidenceUrl": null
+    }
+  ]
+}
