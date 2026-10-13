@@ -25,11 +25,11 @@ jobs:
         env:
           GITHUB_PAGES: '1'
       - uses: actions/upload-pages-artifact@v3
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main' && vars.ENABLE_PAGES == 'true'
         with:
           path: site/dist
   deploy:
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main' && vars.ENABLE_PAGES == 'true'
     needs: check
     runs-on: ubuntu-latest
     permissions:
@@ -40,5 +40,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - uses: actions/configure-pages@v5
       - id: deployment
         uses: actions/deploy-pages@v4
