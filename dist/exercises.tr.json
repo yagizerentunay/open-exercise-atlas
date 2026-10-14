@@ -104,6 +104,51 @@
   },
   {
     "schemaVersion": 1,
+    "id": "adductor-squeeze-bridge",
+    "slug": "adductor-squeeze-bridge",
+    "name": "Top Sıkmalı Köprü",
+    "description": "Dizlerin arasında küçük bir top hafifçe sıkılarak yapılan yer köprüsü.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "difficulty": "beginner",
+    "equipment": [
+      "exercise-ball",
+      "mat"
+    ],
+    "primaryMuscles": [
+      "adductors"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "instructions": [
+      "Dizlerin bükülü, ayakların yerde sırtüstü yat; dizlerinin arasına küçük yumuşak bir top koy.",
+      "Dizlerini yana kaçırmadan topu hafifçe sıkıp kalçanı köprü pozisyonuna yükselt.",
+      "Topu yerinde tutarak kalçanı yavaşça indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/adductor-squeeze-bridge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Adductor Squeeze Bridge, with the target muscle highlighted in red.",
+          "tr": "Top Sıkmalı Köprü hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/adductor-squeeze-bridge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "archer-push-up",
     "slug": "archer-push-up",
     "name": "Okçu Şınavı",
@@ -801,6 +846,50 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-drag-curl",
+    "slug": "barbell-drag-curl",
+    "name": "Barı Gövdeye Yakın Çekerek Biceps Curl",
+    "description": "Dirseklerin geriye gittiği ve barın gövdeye yakın yükseldiği alttan tutuş curl.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Barı alttan kavrayıp üst bacaklarının önünde dik dur.",
+      "Dirseklerini hafifçe geriye götürürken barı karnına yakın tutarak yükselt.",
+      "Gövdeni savurmadan aynı yoldan kontrollü indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/barbell-drag-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Barbell Drag Curl, with the target muscle highlighted in red.",
+          "tr": "Barı Gövdeye Yakın Çekerek Biceps Curl hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-drag-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-hip-thrust",
     "slug": "barbell-hip-thrust",
     "name": "Halterle Hip Thrust",
@@ -1109,6 +1198,50 @@
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bench-dip.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "bent-over-dumbbell-reverse-fly",
+    "slug": "bent-over-dumbbell-reverse-fly",
+    "name": "Öne Eğilerek Dambıl Ters Açış",
+    "description": "Arka omuzları çalıştırmak için öne eğilerek hafif dambılları yana açma.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "upper-back"
+    ],
+    "instructions": [
+      "Kalçadan öne eğilip sırtını sabit tut; hafif dambılları omuzlarının altında sarkıt.",
+      "Dirseklerini hafif bükülü tutarak kollarını omuz hizasına yakın yana aç.",
+      "Gövdeni savurmadan ağırlıkları yavaşça indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/bent-over-dumbbell-reverse-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Bent-Over Dumbbell Reverse Fly, with the target muscle highlighted in red.",
+          "tr": "Öne Eğilerek Dambıl Ters Açış hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bent-over-dumbbell-reverse-fly.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
@@ -2055,6 +2188,48 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cat-cow",
+    "slug": "cat-cow",
+    "name": "Kedi-İnek Mobilitesi",
+    "description": "Dört ayak üzerinde omurganın yuvarlanması ve hafifçe açılması arasında yapılan mobilite hareketi.",
+    "category": "mobility",
+    "movementPattern": "core",
+    "difficulty": "beginner",
+    "equipment": [
+      "mat"
+    ],
+    "primaryMuscles": [
+      "lower-back"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Ellerin omuz, dizlerin kalça altında olacak biçimde dört ayak pozisyonu al.",
+      "Boynunu zorlamadan omurganı yavaşça yuvarla ve başının hareketi izlemesine izin ver.",
+      "Ağrıya zorlamadan rahat bir hafif açılma pozisyonuna geç, sonra geri dön."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/cat-cow.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Cat-Cow, with the target muscle highlighted in red.",
+          "tr": "Kedi-İnek Mobilitesi hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cat-cow.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "chest-supported-dumbbell-row",
     "slug": "chest-supported-dumbbell-row",
     "name": "Göğüs Destekli Dambıl Kürek",
@@ -2739,6 +2914,50 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dead-bug",
+    "slug": "dead-bug",
+    "name": "Ölü Böcek",
+    "description": "Sırtüstü pozisyonda karşı kol ve bacağın uzatıldığı gövde kontrol hareketi.",
+    "category": "strength",
+    "movementPattern": "core",
+    "difficulty": "beginner",
+    "equipment": [
+      "mat"
+    ],
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "obliques"
+    ],
+    "instructions": [
+      "Sırtüstü yat; kollarını omuzlarının üstüne uzat, kalça ve dizlerini yaklaşık 90 derece bük.",
+      "Gövdeni sabit tutarken bir kolu baş üstüne, karşı bacağı yere doğru uzat.",
+      "Başlangıç konumuna dönüp acele etmeden taraf değiştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/dead-bug.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Dead Bug, with the target muscle highlighted in red.",
+          "tr": "Ölü Böcek hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dead-bug.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "decline-dumbbell-press",
     "slug": "decline-dumbbell-press",
     "name": "Alt Eğimli Dambıl Press",
@@ -3153,6 +3372,52 @@
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-biceps-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-floor-press",
+    "slug": "dumbbell-floor-press",
+    "name": "Yerde Dambıl Pres",
+    "description": "Yerde sırtüstü yatılarak iki dambılla yapılan yatay itiş.",
+    "category": "strength",
+    "movementPattern": "push",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell",
+      "mat"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "instructions": [
+      "Dizler bükülü ve ayaklar yerde sırtüstü yat; her eline bir dambıl alıp üst kollarını yere yaklaştır.",
+      "Dirseklerini yere çarptırmadan dambılları göğsünün orta hattı üzerinde yukarı it.",
+      "Üst kolların yeniden yere yaklaşana kadar ağırlıkları kontrollü indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-floor-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Dumbbell Floor Press, with the target muscle highlighted in red.",
+          "tr": "Yerde Dambıl Pres hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-floor-press.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
@@ -6429,6 +6694,50 @@
   },
   {
     "schemaVersion": 1,
+    "id": "overhead-dumbbell-shrug",
+    "slug": "overhead-dumbbell-shrug",
+    "name": "Baş Üstü Dambıl Omuz Silkme",
+    "description": "İki hafif dambıl baş üstünde tutulurken yapılan küçük kürek kemiği yükseltmesi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "İki hafif dambılı baş üstünde tutup dengeli dur; dirseklerini zorlayarak kilitleme.",
+      "Dirseklerini bükmeden veya belini kavislendirmeden kürek kemiklerini hafifçe yukarı yükselt.",
+      "Kontrollü indir; baş üstünde dengede tutabildiğin ağırlığı kullan."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/overhead-dumbbell-shrug.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Overhead Dumbbell Shrug, with the target muscle highlighted in red.",
+          "tr": "Baş Üstü Dambıl Omuz Silkme hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/overhead-dumbbell-shrug.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "overhead-press",
     "slug": "overhead-press",
     "name": "Ayakta Baş Üstü Press",
@@ -6841,6 +7150,52 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/middle-back-prone-incline-y-raise.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "prone-t-raise",
+    "slug": "prone-t-raise",
+    "name": "Yüzüstü T Kaldırış",
+    "description": "Yüzüstü pozisyonda kolları T biçiminde açarak kürek kemiklerini yaklaştıran hareket.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "upper-back"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "traps"
+    ],
+    "instructions": [
+      "Göğsün sehpaya dayanırken hafif dambılları omuzlarının altında serbest bırak.",
+      "Gövdeni kaldırmadan veya omuz silkmenden kollarını yana açıp T şekline getir.",
+      "Kollarını yavaşça başlangıç konumuna indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/prone-t-raise.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Prone T Raise, with the target muscle highlighted in red.",
+          "tr": "Yüzüstü T Kaldırış hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/prone-t-raise.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -7479,6 +7834,50 @@
   },
   {
     "schemaVersion": 1,
+    "id": "russian-twist",
+    "slug": "russian-twist",
+    "name": "Rus Rotasyonu",
+    "description": "Dizler bükülüyken oturarak yapılan kontrollü gövde rotasyonu.",
+    "category": "strength",
+    "movementPattern": "rotation",
+    "difficulty": "beginner",
+    "equipment": [
+      "mat"
+    ],
+    "primaryMuscles": [
+      "obliques"
+    ],
+    "secondaryMuscles": [
+      "abdominals"
+    ],
+    "instructions": [
+      "Dizlerin bükülü ve topukların yerde hafif destekliyken gövdeni biraz geriye alarak otur.",
+      "Kalçanı sabit tutup göğsünü ve birleşik ellerini bir yana çevir.",
+      "Belini zorlamadan merkezden geçerek kontrollü biçimde diğer yana dön."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/russian-twist.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Russian Twist, with the target muscle highlighted in red.",
+          "tr": "Rus Rotasyonu hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/russian-twist.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "scapular-pull-up",
     "slug": "scapular-pull-up",
     "name": "Skapular Barfiks",
@@ -7588,6 +7987,48 @@
   },
   {
     "schemaVersion": 1,
+    "id": "seated-active-neck-rotation",
+    "slug": "seated-active-neck-rotation",
+    "name": "Oturarak Aktif Boyun Rotasyonu",
+    "description": "Omuzlar sabitken başın nazikçe yana çevrildiği aktif boyun hareketi.",
+    "category": "mobility",
+    "movementPattern": "rotation",
+    "difficulty": "beginner",
+    "equipment": [
+      "bench"
+    ],
+    "primaryMuscles": [
+      "neck"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Omuzların gevşek, bakışların öndeyken dik otur.",
+      "Gövdeni sabit tutup başını rahat hareket aralığında nazikçe bir yana çevir.",
+      "Merkeze dönüp diğer yanı çalıştır; ağrı, uyuşma veya baş dönmesi olursa dur."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/seated-active-neck-rotation.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Seated Active Neck Rotation, with the target muscle highlighted in red.",
+          "tr": "Oturarak Aktif Boyun Rotasyonu hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-active-neck-rotation.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "seated-back-extension",
     "slug": "seated-back-extension",
     "name": "Oturarak Makinede Sırt Ekstansiyonu",
@@ -7636,6 +8077,51 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-seated-back-extension.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-band-hip-abduction",
+    "slug": "seated-band-hip-abduction",
+    "name": "Oturarak Bantlı Kalça Açışı",
+    "description": "Halka banda karşı dizlerin dışa açıldığı oturarak kalça hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "band",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "abductors"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "instructions": [
+      "Ayakların yerde dik otur; hafif halka bandı dizlerinin hemen üstüne yerleştir.",
+      "Ayaklarını kaldırmadan veya geriye yaslanmadan dizlerini banda karşı dışa aç.",
+      "Bandın dizlerini hızla kapatmasına izin vermeden yavaşça geri dön."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/seated-band-hip-abduction.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Seated Band Hip Abduction, with the target muscle highlighted in red.",
+          "tr": "Oturarak Bantlı Kalça Açışı hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-band-hip-abduction.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -7845,6 +8331,49 @@
   },
   {
     "schemaVersion": 1,
+    "id": "seated-dumbbell-finger-curl",
+    "slug": "seated-dumbbell-finger-curl",
+    "name": "Oturarak Dambıl Parmak Curl",
+    "description": "Hafif dambılı parmak uçlarına doğru yuvarlayıp tekrar kavrayarak yapılan oturarak tutuş hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Ön kolların uyluklarında destekliyken avuçların yukarı dönük otur; hafif dambılları güvenli kavra.",
+      "Ağırlıkları bırakmadan sapları parmak uçlarına doğru yuvarla, ardından parmaklarını kapatıp tekrar kavra.",
+      "Yavaşça geri dön; tüm hareket boyunca kontrol edebildiğin ağırlığı kullan."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/seated-dumbbell-finger-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Seated Dumbbell Finger Curl, with the target muscle highlighted in red.",
+          "tr": "Oturarak Dambıl Parmak Curl hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-dumbbell-finger-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "seated-dumbbell-shoulder-press",
     "slug": "seated-dumbbell-shoulder-press",
     "name": "Oturarak Dambılla Omuz Press",
@@ -8003,6 +8532,50 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-hip-flexion",
+    "slug": "seated-hip-flexion",
+    "name": "Oturarak Tek Bacak Kalça Fleksiyonu",
+    "description": "Kalçanın ön kısmıyla yapılan oturarak tek diz kaldırma hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "bench"
+    ],
+    "primaryMuscles": [
+      "hip-flexors"
+    ],
+    "secondaryMuscles": [
+      "abdominals"
+    ],
+    "instructions": [
+      "Sabit sehpada dik otur; iki ayağın yerdeyken kenarları tut.",
+      "Geriye yaslanmadan veya gövdeni savurmadan bir dizini göğsüne doğru kaldır.",
+      "Ayağını yavaşça indir ve bacak değiştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/seated-hip-flexion.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Seated Single-Leg Hip Flexion, with the target muscle highlighted in red.",
+          "tr": "Oturarak Tek Bacak Kalça Fleksiyonu hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-hip-flexion.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -8369,6 +8942,51 @@
   },
   {
     "schemaVersion": 1,
+    "id": "single-arm-high-cable-row",
+    "slug": "single-arm-high-cable-row",
+    "name": "Tek Kol Yüksek Kablo Çekişi",
+    "description": "Yüksek makaradan alt kaburgalara doğru ayakta yapılan tek kollu çekiş.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper-back"
+    ],
+    "instructions": [
+      "Yüksek makaraya dönük dur ve bir elinle tutamağı yukarı uzanarak kavra.",
+      "Gövdeni sabit tutup dirseğini alt kaburgalarına doğru aşağı çek.",
+      "Kolunu kontrollü uzat; diğer tarafı da çalıştır."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/single-arm-high-cable-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Single-Arm High Cable Row, with the target muscle highlighted in red.",
+          "tr": "Tek Kol Yüksek Kablo Çekişi hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-high-cable-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "single-arm-kneeling-lat-pulldown",
     "slug": "single-arm-kneeling-lat-pulldown",
     "name": "Tek Kol Diz Çökerek Lat Çekiş",
@@ -8419,6 +9037,50 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-single-arm-kneeling-lat-pulldown.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "single-arm-overhead-dumbbell-triceps-extension",
+    "slug": "single-arm-overhead-dumbbell-triceps-extension",
+    "name": "Tek Kol Baş Üstü Dambıl Triceps Açışı",
+    "description": "Üst kolun baş yanında tutulduğu tek kollu baş üstü dirsek açışı.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Hafif dambılı bir elle baş üstünde tut; üst kol kulağının yanında kalırken dirseğini büküp ağırlığı baş arkası yönüne indir.",
+      "Belini aşırı kavislendirmeden dirseğini neredeyse düzleşene kadar aç.",
+      "Yavaşça indir; setten sonra kol değiştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/single-arm-overhead-dumbbell-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Single-Arm Overhead Dumbbell Triceps Extension, with the target muscle highlighted in red.",
+          "tr": "Tek Kol Baş Üstü Dambıl Triceps Açışı hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-overhead-dumbbell-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -8522,6 +9184,50 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-single-leg-glute-bridge.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "single-leg-hip-thrust",
+    "slug": "single-leg-hip-thrust",
+    "name": "Tek Bacak Hip Thrust",
+    "description": "Tek basan bacakla sehpaya dayanarak yapılan kalça itişi.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "difficulty": "beginner",
+    "equipment": [
+      "bench"
+    ],
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Üst sırtını sabit sehpaya daya, bir ayağını yere bas ve diğer dizini havada tut.",
+      "Basan ayağınla iterek kalçanı gövde ve uyluk hizalanana kadar yükselt.",
+      "Kalçanı döndürmeden kontrollü indir; bacak değiştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/single-leg-hip-thrust.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Single-Leg Hip Thrust, with the target muscle highlighted in red.",
+          "tr": "Tek Bacak Hip Thrust hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-leg-hip-thrust.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -9051,6 +9757,48 @@
   },
   {
     "schemaVersion": 1,
+    "id": "standing-band-leg-curl",
+    "slug": "standing-band-leg-curl",
+    "name": "Ayakta Bantlı Bacak Curl",
+    "description": "Alçaktan sabitlenmiş banda karşı ayakta diz bükme hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "band"
+    ],
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Hafif bandı alçaktan sabitleyip bir bileğine geçir ve sağlam bir destek tut.",
+      "Uyluğunu mümkün olduğunca sabit tutarken dizini büküp topuğunu kalçana yaklaştır.",
+      "Banda karşı ayağını yavaşça indir; diğer bacağı da çalıştır."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/standing-band-leg-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Standing Band Leg Curl, with the target muscle highlighted in red.",
+          "tr": "Ayakta Bantlı Bacak Curl hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-band-leg-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "step-up",
     "slug": "step-up",
     "name": "Yükseltiye Adım",
@@ -9361,6 +10109,51 @@
   },
   {
     "schemaVersion": 1,
+    "id": "tiptoe-farmer-carry",
+    "slug": "tiptoe-farmer-carry",
+    "name": "Parmak Ucunda Farmer Carry",
+    "description": "Baldırları çalıştırmak için ayak taraklarında yükselerek yapılan ağırlıklı taşıma.",
+    "category": "strength",
+    "movementPattern": "carry",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [
+      "forearms",
+      "traps"
+    ],
+    "instructions": [
+      "Her eline kontrol edebildiğin bir dambıl alıp açık bir yürüme alanında dik dur.",
+      "Ayak taraklarına yüksel ve bileklerini yana kaçırmadan kısa, kontrollü adımlar at.",
+      "Gerektiğinde topuklarını indirip dengeni yeniden kur; yol açıkken devam et."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/tiptoe-farmer-carry.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Tiptoe Farmer Carry, with the target muscle highlighted in red.",
+          "tr": "Parmak Ucunda Farmer Carry hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/tiptoe-farmer-carry.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "triceps-pushdown",
     "slug": "triceps-pushdown",
     "name": "Kablo Arka Kol İtişi",
@@ -9558,6 +10351,50 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/quadriceps-walking-lunge.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "wall-sit",
+    "slug": "wall-sit",
+    "name": "Duvar Oturuşu",
+    "description": "Sırt duvara dayanırken yapılan izometrik çömelme tutuşu.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "difficulty": "beginner",
+    "equipment": [
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "instructions": [
+      "Sırtını duvara daya, ayaklarını rahat bir adım öne yerleştir.",
+      "Dizlerin ayaklarınla aynı yönde kalacak biçimde rahat bir oturuş seviyesine kay.",
+      "Normal nefes alarak bekle, sonra ayaklarından itip doğrul; diz ağrısı olursa dur."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "media": [
+      {
+        "path": "media/exercises/wall-sit.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale panels show the start and finish of Wall Sit, with the target muscle highlighted in red.",
+          "tr": "Duvar Oturuşu hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-sit.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },

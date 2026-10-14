@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "wall-sit",
+  "slug": "wall-sit",
+  "name": {
+    "en": "Wall Sit",
+    "tr": "Duvar Oturuşu"
+  },
+  "description": {
+    "en": "An isometric squat hold with the back supported by a wall.",
+    "tr": "Sırt duvara dayanırken yapılan izometrik çömelme tutuşu."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with the back against a wall and feet a comfortable step in front.",
+      "Slide down to a comfortable seated position with knees tracking over feet.",
+      "Hold while breathing normally, then push through the feet to stand; stop if knee pain occurs."
+    ],
+    "tr": [
+      "Sırtını duvara daya, ayaklarını rahat bir adım öne yerleştir.",
+      "Dizlerin ayaklarınla aynı yönde kalacak biçimde rahat bir oturuş seviyesine kay.",
+      "Normal nefes alarak bekle, sonra ayaklarından itip doğrul; diz ağrısı olursa dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/wall-sit.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the start and finish of Wall Sit, with the target muscle highlighted in red.",
+        "tr": "Duvar Oturuşu hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-sit.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

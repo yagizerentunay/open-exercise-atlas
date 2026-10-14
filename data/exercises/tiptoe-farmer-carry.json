@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "tiptoe-farmer-carry",
+  "slug": "tiptoe-farmer-carry",
+  "name": {
+    "en": "Tiptoe Farmer Carry",
+    "tr": "Parmak Ucunda Farmer Carry"
+  },
+  "description": {
+    "en": "A loaded carry performed high on the balls of the feet to challenge the calves.",
+    "tr": "Baldırları çalıştırmak için ayak taraklarında yükselerek yapılan ağırlıklı taşıma."
+  },
+  "category": "strength",
+  "movementPattern": "carry",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Stand tall with a manageable dumbbell in each hand and clear walking space.",
+      "Rise onto the balls of the feet and take short controlled steps without letting the ankles roll.",
+      "Lower the heels when needed, reset balance, and continue only while the path remains clear."
+    ],
+    "tr": [
+      "Her eline kontrol edebildiğin bir dambıl alıp açık bir yürüme alanında dik dur.",
+      "Ayak taraklarına yüksel ve bileklerini yana kaçırmadan kısa, kontrollü adımlar at.",
+      "Gerektiğinde topuklarını indirip dengeni yeniden kur; yol açıkken devam et."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/tiptoe-farmer-carry.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the start and finish of Tiptoe Farmer Carry, with the target muscle highlighted in red.",
+        "tr": "Parmak Ucunda Farmer Carry hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/tiptoe-farmer-carry.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

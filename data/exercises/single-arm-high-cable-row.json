@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "single-arm-high-cable-row",
+  "slug": "single-arm-high-cable-row",
+  "name": {
+    "en": "Single-Arm High Cable Row",
+    "tr": "Tek Kol Yüksek Kablo Çekişi"
+  },
+  "description": {
+    "en": "A standing unilateral row from a high pulley toward the lower ribs.",
+    "tr": "Yüksek makaradan alt kaburgalara doğru ayakta yapılan tek kollu çekiş."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand facing a high pulley and reach one arm up to take the handle.",
+      "Pull the elbow down toward the lower ribs while keeping the torso steady.",
+      "Extend the arm upward under control; repeat on the other side."
+    ],
+    "tr": [
+      "Yüksek makaraya dönük dur ve bir elinle tutamağı yukarı uzanarak kavra.",
+      "Gövdeni sabit tutup dirseğini alt kaburgalarına doğru aşağı çek.",
+      "Kolunu kontrollü uzat; diğer tarafı da çalıştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/single-arm-high-cable-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the start and finish of Single-Arm High Cable Row, with the target muscle highlighted in red.",
+        "tr": "Tek Kol Yüksek Kablo Çekişi hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-high-cable-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

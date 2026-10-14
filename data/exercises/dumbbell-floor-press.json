@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-floor-press",
+  "slug": "dumbbell-floor-press",
+  "name": {
+    "en": "Dumbbell Floor Press",
+    "tr": "Yerde Dambıl Pres"
+  },
+  "description": {
+    "en": "A horizontal press performed lying on the floor with two dumbbells.",
+    "tr": "Yerde sırtüstü yatılarak iki dambılla yapılan yatay itiş."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on the floor with knees bent, feet planted, and a dumbbell in each hand; let the upper arms approach the floor.",
+      "Press both dumbbells above the mid-chest without bouncing the elbows or overextending them.",
+      "Lower under control until the upper arms lightly approach the floor again."
+    ],
+    "tr": [
+      "Dizler bükülü ve ayaklar yerde sırtüstü yat; her eline bir dambıl alıp üst kollarını yere yaklaştır.",
+      "Dirseklerini yere çarptırmadan dambılları göğsünün orta hattı üzerinde yukarı it.",
+      "Üst kolların yeniden yere yaklaşana kadar ağırlıkları kontrollü indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-floor-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the start and finish of Dumbbell Floor Press, with the target muscle highlighted in red.",
+        "tr": "Yerde Dambıl Pres hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-floor-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

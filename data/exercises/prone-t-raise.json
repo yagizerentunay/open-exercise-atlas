@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "prone-t-raise",
+  "slug": "prone-t-raise",
+  "name": {
+    "en": "Prone T Raise",
+    "tr": "Yüzüstü T Kaldırış"
+  },
+  "description": {
+    "en": "A prone arm raise that draws the shoulder blades together in a T shape.",
+    "tr": "Yüzüstü pozisyonda kolları T biçiminde açarak kürek kemiklerini yaklaştıran hareket."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Lie chest-down on a bench with light dumbbells hanging below the shoulders.",
+      "Raise the arms outward into a T without lifting the torso or shrugging.",
+      "Lower slowly to the hanging position."
+    ],
+    "tr": [
+      "Göğsün sehpaya dayanırken hafif dambılları omuzlarının altında serbest bırak.",
+      "Gövdeni kaldırmadan veya omuz silkmenden kollarını yana açıp T şekline getir.",
+      "Kollarını yavaşça başlangıç konumuna indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/prone-t-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the start and finish of Prone T Raise, with the target muscle highlighted in red.",
+        "tr": "Yüzüstü T Kaldırış hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/prone-t-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}
