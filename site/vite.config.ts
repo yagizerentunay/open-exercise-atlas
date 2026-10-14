@@ -3,7 +3,7 @@ import { resolve } from 'node:path'
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// Muscles without a file here (neck, hip-flexors, ...) get a text-only tile rather than a broken image.
+// Muscles without a file here get a text-only tile rather than a broken image.
 const muscleIllustrations = readdirSync(resolve(import.meta.dirname, '../media/muscles')).filter((name) => name.endsWith('.png')).sort()
 
 export default defineConfig({
