@@ -1,0 +1,125 @@
+{
+  "monk": {
+    "id": "Barbell_Bench_Press_-_Medium_Grip",
+    "name": "Barbell Bench Press - Medium Grip",
+    "equipment": "barbell",
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "images": [
+      "Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+      "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+    ]
+  },
+  "sources": [
+    "data/free-exercise-db/exercises.json",
+    "public/data/exercises.json",
+    "public/data/instructions.json"
+  ],
+  "instructions": [
+    "Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+    "From the starting position, breathe in and begin coming down slowly until the bar touches your middle chest.",
+    "After a brief pause, push the bar back to the starting position as you breathe out. Focus on pushing the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position at the top of the motion, hold for a second and then start coming down slowly again. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
+    "Repeat the movement for the prescribed amount of repetitions.",
+    "When you are done, place the bar back in the rack."
+  ],
+  "atlasCandidates": [
+    {
+      "id": "barbell-bench-press",
+      "name": "Barbell Bench Press",
+      "legacyIdPresent": false,
+      "equipment": [
+        "barbell",
+        "bench"
+      ],
+      "primaryMuscles": [
+        "chest",
+        "triceps"
+      ],
+      "secondaryMuscles": [
+        "shoulders"
+      ],
+      "media": [
+        {
+          "path": "media/exercises/barbell-bench-press.png",
+          "role": "finish",
+          "alt": {
+            "en": "Grayscale athlete pressing a barbell above a flat bench, with the chest highlighted red and an upward arrow.",
+            "tr": "Düz sehpada halteri yukarı iten gri tonlu sporcu; göğüs kasları kırmızıyla ve itiş yönü okla gösteriliyor."
+          },
+          "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+          "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-bench-press.png",
+          "license": "CC0-1.0",
+          "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+        }
+      ]
+    }
+  ],
+  "matchStatus": "needs-human-review",
+  "matchNotes": [
+    "Equipment and flat barbell press mechanics align, but Monk specifies medium grip while Atlas does not.",
+    "Monk primary chest; secondary shoulders/triceps. Atlas primary chest/triceps; secondary shoulders. Equivalence and muscle taxonomy require human review."
+  ],
+  "atlasId": "barbell-bench-press",
+  "prompts": {
+    "start": "Original transparent-background Warrior Monk anatomical technical illustration, neutral adult athlete with consistent face and body proportions, grayscale sculpted anatomy, charcoal flat bench and rack, matching balanced plates, three-quarter camera from foot end, full equipment and both planted feet visible. Pectoralis major anatomically bounded saturated red #E53935; anterior deltoid and triceps brachii lighter muted red; all other muscles neutral gray. No text, logos or watermark. Flat medium-grip barbell bench press lowered explanatory position: athlete supine with head, upper back and hips supported, scapulae stable, wrists stacked above vertical forearms, elbows moderately tucked and bent, straight bar at mid/lower chest, both hands symmetric. Avoid bar over chin, forearm/biceps red, floating feet or joint deformation.",
+    "finish": "Original transparent-background Warrior Monk anatomical technical illustration, neutral adult athlete with consistent face and body proportions, grayscale sculpted anatomy, charcoal flat bench and rack, matching balanced plates, three-quarter camera from foot end, full equipment and both planted feet visible. Pectoralis major anatomically bounded saturated red #E53935; anterior deltoid and triceps brachii lighter muted red; all other muscles neutral gray. No text, logos or watermark. The same athlete, bench, rack, bar and camera in raised position: bar vertically above upper torso, arms nearly extended without hyperextension, stable shoulders and straight wrists, feet planted. Keep the same plate count, grip width and anatomy overlay as start; avoid crooked bar, asymmetric hands or red outside target muscles."
+  },
+  "assets": {
+    "start": {
+      "png": "docs/pilots/barbell-bench-press/barbell-bench-press-start-review.png",
+      "webp": "docs/pilots/barbell-bench-press/barbell-bench-press-start-review.webp",
+      "pngSha256": "c405502ceb6a19a0cf76aca6d5f92a846766269aaf644b21abf886f16083f610",
+      "webpSha256": "d38132c98c814bf46e7332551f0c67d4c91d06be25c04b42b75ab6c50aabc00f"
+    },
+    "finish": {
+      "png": "docs/pilots/barbell-bench-press/barbell-bench-press-finish-review.png",
+      "webp": "docs/pilots/barbell-bench-press/barbell-bench-press-finish-review.webp",
+      "pngSha256": "8e25f636ed82c1f48731fe13bf192a92ac18ef04b09bac77fde0275e40e04470",
+      "webpSha256": "3f4bdaa247a259a7634a207ae8a1734acc64bfadda03a10e2f9dec9a43215c93"
+    }
+  },
+  "visualReview": "pending",
+  "rightsReview": "pending",
+  "issues": [
+    "Start bar position appears too high relative to lower/mid chest in perspective; human form review required.",
+    "Secondary overlay placement, especially triceps versus anterior deltoid, needs human anatomy review.",
+    "Existing Atlas finish PNG remains registered and untouched. Neither new frame is approved or registered."
+  ],
+  "generation": {
+    "tool": "OpenAI built-in image generation",
+    "model": "not exposed by tool",
+    "date": "2026-10-13",
+    "method": "original generation with existing Atlas finish as continuity reference; start refined once; finish generated from first start draft"
+  },
+  "mediaDraft": [
+    {
+      "path": "media/exercises/barbell-bench-press-start.webp",
+      "role": "start",
+      "alt": {
+        "en": "Athlete holding a medium-grip barbell near the chest on a flat bench; pectorals highlighted dark red and assisting front deltoids and triceps light red.",
+        "tr": "Düz sehpada orta tutuşlu halteri göğse yakın tutan sporcu; göğüs koyu kırmızı, ön omuz ve triceps açık kırmızı."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": null,
+      "license": null,
+      "redistributionEvidenceUrl": null
+    },
+    {
+      "path": "media/exercises/barbell-bench-press-finish.webp",
+      "role": "finish",
+      "alt": {
+        "en": "Athlete pressing a medium-grip barbell above the chest on a flat bench; pectorals highlighted dark red and assisting front deltoids and triceps light red.",
+        "tr": "Düz sehpada orta tutuşlu halteri göğsün üstüne iten sporcu; göğüs koyu kırmızı, ön omuz ve triceps açık kırmızı."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": null,
+      "license": null,
+      "redistributionEvidenceUrl": null
+    }
+  ]
+}
