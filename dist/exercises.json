@@ -282,14 +282,14 @@
     ],
     "instructions": {
       "en": [
-        "Sit on a bench with back support; hold the dumbbells at shoulder height with your palms facing your torso.",
-        "As you press the dumbbells up, rotate your palms to face forward; keep your back against the bench and your torso still.",
-        "Perform the rotation under control and lower the dumbbells to shoulder height; shorten the range if your shoulder hurts."
+        "Sit with your hips and torso supported and your feet planted. Hold the dumbbells at shoulder height with your palms facing you and your wrists stacked over your elbows.",
+        "Press upward while gradually rotating your palms forward. Keep your torso steady without arching your lower back excessively; use a comfortable, controlled range.",
+        "Lower the dumbbells under control to shoulder height, reversing the palm rotation as you descend. If the movement causes shoulder pain, stop and choose a pain-free alternative."
       ],
       "tr": [
-        "Sırt destekli sehpaya otur; dambılları omuz hizasında, avuçların gövdene dönük tut.",
-        "Dambılları yukarı iterken avuçlarını öne çevir; belini sehpaya yaslı ve gövdeni sabit tut.",
-        "Dönüşü kontrollü yapıp dambılları omuz hizasına indir; omuz ağrısında aralığı kısalt."
+        "Kalçan ve gövden destekli, ayakların yere basacak şekilde otur. Dambılları omuz hizasında, avuç içlerin gövdene dönük ve bileklerin dirseklerinin üzerinde olacak biçimde tut.",
+        "Yukarı iterken avuç içlerini kademeli olarak öne çevir. Belini aşırı çukurlaştırmadan gövdeni sabit tut; rahat ve kontrollü bir hareket aralığı kullan.",
+        "Dambılları kontrollü biçimde omuz hizasına indirirken avuç dönüşünü tersine çevir. Hareket omuz ağrısı oluşturursa dur ve ağrısız bir alternatif seç."
       ]
     },
     "legacyIds": [
@@ -307,13 +307,13 @@
     ],
     "media": [
       {
-        "path": "media/exercises/arnold-press.webp",
+        "path": "media/exercises/arnold-press-revised.webp",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the Arnold Press, shoulders highlighted in red.",
-          "tr": "Arnold Press hareketini yapan gri tonlu sporcu; omuz kasları kırmızıyla vurgulanıyor."
+          "en": "Seated Arnold Press shown at the start with palms facing the torso and at the overhead finish with palms forward; small red arrows beside the wrists indicate the outward rotation. Shoulders are highlighted in red.",
+          "tr": "Arnold Press'in oturarak başlangıç ve dambıllar baş üstünde bitiş pozları; başlangıçta avuç içleri gövdeye, bitişte öne dönük. Bilek yanındaki küçük kırmızı oklar dışa dönüşü gösteriyor; omuzlar kırmızı vurgulu."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
+        "creator": "Open Exercise Atlas (AI-assisted edit)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-arnold-press.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
