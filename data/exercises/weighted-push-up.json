@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "weighted-push-up",
+  "slug": "weighted-push-up",
+  "name": {
+    "en": "Weighted Push-Up",
+    "tr": "Ağırlıklı Şınav"
+  },
+  "description": {
+    "en": "A push-up is performed in a fitted weighted vest while the body stays in a straight plank line.",
+    "tr": "Vücut plank hizasında tutulurken vücuda oturan ağırlık yeleğiyle şınav yapılır."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "advanced",
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Wear a fitted weighted vest and set up in a high plank with hands just wider than shoulder width.",
+      "Lower your chest toward the floor while keeping your body aligned from shoulders to heels.",
+      "Press the floor away to return to the top; use a lighter vest or a regular push-up if alignment changes."
+    ],
+    "tr": [
+      "Vücuda iyi oturan ağırlık yeleğini giy; ellerin omuzlarından biraz açık, yüksek plank pozisyonu al.",
+      "Omuzlarından topuklarına kadar hizanı koruyarak göğsünü yere doğru indir.",
+      "Üst konuma dönmek için yeri it; hizan bozulursa yeleği hafiflet veya normal şınav yap."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "push-up",
+    "deficit-push-up",
+    "decline-push-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/weighted-push-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Weighted Push-Up; target muscles highlighted in red.",
+        "tr": "['Vücuda iyi oturan ağırlık yeleğini giy; ellerin omuzlarından biraz açık, yüksek plank pozisyonu al.', 'Omuzlarından topuklarına kadar hizanı koruyarak göğsünü yere doğru indir.', 'Üst konuma dönmek için yeri it; hizan bozulursa yeleği hafiflet veya normal şınav yap.'] hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/weighted-push-up.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-13.md"
+    }
+  ]
+}

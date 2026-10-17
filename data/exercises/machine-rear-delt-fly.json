@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-rear-delt-fly",
+  "slug": "machine-rear-delt-fly",
+  "name": {
+    "en": "Machine Rear-Delt Fly",
+    "tr": "Makinede Arka Omuz Açışı"
+  },
+  "description": {
+    "en": "A seated reverse-fly movement on a pec-deck machine that emphasizes the rear deltoids.",
+    "tr": "Arka omuzları hedefleyen, pec-deck makinesinde oturarak yapılan ters açış hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Set the handles around chest height and sit facing the machine pad with a soft bend in your elbows.",
+      "Open your arms to the sides through the shoulders; keep your torso against the pad.",
+      "Return the handles slowly without letting the weights slam together."
+    ],
+    "tr": [
+      "Tutacakları göğüs hizasına ayarla; makine minderine dönük otur ve dirseklerini hafif bük.",
+      "Gövdeni minderde sabit tutarak omuzlarından hareketle kollarını iki yana aç.",
+      "Ağırlıkları çarptırmadan tutacakları yavaşça başlangıca getir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/machine-rear-delt-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Machine Rear-Delt Fly; target muscles highlighted in red.",
+        "tr": "Makinede Arka Omuz Açışı hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-rear-delt-fly.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

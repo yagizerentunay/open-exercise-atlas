@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "burpee",
+  "slug": "burpee",
+  "name": {
+    "en": "Burpee",
+    "tr": "Burpee"
+  },
+  "description": {
+    "en": "A bodyweight conditioning sequence that moves from standing through a plank and back to standing.",
+    "tr": "Ayakta duruştan plank pozisyonuna ve tekrar ayağa geçilen vücut ağırlığı kondisyon hareketi."
+  },
+  "category": "cardio",
+  "movementPattern": "squat",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes",
+    "calves",
+    "chest"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with feet about hip-width apart, then squat and place your hands on the floor.",
+      "Step or hop both feet back to a firm high plank while keeping your trunk braced.",
+      "Bring your feet forward and stand; add a small jump only if you can land quietly, or step to reduce impact."
+    ],
+    "tr": [
+      "Ayakların yaklaşık kalça genişliğinde ayakta dur; çömelip ellerini yere koy.",
+      "Gövdeni sıkarak iki ayağını adımla veya sıçrayarak sağlam bir yüksek planka al.",
+      "Ayaklarını öne getirip ayağa kalk; sessiz ve kontrollü inebiliyorsan küçük bir sıçrama ekle, darbeyi azaltmak için adım kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/burpee.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Burpee; target muscles highlighted in red.",
+        "tr": "Burpee hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/burpee.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-10.md"
+    }
+  ]
+}

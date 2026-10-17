@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "quadruped-adductor-rockback",
+  "slug": "quadruped-adductor-rockback",
+  "name": {
+    "en": "Quadruped Adductor Rockback",
+    "tr": "Dört Ayak İç Bacak Geriye Salınımı"
+  },
+  "description": {
+    "en": "A gentle mobility drill rocking hips back with one leg extended to the side.",
+    "tr": "Bir bacak yana uzatılmışken kalçaları geriye götüren hafif hareketlilik çalışması."
+  },
+  "category": "mobility",
+  "movementPattern": "lunge",
+  "difficulty": "beginner",
+  "equipment": [
+    "mat"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "force": "static",
+  "mechanic": "isolation",
+  "instructions": {
+    "en": [
+      "Start on hands and knees and extend one leg to the side with foot flat.",
+      "Keep your back long and shift hips toward heels to a mild inner-thigh stretch.",
+      "Return forward within a comfortable pain-free range; switch sides."
+    ],
+    "tr": [
+      "Ellerin ve dizlerin üzerinde başla; bir bacağını yana uzatıp ayağını yere bas.",
+      "Sırtını uzun tutup iç bacağında hafif gerilme hissedene kadar kalçanı geriye götür.",
+      "Rahat ve ağrısız aralıkta öne dön; taraf değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/quadruped-adductor-rockback.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Quadruped Adductor Rockback with the target muscle highlighted in red.",
+        "tr": "Dört Ayak İç Bacak Geriye Salınımı hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/quadruped-adductor-rockback.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

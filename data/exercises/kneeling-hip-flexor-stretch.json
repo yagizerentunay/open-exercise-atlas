@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "kneeling-hip-flexor-stretch",
+  "slug": "kneeling-hip-flexor-stretch",
+  "name": {
+    "en": "Kneeling Hip-Flexor Stretch",
+    "tr": "Diz Çökerek Kalça Bükücü Esnetmesi"
+  },
+  "description": {
+    "en": "A half-kneeling mobility drill that gently lengthens the hip flexors of the rear leg.",
+    "tr": "Arkada kalan bacağın kalça bükücülerini nazikçe esneten yarım diz çöküş mobilite hareketi."
+  },
+  "category": "mobility",
+  "movementPattern": "lunge",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "hip-flexors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Kneel on a mat with one foot forward and both knees comfortably bent; keep your torso upright.",
+      "Gently brace your abdomen, keep your pelvis level, and shift forward until you feel a mild stretch at the front of the rear hip.",
+      "Hold without arching your lower back, return to center, then switch sides."
+    ],
+    "tr": [
+      "Bir ayağın önde ve iki dizin rahat bükülü olacak şekilde mata diz çök; gövdeni dik tut.",
+      "Karnını hafifçe sıkıp pelvisini dengede tutarak arkadaki kalçanın önünde hafif bir esneme hissedene kadar öne kay.",
+      "Belini çukurlaştırmadan bekle, ortaya dön ve taraf değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/kneeling-hip-flexor-stretch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Kneeling Hip-Flexor Stretch; target muscles highlighted in red.",
+        "tr": "Diz Çökerek Kalça Bükücü Esnetmesi hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kneeling-hip-flexor-stretch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-9.md"
+    }
+  ]
+}

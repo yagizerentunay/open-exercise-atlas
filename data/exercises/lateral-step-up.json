@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "lateral-step-up",
+  "slug": "lateral-step-up",
+  "name": {
+    "en": "Lateral Step-Up",
+    "tr": "Yana Step-Up"
+  },
+  "description": {
+    "en": "A lateral step-up variation in which the athlete steps sideways onto a raised platform.",
+    "tr": "Yükseltilmiş platforma yandan çıkılan step-up varyasyonu."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors"
+  ],
+  "instructions": {
+    "en": [
+      "Stand sideways next to a low, sturdy box and place the nearer foot fully on top.",
+      "Push through the elevated foot to step up, keeping your knee aligned with your toes.",
+      "Step back down slowly and repeat; switch sides after the set."
+    ],
+    "tr": [
+      "Alçak ve sağlam bir kutunun yanında yana dönük dur; yakın ayağını tamamen üzerine yerleştir.",
+      "Dizini ayak parmaklarınla aynı hizada tutarak üstteki ayağından güç alıp yüksel.",
+      "Yavaşça geri inip tekrarla; setten sonra taraf değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/lateral-step-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Lateral Step-Up; target muscles highlighted in red.",
+        "tr": "Yana Step-Up hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lateral-step-up.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

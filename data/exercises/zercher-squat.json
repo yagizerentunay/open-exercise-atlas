@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "zercher-squat",
+  "slug": "zercher-squat",
+  "name": {
+    "en": "Zercher Squat",
+    "tr": "Zercher Squat"
+  },
+  "description": {
+    "en": "A barbell squat holding the bar securely in the crooks of the elbows in front of the torso.",
+    "tr": "Halterin gövdenin önünde dirsek içlerinde tutulduğu squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "upper-back",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Set the bar in a rack around lower-chest height and secure it in the crooks of your elbows.",
+      "Brace your trunk, stand with feet about shoulder-width apart and squat while keeping heels grounded.",
+      "Drive through the floor to stand; use a light load and safeties while learning the hold."
+    ],
+    "tr": [
+      "Barı rackte alt göğüs hizasına alıp dirseklerinin iç kıvrımına güvenle yerleştir.",
+      "Gövdeni sık, ayaklarını yaklaşık omuz genişliğinde aç ve topukların yerdeyken squat yap.",
+      "Yeri iterek doğrul; tutuşu öğrenirken hafif yük ve emniyet kolları kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/zercher-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Zercher Squat with target areas highlighted in red.",
+        "tr": "Zercher Squat hareketinin iki aşamalı gri tonlu çizimi; hedef bölgeler kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/zercher-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/zercher-squat/README.md"
+    }
+  ]
+}

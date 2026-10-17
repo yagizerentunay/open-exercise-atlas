@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "hanging-windshield-wiper",
+  "slug": "hanging-windshield-wiper",
+  "name": {
+    "en": "Hanging Windshield Wiper",
+    "tr": "Asılı Windshield Wiper"
+  },
+  "description": {
+    "en": "An advanced hanging core exercise that moves the legs side to side with controlled trunk rotation.",
+    "tr": "Bacakların kontrollü gövde rotasyonuyla sağa sola taşındığı ileri seviye asılı core egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "advanced",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hip-flexors",
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hang from a secure pull-up bar with a firm grip and shoulders active; brace your trunk.",
+      "Raise your legs in a range you can control, then rotate them a short distance to one side without swinging.",
+      "Return to center and lower with control; reduce the range or stop if you cannot prevent momentum."
+    ],
+    "tr": [
+      "Güvenli bir barfiks demirinden sağlam kavrayışla asıl ve omuzlarını aktif tut; gövdeni sık.",
+      "Kontrol edebildiğin aralıkta bacaklarını kaldır, ardından savurmadan kısa bir mesafe yana döndür.",
+      "Ortaya dönüp kontrollü biçimde indir; salınımı engelleyemiyorsan hareket aralığını azalt veya dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/hanging-windshield-wiper.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Hanging Windshield Wiper; target muscles highlighted in red.",
+        "tr": "Asılı Windshield Wiper hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/hanging-windshield-wiper.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-7.md"
+    }
+  ]
+}

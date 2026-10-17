@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "side-v-up",
+  "slug": "side-v-up",
+  "name": {
+    "en": "Side V-Up",
+    "tr": "Yan V-Up"
+  },
+  "description": {
+    "en": "A side-lying trunk flexion exercise that lifts the legs and upper body toward each other.",
+    "tr": "Bacakları ve üst gövdeyi birbirine yaklaştırarak gövdeyi yana doğru büken bir egzersiz."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on one side with legs together and the lower arm extended for support; brace your trunk.",
+      "Lift both legs and your upper body toward each other in a controlled side crunch.",
+      "Lower smoothly to the start, repeat, then switch sides; use a smaller range if needed."
+    ],
+    "tr": [
+      "Bacakların bitişik, alttaki kolun destek için uzatılmış olacak şekilde yan yat; gövdeni sık.",
+      "Kontrollü bir yan mekikle iki bacağını ve üst gövdeni birbirine doğru kaldır.",
+      "Yumuşakça başlangıca dön, tekrar et ve ardından taraf değiştir; gerekirse hareket aralığını küçült."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/side-v-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Side V-Up; target muscles highlighted in red.",
+        "tr": "Yan V-Up hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/side-v-up.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-7.md"
+    }
+  ]
+}

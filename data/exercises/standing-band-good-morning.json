@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-band-good-morning",
+  "slug": "standing-band-good-morning",
+  "name": {
+    "en": "Standing Band Good Morning",
+    "tr": "Ayakta Bantla Good Morning"
+  },
+  "description": {
+    "en": "A band-resisted hip hinge with the band secured beneath the feet and across the upper back.",
+    "tr": "Bant ayakların altında ve üst sırtta sabitken yapılan dirençli kalça menteşesi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand on the middle of a resistance band and place it securely across your upper back.",
+      "With knees softly bent, push your hips back and tip forward with a neutral spine.",
+      "Drive the hips forward to stand tall; use a band that allows smooth control."
+    ],
+    "tr": [
+      "Direnç bandının ortasına basıp bandı üst sırtına güvenle yerleştir.",
+      "Dizlerini hafif bük; omurganı nötr tutarak kalçanı geriye gönderip öne eğil.",
+      "Kalçanı öne iterek doğrul; kontrollü harekete izin veren bir bant seç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/standing-band-good-morning.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Standing Band Good Morning with the target muscle highlighted in red.",
+        "tr": "Ayakta Bantla Good Morning hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-band-good-morning.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

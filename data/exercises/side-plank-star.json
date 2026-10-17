@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "side-plank-star",
+  "slug": "side-plank-star",
+  "name": {
+    "en": "Side-Plank Star",
+    "tr": "Yıldız Yan Plank"
+  },
+  "description": {
+    "en": "A side plank with the top leg lifted to challenge lateral hip stability.",
+    "tr": "Yan kalça dengesini çalıştırmak için üst bacağın kaldırıldığı yan plank."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "advanced",
+  "equipment": [
+    "mat"
+  ],
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "glutes"
+  ],
+  "force": "static",
+  "mechanic": "compound",
+  "instructions": {
+    "en": [
+      "Lie on your side with supporting elbow below shoulder and legs stacked.",
+      "Lift hips, then raise the top leg and reach the upper arm if stable.",
+      "Lower with control; bend the knees for an easier version."
+    ],
+    "tr": [
+      "Yan yat; destek dirseğini omzunun altına, bacaklarını üst üste yerleştir.",
+      "Kalçanı kaldır; dengeliysen üst bacağını kaldırıp üst kolunu uzat.",
+      "Kontrollü in; kolaylaştırmak için dizlerini bük."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/side-plank-star.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Side-Plank Star with the target muscle highlighted in red.",
+        "tr": "Yıldız Yan Plank hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/side-plank-star.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

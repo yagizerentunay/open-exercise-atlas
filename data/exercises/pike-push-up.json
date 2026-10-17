@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "pike-push-up",
+  "slug": "pike-push-up",
+  "name": {
+    "en": "Pike Push-Up",
+    "tr": "Pike Şınavı"
+  },
+  "description": {
+    "en": "A bodyweight press with hips raised in an inverted V as the head lowers between the hands.",
+    "tr": "Kalçalar ters V pozisyonunda yükseltilirken başın eller arasına indirildiği vücut ağırlığı press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Place your hands shoulder-width apart and lift your hips high, keeping your legs comfortably bent if needed.",
+      "Bend your elbows and lower your head toward the floor between your hands while keeping your hips raised.",
+      "Press the floor away to return to the start; shorten the range if you cannot stay controlled."
+    ],
+    "tr": [
+      "Ellerini omuz genişliğinde yerleştirip kalçanı yukarı kaldır; gerekirse dizlerini rahatça bük.",
+      "Kalçanı yukarıda tutarak dirseklerini bük ve başını ellerinin arasına doğru indir.",
+      "Başlangıca dönmek için yeri it; hareketi kontrol edemiyorsan aralığı kısalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "push-up",
+    "dumbbell-shoulder-press",
+    "overhead-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/pike-push-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Pike Push-Up; target muscles highlighted in red.",
+        "tr": "Pike Şınavı hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/pike-push-up.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-14.md"
+    }
+  ]
+}

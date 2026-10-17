@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-machine-calf-raise",
+  "slug": "standing-machine-calf-raise",
+  "name": {
+    "en": "Standing Machine Calf Raise",
+    "tr": "Ayakta Makinede Calf Raise"
+  },
+  "description": {
+    "en": "A standing calf machine moves from a lowered heel position to a controlled rise onto the toes.",
+    "tr": "Ayakta calf makinesinde topuklar aşağı konumdan kontrollü biçimde ayak uçlarına yükselir."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Place the balls of your feet on the platform edge and stand tall with the shoulder pads resting securely across your upper shoulders.",
+      "Lower your heels below the platform within a comfortable range, then press through the balls of your feet to rise.",
+      "Pause briefly at the top and lower slowly without bouncing; adjust the machine so the pads do not shift."
+    ],
+    "tr": [
+      "Ayak uçlarını platformun kenarına koy; omuz pedleri üst omuzlarına güvenle oturacak biçimde dik dur.",
+      "Topuklarını rahat ettiğin aralıkta platformun altına indir, ardından ayak uçlarından iterek yüksel.",
+      "Üstte kısa durakla ve zıplamadan yavaşça in; pedlerin kaymaması için makineyi ayarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "smith-machine-standing-calf-raise",
+    "seated-calf-raise",
+    "leg-press-calf-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/standing-machine-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Standing Machine Calf Raise; target muscles highlighted in red.",
+        "tr": "Ayakta Makinede Calf Raise hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-machine-calf-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
+    }
+  ]
+}

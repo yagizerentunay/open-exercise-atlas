@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "side-crunch",
+  "slug": "side-crunch",
+  "name": {
+    "en": "Side Crunch",
+    "tr": "Yan Mekik"
+  },
+  "description": {
+    "en": "A floor-based lateral trunk-flexion exercise that brings the ribs toward the hip on one side.",
+    "tr": "Kaburgaları tek tarafta kalçaya yaklaştıran yerde yana gövde bükme egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your side with knees bent and hips stacked; place your upper hand lightly by your head or torso.",
+      "Brace your trunk and lift your rib cage toward your hip in a short side crunch.",
+      "Lower slowly and repeat, then switch sides; keep the movement small and controlled."
+    ],
+    "tr": [
+      "Dizlerin bükülü ve kalçaların üst üste olacak şekilde yan yat; üst elini başının yanına veya gövdene hafifçe koy.",
+      "Gövdeni sıkıp kısa bir yan mekikle kaburgalarını kalçana doğru kaldır.",
+      "Yavaşça indirip tekrarla, ardından taraf değiştir; hareketi küçük ve kontrollü tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/side-crunch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Side Crunch; target muscles highlighted in red.",
+        "tr": "Yan Mekik hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/side-crunch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

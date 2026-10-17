@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "single-leg-box-squat",
+  "slug": "single-leg-box-squat",
+  "name": {
+    "en": "Single-Leg Box Squat",
+    "tr": "Tek Bacak Box Squat"
+  },
+  "description": {
+    "en": "A single-leg squat lowering to a box and standing again without using the free leg.",
+    "tr": "Serbest bacak kullanılmadan kutuya doğru alçalıp yeniden kalkılan tek bacak squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "advanced",
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Stand on one leg in front of a stable box and extend the free leg forward.",
+      "Reach your hips back and lightly touch the box without dropping onto it.",
+      "Press through the planted foot to stand; use a higher box to scale."
+    ],
+    "tr": [
+      "Sağlam bir kutunun önünde tek ayak üzerinde dur ve serbest bacağını öne uzat.",
+      "Kutunun üzerine düşmeden hafifçe dokunana kadar kalçanı geriye gönderip alçal.",
+      "Yerdeki ayağından güç alarak doğrul; kolaylaştırmak için daha yüksek kutu kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/single-leg-box-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Single-Leg Box Squat with the target muscle highlighted in red.",
+        "tr": "Tek Bacak Box Squat hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-leg-box-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

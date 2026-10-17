@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "glute-ham-raise",
+  "slug": "glute-ham-raise",
+  "name": {
+    "en": "Glute-Ham Raise",
+    "tr": "Glute-Ham Kaldırışı"
+  },
+  "description": {
+    "en": "A posterior-chain exercise on a glute-ham developer using controlled knee flexion and extension.",
+    "tr": "Kontrollü diz bükme ve açmayla glute-ham sehpasında yapılan arka zincir egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "advanced",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the glute-ham developer so your knees rest on the pad and ankles are securely held.",
+      "Keep hips extended as you lower your torso forward, then curl back up using your hamstrings.",
+      "Use assistance or a shorter range if needed; avoid dropping quickly into the bottom."
+    ],
+    "tr": [
+      "Dizlerin pede dayanıp ayak bileklerin sabitlenecek şekilde glute-ham sehpasını ayarla.",
+      "Kalçanı açık tutarak gövdeni öne indir; ardından arka bacaklarını kullanıp yukarı kıvrıl.",
+      "Gerekirse destek al veya aralığı kısalt; alt konuma hızla düşme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/glute-ham-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Glute-Ham Raise; target muscles highlighted in red.",
+        "tr": "Glute-Ham Kaldırışı hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/glute-ham-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

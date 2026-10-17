@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "stiff-leg-deadlift",
+  "slug": "stiff-leg-deadlift",
+  "name": {
+    "en": "Stiff-Leg Deadlift",
+    "tr": "Düz Bacak Deadlift"
+  },
+  "description": {
+    "en": "A barbell hip hinge emphasizing the hamstrings with only a small, consistent knee bend.",
+    "tr": "Dizler az ve sabit bükülüyken arka bacakları öne çıkaran halterli kalça menteşesi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand holding the bar in front of your thighs with knees softly bent, not locked, and your spine neutral.",
+      "Push your hips back and lower the bar close to your legs until you feel a hamstring stretch you can control.",
+      "Drive your hips forward to stand tall; avoid rounding your back or leaning backward at the top."
+    ],
+    "tr": [
+      "Dizlerin kilitli değil hafif bükülü ve sırtın nötr olacak şekilde barı uyluklarının önünde tut.",
+      "Kontrol edebildiğin bir arka bacak esnemesi hissedene kadar kalçanı geriye gönderip barı bacaklarına yakın indir.",
+      "Dik durmak için kalçanı öne getir; sırtını yuvarlama ve üst noktada geriye yaslanma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/stiff-leg-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Stiff-Leg Deadlift; target muscles highlighted in red.",
+        "tr": "Düz Bacak Deadlift hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/stiff-leg-deadlift.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-10.md"
+    }
+  ]
+}

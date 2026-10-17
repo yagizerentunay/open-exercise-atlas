@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "supine-medicine-ball-chest-pass",
+  "slug": "supine-medicine-ball-chest-pass",
+  "name": {
+    "en": "Supine Medicine Ball Chest Pass",
+    "tr": "Sırtüstü Sağlık Topu Göğüs Pası"
+  },
+  "description": {
+    "en": "An explosive chest pass performed while lying on a bench, returning a light medicine ball to a partner.",
+    "tr": "Hafif sağlık topunun sehpa üzerinde sırtüstü yatarken partnere patlayıcı göğüs pasıyla gönderildiği hareket."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bench",
+    "other"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a flat bench with feet planted and hold a light medicine ball over the chest; have a partner stand clear of the ball path.",
+      "Bend the elbows to bring the ball toward the chest, then press and toss it straight upward to the partner.",
+      "Let the partner return the ball into both hands and absorb it by bending the elbows; use a light ball and a clear area."
+    ],
+    "tr": [
+      "Ayakların yerde olacak şekilde düz sehpaya uzanıp hafif sağlık topunu göğsünün üzerinde tut; partnerin topun geçiş hattından uzakta dursun.",
+      "Dirseklerini bükerek topu göğsüne yaklaştır, ardından yukarı doğru itip partnere at.",
+      "Partnerin topu iki eline bırakıp dirseklerini bükerek karşılamasını sağla; hafif top ve boş alan kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-bench-press",
+    "push-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/supine-medicine-ball-chest-pass.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Supine Medicine Ball Chest Pass with a partner; chest highlighted in red.",
+        "tr": "Partnerle Sırtüstü Sağlık Topu Göğüs Pası hareketinin iki aşamalı gri tonlu çizimi; göğüs kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/supine-medicine-ball-chest-pass.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-17.md"
+    }
+  ]
+}

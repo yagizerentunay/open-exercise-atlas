@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "sissy-squat",
+  "slug": "sissy-squat",
+  "name": {
+    "en": "Sissy Squat",
+    "tr": "Sissy Squat"
+  },
+  "description": {
+    "en": "A supported knee-dominant squat variation keeping the hips extended and heels raised.",
+    "tr": "Kalçalar açık ve topuklar yükselmişken yapılan destekli diz baskın squat çeşidi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Hold a stable support lightly and stand with feet hip-width apart.",
+      "Keep your hips extended, raise your heels and let both knees travel forward as your torso leans back in one line.",
+      "Bend only as far as you can control, then straighten the knees to return."
+    ],
+    "tr": [
+      "Sağlam bir destekten hafifçe tutunup ayaklarını kalça genişliğinde aç.",
+      "Kalçanı açık tut, topuklarını kaldır ve gövden düz bir çizgide geriye giderken dizlerini öne taşı.",
+      "Kontrol edebildiğin kadar büküp dizlerini açarak başlangıca dön."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/sissy-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Sissy Squat with target muscles highlighted in red.",
+        "tr": "Sissy Squat hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/sissy-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-5.md"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "jm-press",
+  "slug": "jm-press",
+  "name": {
+    "en": "JM Press",
+    "tr": "JM Press"
+  },
+  "description": {
+    "en": "A triceps-focused barbell press lowering toward the upper chest with the elbows traveling forward.",
+    "tr": "Dirsekler öne ilerlerken barın üst göğse doğru indirildiği triceps odaklı halter itişi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a flat bench and grip the bar just inside shoulder width with wrists straight.",
+      "Bend the elbows forward and lower the bar toward the upper chest under control.",
+      "Extend the elbows to press up; start light and use a spotter for heavy sets."
+    ],
+    "tr": [
+      "Düz sehpaya uzanıp barı omuz genişliğinin biraz içinden bileklerin düz olacak şekilde kavra.",
+      "Dirseklerini öne bükerek barı kontrollü biçimde üst göğsüne doğru indir.",
+      "Dirseklerini açıp yukarı it; hafif yükle başla ve ağır setlerde gözcü kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/jm-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of JM Press with target muscles highlighted red.",
+        "tr": "JM Press hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/jm-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-3.md"
+    }
+  ]
+}

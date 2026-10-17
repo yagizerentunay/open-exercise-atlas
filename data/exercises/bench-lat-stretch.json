@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "bench-lat-stretch",
+  "slug": "bench-lat-stretch",
+  "name": {
+    "en": "Bench Lat Stretch",
+    "tr": "Bench Destekli Kanat Esnetmesi"
+  },
+  "description": {
+    "en": "A kneeling mobility stretch that lengthens the lats with the forearms supported on a bench.",
+    "tr": "Ön kollar bench üzerinde destekliyken kanat kaslarını esneten diz çöküş mobilite hareketi."
+  },
+  "category": "mobility",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bench",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Kneel in front of a sturdy bench and place your forearms on it around shoulder width.",
+      "Keep your head aligned with your torso, send your hips back, and lower your chest gently toward the floor.",
+      "Breathe into the stretch along your sides, then return upright without forcing your shoulders."
+    ],
+    "tr": [
+      "Sağlam bir bench’in önünde diz çöküp ön kollarını omuz genişliğinde üzerine yerleştir.",
+      "Başını gövdenle aynı hizada tut; kalçanı geriye götürüp göğsünü yumuşakça yere doğru indir.",
+      "Yan gövden boyunca esnemeyi rahat nefesle sürdür; omuzlarını zorlamadan dikleş."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/bench-lat-stretch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Bench Lat Stretch; target muscles highlighted in red.",
+        "tr": "Bench Destekli Kanat Esnetmesi hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bench-lat-stretch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-9.md"
+    }
+  ]
+}

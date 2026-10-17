@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "reverse-grip-lat-pulldown",
+  "slug": "reverse-grip-lat-pulldown",
+  "name": {
+    "en": "Reverse-Grip Lat Pulldown",
+    "tr": "Ters Tutuş Lat Pulldown"
+  },
+  "description": {
+    "en": "A seated cable pulldown uses an underhand grip and brings the bar toward the upper chest.",
+    "tr": "Oturarak kablo çekişinde bar alttan kavranır ve üst göğse doğru çekilir."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Sit at the pulldown station with thighs secured and take an underhand grip just inside shoulder width.",
+      "Keeping your torso steady, draw the bar toward your upper chest by driving your elbows down.",
+      "Let the bar rise under control until your arms are extended; avoid leaning back or pulling behind your head."
+    ],
+    "tr": [
+      "Pulldown istasyonuna oturup uyluklarını sabitle ve omuz genişliğinin biraz içinden alttan kavra.",
+      "Gövden sabitken dirseklerini aşağı sürerek barı üst göğsüne doğru çek.",
+      "Kolların açılana kadar barı kontrollü bırak; geriye yaslanma veya barı başının arkasına çekme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "lat-pulldown",
+    "close-grip-front-lat-pulldown",
+    "single-arm-kneeling-lat-pulldown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/reverse-grip-lat-pulldown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Reverse-Grip Lat Pulldown; target muscles highlighted in red.",
+        "tr": "Ters Tutuş Lat Pulldown hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/reverse-grip-lat-pulldown.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
+    }
+  ]
+}

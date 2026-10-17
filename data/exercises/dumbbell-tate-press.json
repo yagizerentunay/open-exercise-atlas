@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-tate-press",
+  "slug": "dumbbell-tate-press",
+  "name": {
+    "en": "Dumbbell Tate Press",
+    "tr": "Dambılla Tate Press"
+  },
+  "description": {
+    "en": "A lying dumbbell triceps press with elbows opening outward.",
+    "tr": "Dirseklerin yana açılıp kolların uzatıldığı yatarak dambıl triceps press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "force": "push",
+  "mechanic": "isolation",
+  "instructions": {
+    "en": [
+      "Lie on a flat bench with light dumbbells above the chest, elbows bent and pointed outward.",
+      "Extend the elbows while keeping the upper arms steady.",
+      "Bend the elbows and lower the weights toward the upper chest."
+    ],
+    "tr": [
+      "Düz sehpaya uzan; hafif dambılları göğsünün üzerinde tutup dirseklerini bük ve dışa yönelt.",
+      "Üst kollarını sabit tutarak dirseklerini aç.",
+      "Dirseklerini büküp ağırlıkları kontrollü indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-tate-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Dumbbell Tate Press with the target muscle highlighted in red.",
+        "tr": "Dambılla Tate Press hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-tate-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

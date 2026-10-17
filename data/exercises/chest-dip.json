@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "chest-dip",
+  "slug": "chest-dip",
+  "name": {
+    "en": "Chest Dip",
+    "tr": "Göğüs Dip"
+  },
+  "description": {
+    "en": "A parallel-bar dip with a slight forward torso lean to emphasize the chest.",
+    "tr": "Göğsü daha fazla çalıştırmak için gövdenin hafif öne eğildiği paralel bar dip hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "advanced",
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Support yourself on sturdy parallel bars with elbows straight and shoulders comfortable.",
+      "Lean slightly forward and bend the elbows, lowering only through a pain-free range.",
+      "Press back to support without shrugging; use an assisted machine if needed."
+    ],
+    "tr": [
+      "Sağlam paralel barlarda dirseklerin düz, omuzların rahat olacak şekilde destek al.",
+      "Gövdeni hafif öne eğip dirseklerini bükerek ağrısız aralıkta alçal.",
+      "Omuzlarını kulaklarına çekmeden yukarı it; gerekirse destekli dip makinesi kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/chest-dip.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Chest Dip with target muscles highlighted red.",
+        "tr": "Göğüs Dip hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/chest-dip.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-3.md"
+    }
+  ]
+}

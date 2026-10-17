@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "bear-crawl",
+  "slug": "bear-crawl",
+  "name": {
+    "en": "Bear Crawl",
+    "tr": "Ayı Sürünüşü"
+  },
+  "description": {
+    "en": "A crawling conditioning drill performed with the knees held just off the floor.",
+    "tr": "Dizler yerden havada tutularak yapılan sürünme tipi kondisyon egzersizi."
+  },
+  "category": "cardio",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "abdominals",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Start on hands and toes with knees hovering just above the mat; keep your back level and trunk braced.",
+      "Move one hand and the opposite foot forward a short distance, keeping your hips low.",
+      "Alternate sides in a slow crawl without rocking your hips; pause if your form breaks down."
+    ],
+    "tr": [
+      "Ellerin ve ayak parmakların yerde, dizlerin matın az üzerinde olacak şekilde başla; sırtını düz ve gövdeni sıkı tut.",
+      "Bir elini ve karşı ayağını kısa bir mesafe öne taşı; kalçalarını alçakta tut.",
+      "Kalçalarını sallamadan tarafları sırayla ve yavaşça ilerlet; formun bozulursa durakla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/bear-crawl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Bear Crawl; target muscles highlighted in red.",
+        "tr": "Ayı Sürünüşü hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bear-crawl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-10.md"
+    }
+  ]
+}

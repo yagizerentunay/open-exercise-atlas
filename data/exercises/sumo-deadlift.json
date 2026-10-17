@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "sumo-deadlift",
+  "slug": "sumo-deadlift",
+  "name": {
+    "en": "Sumo Deadlift",
+    "tr": "Sumo Deadlift"
+  },
+  "description": {
+    "en": "A wide-stance barbell deadlift lifting the bar from the floor with the hands inside the knees.",
+    "tr": "Eller dizlerin arasında, geniş duruşla halterin yerden kaldırıldığı deadlift çeşidi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "quadriceps",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand wide with toes slightly out and the bar over midfoot.",
+      "Hinge down and grip the bar inside your knees; brace and keep your spine neutral.",
+      "Push the floor apart and stand with the bar close, then lower it under control."
+    ],
+    "tr": [
+      "Ayaklarını geniş açıp parmak uçlarını hafif dışa çevir; bar ayağının orta hizasında olsun.",
+      "Kalçadan eğilip barı dizlerinin içinden kavra; gövdeni sıkıp omurganı nötr tut.",
+      "Yeri iki yana iterek doğrul, barı yakın tut ve kontrollü indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/sumo-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Sumo Deadlift with the target muscle highlighted in red.",
+        "tr": "Sumo Deadlift hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/sumo-deadlift.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-2.md"
+    }
+  ]
+}

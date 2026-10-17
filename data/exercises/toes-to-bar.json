@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "toes-to-bar",
+  "slug": "toes-to-bar",
+  "name": {
+    "en": "Toes-to-Bar",
+    "tr": "Barfiks Demirine Ayak Ucu Değdirme"
+  },
+  "description": {
+    "en": "A strict hanging core exercise lifting straight legs until the toes touch the pull-up bar.",
+    "tr": "Düz bacakları kaldırıp ayak uçlarını barfiks demirine değdiren kontrollü asılı karın hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "advanced",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip-flexors",
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hang from a secure bar with a firm grip and legs together.",
+      "Brace your trunk and lift your straight legs until your toes reach the bar without swinging.",
+      "Lower slowly to a controlled hang; stop if your grip becomes insecure."
+    ],
+    "tr": [
+      "Güvenli barfiks demirinden sağlam kavrayışla, bacakların bitişik asıl.",
+      "Gövdeni sıkıp sallanmadan düz bacaklarını ayak uçların bara ulaşana kadar kaldır.",
+      "Kontrollü biçimde asılı duruşa in; kavrayışın güvensizleşirse bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/toes-to-bar.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Toes-to-Bar with target muscles highlighted red.",
+        "tr": "Barfiks Demirine Ayak Ucu Değdirme hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/toes-to-bar.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-3.md"
+    }
+  ]
+}

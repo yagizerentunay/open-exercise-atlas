@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-band-shoulder-internal-rotation",
+  "slug": "standing-band-shoulder-internal-rotation",
+  "name": {
+    "en": "Standing Band Shoulder Internal Rotation",
+    "tr": "Ayakta Bantla Omuz İç Rotasyonu"
+  },
+  "description": {
+    "en": "A light resistance-band drill rotating the upper arm inward while the elbow stays tucked at the side.",
+    "tr": "Dirsek gövdenin yanında sabitken üst kolu içe döndüren hafif direnç bandı çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Anchor a light band at elbow height and stand side-on with the working arm nearest the anchor; bend the elbow to 90 degrees and keep it against the ribs.",
+      "Rotate the forearm inward across the abdomen without turning the torso or moving the elbow.",
+      "Return slowly to the start; use light tension and stop if the shoulder feels painful."
+    ],
+    "tr": [
+      "Hafif bir bandı dirsek hizasında sabitle; çalışacak kolun bağlantı noktasına yakın olacak şekilde yan dur, dirseğini 90 derece büküp gövdene yasla.",
+      "Gövdeni çevirmeden ve dirseğini oynatmadan ön kolunu karnına doğru içe döndür.",
+      "Başlangıca yavaşça dön; hafif direnç kullan ve omzunda ağrı olursa hareketi bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "standing-band-shoulder-external-rotation"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/standing-band-shoulder-internal-rotation.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Standing Band Shoulder Internal Rotation; shoulder rotator area highlighted in red.",
+        "tr": "Ayakta Bantla Omuz İç Rotasyonu hareketinin iki aşamalı gri tonlu çizimi; omuz rotator bölgesi kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-band-shoulder-internal-rotation.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-17.md"
+    }
+  ]
+}

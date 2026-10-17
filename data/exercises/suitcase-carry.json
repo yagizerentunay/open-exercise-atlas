@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "suitcase-carry",
+  "slug": "suitcase-carry",
+  "name": {
+    "en": "Suitcase Carry",
+    "tr": "Tek Dambılla Yürüyüş"
+  },
+  "description": {
+    "en": "A one-sided loaded carry performed while walking upright and resisting trunk side-bending.",
+    "tr": "Gövdenin yana eğilmesine direnerek dik yürüdüğün tek taraflı yüklü taşıma hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "carry",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Hold one dumbbell at your side with a firm grip and stand tall with shoulders level.",
+      "Walk a controlled distance without leaning toward or away from the weight.",
+      "Set the dumbbell down safely, switch hands, and repeat while keeping the torso upright."
+    ],
+    "tr": [
+      "Bir dambılı yanında sıkıca tutup omuzlarını dengede tutarak dik dur.",
+      "Ağırlığa doğru veya ağırlıktan uzağa eğilmeden kontrollü bir mesafe yürü.",
+      "Dambılı güvenle yere bırak, el değiştir ve gövdeni dik tutarak tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "single-dumbbell-suitcase-march",
+    "farmers-carry"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/suitcase-carry.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Suitcase Carry; obliques highlighted in red.",
+        "tr": "Tek Dambılla Yürüyüş hareketinin iki aşamalı gri tonlu çizimi; oblik kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/suitcase-carry.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-16.md"
+    }
+  ]
+}

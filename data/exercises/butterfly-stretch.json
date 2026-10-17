@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "butterfly-stretch",
+  "slug": "butterfly-stretch",
+  "name": {
+    "en": "Butterfly Stretch",
+    "tr": "Kelebek Esnetmesi"
+  },
+  "description": {
+    "en": "A seated mobility stretch for the inner thighs with the soles of the feet together.",
+    "tr": "Ayak tabanları birleşikken iç bacakları esneten oturarak mobilite hareketi."
+  },
+  "category": "mobility",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit tall on a mat, bring the soles of your feet together, and let your knees relax outward.",
+      "Keeping your spine long, hinge forward slightly from the hips until you feel a gentle inner-thigh stretch.",
+      "Breathe comfortably, avoid pressing your knees down, and return upright."
+    ],
+    "tr": [
+      "Mata dik otur, ayak tabanlarını birleştir ve dizlerini zorlamadan iki yana bırak.",
+      "Sırtını uzun tutup iç bacaklarında hafif bir esneme hissedene kadar kalçalarından az miktarda öne eğil.",
+      "Rahat nefes al, dizlerini aşağı bastırma ve dik konuma dön."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/butterfly-stretch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Butterfly Stretch; target muscles highlighted in red.",
+        "tr": "Kelebek Esnetmesi hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/butterfly-stretch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-9.md"
+    }
+  ]
+}

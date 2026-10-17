@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-pinch-carry",
+  "slug": "plate-pinch-carry",
+  "name": {
+    "en": "Plate Pinch Carry",
+    "tr": "Plaka Sıkıştırarak Yürüme"
+  },
+  "description": {
+    "en": "A grip carry pinching weight plates between the fingers and thumb.",
+    "tr": "Ağırlık plakalarını parmaklarla başparmak arasında sıkıştırıp taşımaya dayalı kavrama çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "carry",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "force": "static",
+  "mechanic": "compound",
+  "instructions": {
+    "en": [
+      "Pinch a light plate at your side with fingers on one face and thumb on the other.",
+      "Stand tall and walk with short steps, keeping the plate clear of your leg.",
+      "Set it down safely before your grip fails; change hands."
+    ],
+    "tr": [
+      "Hafif bir plakayı parmakların bir yüzünde, başparmağın diğer yüzünde olacak şekilde yanında kavra.",
+      "Dik durup plakayı bacağından uzak tutarak kısa adımlarla yürü.",
+      "Kavrayışın bozulmadan güvenle yere bırakıp el değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/plate-pinch-carry.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Plate Pinch Carry with the target muscle highlighted in red.",
+        "tr": "Plaka Sıkıştırarak Yürüme hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-pinch-carry.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

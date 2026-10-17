@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-side-bend",
+  "slug": "dumbbell-side-bend",
+  "name": {
+    "en": "Dumbbell Side Bend",
+    "tr": "Dambılla Yana Eğilme"
+  },
+  "description": {
+    "en": "A standing lateral trunk-flexion exercise with one dumbbell held at the side.",
+    "tr": "Bir dambıl yanda tutulurken gövdenin kontrollü yana büküldüğü ayakta hareket."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Stand tall with one dumbbell at your side and the other hand resting on your thigh.",
+      "Slide the dumbbell down the outside of your leg with a small side bend; keep your chest facing forward.",
+      "Use your obliques to return upright without twisting or leaning forward."
+    ],
+    "tr": [
+      "Bir dambılı yanında tutup dik dur; diğer elini uyluğuna koy.",
+      "Göğsün öne bakarken dambılı bacağının dışından aşağı kaydırıp az miktarda yana eğil.",
+      "Dönmeden veya öne eğilmeden obliklerini kullanarak doğrul."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-side-bend.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Dumbbell Side Bend with target muscles highlighted in red.",
+        "tr": "Dambılla Yana Eğilme hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-side-bend.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-5.md"
+    }
+  ]
+}

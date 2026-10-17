@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-sumo-squat",
+  "slug": "dumbbell-sumo-squat",
+  "name": {
+    "en": "Dumbbell Sumo Squat",
+    "tr": "Dambılla Sumo Squat"
+  },
+  "description": {
+    "en": "A wide-stance squat holding one dumbbell between the legs, emphasizing hip adduction alongside the squat pattern.",
+    "tr": "Squat hareketine kalça addüksiyonunu ekleyen, bacaklar geniş açıkken tek dambıl tutularak yapılan çömelme."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["dumbbell"],
+  "primaryMuscles": ["adductors"],
+  "secondaryMuscles": ["quadriceps", "glutes"],
+  "instructions": {
+    "en": [
+      "Stand with feet wider than hip-width and toes turned slightly outward; hold one dumbbell vertically with both hands in front of your hips.",
+      "Bend your knees and hips to lower between your legs, keeping heels down and knees tracking in the direction of your toes.",
+      "Press through both feet to stand tall again without letting your knees collapse inward."
+    ],
+    "tr": [
+      "Ayaklarını kalça genişliğinden daha açık ve parmaklarını hafif dışa çevirerek dur; tek dambılı iki elinle kalçanın önünde dik tut.",
+      "Topuklarını yerde tutup dizlerini ayak parmaklarının yönünde izleyerek diz ve kalçalarını bük, bacaklarının arasına doğru alçal.",
+      "Dizlerini içe düşürmeden iki ayağından güç alıp yeniden dik dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-sumo-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show standing and lowered positions of a dumbbell sumo squat, with the inner thighs highlighted red.",
+        "tr": "Dambılla Sumo Squat hareketinin ayakta ve alçak pozisyonları iki gri karede gösteriliyor; iç uyluk kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-sumo-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

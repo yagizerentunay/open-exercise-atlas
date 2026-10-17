@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "bodyweight-lateral-bound",
+  "slug": "bodyweight-lateral-bound",
+  "name": {
+    "en": "Bodyweight Lateral Bound",
+    "tr": "Vücut Ağırlığıyla Yana Sıçrama"
+  },
+  "description": {
+    "en": "A side-to-side single-leg bound landing softly on the opposite leg.",
+    "tr": "Karşı bacağa yumuşak inişle yapılan tek bacaklı yana sıçrama."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "abductors"
+  ],
+  "instructions": {
+    "en": [
+      "Balance on one leg with the knee slightly bent.",
+      "Push sideways and land on the opposite leg with a soft knee.",
+      "Pause to regain balance before bounding back; shorten the distance if needed."
+    ],
+    "tr": [
+      "Dizin hafif bükük şekilde tek ayakta dengede dur.",
+      "Yana doğru itip karşı ayağa yumuşak dizle in.",
+      "Geri sıçramadan önce dengenin oturmasını bekle; gerekirse mesafeyi kısalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/bodyweight-lateral-bound.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Bodyweight Lateral Bound with the target muscle highlighted in red.",
+        "tr": "Vücut Ağırlığıyla Yana Sıçrama hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bodyweight-lateral-bound.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

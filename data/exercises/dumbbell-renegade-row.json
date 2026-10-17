@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-renegade-row",
+  "slug": "dumbbell-renegade-row",
+  "name": {
+    "en": "Dumbbell Renegade Row",
+    "tr": "Dambılla Plank Row"
+  },
+  "description": {
+    "en": "An alternating dumbbell row from a high plank.",
+    "tr": "Yüksek plankte dönüşümlü dambıl çekişi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "advanced",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "upper-back",
+    "abdominals",
+    "biceps"
+  ],
+  "force": "pull",
+  "mechanic": "compound",
+  "instructions": {
+    "en": [
+      "Grip two stable dumbbells in a high plank with feet wide.",
+      "Keep hips level and row one weight to the lower ribs.",
+      "Lower steadily and change arms; use a manageable load."
+    ],
+    "tr": [
+      "İki dengeli dambılı kavrayıp ayaklarını açarak yüksek plank kur.",
+      "Kalçanı dengede tutup bir dambılı alt kaburgana çek.",
+      "Kontrollü indirip kol değiştir; kaldırabileceğin hafif yük seç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-renegade-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Dumbbell Renegade Row with the target muscle highlighted in red.",
+        "tr": "Dambılla Plank Row hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-renegade-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

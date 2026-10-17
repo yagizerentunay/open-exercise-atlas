@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-bent-over-row",
+  "slug": "dumbbell-bent-over-row",
+  "name": {
+    "en": "Dumbbell Bent-Over Row",
+    "tr": "Dambılla Eğilerek Row"
+  },
+  "description": {
+    "en": "A hip-hinged row pulls two dumbbells from below the shoulders toward the lower ribs.",
+    "tr": "Kalçadan öne eğilerek iki dambıl omuz altından alt kaburgalara doğru çekilir."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Hinge forward with a dumbbell in each hand and let the arms hang beneath your shoulders.",
+      "Keeping your back neutral, row both weights toward your lower ribs with elbows close to your sides.",
+      "Lower the dumbbells slowly to the start without rounding your back."
+    ],
+    "tr": [
+      "Her eline bir dambıl alıp öne eğil; kollarını omuzlarının altına sarkıt.",
+      "Sırtını nötr tutup dirseklerini yanlarına yakın çekerek iki ağırlığı alt kaburgalarına doğru kaldır.",
+      "Sırtını yuvarlamadan dambılları yavaşça başlangıca indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "bent-over-row",
+    "one-arm-dumbbell-row",
+    "chest-supported-dumbbell-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-bent-over-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Dumbbell Bent-Over Row; target muscles highlighted in red.",
+        "tr": "['Her eline bir dambıl alıp öne eğil; kollarını omuzlarının altına sarkıt.', 'Sırtını nötr tutup dirseklerini yanlarına yakın çekerek iki ağırlığı alt kaburgalarına doğru kaldır.', 'Sırtını yuvarlamadan dambılları yavaşça başlangıca indir.'] hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-bent-over-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-13.md"
+    }
+  ]
+}

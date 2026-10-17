@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "bodyweight-skater-squat",
+  "slug": "bodyweight-skater-squat",
+  "name": {
+    "en": "Bodyweight Skater Squat",
+    "tr": "Vücut Ağırlığıyla Skater Squat"
+  },
+  "description": {
+    "en": "A single-leg squat with the free leg reaching behind and the rear knee lowering toward the floor.",
+    "tr": "Serbest bacağın arkaya uzanıp arka dizin yere yaklaştığı tek bacak squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "advanced",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abductors"
+  ],
+  "instructions": {
+    "en": [
+      "Stand on one leg with the other knee bent behind you.",
+      "Bend the standing knee and send the free knee toward the floor behind your body.",
+      "Press through the standing foot to rise; hold a support if balance is limited."
+    ],
+    "tr": [
+      "Bir ayağın üzerinde dur, diğer dizini arkada bük.",
+      "Yerdeki dizini bükerek serbest dizini gövdenin arkasından yere doğru yaklaştır.",
+      "Denge sınırlıysa destekten tutup yerdeki ayağından güç alarak doğrul."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/bodyweight-skater-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Bodyweight Skater Squat with the target muscle highlighted in red.",
+        "tr": "Vücut Ağırlığıyla Skater Squat hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bodyweight-skater-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

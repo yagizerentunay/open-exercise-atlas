@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "prone-reverse-hyperextension",
+  "slug": "prone-reverse-hyperextension",
+  "name": {
+    "en": "Prone Reverse Hyperextension",
+    "tr": "Yüzüstü Ters Hiperekstansiyon"
+  },
+  "description": {
+    "en": "A supported prone hip extension raising the legs with the posterior chain.",
+    "tr": "Arka zinciri kullanarak destekli yüzüstü pozisyondan bacakları kaldıran kalça ekstansiyonu."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bench"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "force": "pull",
+  "mechanic": "compound",
+  "instructions": {
+    "en": [
+      "Lie face down with hips supported on a stable bench; hold its sides and keep spine neutral.",
+      "With knees softly bent, lift legs until they align with your torso.",
+      "Lower slowly without swinging or arching the lower back."
+    ],
+    "tr": [
+      "Kalçaların sağlam sehpada destekli yüzüstü yat; kenarlarını tutup omurganı nötr tut.",
+      "Dizlerin hafif bükülüyken bacaklarını gövdenle hizalanana kadar kaldır.",
+      "Sallanıp belini çukurlaştırmadan yavaşça indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/prone-reverse-hyperextension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Prone Reverse Hyperextension with the target muscle highlighted in red.",
+        "tr": "Yüzüstü Ters Hiperekstansiyon hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/prone-reverse-hyperextension.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

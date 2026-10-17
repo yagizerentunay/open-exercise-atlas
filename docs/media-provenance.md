@@ -95,3 +95,118 @@ This illustration is a visual guide, not a substitute for the pending technique 
 | `traps` | [Overhead Dumbbell Shrug](../data/exercises/overhead-dumbbell-shrug.json) | [`overhead-dumbbell-shrug.webp`](../media/exercises/overhead-dumbbell-shrug.webp) | 131,396 | `b3bbc70b54ac7708ef7ddc910b926e0349a98083132f20a0caa33f802cb13217` |
 | `neck` | [Seated Active Neck Rotation](../data/exercises/seated-active-neck-rotation.json) | [`seated-active-neck-rotation.webp`](../media/exercises/seated-active-neck-rotation.webp) | 142,946 | `a2713cb6eed65c61f5238b75fa3ba79d0063692c4b03ecf58ed9245f4ed249f5` |
 | `hip-flexors` | [Seated Single-Leg Hip Flexion](../data/exercises/seated-hip-flexion.json) | [`seated-hip-flexion.webp`](../media/exercises/seated-hip-flexion.webp) | 129,432 | `f70017a08443c674fa1e22bfe8bd2b66913b40d513f24c16c960a093fc1a9f9f` |
+
+## 2026-10-17 muscle coverage expansion
+
+The 19-record expansion's asset mapping, sources, hashes, and custom image prompt briefs are documented [here](pilots/muscle-expansion-2026-10-17.md).
+
+
+## 2026-10-17 muscle coverage expansion — batch 2
+
+- **Assets and records:** 31 new exercise-specific illustrations and records. The [batch mapping, per-file SHA-256 values, and visual contact sheet](pilots/muscle-expansion-2026-10-17-batch-2.md) documents each asset. No neck movement was added.
+- **Creator and style references:** Open Exercise Atlas (AI-assisted original illustrations). Seven images were generated for their specific exercises with the OpenAI built-in image generator. Atlas assisted-pull-up.webp and the user-approved Dumbbell Floor Press pilot were style references only; no existing exercise image was copied into those new illustrations.
+- **Additional originals:** The remaining 24 illustrations are original pilots from the 2026-10-16 missing-movement preview set, copied byte-for-byte from their documented pilot folders.
+- **Rights:** The project dedicates any rights it holds in these outputs under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by law. AI output may not be unique; no exclusivity is claimed.
+- **Scope and review:** All 31 records remain reviewStatus pending. The illustrations are visual guides and have not received expert review of form, anatomy, or muscle-highlight boundaries.
+
+
+## 2026-10-17 muscle coverage expansion — batch 3
+
+- **Assets and records:** nine new movement illustrations and records. See the [batch mapping and SHA-256 list](pilots/muscle-expansion-2026-10-17-batch-3.md) and [combined contact sheet for batches 2–3](pilots/muscle-expansion-2026-10-17-batches-2-3-contact-sheet.webp). No neck movement was added.
+- **Originals:** six images were generated for their specific exercises with the OpenAI built-in image generator. The Atlas assisted-pull-up illustration and approved Dumbbell Floor Press pilot were style references only; no existing reference exercise art was copied.
+- **Pilot art:** three previously created original pilots were copied byte-for-byte into the exercise media library.
+- **Rights and review:** the project dedicates any rights it holds in these outputs under CC0 1.0; OpenAI's Terms of Use assign output to the user to the extent permitted by law. AI output may not be unique. All records remain pending expert review of form, anatomy, and muscle overlays.
+
+
+## 2026-10-17 muscle coverage expansion — batch 4
+
+- **Assets and records:** four additional exercise-specific illustrations and records, with the [batch map and hashes](pilots/muscle-expansion-2026-10-17-batch-4.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-4-contact-sheet.webp). No neck-targeted exercise was added.
+- **Pilot art:** all four original project illustrations were copied byte-for-byte from their documented pilot folders. Zercher Squat is from the separate pilot created on 2026-10-17.
+- **Review:** records remain pending expert form/anatomy review. Mobility cues keep the head neutral; the art does not highlight neck muscles.
+
+
+## 2026-10-17 muscle coverage expansions — batches 5–6
+
+- **Assets and records:** eight original exercise-specific image/record pairs, mapped with SHA-256 values in the [batch 5](pilots/muscle-expansion-2026-10-17-batch-5.md) and [batch 6](pilots/muscle-expansion-2026-10-17-batch-6.md) manifests and [batch 5 contact sheet](pilots/muscle-expansion-2026-10-17-batch-5-contact-sheet.webp) and [batch 6 contact sheet](pilots/muscle-expansion-2026-10-17-batch-6-contact-sheet.webp); [combined batches 4–6 preview](pilots/muscle-expansion-2026-10-17-batches-4-6-contact-sheet.webp). No neck-targeted movement was added.
+- **Creator and references:** Open Exercise Atlas using OpenAI built-in ImageGen. The Atlas assisted-pull-up art and approved Dumbbell Floor Press pilot were style references only; no reference exercise pixels were copied. Generated PNGs were converted to 1024 × 1024 WebP at quality 85.
+- **Rights and review:** the project dedicates rights it holds under CC0 1.0; OpenAI's Terms of Use assign output to the user to the extent permitted by law. AI output may not be unique. All records remain pending expert form/anatomy review.
+
+
+## Muscle expansion — batch 7 (2026-10-17)
+
+Four original AI-assisted illustrations integrated as pending editorial drafts. Per-exercise source, creator, CC0-1.0 declaration, SHA-256 hashes, and contact sheet are recorded in [batch 7 manifest](pilots/muscle-expansion-2026-10-17-batch-7.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-7-contact-sheet.webp).
+
+
+## Muscle expansion — batch 8 (2026-10-17)
+
+Thirteen original AI-assisted illustrations integrated as pending drafts; one duplicate-movement candidate was excluded. Per-exercise hashes, creator and source, and contact sheet are in the [batch 8 manifest](pilots/muscle-expansion-2026-10-17-batch-8.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-8-contact-sheet.webp).
+
+
+## Muscle expansion — batch 9 (2026-10-17)
+
+Five original AI-assisted illustrations integrated as pending mobility/core drafts; movement references and asset hashes are in the [batch 9 manifest](pilots/muscle-expansion-2026-10-17-batch-9.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-9-contact-sheet.webp).
+
+
+## Muscle expansion — batch 10 (2026-10-17)
+
+Five original AI-assisted illustrations integrated as pending exercise drafts; sources and per-asset hashes are documented in the [batch 10 manifest](pilots/muscle-expansion-2026-10-17-batch-10.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-10-contact-sheet.webp).
+
+
+## Muscle expansion — batch 11 (2026-10-17)
+
+Five original AI-assisted illustrations integrated as pending exercise drafts; per-asset hashes and movement sources are in the [batch 11 manifest](pilots/muscle-expansion-2026-10-17-batch-11.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-11-contact-sheet.webp).
+
+
+## Muscle expansion — batch 12 (2026-10-17)
+
+Five original AI-assisted illustrations integrated as pending exercise drafts; hashes and movement sources are documented in the [batch 12 manifest](pilots/muscle-expansion-2026-10-17-batch-12.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-12-contact-sheet.webp).
+
+
+## Muscle expansion — batch 13 (2026-10-17)
+
+Five original AI-assisted illustrations integrated as pending exercise drafts; per-asset hashes and movement references are in the [batch 13 manifest](pilots/muscle-expansion-2026-10-17-batch-13.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-13-contact-sheet.webp).
+
+
+## Muscle expansion — batch 14 (2026-10-17)
+
+Five original AI-assisted illustrations added as pending exercise drafts; hashes and references appear in the [batch 14 manifest](pilots/muscle-expansion-2026-10-17-batch-14.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-14-contact-sheet.webp).
+
+
+## Muscle expansion — batch 15 (2026-10-17)
+
+Four original AI-assisted illustrations added as pending exercise drafts; hashes and movement references are documented in the [batch 15 manifest](pilots/muscle-expansion-2026-10-17-batch-15.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-15-contact-sheet.webp).
+
+
+## Muscle expansion — batch 16 (2026-10-17)
+
+Three original AI-assisted illustrations added as pending exercise drafts; hashes and movement references appear in the [batch 16 manifest](pilots/muscle-expansion-2026-10-17-batch-16.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-16-contact-sheet.webp).
+
+
+## Muscle expansion — batch 17 (2026-10-17)
+
+Four original AI-assisted illustrations added as pending exercise drafts; per-asset hashes and movement sources are in the [batch 17 manifest](pilots/muscle-expansion-2026-10-17-batch-17.md) and [contact sheet](pilots/muscle-expansion-2026-10-17-batch-17-contact-sheet.webp).
+
+
+## Muscle expansion — batch 18 (2026-10-17)
+
+One original AI-assisted illustration added for Barbell Floor Press as a pending draft; its hash and movement/style references are in the [batch 18 manifest](pilots/muscle-expansion-2026-10-17-batch-18.md).
+
+
+## Muscle expansion — batch 19 (2026-10-17)
+
+One original AI-assisted illustration added for Standing Cable Chest Press as a pending bilingual draft; its hash and references are in the [batch 19 manifest](pilots/muscle-expansion-2026-10-17-batch-19.md).
+
+
+## Muscle expansion — batch 20 (2026-10-17)
+
+Two original AI-assisted illustrations added for Machine Lateral Raise and Seated Machine Biceps Curl as pending bilingual drafts; per-asset hashes and references are in the [batch 20 manifest](pilots/muscle-expansion-2026-10-17-batch-20.md).
+
+
+## Muscle expansion — batch 21 (2026-10-17)
+
+Three original AI-assisted illustrations added for Dumbbell Sumo Squat, Dumbbell Walking Lunge, and Single-Arm Cable Row as pending bilingual drafts; per-asset hashes and references are in the [batch 21 manifest](pilots/muscle-expansion-2026-10-17-batch-21.md).
+
+
+## Muscle expansion — batch 22 (2026-10-17)
+
+Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable Rope Hammer Curl, and Single-Leg Dumbbell Calf Raise as pending bilingual drafts; per-asset hashes and references are in the [batch 22 manifest](pilots/muscle-expansion-2026-10-17-batch-22.md).

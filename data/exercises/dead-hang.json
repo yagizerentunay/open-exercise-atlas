@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "dead-hang",
+  "slug": "dead-hang",
+  "name": {
+    "en": "Dead Hang",
+    "tr": "Barfiks Demirinde Asılı Kalma"
+  },
+  "description": {
+    "en": "A grip-endurance hold hanging from a secure pull-up bar with straight arms.",
+    "tr": "Güvenli barfiks demirinden kollar düz biçimde asılarak yapılan kavrama dayanıklılığı çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "carry",
+  "difficulty": "beginner",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Grip a secure pull-up bar with hands about shoulder-width apart and feet off the floor.",
+      "Hang with straight elbows and breathe steadily; keep the shoulders comfortable.",
+      "Step down safely before your grip gives out."
+    ],
+    "tr": [
+      "Güvenli barfiks demirini yaklaşık omuz genişliğinde kavra ve ayaklarını yerden kaldır.",
+      "Dirseklerini düz tutup düzenli nefes al; omuzlarını rahat konumda tut.",
+      "Kavraman tükenmeden güvenle yere in."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dead-hang.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Dead Hang with the target muscle highlighted in red.",
+        "tr": "Barfiks Demirinde Asılı Kalma hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dead-hang.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-2.md"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "single-leg-dumbbell-calf-raise",
+  "slug": "single-leg-dumbbell-calf-raise",
+  "name": {
+    "en": "Single-Leg Dumbbell Calf Raise",
+    "tr": "Tek Bacak Dambıllı Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A single-leg calf raise from a step while holding a dumbbell for added resistance.",
+    "tr": "Ek direnç için dambıl tutarak basamakta tek ayak üzerinde yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": ["dumbbell"],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Stand with the ball of one foot on a stable step and hold a dumbbell at your side; use a support lightly if needed for balance.",
+      "Lower your heel below the step under control, keeping your standing knee softly extended.",
+      "Press through the ball of your foot to rise onto your toes, then lower slowly; complete the set and switch sides."
+    ],
+    "tr": [
+      "Bir ayağının tarak kemiğini sabit basamağa yerleştirip yanında dambıl tut; gerekirse denge için hafifçe destek al.",
+      "Dizini hafif açık tutarak topuğunu kontrollü biçimde basamak seviyesinin altına indir.",
+      "Ayak tarak kemiğinden güç alıp parmak ucuna yüksel, sonra yavaşça alçal; seti tamamlayıp taraf değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/single-leg-dumbbell-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale rear panels show lowered and raised positions of a single-leg dumbbell calf raise on a step, with the working calf highlighted red.",
+        "tr": "Basamakta Tek Bacak Dambıllı Baldır Yükseltme hareketinin alçak ve yüksek pozisyonları arkadan iki gri karede gösteriliyor; çalışan baldır kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-leg-dumbbell-calf-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

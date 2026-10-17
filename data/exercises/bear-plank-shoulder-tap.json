@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "bear-plank-shoulder-tap",
+  "slug": "bear-plank-shoulder-tap",
+  "name": {
+    "en": "Bear-Plank Shoulder Tap",
+    "tr": "Ayı Plankte Omuz Dokunuşu"
+  },
+  "description": {
+    "en": "A quadruped hover with alternating hand taps that trains trunk control.",
+    "tr": "Gövde kontrolü için dizler havadayken dönüşümlü omuz dokunuşu."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "mat"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "obliques",
+    "shoulders"
+  ],
+  "force": "static",
+  "mechanic": "compound",
+  "instructions": {
+    "en": [
+      "Start on hands and knees, then hover knees just above the mat with back level.",
+      "Shift slightly and tap one hand to the opposite shoulder without rocking hips.",
+      "Replace the hand, steady yourself and alternate sides."
+    ],
+    "tr": [
+      "Ellerin ve dizlerin üzerinde başla, sırtını düz tutup dizlerini mattan az kaldır.",
+      "Kalçanı sallamadan ağırlık aktar ve bir elinle karşı omzuna dokun.",
+      "Elini yere koyup dengelen ve tarafları değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/bear-plank-shoulder-tap.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Bear-Plank Shoulder Tap with the target muscle highlighted in red.",
+        "tr": "Ayı Plankte Omuz Dokunuşu hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bear-plank-shoulder-tap.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "battle-rope-double-arm-slam",
+  "slug": "battle-rope-double-arm-slam",
+  "name": {
+    "en": "Battle Rope Double-Arm Slam",
+    "tr": "Savaş Halatında Çift Kol Slam"
+  },
+  "description": {
+    "en": "Both rope ends are raised overhead and driven down together to create a forceful wave.",
+    "tr": "Güçlü bir dalga oluşturmak için iki halat ucu birlikte baş üstüne kaldırılıp yere doğru indirilir."
+  },
+  "category": "cardio",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "shoulders",
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Face the anchor in a stable stance and hold one rope end in each hand.",
+      "Raise both hands overhead, then drive them down together while bending your hips and knees slightly.",
+      "Return to the ready position under control; keep the ropes in your hands and repeat smoothly."
+    ],
+    "tr": [
+      "Dengeli bir duruşla sabitleme noktasına dön ve her elinde bir halat ucu tut.",
+      "İki elini baş üstüne kaldır; ardından kalça ve dizlerini hafifçe bükerek kollarını birlikte aşağı sür.",
+      "Kontrollü biçimde hazır duruşa dön; halatları bırakmadan akıcı şekilde tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "medicine-ball-overhead-slam",
+    "battle-rope-alternating-waves",
+    "dumbbell-thruster"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/battle-rope-double-arm-slam.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Battle Rope Double-Arm Slam; target muscles highlighted in red.",
+        "tr": "Savaş Halatında Çift Kol Slam hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/battle-rope-double-arm-slam.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-14.md"
+    }
+  ]
+}

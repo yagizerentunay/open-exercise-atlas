@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "incline-dumbbell-fly",
+  "slug": "incline-dumbbell-fly",
+  "name": {
+    "en": "Incline Dumbbell Fly",
+    "tr": "Eğimli Dambıl Fly"
+  },
+  "description": {
+    "en": "A chest fly performed on an incline bench, lowering dumbbells outward in a controlled arc.",
+    "tr": "Eğimli sehpada dambılları kontrollü bir yay çizerek yana indirdiğin göğüs fly hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Set a bench to a low incline and lie back with light dumbbells above the upper chest; keep a soft bend in the elbows.",
+      "Open the arms in a wide arc until the chest is comfortably stretched, keeping the wrists steady.",
+      "Bring the dumbbells back together with control; use a shorter range if the shoulders feel strained."
+    ],
+    "tr": [
+      "Sehpayı düşük bir eğime ayarla ve hafif dambılları üst göğsünün üzerinde tut; dirseklerini hafif bük.",
+      "Bileklerini sabit tutarak göğsünde rahat bir gerilme hissedene kadar kollarını geniş bir yayla yana aç.",
+      "Dambılları kontrollü biçimde tekrar bir araya getir; omuzların zorlanırsa hareket aralığını kısalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-fly",
+    "incline-dumbbell-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/incline-dumbbell-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Incline Dumbbell Fly; chest muscles highlighted in red.",
+        "tr": "Eğimli Dambıl Fly hareketinin iki aşamalı gri tonlu çizimi; göğüs kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-dumbbell-fly.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-15.md"
+    }
+  ]
+}

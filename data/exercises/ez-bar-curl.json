@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "ez-bar-curl",
+  "slug": "ez-bar-curl",
+  "name": {
+    "en": "EZ-Bar Curl",
+    "tr": "EZ Bar Curl"
+  },
+  "description": {
+    "en": "A standing elbow-flexion exercise using an angled EZ bar to train the biceps.",
+    "tr": "Biceps kaslarını çalıştırmak için açılı EZ barla yapılan ayakta dirsek bükme egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "ez-bar"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Stand tall holding the EZ bar with a comfortable angled grip; keep elbows close to your sides.",
+      "Curl the bar toward your shoulders while keeping your upper arms mostly still.",
+      "Lower the bar slowly to the starting position without swinging."
+    ],
+    "tr": [
+      "EZ barı rahat açılı tutuşla kavrayıp dik dur; dirseklerini yanlarında tut.",
+      "Üst kollarını olabildiğince sabit tutarak barı omuzlarına doğru kaldır.",
+      "Savurmadan barı yavaşça başlangıç konumuna indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/ez-bar-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of EZ-Bar Curl; target muscles highlighted in red.",
+        "tr": "EZ Bar Curl hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/ez-bar-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

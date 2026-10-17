@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-bulgarian-split-squat",
+  "slug": "dumbbell-bulgarian-split-squat",
+  "name": {
+    "en": "Dumbbell Bulgarian Split Squat",
+    "tr": "Dambıllı Bulgarian Split Squat"
+  },
+  "description": {
+    "en": "A loaded split squat with the rear foot elevated on a bench and dumbbells held at the sides.",
+    "tr": "Arka ayak bench üzerinde yükseltilmişken dambıllar yanlarda tutularak yapılan yüklü ayrık squat."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Hold a dumbbell in each hand, stand in a split stance, and rest the rear foot on a stable bench.",
+      "Bend both knees to lower under control, keeping most of your weight through the front foot and the front knee aligned with your toes.",
+      "Press through the front foot to stand; complete one side, then switch."
+    ],
+    "tr": [
+      "Her iki elinde birer dambıl tutup ayrık duruş al; arkadaki ayağını sağlam bir bench üzerine yerleştir.",
+      "Ön ayağına ağırlık verip ön dizini ayak parmaklarınla aynı hizada tutarak kontrollü biçimde alçal.",
+      "Ön ayağından güç alarak yüksel; bir tarafı bitirip sonra değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-bulgarian-split-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Dumbbell Bulgarian Split Squat; target muscles highlighted in red.",
+        "tr": "Dambıllı Bulgarian Split Squat hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-bulgarian-split-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-10.md"
+    }
+  ]
+}

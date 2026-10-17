@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "stir-the-pot",
+  "slug": "stir-the-pot",
+  "name": {
+    "en": "Stir the Pot",
+    "tr": "Stir the Pot"
+  },
+  "description": {
+    "en": "An advanced core-stability exercise that moves the forearms in small circles on a stability ball.",
+    "tr": "Denge topu üzerinde ön kollarla küçük daireler çizilen ileri seviye gövde stabilizasyon egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "exercise-ball",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "abdominals",
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Kneel behind a stability ball and place your forearms on top; step your feet back into a steady plank.",
+      "Brace your trunk and make small, controlled circles with your forearms around the ball, keeping hips level.",
+      "Reverse the circles, then stop before your lower back arches or your shoulders lose control."
+    ],
+    "tr": [
+      "Denge topunun arkasında diz çöküp ön kollarını topa yerleştir; ayaklarını geriye alarak dengeli plank kur.",
+      "Kalçalarını sabit tutup topun üzerinde ön kollarınla küçük ve kontrollü daireler çiz.",
+      "Dairelerin yönünü değiştir; belin çukurlaşmadan veya omuz kontrolün bozulmadan bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/stir-the-pot.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Stir the Pot; target muscles highlighted in red.",
+        "tr": "Stir the Pot hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/stir-the-pot.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-9.md"
+    }
+  ]
+}

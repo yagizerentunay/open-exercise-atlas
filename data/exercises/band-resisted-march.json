@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "band-resisted-march",
+  "slug": "band-resisted-march",
+  "name": {
+    "en": "Band-Resisted March",
+    "tr": "Bant Dirençli Diz Çekişi"
+  },
+  "description": {
+    "en": "A standing hip-flexion exercise that raises one knee against an anchored resistance band.",
+    "tr": "Sabitlemiş direnç bandının çekişine karşı bir dizin kaldırıldığı ayakta kalça fleksiyonu egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "hip-flexors"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Anchor a resistance band low and loop it securely around one ankle; stand tall facing away from the anchor.",
+      "Brace your trunk and lift the banded knee toward hip height without leaning back.",
+      "Lower slowly against the band, then switch legs."
+    ],
+    "tr": [
+      "Direnç bandını alçaktan sabitleyip bir ayak bileğine güvenle geçir; bağlantı noktasından uzağa bakarak dik dur.",
+      "Gövdeni sıkıp geriye yaslanmadan bantlı dizini kalça hizasına doğru kaldır.",
+      "Banda karşı yavaşça indir, ardından bacak değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/band-resisted-march.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Band-Resisted March; target muscles highlighted in red.",
+        "tr": "Bant Dirençli Diz Çekişi hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/band-resisted-march.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

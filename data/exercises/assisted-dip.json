@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "assisted-dip",
+  "slug": "assisted-dip",
+  "name": {
+    "en": "Assisted Dip",
+    "tr": "Yardımlı Dip"
+  },
+  "description": {
+    "en": "A selectorized assisted-dip machine supports the knees while the athlete lowers and presses up between parallel handles.",
+    "tr": "Ağırlık destekli dip makinesinde sporcu dizleri peddeyken paralel tutacaklar arasında alçalıp yükselir."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Sit or kneel on the assist platform, hold the parallel handles, and select enough assistance to move smoothly.",
+      "Bend your elbows to lower your body within a comfortable range while keeping your torso steady.",
+      "Press through the handles to return to the top; stop if you feel shoulder pain or cannot control the descent."
+    ],
+    "tr": [
+      "Yardım platformuna otur veya diz çök; paralel tutacakları kavra ve akıcı hareket için yeterli destek ağırlığını seç.",
+      "Gövden sabitken dirseklerini büküp rahat ettiğin aralıkta alçal.",
+      "Yukarı dönmek için tutacakları it; omuz ağrısı hissedersen veya inişi kontrol edemezsen dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "chest-dip",
+    "bench-dip",
+    "triceps-pushdown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/assisted-dip.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Assisted Dip; target muscles highlighted in red.",
+        "tr": "Yardımlı Dip hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/assisted-dip.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
+    }
+  ]
+}

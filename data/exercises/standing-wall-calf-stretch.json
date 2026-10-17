@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-wall-calf-stretch",
+  "slug": "standing-wall-calf-stretch",
+  "name": {
+    "en": "Standing Wall Calf Stretch",
+    "tr": "Duvara Dayalı Ayakta Baldır Esnetmesi"
+  },
+  "description": {
+    "en": "A wall-supported standing stretch for the calf of the rear leg.",
+    "tr": "Arkadaki bacağın baldırını esnetmek için duvardan destek alınan ayakta hareket."
+  },
+  "category": "mobility",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Place both hands on a wall, step one foot back, and keep the back heel grounded with toes pointing forward.",
+      "Bend the front knee and lean gently toward the wall until you feel a mild stretch in the rear calf.",
+      "Hold without bouncing, then switch legs; keep the rear heel down."
+    ],
+    "tr": [
+      "İki elini duvara koy, bir ayağını geriye al ve arka topuğunu yerde, parmaklarını öne dönük tut.",
+      "Ön dizini büküp arka baldırında hafif esneme hissedene kadar duvara doğru yumuşakça yaklaş.",
+      "Zıplamadan bekle ve bacak değiştir; arka topuğunu yerde tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/standing-wall-calf-stretch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Standing Wall Calf Stretch; target muscles highlighted in red.",
+        "tr": "Duvara Dayalı Ayakta Baldır Esnetmesi hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-wall-calf-stretch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-9.md"
+    }
+  ]
+}

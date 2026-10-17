@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "landmine-rotation",
+  "slug": "landmine-rotation",
+  "name": {
+    "en": "Landmine Rotation",
+    "tr": "Landmine Rotasyonu"
+  },
+  "description": {
+    "en": "A standing rotational exercise guiding a landmine bar through a controlled diagonal arc.",
+    "tr": "Landmine barının kontrollü çapraz yay çizdiği ayakta gövde rotasyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "rotation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell",
+    "other"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Secure one end of a barbell in a landmine base and hold the free end with both hands at chest height.",
+      "Stand with feet stable and guide the bar in a controlled arc across your body, rotating through the hips and trunk.",
+      "Reverse the arc smoothly; use a load that lets you keep control."
+    ],
+    "tr": [
+      "Halterin bir ucunu landmine yuvasına sabitle; serbest ucunu iki elinle göğüs hizasında tut.",
+      "Ayaklarını dengeli basıp kalça ve gövdeni birlikte döndürerek barı kontrollü yayla karşı yana taşı.",
+      "Yayı akıcı biçimde tersine çevir; kontrolü koruyabildiğin ağırlığı seç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/landmine-rotation.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Landmine Rotation with target muscles highlighted red.",
+        "tr": "Landmine Rotasyonu hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/landmine-rotation.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-3.md"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "lying-overhead-dumbbell-triceps-extension",
+  "slug": "lying-overhead-dumbbell-triceps-extension",
+  "name": {
+    "en": "Lying Overhead Dumbbell Triceps Extension",
+    "tr": "Yatarak Dambıl Triceps Açışı"
+  },
+  "description": {
+    "en": "Lying on a flat bench, both hands hold one dumbbell as the elbows bend and extend overhead.",
+    "tr": "Düz sehpada yatarken tek dambıl iki elle tutulur; dirsekler bükülüp açılır."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a flat bench and hold one dumbbell securely with both hands above your shoulders.",
+      "Bend your elbows to lower the weight beside and slightly behind your head while keeping your upper arms mostly still.",
+      "Extend your elbows to return the dumbbell above your shoulders; use a load you can control safely."
+    ],
+    "tr": [
+      "Düz sehpaya uzan ve bir dambılı iki elinle omuzlarının üzerinde güvenle tut.",
+      "Üst kollarını mümkün olduğunca sabit tutarak dirseklerini bük ve ağırlığı başının yanına, hafifçe gerisine indir.",
+      "Dambılı omuzlarının üzerine döndürmek için dirseklerini aç; güvenle kontrol edebileceğin bir yük kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-skull-crusher",
+    "single-arm-overhead-dumbbell-triceps-extension",
+    "overhead-cable-triceps-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/lying-overhead-dumbbell-triceps-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Lying Overhead Dumbbell Triceps Extension; target muscles highlighted in red.",
+        "tr": "Yatarak Dambıl Triceps Açışı hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lying-overhead-dumbbell-triceps-extension.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-11.md"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-cable-chest-press",
+  "slug": "standing-cable-chest-press",
+  "name": {
+    "en": "Standing Cable Chest Press",
+    "tr": "Ayakta Kablo Göğüs Pressi"
+  },
+  "description": {
+    "en": "A standing horizontal press performed with two cable handles set around mid-chest height.",
+    "tr": "Göğüs hizasına ayarlanmış iki kablo koluyla ayakta yapılan yatay press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["cable"],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "instructions": {
+    "en": [
+      "Set two cable pulleys around mid-chest height. Face away from them, hold a handle in each hand, and step into a stable staggered stance with elbows bent.",
+      "Brace your torso and press both handles forward at chest height without twisting or leaning back.",
+      "Return the handles slowly until your hands are beside your chest; keep your wrists neutral and shoulders relaxed."
+    ],
+    "tr": [
+      "İki kablo makarasını göğüs hizasına ayarla. Sırtın makinelere dönükken iki kolu tut, dirseklerini bük ve dengeli bir adım duruşu al.",
+      "Gövdeni sabitleyip belini çukurlaştırmadan iki kolu göğüs hizasında öne doğru it.",
+      "Bileklerini düz, omuzlarını rahat tutarak kolları kontrollü biçimde göğsünün yanına geri getir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/standing-cable-chest-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the start and finish of a standing cable chest press, with the chest highlighted in red.",
+        "tr": "Ayakta Kablo Göğüs Pressi hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; göğüs kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-cable-chest-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

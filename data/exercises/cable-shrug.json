@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-shrug",
+  "slug": "cable-shrug",
+  "name": {
+    "en": "Cable Shrug",
+    "tr": "Kabloda Omuz Silkme"
+  },
+  "description": {
+    "en": "A standing shoulder-elevation exercise performed while holding a low cable bar.",
+    "tr": "Alçak kablo barı tutulurken omuzların yukarı kaldırıldığı ayakta egzersiz."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a straight bar to a low pulley and stand tall holding it in front of your thighs.",
+      "Raise your shoulders toward your ears without bending your elbows or rolling your shoulders.",
+      "Lower your shoulders slowly while keeping the cable under control."
+    ],
+    "tr": [
+      "Düz barı alçak makaraya tak; barı uyluklarının önünde tutarak dik dur.",
+      "Dirseklerini bükmeden veya omuzlarını döndürmeden omuzlarını kulaklarına doğru kaldır.",
+      "Kabloyu kontrollü tutup omuzlarını yavaşça başlangıç konumuna indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/cable-shrug.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Cable Shrug; target muscles highlighted in red.",
+        "tr": "Kabloda Omuz Silkme hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-shrug.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "half-kneeling-band-chest-press",
+  "slug": "half-kneeling-band-chest-press",
+  "name": {
+    "en": "Half-Kneeling Band Chest Press",
+    "tr": "Yarım Diz Çöküşte Bant Göğüs İtişi"
+  },
+  "description": {
+    "en": "A unilateral band press from a half-kneeling stance.",
+    "tr": "Yarım diz çöküşte yapılan tek taraflı bant göğüs itişi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "force": "push",
+  "mechanic": "compound",
+  "instructions": {
+    "en": [
+      "Kneel with one knee down; anchor a band behind you at chest height and hold it beside your chest.",
+      "Brace your trunk and press forward without turning your torso.",
+      "Bend the elbow slowly and return; repeat, then switch sides."
+    ],
+    "tr": [
+      "Bir dizin yerde diz çök; bandı arkanda göğüs hizasında sabitleyip göğsünün yanında tut.",
+      "Gövdeni sıkı tutup gövdeni döndürmeden öne it.",
+      "Dirseğini yavaşça büküp geri dön; tekrarla ve taraf değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/half-kneeling-band-chest-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Half-Kneeling Band Chest Press with the target muscle highlighted in red.",
+        "tr": "Yarım Diz Çöküşte Bant Göğüs İtişi hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/half-kneeling-band-chest-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

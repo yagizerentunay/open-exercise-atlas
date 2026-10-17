@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-bent-knee-calf-raise",
+  "slug": "standing-bent-knee-calf-raise",
+  "name": {
+    "en": "Standing Bent-Knee Calf Raise",
+    "tr": "Dizler Bükülü Ayakta Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A standing calf raise performed with knees softly bent.",
+    "tr": "Dizler hafif bükülüyken yapılan ayakta baldır yükseltme."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "force": "push",
+  "mechanic": "isolation",
+  "instructions": {
+    "en": [
+      "Stand near a wall for balance with knees softly bent.",
+      "Rise onto the balls of both feet while keeping the knee bend.",
+      "Pause, then lower heels slowly without bouncing."
+    ],
+    "tr": [
+      "Denge için duvarın yanında durup dizlerini hafifçe bük.",
+      "Diz bükümünü koruyup ayak parmaklarının köklerine yüksel.",
+      "Kısa durakla ve zıplamadan topuklarını yavaşça indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/standing-bent-knee-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Standing Bent-Knee Calf Raise with the target muscle highlighted in red.",
+        "tr": "Dizler Bükülü Ayakta Baldır Yükseltme hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-bent-knee-calf-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

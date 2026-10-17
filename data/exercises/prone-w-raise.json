@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "prone-w-raise",
+  "slug": "prone-w-raise",
+  "name": {
+    "en": "Prone W Raise",
+    "tr": "Yüzüstü W Kaldırışı"
+  },
+  "description": {
+    "en": "A face-down shoulder-blade raise that forms a W.",
+    "tr": "Kolları W biçiminde kaldıran yüzüstü kürek kemiği çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "mat"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "traps"
+  ],
+  "force": "pull",
+  "mechanic": "isolation",
+  "instructions": {
+    "en": [
+      "Lie face down and bend elbows beside the ribs into a W.",
+      "Draw the shoulder blades together and lift hands and elbows slightly.",
+      "Lower with control and relax the neck."
+    ],
+    "tr": [
+      "Yüzüstü yatıp dirseklerini kaburgalarının yanında W biçiminde bük.",
+      "Kürek kemiklerini yaklaştırıp ellerini ve dirseklerini az miktarda kaldır.",
+      "Kontrollü indir ve boynunu gevşek tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/prone-w-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Prone W Raise with the target muscle highlighted in red.",
+        "tr": "Yüzüstü W Kaldırışı hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/prone-w-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-cable-hip-flexion",
+  "slug": "standing-cable-hip-flexion",
+  "name": {
+    "en": "Standing Cable Hip Flexion",
+    "tr": "Ayakta Kabloyla Kalça Fleksiyonu"
+  },
+  "description": {
+    "en": "A single-leg cable drill lifting the thigh forward while the torso stays upright.",
+    "tr": "Gövde dikken dirence karşı uyluğu öne kaldıran tek bacaklı kablo çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable",
+    "machine"
+  ],
+  "primaryMuscles": [
+    "hip-flexors"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "force": "pull",
+  "mechanic": "isolation",
+  "instructions": {
+    "en": [
+      "Attach an ankle cuff to a low cable, stand facing away and hold a support.",
+      "Brace your trunk and lift the cuffed knee forward without leaning back.",
+      "Lower slowly, finish the set and switch legs."
+    ],
+    "tr": [
+      "Ayak bileği bandını alçak kabloya tak; makaraya sırtın dönük durup destekten tut.",
+      "Gövdeni sıkıp geriye yaslanmadan bantlı dizini öne kaldır.",
+      "Yavaşça indir, seti tamamla ve diğer bacağa geç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/standing-cable-hip-flexion.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Standing Cable Hip Flexion with the target muscle highlighted in red.",
+        "tr": "Ayakta Kabloyla Kalça Fleksiyonu hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-cable-hip-flexion.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

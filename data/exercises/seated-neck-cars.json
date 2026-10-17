@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-neck-cars",
+  "slug": "seated-neck-cars",
+  "name": {
+    "en": "Seated Neck CARs",
+    "tr": "Oturarak Kontrollü Boyun Daireleri"
+  },
+  "description": {
+    "en": "A slow small-range neck mobility sequence performed seated.",
+    "tr": "Oturarak yapılan yavaş ve küçük açılı boyun hareketliliği dizisi."
+  },
+  "category": "mobility",
+  "movementPattern": "rotation",
+  "difficulty": "beginner",
+  "equipment": [],
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "force": "static",
+  "mechanic": "isolation",
+  "instructions": {
+    "en": [
+      "Sit tall with shoulders relaxed and gaze forward.",
+      "Slowly turn the head and trace a gentle arc with the chin without forcing range.",
+      "Return to center and reverse; stop for pain, dizziness or unusual symptoms."
+    ],
+    "tr": [
+      "Omuzlarını gevşetip dik otur ve karşıya bak.",
+      "Hareket aralığını zorlamadan başını yavaşça çevirip çenenle nazik bir yay çiz.",
+      "Merkeze dön ve ters yöne tekrarla; ağrı veya baş dönmesi olursa bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/seated-neck-cars.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Seated Neck CARs with the target muscle highlighted in red.",
+        "tr": "Oturarak Kontrollü Boyun Daireleri hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-neck-cars.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "childs-pose",
+  "slug": "childs-pose",
+  "name": {
+    "en": "Child's Pose",
+    "tr": "Çocuk Pozu"
+  },
+  "description": {
+    "en": "A kneeling mobility position that gently lengthens the back and hips.",
+    "tr": "Sırtı ve kalçaları nazikçe esneten diz çöküş mobilite pozisyonu."
+  },
+  "category": "mobility",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Start on hands and knees on a mat with hands comfortably forward.",
+      "Gently shift your hips toward your heels and reach your arms ahead until you feel an easy stretch through your back.",
+      "Breathe slowly, return to hands and knees, and stay within a comfortable range."
+    ],
+    "tr": [
+      "Mata ellerin ve dizlerin üzerinde, ellerin rahatça önde olacak şekilde başla.",
+      "Sırtında hafif bir esneme hissedene kadar kalçanı yavaşça topuklarına yaklaştırıp kollarını öne uzat.",
+      "Yavaş nefes alıp ellerin ve dizlerinin üzerine dön; rahat aralıkta kal."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/childs-pose.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Child's Pose; target muscles highlighted in red.",
+        "tr": "Çocuk Pozu hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/childs-pose.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-10.md"
+    }
+  ]
+}

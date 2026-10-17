@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "bodyweight-side-plank-hip-dip",
+  "slug": "bodyweight-side-plank-hip-dip",
+  "name": {
+    "en": "Bodyweight Side-Plank Hip Dip",
+    "tr": "Yan Plankta Kalça İndirme"
+  },
+  "description": {
+    "en": "A side-plank variation lowering and raising the hips through a controlled lateral trunk bend.",
+    "tr": "Gövdeyi kontrollü yana bükerek kalçanın indirildiği ve kaldırıldığı yan plank çeşidi."
+  },
+  "category": "strength",
+  "movementPattern": "rotation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Set a forearm side plank with your elbow below your shoulder and feet stacked.",
+      "Lower your hip a short distance without rolling your chest forward.",
+      "Lift your hip back into line and repeat; switch sides."
+    ],
+    "tr": [
+      "Dirseğin omzunun altında ve ayakların üst üste olacak şekilde önkol yan plank kur.",
+      "Göğsünü öne döndürmeden kalçanı yere doğru az miktarda indir.",
+      "Kalçanı yeniden gövdenle hizala ve tekrarla; sonra taraf değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/bodyweight-side-plank-hip-dip.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Bodyweight Side-Plank Hip Dip with the target muscle highlighted in red.",
+        "tr": "Yan Plankta Kalça İndirme hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bodyweight-side-plank-hip-dip.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

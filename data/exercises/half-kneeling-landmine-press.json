@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "half-kneeling-landmine-press",
+  "slug": "half-kneeling-landmine-press",
+  "name": {
+    "en": "Half-Kneeling Landmine Press",
+    "tr": "Yarım Diz Çökerek Landmine Press"
+  },
+  "description": {
+    "en": "A single-arm diagonal press using a landmine-mounted barbell while in a half-kneeling stance.",
+    "tr": "Yarım diz çöküş pozisyonunda landmine bağlantılı halterle yapılan tek kol çapraz itiş."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell",
+    "other"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Set one knee down with the opposite foot forward and hold the bar end at shoulder height on that side.",
+      "Brace your trunk and press diagonally upward, keeping your ribs stacked over your pelvis.",
+      "Lower with control and complete the set before switching sides."
+    ],
+    "tr": [
+      "Bir dizin yerde, karşı ayağın önde olacak şekilde dur; barın ucunu aynı taraftaki omuz hizasında tut.",
+      "Gövdeni sıkıp kaburgalarını pelvisinin üzerinde hizalayarak barı çapraz biçimde yukarı it.",
+      "Barı kontrollü indir; taraf değiştirmeden önce seti tamamla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/half-kneeling-landmine-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Half-Kneeling Landmine Press; target muscles highlighted in red.",
+        "tr": "Yarım Diz Çökerek Landmine Press hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/half-kneeling-landmine-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-walking-lunge",
+  "slug": "dumbbell-walking-lunge",
+  "name": {
+    "en": "Dumbbell Walking Lunge",
+    "tr": "Dambılla Yürüyüş Lunge"
+  },
+  "description": {
+    "en": "Alternating forward lunges performed while carrying a dumbbell in each hand.",
+    "tr": "Her elde bir dambıl taşırken sırayla ileri adım atılarak yapılan lunge serisi."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["dumbbell"],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "instructions": {
+    "en": [
+      "Stand tall with a dumbbell at each side and feet about hip-width apart.",
+      "Take a controlled step forward; lower until both knees bend comfortably, keeping the front foot flat and the front knee aligned over the ankle.",
+      "Push through the front foot to rise and bring the back leg forward into the next step; keep your feet on separate tracks."
+    ],
+    "tr": [
+      "Her iki yanında birer dambıl tutarak dik dur; ayakların yaklaşık kalça genişliğinde olsun.",
+      "Kontrollü biçimde ileri adım at; ön ayağını yerde tutup ön dizini ayak bileğinin hizasında koruyarak iki dizini rahat aralıkta bük.",
+      "Ön ayağından güç alıp yükselirken arkadaki bacağını sonraki adıma getir; ayaklarını aynı çizgiye koyma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-walking-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show standing and forward-lunge positions with dumbbells, with the quadriceps and glutes highlighted red.",
+        "tr": "Dambıllı Yürüyüş Lunge hareketinin ayakta ve ileri hamle pozisyonları iki gri karede gösteriliyor; quadriceps ve kalçalar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-walking-lunge.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

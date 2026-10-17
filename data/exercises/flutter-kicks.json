@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "flutter-kicks",
+  "slug": "flutter-kicks",
+  "name": {
+    "en": "Flutter Kicks",
+    "tr": "Makas Vuruşu"
+  },
+  "description": {
+    "en": "A supine core exercise that alternates small, controlled leg lifts while the trunk stays braced.",
+    "tr": "Gövde sıkı ve sabit kalırken bacakların küçük ve kontrollü biçimde sırayla kaldırıldığı sırtüstü bir core egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "hip-flexors"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back with legs extended and hands beside your hips; brace your trunk and keep your lower back gently supported.",
+      "Lift both heels slightly, then alternate raising and lowering each leg in a small, controlled range.",
+      "Keep the movement smooth and stop or shorten the range if your lower back starts to arch."
+    ],
+    "tr": [
+      "Bacakların uzatılmış ve ellerin kalçalarının yanında olacak şekilde sırtüstü yat; gövdeni sıkıp belini hafifçe destekle.",
+      "Topuklarını yerden az kaldır; ardından küçük ve kontrollü bir aralıkta bacaklarını sırayla indirip kaldır.",
+      "Hareketi akıcı tut; belin çukurlaşmaya başlarsa aralığı kısalt veya dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/flutter-kicks.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Flutter Kicks; target muscles highlighted in red.",
+        "tr": "Makas Vuruşu hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/flutter-kicks.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-7.md"
+    }
+  ]
+}

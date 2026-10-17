@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "sled-push",
+  "slug": "sled-push",
+  "name": {
+    "en": "Sled Push",
+    "tr": "Sled İtişi"
+  },
+  "description": {
+    "en": "A loaded sled is pushed forward in a low, steady walking drive.",
+    "tr": "Yüklü bir kızak alçak ve düzenli adımlarla ileri itilir."
+  },
+  "category": "cardio",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Load a sled with a manageable weight and stand behind it with both hands on the handles.",
+      "Brace your trunk, lean forward with a long spine, and drive through short, steady steps to push the sled.",
+      "Slow down gradually at the end of the lane; reduce the load if your posture or steps become uneven."
+    ],
+    "tr": [
+      "Kızağa yönetilebilir bir ağırlık yükle ve iki elin tutacaklarda arkasında dur.",
+      "Gövdeni sıkıp sırtını uzun tutarak öne eğil; kısa ve düzenli adımlarla kızağı it.",
+      "Parkurun sonunda hızını kademeli azalt; duruşun veya adımların bozulursa yükü hafiflet."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "bodyweight-box-jump",
+    "medicine-ball-overhead-slam"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/sled-push.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Sled Push; target muscles highlighted in red.",
+        "tr": "Sled İtişi hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/sled-push.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-11.md"
+    }
+  ]
+}

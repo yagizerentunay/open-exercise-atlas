@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "single-dumbbell-suitcase-march",
+  "slug": "single-dumbbell-suitcase-march",
+  "name": {
+    "en": "Single-Dumbbell Suitcase March",
+    "tr": "Tek Dambılla Suitcase March"
+  },
+  "description": {
+    "en": "A one-sided loaded march resisting trunk side-bending while alternating knee lifts.",
+    "tr": "Dönüşümlü diz kaldırırken gövdenin yana eğilmesine karşı koyulan tek taraflı yüklü yürüme."
+  },
+  "category": "strength",
+  "movementPattern": "carry",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "hip-flexors",
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Hold one dumbbell at your side and stand tall.",
+      "Lift the opposite knee to about hip height without leaning toward the weight.",
+      "Lower the foot quietly and alternate sides while keeping your trunk steady."
+    ],
+    "tr": [
+      "Bir dambılı yanında tutup dik dur.",
+      "Ağırlığa doğru yana eğilmeden karşı dizini yaklaşık kalça hizasına kaldır.",
+      "Gövdeni sabit tutarak ayağını sessizce indir ve taraf değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/single-dumbbell-suitcase-march.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Single-Dumbbell Suitcase March with target muscles highlighted red.",
+        "tr": "Tek Dambılla Suitcase March hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-dumbbell-suitcase-march.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

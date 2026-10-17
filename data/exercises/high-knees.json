@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "high-knees",
+  "slug": "high-knees",
+  "name": {
+    "en": "High Knees",
+    "tr": "Yüksek Diz Koşusu"
+  },
+  "description": {
+    "en": "A running-in-place drill alternating quick knee drives to about hip height.",
+    "tr": "Dizlerin sırayla yaklaşık kalça hizasına hızlıca çekildiği yerinde koşu çalışması."
+  },
+  "category": "cardio",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "hip-flexors"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Stand tall with elbows bent and feet under the hips.",
+      "Jog in place, alternating knee drives toward hip height while the opposite arm swings forward.",
+      "Land lightly on the balls of the feet and keep the trunk upright; slow to a march if needed."
+    ],
+    "tr": [
+      "Dirseklerini büküp ayaklarını kalçalarının altında tutarak dik dur.",
+      "Yerinde hafifçe koş; karşı kolu öne getirirken dizlerini sırayla kalça hizasına doğru çek.",
+      "Ayaklarının ön kısmına yumuşak basıp gövdeni dik tut; gerekirse tempoyu yürüyüşe düşür."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "bodyweight-mountain-climber",
+    "bodyweight-jumping-jack",
+    "jump-rope"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/high-knees.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of High Knees; hip flexors highlighted in red.",
+        "tr": "Yüksek Diz Koşusu hareketinin iki aşamalı gri tonlu çizimi; kalça bükücüler kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/high-knees.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-17.md"
+    }
+  ]
+}

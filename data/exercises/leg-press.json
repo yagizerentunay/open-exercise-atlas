@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "leg-press",
+  "slug": "leg-press",
+  "name": {
+    "en": "Leg Press",
+    "tr": "Leg Press"
+  },
+  "description": {
+    "en": "A machine squat-pattern exercise pressing a weighted platform away with both feet.",
+    "tr": "İki ayakla yüklü platformun itildiği makine squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Set the seat so your lower back and hips stay supported; place feet about shoulder-width on the platform.",
+      "Lower the platform until your knees bend comfortably without your pelvis rolling up.",
+      "Press through the whole foot and stop just short of locking the knees."
+    ],
+    "tr": [
+      "Belin ve kalçan destekli kalacak şekilde oturağı ayarla; ayaklarını platformda yaklaşık omuz genişliğinde konumlandır.",
+      "Leğen kemiğin koltuktan kalkmadan, dizlerin rahatça bükülene kadar platformu indir.",
+      "Ayağının tamamından it ve dizlerini kilitlemeden dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/leg-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Leg Press with target muscles highlighted in red.",
+        "tr": "Leg Press hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/leg-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-5.md"
+    }
+  ]
+}

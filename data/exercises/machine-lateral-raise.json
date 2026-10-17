@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-lateral-raise",
+  "slug": "machine-lateral-raise",
+  "name": {
+    "en": "Machine Lateral Raise",
+    "tr": "Makinede Yana Omuz Açışı"
+  },
+  "description": {
+    "en": "A seated shoulder-abduction exercise performed by pressing the machine pads outward with the elbows.",
+    "tr": "Makine pedlerini dirseklerle dışa doğru iterek yapılan oturarak omuz abdüksiyonu hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Adjust the seat so the pads sit just above your elbows; sit upright with your arms slightly bent and shoulders relaxed.",
+      "Press your elbows outward to raise the pads until your upper arms are near shoulder height; avoid shrugging.",
+      "Lower the pads slowly to the start position while keeping your torso still."
+    ],
+    "tr": [
+      "Pedler dirseklerinin hemen üzerinde kalacak şekilde koltuğu ayarla; dik otur, kollarını hafif bük ve omuzlarını rahat bırak.",
+      "Omuzlarını yukarı çekmeden dirseklerini dışa bastırıp üst kolların omuz hizasına yaklaşana kadar pedleri kaldır.",
+      "Gövdeni sabit tutarak pedleri yavaşça başlangıç konumuna indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/machine-lateral-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the lowered and raised positions of a machine lateral raise, with the deltoids highlighted in red.",
+        "tr": "Makinede Yana Omuz Açışı hareketinin alçak ve yüksek pozisyonları iki gri karede gösteriliyor; omuz kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-lateral-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

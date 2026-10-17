@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "smith-machine-bench-press",
+  "slug": "smith-machine-bench-press",
+  "name": {
+    "en": "Smith Machine Bench Press",
+    "tr": "Smith Makinesinde Bench Press"
+  },
+  "description": {
+    "en": "A horizontal chest press performed on a flat bench using the guided Smith machine bar.",
+    "tr": "Düz bench üzerinde Smith makinesinin kılavuzlu barıyla yapılan yatay göğüs itişi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Set the flat bench beneath the bar so it lowers to mid-chest; use the safety stops.",
+      "Unrack the bar, lower it under control toward your chest, and keep wrists stacked over elbows.",
+      "Press upward without bouncing, then rack it securely."
+    ],
+    "tr": [
+      "Düz benchi barın altına yerleştir; bar göğsünün ortasına inecek şekilde konumlan ve emniyet kancalarını ayarla.",
+      "Barı kancalardan çıkarıp kontrollü biçimde göğsüne indir; bileklerini dirseklerinin üzerinde hizala.",
+      "Sektirmeden barı yukarı it ve güvenli biçimde kancalara yerleştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/smith-machine-bench-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Smith Machine Bench Press; target muscles highlighted in red.",
+        "tr": "Smith Makinesinde Bench Press hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-bench-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

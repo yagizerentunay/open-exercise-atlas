@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "sit-up",
+  "slug": "sit-up",
+  "name": {
+    "en": "Sit-Up",
+    "tr": "Mekik"
+  },
+  "description": {
+    "en": "A standard floor abdominal exercise that curls the torso upward from a bent-knee position.",
+    "tr": "Bükülü diz pozisyonundan gövdenin yukarı kıvrıldığı standart bir yerde mekik egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip-flexors"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a mat with knees bent and feet planted; cross your arms over your chest.",
+      "Brace your abdomen and curl your torso toward your thighs without pulling on your head.",
+      "Lower with control until your upper back returns to the mat."
+    ],
+    "tr": [
+      "Dizlerin bükülü ve ayak tabanların yerde olacak şekilde mata yat; kollarını göğsünde çaprazla.",
+      "Karnını sıkıp başını çekmeden gövdeni uyluklarına doğru kıvır.",
+      "Üst sırtın mata dönene kadar kontrollü biçimde alçal."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/sit-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Sit-Up; target muscles highlighted in red.",
+        "tr": "Mekik hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/sit-up.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

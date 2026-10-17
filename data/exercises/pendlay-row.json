@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "pendlay-row",
+  "slug": "pendlay-row",
+  "name": {
+    "en": "Pendlay Row",
+    "tr": "Pendlay Row"
+  },
+  "description": {
+    "en": "A strict barbell row starting each repetition from the floor with the torso nearly parallel.",
+    "tr": "Her tekrarın yerden başladığı, gövdenin yere yakın paralel kaldığı kontrollü halter row."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Set the bar on the floor and hinge until your torso is nearly parallel, with a neutral spine.",
+      "Grip the bar and row it toward the lower chest while keeping the torso angle steady.",
+      "Lower the bar to the floor between repetitions and reset your brace."
+    ],
+    "tr": [
+      "Barı yere koy; omurganı nötr tutup gövden yere yakın paralel olana kadar kalçadan eğil.",
+      "Barı kavrayıp gövde açını değiştirmeden alt göğsüne doğru çek.",
+      "Tekrarlar arasında barı yere indirip gövdeni yeniden sık."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/pendlay-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Pendlay Row with target muscles highlighted red.",
+        "tr": "Pendlay Row hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/pendlay-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-3.md"
+    }
+  ]
+}

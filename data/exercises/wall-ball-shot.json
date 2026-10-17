@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "wall-ball-shot",
+  "slug": "wall-ball-shot",
+  "name": {
+    "en": "Wall-Ball Shot",
+    "tr": "Wall-Ball Atışı"
+  },
+  "description": {
+    "en": "A medicine-ball front squat followed by a coordinated throw to a high wall target.",
+    "tr": "Sağlık topuyla yapılan ön squatın ardından topun yüksek bir duvar hedefine atıldığı hareket."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abdominals",
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Stand facing a clear wall target, holding a light medicine ball at the upper chest with feet about shoulder-width apart.",
+      "Squat under control, then drive through the feet and hips to stand as you throw the ball toward the target.",
+      "Catch the rebound softly at chest height and descend into the next squat; begin with a light ball and clear space."
+    ],
+    "tr": [
+      "Boş bir duvar hedefine dön; hafif sağlık topunu üst göğsünde tutup ayaklarını yaklaşık omuz genişliğinde aç.",
+      "Kontrollü biçimde squat yap; ardından ayaklarından ve kalçandan güç alarak ayağa kalkarken topu hedefe at.",
+      "Geri gelen topu göğüs hizasında yumuşakça karşılayıp sonraki squata in; hafif topla ve boş alanda başla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "dumbbell-thruster",
+    "medicine-ball-overhead-slam"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/wall-ball-shot.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Wall-Ball Shot; quadriceps, glutes and shoulders highlighted in red.",
+        "tr": "Wall-Ball Atışı hareketinin iki aşamalı gri tonlu çizimi; quadriceps, kalça ve omuz kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-ball-shot.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-17.md"
+    }
+  ]
+}

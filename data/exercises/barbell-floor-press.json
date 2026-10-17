@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-floor-press",
+  "slug": "barbell-floor-press",
+  "name": {
+    "en": "Barbell Floor Press",
+    "tr": "Halterle Floor Press"
+  },
+  "description": {
+    "en": "A horizontal barbell press performed while lying directly on the floor, with the upper arms stopping at the floor on each repetition.",
+    "tr": "Her tekrarda üst kollar yere hafifçe değecek şekilde sırtüstü yerde yapılan yatay halter pressi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a mat with knees bent and feet flat; use a rack or a spotter to position the bar safely over mid-chest.",
+      "Lower the bar under control until your upper arms lightly touch the floor, keeping wrists above elbows.",
+      "Press the bar back over mid-chest until your arms are nearly straight; do not bounce your elbows off the floor."
+    ],
+    "tr": [
+      "Dizlerin bükülü, ayakların yerde olacak şekilde mata sırtüstü yat; barı göğsünün ortasına güvenle almak için rack veya yardımcı kullan.",
+      "Bileklerini dirseklerinin üzerinde tutarak üst kolların yere hafifçe değene kadar barı kontrollü indir.",
+      "Dirseklerini yerden sektirmeden barı göğsünün üzerinde kolların neredeyse düz olana kadar it."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/barbell-floor-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the lowered and pressed positions of a Barbell Floor Press, with the chest highlighted in red.",
+        "tr": "Halterle Floor Press hareketinin indirme ve itiş pozisyonları iki gri karede gösteriliyor; göğüs kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-floor-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

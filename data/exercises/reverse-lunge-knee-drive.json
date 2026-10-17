@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "reverse-lunge-knee-drive",
+  "slug": "reverse-lunge-knee-drive",
+  "name": {
+    "en": "Reverse Lunge to Knee Drive",
+    "tr": "Geri Hamleden Diz Çekişine"
+  },
+  "description": {
+    "en": "A reverse lunge followed by a controlled knee drive using the planted leg for balance.",
+    "tr": "Denge için yerdeki bacak kullanılarak geri hamlenin ardından kontrollü diz çekişi yapılır."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "hip-flexors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Stand tall and step one foot back into a comfortable reverse lunge.",
+      "Push through the front foot and bring the rear knee toward hip height without leaning back.",
+      "Return to the lunge with control; complete the side and switch."
+    ],
+    "tr": [
+      "Dik dur ve bir ayağını geriye alarak rahat bir geri hamleye geç.",
+      "Öndeki ayağından güç alıp gerideki dizini geriye yaslanmadan kalça hizasına çek.",
+      "Kontrollü biçimde hamleye dön; bir tarafı tamamlayıp değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/reverse-lunge-knee-drive.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Reverse Lunge to Knee Drive with the target muscle highlighted in red.",
+        "tr": "Geri Hamleden Diz Çekişine hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/reverse-lunge-knee-drive.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

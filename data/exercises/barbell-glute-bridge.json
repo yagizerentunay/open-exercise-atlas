@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-glute-bridge",
+  "slug": "barbell-glute-bridge",
+  "name": {
+    "en": "Barbell Glute Bridge",
+    "tr": "Halterli Glute Bridge"
+  },
+  "description": {
+    "en": "A loaded hip-extension exercise performed from the floor with a barbell across the hips.",
+    "tr": "Halter kalçaların üzerindeyken yerde yapılan yüklü kalça ekstansiyonu egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "difficulty": "beginner",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on your back with knees bent and feet flat; place a padded barbell across your hips and hold it steady.",
+      "Brace your trunk and drive through your feet to lift your hips until your torso and thighs align.",
+      "Lower your hips under control without arching your lower back."
+    ],
+    "tr": [
+      "Dizlerin bükülü ve ayakların yerde olacak şekilde sırtüstü yat; pedli halteri kalçalarının üzerine yerleştirip sabitle.",
+      "Gövdeni sıkıp ayaklarından güç alarak gövden ve uylukların hizalanana kadar kalçanı kaldır.",
+      "Belini çukurlaştırmadan kalçanı kontrollü biçimde indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/barbell-glute-bridge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Barbell Glute Bridge; target muscles highlighted in red.",
+        "tr": "Halterli Glute Bridge hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-glute-bridge.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

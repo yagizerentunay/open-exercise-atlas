@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-oblique-crunch",
+  "slug": "cable-oblique-crunch",
+  "name": {
+    "en": "Cable Oblique Crunch",
+    "tr": "Kablolu Oblik Crunch"
+  },
+  "description": {
+    "en": "A standing cable trunk-flexion exercise performed toward one side to emphasize the obliques.",
+    "tr": "Oblikleri hedeflemek için gövdenin tek yana doğru büküldüğü ayakta kablo egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Set a high cable attachment and stand side-on to the machine; hold the handle near your upper chest with a comfortable stance.",
+      "Brace your trunk and bend sideways toward the cable in a short, controlled range while keeping your hips steady.",
+      "Return slowly against the cable and complete both sides; keep your head relaxed and do not pull on your neck."
+    ],
+    "tr": [
+      "Kabloyu üst makaraya takıp makineye yan dön; rahat bir duruşla tutacağı üst göğsüne yakın tut.",
+      "Gövdeni sık ve kalçalarını sabit tutarak kısa, kontrollü bir aralıkta kabloya doğru yana bükül.",
+      "Kabloya karşı yavaşça başlangıca dön ve iki tarafı da çalış; başını rahat tut, boynunu çekiştirme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/cable-oblique-crunch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Cable Oblique Crunch; target muscles highlighted in red.",
+        "tr": "Kablolu Oblik Crunch hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-oblique-crunch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-7.md"
+    }
+  ]
+}

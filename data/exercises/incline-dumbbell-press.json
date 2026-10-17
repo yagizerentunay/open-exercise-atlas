@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "incline-dumbbell-press",
+  "slug": "incline-dumbbell-press",
+  "name": {
+    "en": "Incline Dumbbell Press",
+    "tr": "Eğimli Sehpada Dambıl Press"
+  },
+  "description": {
+    "en": "An upper-chest press performed with dumbbells on a low-incline bench.",
+    "tr": "Düşük eğimli sehpada dambıllarla yapılan üst göğüs itişi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Set a bench to a low incline and hold the dumbbells beside the upper chest.",
+      "Press both weights upward without letting them drift together; keep wrists stacked over elbows.",
+      "Lower until the upper arms are just below shoulder level, then repeat with control."
+    ],
+    "tr": [
+      "Sehpayı hafif eğime ayarla ve dambılları üst göğsünün yanında tut.",
+      "Bileklerini dirseklerinin üzerinde hizalayıp dambılları yukarı it; ağırlıkları birbirine çarpma.",
+      "Üst kolların omuz hizasının biraz altına gelene kadar kontrollü indir ve tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/incline-dumbbell-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Incline Dumbbell Press with the target muscle highlighted in red.",
+        "tr": "Eğimli Sehpada Dambıl Press hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-dumbbell-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-2.md"
+    }
+  ]
+}

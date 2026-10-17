@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "worlds-greatest-stretch",
+  "slug": "worlds-greatest-stretch",
+  "name": {
+    "en": "World's Greatest Stretch",
+    "tr": "World’s Greatest Stretch"
+  },
+  "description": {
+    "en": "A dynamic low-lunge mobility sequence combining a hip-flexor stretch with controlled thoracic rotation.",
+    "tr": "Alçak hamlede kalça bükücü esnetmesini kontrollü üst sırt rotasyonuyla birleştiren dinamik hareket."
+  },
+  "category": "mobility",
+  "movementPattern": "lunge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "hip-flexors"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "hamstrings",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Step into a long lunge and place both hands inside the front foot.",
+      "Keep the head aligned with the torso, rotate through the upper back and reach one arm upward.",
+      "Return the hand to the floor, step back and repeat on the other side."
+    ],
+    "tr": [
+      "Uzun bir hamleye geçip iki elini öndeki ayağının iç tarafına koy.",
+      "Başını gövdenle aynı hizada tut; üst sırtından dönerek bir kolunu yukarı uzat.",
+      "Elini yere geri koy, geriye adım at ve diğer tarafta tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/worlds-greatest-stretch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of World's Greatest Stretch with target areas highlighted in red.",
+        "tr": "World’s Greatest Stretch hareketinin iki aşamalı gri tonlu çizimi; hedef bölgeler kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/worlds-greatest-stretch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

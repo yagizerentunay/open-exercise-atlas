@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "glute-bridge-march",
+  "slug": "glute-bridge-march",
+  "name": {
+    "en": "Glute Bridge March",
+    "tr": "Kalça Köprüsünde Yürüyüş"
+  },
+  "description": {
+    "en": "A glute bridge variation that alternates lifting each foot while keeping the hips elevated and level.",
+    "tr": "Kalçalar yukarıda ve dengede kalırken ayakların sırayla kaldırıldığı kalça köprüsü varyasyonu."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "bodyweight",
+    "mat"
+  ],
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a mat with knees bent and feet planted hip-width apart; lift the hips into a bridge.",
+      "Brace the abdomen and lift one foot a few inches while keeping the pelvis level.",
+      "Set the foot down, alternate sides, and lower the hips after the set; shorten the march if the hips wobble."
+    ],
+    "tr": [
+      "Dizlerin bükülü ve ayakların kalça genişliğinde yerde olacak şekilde mata uzan; kalçanı köprü pozisyonuna kaldır.",
+      "Karnını sıkıp kalçalarını aynı hizada tutarak bir ayağını birkaç santimetre kaldır.",
+      "Ayağını yere koyup taraf değiştir; set bitince kalçanı indir. Kalçan sallanırsa ayağını daha az kaldır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "glute-bridge",
+    "single-leg-glute-bridge"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/glute-bridge-march.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Glute Bridge March; glutes highlighted in red.",
+        "tr": "Kalça Köprüsünde Yürüyüş hareketinin iki aşamalı gri tonlu çizimi; kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/glute-bridge-march.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-15.md"
+    }
+  ]
+}

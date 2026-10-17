@@ -151,3 +151,7 @@ Shared visual direction for each separate generation: “Use case: scientific-ed
 45. **Yan yatarak gövde açma:** Yan yatıp dizlerini üst üste bük. Üst kolunu göğsünün önünden geniş bir yayla geriye açarken dizlerini birlikte tut; rahat aralıkta başlangıca dön.
 
 These are editorial visual guides and draft cues only. They do not establish exercise equivalence, medical suitability, or expert approval of form/anatomy. The project may dedicate rights it holds in the original generated output under its [media policy](../media-provenance.md); AI output may not be unique, and no exclusivity is claimed. Drafts rejected for duplicate catalogue content, wrong panel layout, insufficient movement difference, or inconsistent target highlighting were not added to this set.
+
+## Additional pilot — 2026-10-17
+
+- **Zercher Squat:** [original two-phase WebP](zercher-squat/assisted-style-preview.webp), [prompt, hash, rights, and review scope](zercher-squat/README.md). No exact catalogue/pilot name or ID match was found; movement-equivalence review remains open.

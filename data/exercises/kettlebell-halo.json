@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "kettlebell-halo",
+  "slug": "kettlebell-halo",
+  "name": {
+    "en": "Kettlebell Halo",
+    "tr": "Kettlebell Halo"
+  },
+  "description": {
+    "en": "A controlled kettlebell circle around the head with an upright trunk.",
+    "tr": "Gövde dikken kettlebell’i baş çevresinde kontrollü dolaştırma hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "rotation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "kettlebell"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "force": "pull",
+  "mechanic": "compound",
+  "instructions": {
+    "en": [
+      "Stand tall and hold a light kettlebell by its horns in front of your chest.",
+      "Circle it slowly around your head, keeping it close and ribs stacked over pelvis.",
+      "Return to the front and circle the other way within a comfortable range."
+    ],
+    "tr": [
+      "Dik durup hafif kettlebell’i boynuzlarından göğsünün önünde tut.",
+      "Kaburgalarını kalçanın üzerinde hizalı tutup ağırlığı başının çevresinde yavaşça dolaştır.",
+      "Öne dön ve rahat aralıkta ters yöne dolaştır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/kettlebell-halo.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Kettlebell Halo with the target muscle highlighted in red.",
+        "tr": "Kettlebell Halo hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kettlebell-halo.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

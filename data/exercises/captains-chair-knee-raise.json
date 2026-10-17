@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "captains-chair-knee-raise",
+  "slug": "captains-chair-knee-raise",
+  "name": {
+    "en": "Captain's Chair Knee Raise",
+    "tr": "Captain’s Chair Diz Çekişi"
+  },
+  "description": {
+    "en": "A forearm-supported knee raise is performed on a vertical captain’s chair station without swinging.",
+    "tr": "Dikey captain’s chair istasyonunda sallanmadan, ön kollar destekli diz çekişi yapılır."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip-flexors"
+  ],
+  "instructions": {
+    "en": [
+      "Rest your forearms on the pads and your back against the support; let your legs hang without swinging.",
+      "Brace your abdomen and draw both bent knees toward your torso in a controlled lift.",
+      "Lower your legs slowly to the start; shorten the range if you need to swing or feel discomfort."
+    ],
+    "tr": [
+      "Ön kollarını destek pedlerine, sırtını arkalığa yerleştir; bacaklarını sallanmadan aşağı bırak.",
+      "Karnını sık ve iki bükülü dizini kontrollü biçimde gövdene doğru çek.",
+      "Bacaklarını yavaşça başlangıca indir; sallanman gerekirse veya rahatsızlık hissedersen hareket aralığını kısalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "hanging-knee-raise",
+    "reverse-crunch",
+    "lying-straight-leg-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/captains-chair-knee-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Captain's Chair Knee Raise; target muscles highlighted in red.",
+        "tr": "Captain’s Chair Diz Çekişi hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/captains-chair-knee-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-11.md"
+    }
+  ]
+}

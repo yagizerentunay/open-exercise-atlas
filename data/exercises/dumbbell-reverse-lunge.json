@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-reverse-lunge",
+  "slug": "dumbbell-reverse-lunge",
+  "name": {
+    "en": "Dumbbell Reverse Lunge",
+    "tr": "Dambılla Geri Hamle"
+  },
+  "description": {
+    "en": "A reverse lunge performed while holding a dumbbell in each hand.",
+    "tr": "Her iki elde dambıl tutarak yapılan geri hamle."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["dumbbell"],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "instructions": {
+    "en": [
+      "Stand with your feet hip-width apart and a dumbbell at each side.",
+      "Step one foot backward and lower until both knees bend comfortably; keep your front foot flat and torso upright.",
+      "Push through the front foot to return to standing, then repeat on the other side. Keep your head and neck neutral."
+    ],
+    "tr": [
+      "Ayakların kalça genişliğinde açık olsun; iki yanında birer dambıl tutarak dik dur.",
+      "Bir ayağınla geriye adım atıp iki dizini rahatça bükerek alçal; ön ayağını yerde, gövdeni dik tut.",
+      "Ön ayağından güç alıp ayakta duruşa dön ve diğer tarafla tekrarla. Başını ve boynunu nötr konumda tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-reverse-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show standing and lowered dumbbell reverse-lunge positions, with quadriceps and glutes highlighted red.",
+        "tr": "Dambılla Geri Hamle hareketinin ayakta ve alçak pozisyonları iki gri karede gösteriliyor; ön bacak ve kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-reverse-lunge.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

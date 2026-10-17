@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-walking-lunge",
+  "slug": "barbell-walking-lunge",
+  "name": {
+    "en": "Barbell Walking Lunge",
+    "tr": "Halterle Yürüyüş Lunge"
+  },
+  "description": {
+    "en": "A barbell is held across the upper back while alternating forward lunges travel across the floor.",
+    "tr": "Halter üst sırtta taşınırken sırayla öne lunge adımları atılır."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Set the bar securely across your upper back and stand with feet about hip-width apart.",
+      "Step forward and bend both knees to lower under control; keep the front knee tracking in line with the foot.",
+      "Push through the front foot to rise and bring the rear leg through into the next step; use a clear, open path."
+    ],
+    "tr": [
+      "Barı üst sırtına güvenle yerleştirip ayaklarını yaklaşık kalça genişliğinde aç.",
+      "Öne adım atıp iki dizini kontrollü bükerek alçal; ön dizini ayağınla aynı doğrultuda tut.",
+      "Ön ayağından güç alarak yüksel ve arkadaki bacağını sonraki adıma getir; yolun açık olduğundan emin ol."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "walking-lunge",
+    "reverse-lunge",
+    "dumbbell-step-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-walking-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Barbell Walking Lunge; target muscles highlighted in red.",
+        "tr": "Halterle Yürüyüş Lunge hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-walking-lunge.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-11.md"
+    }
+  ]
+}

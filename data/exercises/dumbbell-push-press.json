@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-push-press",
+  "slug": "dumbbell-push-press",
+  "name": {
+    "en": "Dumbbell Push Press",
+    "tr": "Dambıl Push Press"
+  },
+  "description": {
+    "en": "A two-dumbbell overhead press initiated by a shallow leg dip and drive.",
+    "tr": "Hafif diz büküp bacaklardan güç alarak baş üstüne yapılan çift dambıl itişi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with dumbbells at shoulder height and feet hip-width apart.",
+      "Dip a few inches by bending the knees, then drive through the floor and press overhead.",
+      "Lower to the shoulders and reset before the next repetition."
+    ],
+    "tr": [
+      "Dambıllar omuzlarında ve ayakların kalça genişliğinde açık dur.",
+      "Dizlerini hafifçe bükerek alçal; yerden güç alıp dambılları baş üstüne it.",
+      "Dambılları omuzlarına indirip sonraki tekrardan önce duruşunu yeniden kur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-push-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Dumbbell Push Press with the target muscle highlighted in red.",
+        "tr": "Dambıl Push Press hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-push-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

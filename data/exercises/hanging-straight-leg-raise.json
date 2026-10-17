@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "hanging-straight-leg-raise",
+  "slug": "hanging-straight-leg-raise",
+  "name": {
+    "en": "Hanging Straight-Leg Raise",
+    "tr": "Asılı Düz Bacak Kaldırış"
+  },
+  "description": {
+    "en": "From a dead hang, straight legs lift forward together and return under control.",
+    "tr": "Tam asılı konumdan düz bacaklar birlikte öne kaldırılır ve kontrollü indirilir."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "advanced",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hip-flexors"
+  ],
+  "instructions": {
+    "en": [
+      "Hang from a pull-up bar with an overhand grip and legs straight together.",
+      "Without swinging, raise both straight legs forward to about hip height.",
+      "Lower your legs slowly to a still hang; bend your knees to shorten the range if needed."
+    ],
+    "tr": [
+      "Barfiks demirini üstten kavrayıp bacakların birleşik ve düz asıl.",
+      "Sallanmadan iki düz bacağını birlikte yaklaşık kalça hizasına kadar öne kaldır.",
+      "Bacaklarını yavaşça hareketsiz asılı konuma indir; gerekirse aralığı kısaltmak için dizlerini bük."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "hanging-knee-raise",
+    "captains-chair-knee-raise",
+    "toes-to-bar"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/hanging-straight-leg-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Hanging Straight-Leg Raise; target muscles highlighted in red.",
+        "tr": "['Barfiks demirini üstten kavrayıp bacakların birleşik ve düz asıl.', 'Sallanmadan iki düz bacağını birlikte yaklaşık kalça hizasına kadar öne kaldır.', 'Bacaklarını yavaşça hareketsiz asılı konuma indir; gerekirse aralığı kısaltmak için dizlerini bük.'] hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/hanging-straight-leg-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-13.md"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "hand-gripper-squeeze",
+  "slug": "hand-gripper-squeeze",
+  "name": {
+    "en": "Hand Gripper Squeeze",
+    "tr": "El Kavrama Aleti Sıkma"
+  },
+  "description": {
+    "en": "A grip-strength exercise squeezing a spring hand gripper with controlled finger flexion.",
+    "tr": "Yaylı el kavrama aletinin parmaklarla kontrollü biçimde sıkıldığı kavrama çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Hold a hand gripper in one hand with the handles resting in your palm and fingers.",
+      "Squeeze until the handles meet or reach your comfortable limit; pause briefly.",
+      "Open your hand slowly and use a resistance you can control without pain."
+    ],
+    "tr": [
+      "El kavrama aletini sapları avucuna ve parmaklarına oturacak şekilde tut.",
+      "Saplar birleşene veya rahat sınırına gelene kadar sıkıp kısa süre bekle.",
+      "Elini yavaşça aç; ağrı oluşturmadan kontrol edebildiğin direnci kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/hand-gripper-squeeze.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Hand Gripper Squeeze with target muscles highlighted in red.",
+        "tr": "El Kavrama Aleti Sıkma hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/hand-gripper-squeeze.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-5.md"
+    }
+  ]
+}

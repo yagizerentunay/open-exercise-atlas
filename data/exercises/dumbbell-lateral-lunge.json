@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-lateral-lunge",
+  "slug": "dumbbell-lateral-lunge",
+  "name": {
+    "en": "Dumbbell Lateral Lunge",
+    "tr": "Dambılla Yana Lunge"
+  },
+  "description": {
+    "en": "A dumbbell is held at the chest while alternating side lunges load one bent leg at a time.",
+    "tr": "Bir dambıl göğüste tutulurken sırayla yana adım atılıp tek bacakta kontrollü alçalınır."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Hold one dumbbell close to your chest and stand with feet under your hips.",
+      "Step wide to one side, bend that knee and send your hips back while the other leg stays long.",
+      "Push through the bent leg to return to standing, then repeat on the other side."
+    ],
+    "tr": [
+      "Bir dambılı göğsüne yakın tutup ayakların kalça hizasında ayakta dur.",
+      "Bir yana geniş adım at; diğer bacağın uzun kalırken bu dizini büküp kalçanı geriye gönder.",
+      "Diğer tarafta tekrarlamadan önce bükülü bacağından güç alıp ayağa dön."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "lateral-lunge",
+    "sliding-lateral-lunge",
+    "cossack-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-lateral-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Dumbbell Lateral Lunge; target muscles highlighted in red.",
+        "tr": "['Bir dambılı göğsüne yakın tutup ayakların kalça hizasında ayakta dur.', 'Bir yana geniş adım at; diğer bacağın uzun kalırken bu dizini büküp kalçanı geriye gönder.', 'Diğer tarafta tekrarlamadan önce bükülü bacağından güç alıp ayağa dön.'] hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-lateral-lunge.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-13.md"
+    }
+  ]
+}

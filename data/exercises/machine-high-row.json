@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-high-row",
+  "slug": "machine-high-row",
+  "name": {
+    "en": "Machine High Row",
+    "tr": "Makinede Yüksek Row"
+  },
+  "description": {
+    "en": "A chest-supported high-row machine movement that pulls the handles down and back toward the torso.",
+    "tr": "Tutacakların aşağı ve gövdeye doğru çekildiği göğüs destekli yüksek row makinesi egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the seat and chest pad so you can reach the handles with a comfortable stretch.",
+      "Pull the handles down and back toward your ribs, keeping your chest against the pad.",
+      "Extend your arms slowly to return without letting the weight stack drop."
+    ],
+    "tr": [
+      "Tutacaklara rahatça uzanabileceğin biçimde oturağı ve göğüs minderini ayarla.",
+      "Göğsünü minderde tutarak tutacakları aşağı ve kaburgalarına doğru çek.",
+      "Ağırlık bloğunu düşürmeden kollarını yavaşça uzatıp başlangıca dön."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/machine-high-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Machine High Row; target muscles highlighted in red.",
+        "tr": "Makinede Yüksek Row hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-high-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+    }
+  ]
+}

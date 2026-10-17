@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "battle-rope-alternating-waves",
+  "slug": "battle-rope-alternating-waves",
+  "name": {
+    "en": "Battle Rope Alternating Waves",
+    "tr": "Savaş Halatında Alternatif Dalgalar"
+  },
+  "description": {
+    "en": "Alternating arm lifts send continuous waves down two anchored battle ropes.",
+    "tr": "Kollar sırayla kaldırılıp indirilerek sabitlenmiş savaş halatlarında sürekli dalgalar oluşturulur."
+  },
+  "category": "cardio",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Stand facing the anchor with feet stable and hold one rope end in each hand.",
+      "Alternate raising and lowering your arms to send waves toward the anchor at a steady rhythm.",
+      "Keep your torso braced and knees soft; use short intervals and stop if your form breaks down."
+    ],
+    "tr": [
+      "Sabitleme noktasına dönük, ayakların dengeli dur ve her elinde bir halat ucunu tut.",
+      "Düzenli ritimle kollarını sırayla kaldırıp indirerek sabitleme noktasına doğru dalgalar gönder.",
+      "Gövdeni sıkı ve dizlerini yumuşak tut; kısa aralıklarla çalış ve formun bozulursa dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "jump-rope",
+    "medicine-ball-overhead-slam",
+    "burpee"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/battle-rope-alternating-waves.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Battle Rope Alternating Waves; target muscles highlighted in red.",
+        "tr": "Savaş Halatında Alternatif Dalgalar hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/battle-rope-alternating-waves.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-14.md"
+    }
+  ]
+}

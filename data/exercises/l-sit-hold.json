@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "l-sit-hold",
+  "slug": "l-sit-hold",
+  "name": {
+    "en": "L-Sit Hold",
+    "tr": "L-Sit Tutuşu"
+  },
+  "description": {
+    "en": "An isometric support hold lifting straight legs forward into an L shape.",
+    "tr": "Düz bacakları öne kaldırarak L şekli oluşturulan izometrik destek tutuşu."
+  },
+  "category": "strength",
+  "movementPattern": "core",
+  "difficulty": "advanced",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "abdominals",
+    "hip-flexors"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Support yourself on stable parallel bars with elbows straight and shoulders away from your ears.",
+      "Brace your trunk and lift both straight legs until they are about horizontal.",
+      "Hold while breathing steadily, then lower with control; bend the knees to scale."
+    ],
+    "tr": [
+      "Dirseklerin düz ve omuzların kulaklarından uzakta olacak şekilde sağlam paralel barlarda destek al.",
+      "Gövdeni sıkıp iki düz bacağını yaklaşık yatay olana kadar kaldır.",
+      "Düzenli nefes alarak tut, sonra kontrollü indir; kolaylaştırmak için dizlerini bük."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/l-sit-hold.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of L-Sit Hold with target muscles highlighted red.",
+        "tr": "L-Sit Tutuşu hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/l-sit-hold.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-6.md"
+    }
+  ]
+}

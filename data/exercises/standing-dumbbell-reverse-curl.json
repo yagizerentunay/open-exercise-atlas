@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-dumbbell-reverse-curl",
+  "slug": "standing-dumbbell-reverse-curl",
+  "name": {
+    "en": "Standing Dumbbell Reverse Curl",
+    "tr": "Ayakta Dambıl Ters Curl"
+  },
+  "description": {
+    "en": "A standing curl using an overhand dumbbell grip to train the forearms and elbow flexors.",
+    "tr": "Önkol ve dirsek bükücülerini çalıştıran, avuçlar aşağı dönük ayakta dambıl curl."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Stand tall with a dumbbell in each hand and palms facing your thighs.",
+      "Keep wrists straight and elbows near your sides as you curl the weights upward.",
+      "Lower slowly without swinging your shoulders."
+    ],
+    "tr": [
+      "Her elinde bir dambıl, avuçların uyluklarına dönük şekilde dik dur.",
+      "Bileklerini düz, dirseklerini yanlarında tutarak ağırlıkları yukarı kıvır.",
+      "Omuzlarını sallamadan yavaşça indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/standing-dumbbell-reverse-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Standing Dumbbell Reverse Curl with the target muscle highlighted in red.",
+        "tr": "Ayakta Dambıl Ters Curl hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-dumbbell-reverse-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-decline-bench-press",
+  "slug": "barbell-decline-bench-press",
+  "name": {
+    "en": "Barbell Decline Bench Press",
+    "tr": "Halterle Decline Bench Press"
+  },
+  "description": {
+    "en": "A barbell is lowered to the lower chest and pressed up while lying on a decline bench.",
+    "tr": "Decline sehpada yatarken halter alt göğse indirilip yukarı itilir."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Secure your feet on a decline bench and grip the bar slightly wider than shoulder-width; use a spotter or rack safeties.",
+      "Lower the bar under control toward the lower chest with wrists stacked over elbows.",
+      "Press the bar back above the chest without bouncing it; stop if you cannot control the path."
+    ],
+    "tr": [
+      "Ayaklarını decline sehpaya sabitle ve barı omuz genişliğinden biraz açık tut; spotter veya emniyet kolları kullan.",
+      "Bileklerin dirseklerinin üzerinde kalacak şekilde barı alt göğsüne doğru kontrollü indir.",
+      "Barı sektirmeden göğsünün üzerine geri it; hareket yolunu kontrol edemiyorsan dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "decline-dumbbell-press",
+    "barbell-bench-press",
+    "incline-barbell-bench-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-decline-bench-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Barbell Decline Bench Press; target muscles highlighted in red.",
+        "tr": "Halterle Decline Bench Press hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-decline-bench-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-11.md"
+    }
+  ]
+}

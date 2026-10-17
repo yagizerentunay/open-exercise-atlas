@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "weighted-dip",
+  "slug": "weighted-dip",
+  "name": {
+    "en": "Weighted Dip",
+    "tr": "Ağırlıklı Dip"
+  },
+  "description": {
+    "en": "A dip performed between parallel bars with a secured weight plate hanging from a dip belt.",
+    "tr": "Paralel barlar arasında, dip kemerine sabitlenmiş ağırlık plakasıyla yapılan dip hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "advanced",
+  "equipment": [
+    "bodyweight",
+    "other"
+  ],
+  "primaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Secure a small plate to a dip belt and grip the parallel bars at the top position.",
+      "Bend your elbows to lower smoothly to a shoulder-comfortable depth while keeping the plate from swinging.",
+      "Press through the bars to return to the top; use bodyweight until you can control the full range."
+    ],
+    "tr": [
+      "Küçük bir plakayı dip kemerine güvenle bağla ve paralel barlarda üst konuma çık.",
+      "Plakanın sallanmasını önleyerek dirseklerini bük; omuzlarının rahat ettiği derinliğe kontrollü in.",
+      "Üst konuma dönmek için barları it; tam aralığı kontrol edene kadar vücut ağırlığıyla çalış."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "chest-dip",
+    "assisted-dip",
+    "bench-dip"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/weighted-dip.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Weighted Dip; target muscles highlighted in red.",
+        "tr": "Ağırlıklı Dip hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/weighted-dip.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-14.md"
+    }
+  ]
+}

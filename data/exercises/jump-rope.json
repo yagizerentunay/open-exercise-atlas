@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "jump-rope",
+  "slug": "jump-rope",
+  "name": {
+    "en": "Jump Rope",
+    "tr": "İp Atlama"
+  },
+  "description": {
+    "en": "A rhythmic rope-skipping drill using small, repeated two-foot hops.",
+    "tr": "Küçük ve tekrarlı çift ayak sıçramalarla ritmik ip atlama çalışması."
+  },
+  "category": "cardio",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Hold one rope handle in each hand with the rope resting behind your heels.",
+      "Turn the rope with small wrist circles and make low hops as it passes under your feet.",
+      "Land softly on the balls of your feet and keep the jumps small."
+    ],
+    "tr": [
+      "İpin topuklarının arkasında olduğu konumda iki sapı tut.",
+      "İpi bileklerinden küçük dairelerle çevir; ayaklarının altından geçerken alçak sıçra.",
+      "Ayaklarının ön kısmına yumuşak in ve sıçramaları küçük tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/jump-rope.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Jump Rope with the target muscle highlighted in red.",
+        "tr": "İp Atlama hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/jump-rope.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-2.md"
+    }
+  ]
+}

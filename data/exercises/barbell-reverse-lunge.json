@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-reverse-lunge",
+  "slug": "barbell-reverse-lunge",
+  "name": {
+    "en": "Barbell Reverse Lunge",
+    "tr": "Halterle Geri Lunge"
+  },
+  "description": {
+    "en": "A barbell is held across the upper back while alternating backward lunges are performed.",
+    "tr": "Halter üst sırtta tutulurken sırayla geriye lunge adımları atılır."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Set the bar securely across your upper back and stand with feet about hip-width apart.",
+      "Step one foot backward and lower under control, keeping the front foot planted and the front knee aligned with the toes.",
+      "Push through the front foot to return to standing; complete the repetitions on one side, then switch."
+    ],
+    "tr": [
+      "Barı üst sırtına güvenle yerleştirip ayaklarını yaklaşık kalça genişliğinde aç.",
+      "Bir ayağını geriye atıp kontrollü alçal; ön ayağını yerde tut ve ön dizini ayak parmaklarınla aynı hizada koru.",
+      "Ayağa dönmek için ön ayağından güç al; bir tarafı bitirince diğerine geç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "reverse-lunge",
+    "barbell-walking-lunge",
+    "dumbbell-bulgarian-split-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-reverse-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Barbell Reverse Lunge; target muscles highlighted in red.",
+        "tr": "Halterle Geri Lunge hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-reverse-lunge.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-14.md"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "high-cable-double-biceps-curl",
+  "slug": "high-cable-double-biceps-curl",
+  "name": {
+    "en": "High-Cable Double-Biceps Curl",
+    "tr": "Yüksek Makarada Çift Kol Biceps Curl"
+  },
+  "description": {
+    "en": "A standing curl using two high cable handles with upper arms open.",
+    "tr": "Üst kollar açıkken iki yüksek makara tutacağıyla yapılan curl."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable",
+    "machine"
+  ],
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "force": "pull",
+  "mechanic": "isolation",
+  "instructions": {
+    "en": [
+      "Stand between two high pulleys and hold a handle in each hand, arms open.",
+      "Curl handles toward the sides of your head, keeping upper arms steady.",
+      "Extend slowly to the open position; do not lean back."
+    ],
+    "tr": [
+      "İki yüksek makaranın ortasında durup tutacakları açık kollarla kavra.",
+      "Üst kollarını sabit tutup tutacakları başının yanına doğru bük.",
+      "Geriye yaslanmadan kollarını yavaşça aç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/high-cable-double-biceps-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of High-Cable Double-Biceps Curl with the target muscle highlighted in red.",
+        "tr": "Yüksek Makarada Çift Kol Biceps Curl hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/high-cable-double-biceps-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

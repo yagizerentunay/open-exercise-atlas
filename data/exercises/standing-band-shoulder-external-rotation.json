@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-band-shoulder-external-rotation",
+  "slug": "standing-band-shoulder-external-rotation",
+  "name": {
+    "en": "Standing Band Shoulder External Rotation",
+    "tr": "Ayakta Bantla Omuz Dış Rotasyonu"
+  },
+  "description": {
+    "en": "A light band drill rotating the forearm outward with elbow tucked.",
+    "tr": "Dirsek gövdeye yakınken ön kolu dışa döndüren hafif bant çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "band"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "upper-back"
+  ],
+  "force": "pull",
+  "mechanic": "isolation",
+  "instructions": {
+    "en": [
+      "Stand tall with elbows bent 90 degrees and close to your sides.",
+      "Rotate one forearm outward against the band without moving the elbow.",
+      "Return slowly and repeat on the other side."
+    ],
+    "tr": [
+      "Dik dur; dirseklerini 90 derece büküp gövdene yakın tut.",
+      "Dirseğini oynatmadan ön kolunu banda karşı dışa döndür.",
+      "Yavaşça başlangıca dön ve diğer tarafta tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/standing-band-shoulder-external-rotation.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Standing Band Shoulder External Rotation with the target muscle highlighted in red.",
+        "tr": "Ayakta Bantla Omuz Dış Rotasyonu hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-band-shoulder-external-rotation.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+    }
+  ]
+}

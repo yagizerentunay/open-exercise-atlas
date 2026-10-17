@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "reverse-sled-drag",
+  "slug": "reverse-sled-drag",
+  "name": {
+    "en": "Reverse Sled Drag",
+    "tr": "Geriye Kızak Çekişi"
+  },
+  "description": {
+    "en": "Facing the sled, the athlete walks backward against the straps to drag it along the floor.",
+    "tr": "Sporcu kızağa dönük durup kayışlara karşı geriye yürüyerek kızağı zeminde çeker."
+  },
+  "category": "cardio",
+  "movementPattern": "pull",
+  "difficulty": "intermediate",
+  "equipment": [
+    "other"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes"
+  ],
+  "instructions": {
+    "en": [
+      "Face the sled and hold the straps with light tension, knees slightly bent.",
+      "Take short backward steps away from the sled while pulling it along the floor.",
+      "Keep a steady pace and upright torso; choose a load that allows smooth steps."
+    ],
+    "tr": [
+      "Kızağa dönük durup gerginliği hafif olan kayışları tut; dizlerini az bük.",
+      "Kızağı yerde çekerek ondan uzaklaşacak biçimde kısa geri adımlar at.",
+      "Düzenli tempo ve dik gövdeyi koru; akıcı adım atabileceğin yükü seç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "sled-push",
+    "leg-press",
+    "bodyweight-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/reverse-sled-drag.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Reverse Sled Drag; target muscles highlighted in red.",
+        "tr": "['Kızağa dönük durup gerginliği hafif olan kayışları tut; dizlerini az bük.', 'Kızağı yerde çekerek ondan uzaklaşacak biçimde kısa geri adımlar at.', 'Düzenli tempo ve dik gövdeyi koru; akıcı adım atabileceğin yükü seç.'] hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/reverse-sled-drag.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-13.md"
+    }
+  ]
+}

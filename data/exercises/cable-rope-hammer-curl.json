@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-rope-hammer-curl",
+  "slug": "cable-rope-hammer-curl",
+  "name": {
+    "en": "Cable Rope Hammer Curl",
+    "tr": "Kablo Halat Hammer Curl"
+  },
+  "description": {
+    "en": "A neutral-grip curl performed with the ends of a rope attached to a low cable pulley.",
+    "tr": "Alçak kablo makarasına bağlı halatın uçlarıyla, nötr tutuş kullanılarak yapılan curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["cable"],
+  "primaryMuscles": ["biceps"],
+  "secondaryMuscles": ["forearms"],
+  "instructions": {
+    "en": [
+      "Attach a rope to a low pulley and hold one end in each hand with your palms facing each other.",
+      "Keep your elbows close to your sides and curl the rope toward your lower chest without swinging your torso.",
+      "Lower the rope slowly until your elbows are extended; keep your wrists neutral."
+    ],
+    "tr": [
+      "Alçak makaraya halat tak ve iki ucunu avuç içlerin birbirine bakacak şekilde tut.",
+      "Dirseklerini yanlarında sabit tutup gövdeni sallamadan halatı alt göğsüne doğru çek.",
+      "Bileklerini nötr tutarak dirseklerin açılana dek halatı yavaşça indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas illustrated muscle coverage",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/cable-rope-hammer-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale panels show the lowered and curled positions of a standing cable rope hammer curl, with biceps highlighted red.",
+        "tr": "Ayakta Kablo Halat Hammer Curl hareketinin indirme ve çekme pozisyonları iki gri karede gösteriliyor; pazı kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-rope-hammer-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

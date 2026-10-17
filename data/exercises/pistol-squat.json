@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "pistol-squat",
+  "slug": "pistol-squat",
+  "name": {
+    "en": "Pistol Squat",
+    "tr": "Pistol Squat"
+  },
+  "description": {
+    "en": "A deep single-leg squat with the free leg extended forward for balance.",
+    "tr": "Denge için boş bacak öne uzatılarak yapılan derin tek bacak squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "advanced",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Stand on one foot and extend the other leg forward; reach the arms out to balance.",
+      "Bend the standing knee and hip to lower only as far as you can keep the heel planted and torso controlled.",
+      "Press through the whole foot to stand; use a box or hand support until the full range is steady."
+    ],
+    "tr": [
+      "Bir ayağının üzerinde durup diğer bacağını öne uzat; denge için kollarını öne getir.",
+      "Topuğunu yerde ve gövdeni kontrollü tutabildiğin derinliğe kadar destek ayağının dizini ve kalçasını bük.",
+      "Ayağının tamamından iterek ayağa kalk; tam aralık dengeli olana kadar kutu veya el desteği kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "single-leg-box-squat",
+    "bodyweight-skater-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/pistol-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Pistol Squat; quadriceps and glutes highlighted in red.",
+        "tr": "Pistol Squat hareketinin iki aşamalı gri tonlu çizimi; quadriceps ve kalça kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/pistol-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-16.md"
+    }
+  ]
+}

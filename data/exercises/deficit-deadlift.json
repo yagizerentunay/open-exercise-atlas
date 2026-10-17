@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "deficit-deadlift",
+  "slug": "deficit-deadlift",
+  "name": {
+    "en": "Deficit Deadlift",
+    "tr": "Yükseltilmiş Zeminden Deadlift"
+  },
+  "description": {
+    "en": "A barbell deadlift performed while standing on a low, stable platform to increase the range of motion.",
+    "tr": "Hareket aralığını artırmak için alçak ve sabit bir platform üzerinde durarak yapılan halter deadlift."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "lower-back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": {
+    "en": [
+      "Stand on a low, stable platform with the bar over mid-foot; hinge down and grip the bar with a neutral spine.",
+      "Brace and lift the bar close to the legs by extending the knees and hips together.",
+      "Lower the bar under control; use a light load and reduce the platform height if you cannot keep your back position."
+    ],
+    "tr": [
+      "Bar ayaklarının ortasındayken alçak ve sabit bir platforma çık; omurganı nötr tutarak menteşe yapıp barı kavra.",
+      "Gövdeni sık ve dizlerinle kalçanı birlikte açarak barı bacaklarına yakın biçimde kaldır.",
+      "Barı kontrollü indir; sırt pozisyonunu koruyamıyorsan yükü ve platform yüksekliğini azalt."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "conventional-deadlift",
+    "trap-bar-deadlift",
+    "sumo-deadlift"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/deficit-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Deficit Deadlift; lower-back, glutes and hamstrings highlighted in red.",
+        "tr": "Yükseltilmiş Zeminden Deadlift hareketinin iki aşamalı gri tonlu çizimi; bel, kalça ve arka bacak kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/deficit-deadlift.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-16.md"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "pec-deck-fly",
+  "slug": "pec-deck-fly",
+  "name": {
+    "en": "Pec Deck Fly",
+    "tr": "Pec Deck Fly"
+  },
+  "description": {
+    "en": "A machine chest fly bringing the upper arms together against controlled resistance.",
+    "tr": "Kontrollü dirence karşı üst kolları önde birleştiren makine göğüs açışı."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the seat so the handles or pads align around mid-chest height.",
+      "With a soft bend in the elbows, bring the arms together in front of your chest.",
+      "Return slowly until you feel a comfortable chest stretch; avoid forcing the arms far behind you."
+    ],
+    "tr": [
+      "Kolları veya pedleri göğüs hizasına getirecek şekilde oturağı ayarla.",
+      "Dirseklerini hafif bükülü tutup kollarını göğsünün önünde birleştir.",
+      "Göğsünde rahat bir esneme hissedene kadar yavaşça aç; kollarını zorla arkaya götürme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/pec-deck-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Pec Deck Fly with target muscles highlighted red.",
+        "tr": "Pec Deck Fly hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/pec-deck-fly.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-3.md"
+    }
+  ]
+}

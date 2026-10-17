@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "smith-machine-squat",
+  "slug": "smith-machine-squat",
+  "name": {
+    "en": "Smith Machine Squat",
+    "tr": "Smith Machine Squat"
+  },
+  "description": {
+    "en": "A guided Smith bar is set across the upper back and lowered into a controlled squat.",
+    "tr": "Smith makinesinin yönlendirmeli barı üst sırtta tutulur ve kontrollü squat yapılır."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "intermediate",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Set the Smith bar at upper-back height, position it across your upper back, and unlock the hooks.",
+      "With feet stable under the bar, bend your hips and knees to squat to a depth you can control while keeping your heels planted.",
+      "Drive through the floor to stand and re-engage the hooks; use the safety stops and avoid loading beyond your control."
+    ],
+    "tr": [
+      "Smith barını üst sırt hizasına alıp üst sırtına yerleştir ve kancaları aç.",
+      "Ayakların sabitken kalça ve dizlerini bükerek topukların yerde kalacak biçimde kontrol ettiğin derinliğe çömel.",
+      "Ayağa kalkmak için yeri it ve kancaları yeniden kapat; emniyet durdurucularını kullan, kontrol edemeyeceğin yük takma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "barbell-back-squat",
+    "hack-squat",
+    "leg-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/smith-machine-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Smith Machine Squat; target muscles highlighted in red.",
+        "tr": "Smith Machine Squat hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
+    }
+  ]
+}

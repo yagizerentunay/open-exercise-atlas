@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "prone-snow-angel",
+  "slug": "prone-snow-angel",
+  "name": {
+    "en": "Prone Snow Angel",
+    "tr": "Yüzüstü Snow Angel"
+  },
+  "description": {
+    "en": "A prone upper-back drill sweeping the arms from the hips toward an overhead Y.",
+    "tr": "Kolları kalçaların yanından baş üstünde Y konumuna süpüren yüzüstü üst sırt çalışması."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie face down on a bench with your chest supported and arms beside your hips.",
+      "Keeping elbows straight, sweep both arms outward and overhead into a comfortable Y.",
+      "Lower along the same path without shrugging or arching your lower back."
+    ],
+    "tr": [
+      "Göğsün destekli olacak şekilde sehpaya yüzüstü uzan; kolların kalçalarının yanında olsun.",
+      "Dirseklerini düz tutup kollarını yana ve baş üstüne doğru rahat bir Y konumuna süpür.",
+      "Omuzlarını kulaklarına çekmeden ve belini çukurlaştırmadan aynı yoldan indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/prone-snow-angel.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Prone Snow Angel with the target muscle highlighted in red.",
+        "tr": "Yüzüstü Snow Angel hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/prone-snow-angel.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

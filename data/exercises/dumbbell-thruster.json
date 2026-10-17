@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-thruster",
+  "slug": "dumbbell-thruster",
+  "name": {
+    "en": "Dumbbell Thruster",
+    "tr": "Dambıl Thruster"
+  },
+  "description": {
+    "en": "A front squat that flows directly into a two-dumbbell overhead press.",
+    "tr": "Ön squatın çift dambıl baş üstü itişine kesintisiz bağlandığı bileşik hareket."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Hold two dumbbells at shoulder height with feet shoulder-width apart.",
+      "Squat to a comfortable depth while keeping the weights steady at your shoulders.",
+      "Stand powerfully into an overhead press; lower the weights before the next squat."
+    ],
+    "tr": [
+      "Ayakların omuz genişliğinde açıkken iki dambılı omuzlarında tut.",
+      "Ağırlıkları sabit tutarak rahat derinlikte squat yap.",
+      "Güçlü biçimde doğrulup baş üstü itişe geç; sonraki squattan önce ağırlıkları omuzlarına indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-thruster.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-panel grayscale illustration of Dumbbell Thruster with the target muscle highlighted in red.",
+        "tr": "Dambıl Thruster hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-thruster.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
+    }
+  ]
+}

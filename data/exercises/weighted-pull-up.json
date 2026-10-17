@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "weighted-pull-up",
+  "slug": "weighted-pull-up",
+  "name": {
+    "en": "Weighted Pull-Up",
+    "tr": "Ağırlıklı Pull-Up"
+  },
+  "description": {
+    "en": "A pull-up is performed with a securely belted weight plate hanging below the athlete.",
+    "tr": "Ağırlık kemerine güvenle bağlanmış plaka ile pull-up yapılır."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "difficulty": "advanced",
+  "equipment": [
+    "pull-up-bar",
+    "other"
+  ],
+  "primaryMuscles": [
+    "lats",
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Secure a small plate to a dip belt, grip the bar overhand slightly wider than your shoulders, and hang with arms extended.",
+      "Brace your trunk and pull your elbows down until your chin reaches bar height without swinging.",
+      "Lower under control to the full hang; start with bodyweight if you cannot maintain a smooth path."
+    ],
+    "tr": [
+      "Küçük bir plakayı ağırlık kemerine sabitle; barı omuzlarından biraz geniş üstten tutup kolların açık asıl.",
+      "Gövdeni sık ve sallanmadan çeneni bar hizasına getirene kadar dirseklerini aşağı çek.",
+      "Tam asılı konuma kontrollü dön; düzgün hareket yolunu koruyamıyorsan önce vücut ağırlığıyla çalış."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": [
+    "pull-up",
+    "chin-up",
+    "assisted-pull-up"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/weighted-pull-up.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of Weighted Pull-Up; target muscles highlighted in red.",
+        "tr": "Ağırlıklı Pull-Up hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/weighted-pull-up.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
+    }
+  ]
+}
