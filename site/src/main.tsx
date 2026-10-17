@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import type { Exercise, Locale, Muscle, ResolvedExercise } from '../../src/types.ts'
 import { NO_EQUIPMENT, filterExercises, localize, pickIllustration, type Filters } from '../../src/catalog.ts'
 import { muscleTiles } from '../../src/muscleGallery.ts'
+import exerciseDataUrl from '../../dist/exercises.min.json?url'
 import enLabels from '../../data/translations/en.json'
 import trLabels from '../../data/translations/tr.json'
 import './style.css'
@@ -25,7 +26,15 @@ function App() {
   const [records, setRecords] = useState<Exercise[] | null>(null)
   const [error, setError] = useState(false)
   const focusOpenedDetail = useRef(false)
-  useEffect(() => { import('../../dist/exercises.json').then((module) => setRecords(module.default as Exercise[])).catch(() => setError(true)) }, [])
+  useEffect(() => {
+    fetch(exerciseDataUrl)
+      .then((response) => {
+        if (!response.ok) throw new Error('Could not load exercise data')
+        return response.json() as Promise<Exercise[]>
+      })
+      .then(setRecords)
+      .catch(() => setError(true))
+  }, [])
   useEffect(() => {
     document.documentElement.lang = locale
     const query = new URLSearchParams()
