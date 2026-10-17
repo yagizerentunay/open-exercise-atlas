@@ -12,7 +12,7 @@ const outputs: Record<string, string> = {
   'exercises.tr.json': pretty(records.map((e) => localize(e, 'tr'))),
   'exercises.min.json': JSON.stringify(records) + '\n',
   'exercises.ndjson': records.map((e) => JSON.stringify(e)).join('\n') + '\n',
-  'metadata.json': pretty({ schemaVersion: 1, count: records.length, reviewed: records.filter((e) => e.reviewStatus === 'reviewed').length, translationCoverage: coverage(), ids: records.map((e) => e.id) }),
+  'metadata.json': pretty({ schemaVersion: 1, count: records.length, reviewed: records.filter((e) => e.reviewStatus === 'reviewed').length, translationCoverage: coverage(records), ids: records.map((e) => e.id) }),
 }
 const directory = resolve(root, 'dist')
 if (!process.argv.includes('--check')) mkdirSync(directory, { recursive: true })

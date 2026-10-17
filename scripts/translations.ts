@@ -2,8 +2,7 @@ import { readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { loadAndValidate, root } from './shared.ts'
 
-export function coverage() {
-  const records = loadAndValidate()
+export function coverage(records = loadAndValidate()) {
   const fields = ['name', 'description', 'instructions', 'formCues', 'commonMistakes'] as const
   let present = 0; let total = 0
   for (const ex of records) for (const field of fields) {
