@@ -1,5 +1,16 @@
 # Media provenance
 
+## Arnold Press illustration revision
+
+- **Asset:** [`media/exercises/arnold-press-revised.webp`](../media/exercises/arnold-press-revised.webp), used by [`arnold-press.json`](../data/exercises/arnold-press.json).
+- **File:** 147,820 bytes — SHA-256 `7001ac221595c41c03503a32255d76bf6b438967799e257ad9c413f9a467e00d`.
+- **Date:** 2026-10-17.
+- **Creator/tool:** Open Exercise Atlas, edited with the built-in OpenAI image generator; model identifier not exposed.
+- **Method:** The existing Monk Mode illustration was used as the edit target. The revised output retains its two-pose composition, seated start/finish positions, dumbbells and bench, grayscale athlete style, red shoulder emphasis, and transparent background, while moving the rotation arrows beside the wrists. Image generation recreated illustration details, so the output is not pixel-identical to the source. The original file remains in the repository; the exercise record points to this revised derivative.
+- **Prompt:** “Edit the supplied Open Exercise Atlas exercise illustration. Preserve the exact two-panel side-by-side composition, athlete identity, anatomy, facial expression, clothing, bench, dumbbells, poses, grayscale rendering, red shoulder highlights, transparency, and all crop/scale details. Make one focused change only: replace the large red curved arrows floating outside the arms with small, clean red curved rotation arrows placed immediately beside each wrist/dumbbell grip in both panels. The arrows should clearly indicate the hands rotating outward from palms facing the torso in the left START pose toward palms facing forward in the right overhead FINISH pose; they must not imply that the whole arms circle. Keep arrows separated from the body and equipment, anatomically plausible and easy to read at thumbnail size. No labels, text, extra arrows, or other changes.”
+- **Source and rights:** Derived from the MIT-licensed [Monk Mode Arnold Press illustration](https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-arnold-press.webp). The exercise record preserves the MIT license and original source attribution. [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; AI output may not be unique, and no exclusivity is claimed.
+- **Scope and review:** The change clarifies the intended hand rotation in the still image. It does not demonstrate the full descent or establish expert form/anatomy approval; the exercise remains `reviewStatus: pending`.
+
 ## Barbell Bench Press illustration
 
 - **Asset:** `media/exercises/barbell-bench-press.png`

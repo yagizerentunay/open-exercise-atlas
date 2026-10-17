@@ -223,9 +223,9 @@
       "triceps"
     ],
     "instructions": [
-      "Sırt destekli sehpaya otur; dambılları omuz hizasında, avuçların gövdene dönük tut.",
-      "Dambılları yukarı iterken avuçlarını öne çevir; belini sehpaya yaslı ve gövdeni sabit tut.",
-      "Dönüşü kontrollü yapıp dambılları omuz hizasına indir; omuz ağrısında aralığı kısalt."
+      "Kalçan ve gövden destekli, ayakların yere basacak şekilde otur. Dambılları omuz hizasında, avuç içlerin gövdene dönük ve bileklerin dirseklerinin üzerinde olacak biçimde tut.",
+      "Yukarı iterken avuç içlerini kademeli olarak öne çevir. Belini aşırı çukurlaştırmadan gövdeni sabit tut; rahat ve kontrollü bir hareket aralığı kullan.",
+      "Dambılları kontrollü biçimde omuz hizasına indirirken avuç dönüşünü tersine çevir. Hareket omuz ağrısı oluşturursa dur ve ağrısız bir alternatif seç."
     ],
     "legacyIds": [
       "monk-shoulders-arnold-press"
@@ -242,13 +242,13 @@
     ],
     "media": [
       {
-        "path": "media/exercises/arnold-press.webp",
+        "path": "media/exercises/arnold-press-revised.webp",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the Arnold Press, shoulders highlighted in red.",
-          "tr": "Arnold Press hareketini yapan gri tonlu sporcu; omuz kasları kırmızıyla vurgulanıyor."
+          "en": "Seated Arnold Press shown at the start with palms facing the torso and at the overhead finish with palms forward; small red arrows beside the wrists indicate the outward rotation. Shoulders are highlighted in red.",
+          "tr": "Arnold Press'in oturarak başlangıç ve dambıllar baş üstünde bitiş pozları; başlangıçta avuç içleri gövdeye, bitişte öne dönük. Bilek yanındaki küçük kırmızı oklar dışa dönüşü gösteriyor; omuzlar kırmızı vurgulu."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
+        "creator": "Open Exercise Atlas (AI-assisted edit)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-arnold-press.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
