@@ -47,6 +47,7 @@ function App() {
   const detail = localized.find((item) => item.id === selected)
   const detailSource = records?.find((item) => item.id === selected)
   const hasEnglishFallback = locale === 'tr' && detailSource && (!detailSource.name.tr || !detailSource.description.tr || !detailSource.instructions.tr)
+  useEffect(() => { if (records && selected && !detail) setSelected('') }, [records, selected, detail])
   useEffect(() => { if (detail && focusOpenedDetail.current) { document.getElementById('exercise-title')?.focus(); focusOpenedDetail.current = false } }, [detail?.id])
   const t = copy[locale]
   const facet = labels[locale]
