@@ -3992,8 +3992,8 @@
         "path": "media/exercises/cable-hip-abduction.webp",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the cable hip abduction, hip abductors highlighted in red.",
-          "tr": "Kablo ile Kalça Abdüksiyonu yapan gri tonlu sporcu; kalça abdüktörleri kırmızıyla vurgulanıyor."
+          "en": "Grayscale athlete performing cable hip abduction; a red arrow shows the leg moving outward.",
+          "tr": "Kablo ile kalça abdüksiyonu yapan gri tonlu sporcu; kırmızı ok bacağın dışa hareketini gösteriyor."
         },
         "creator": "Monk Mode (AI-assisted original illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors.webp",
@@ -8646,8 +8646,8 @@
         "path": "media/exercises/floor-crunch.webp",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the floor crunch, abdominal muscles highlighted in red.",
-          "tr": "Yerde Crunch yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanıyor."
+          "en": "Grayscale athlete performing a floor crunch; a red arrow shows the upward movement.",
+          "tr": "Yerde crunch yapan gri tonlu sporcu; kırmızı ok yukarı yönlü hareketi gösteriyor."
         },
         "creator": "Monk Mode (AI-assisted original illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals.webp",
