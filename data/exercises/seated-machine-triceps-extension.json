@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-machine-triceps-extension",
+  "slug": "seated-machine-triceps-extension",
+  "name": {
+    "en": "Seated Machine Triceps Extension",
+    "tr": "Makinede Oturarak Triseps Ekstansiyonu"
+  },
+  "description": {
+    "en": "A seated machine elbow extension with the upper arms supported on a pad.",
+    "tr": "Üst kollar pedde destekliyken dirseklerin açıldığı oturarak makine hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Adjust the seat so your elbows align with the machine pivots; rest your upper arms on the pads and hold the handles with neutral wrists.",
+      "Keep the upper arms supported and extend the elbows to move the handles forward and down without locking out.",
+      "Bend the elbows slowly to return the handles, keeping your back against the support."
+    ],
+    "tr": [
+      "Dirseklerin makinenin dönme ekseniyle hizalanacak şekilde koltuğu ayarla; üst kollarını pede yerleştirip tutacakları bileklerin düzken kavra.",
+      "Üst kolların pedde kalırken dirseklerini açarak tutacakları öne ve aşağı taşı; dirsekleri kilitleme.",
+      "Sırtın destekten ayrılmadan dirseklerini yavaşça büküp tutacakları geri getir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas machine expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": ["triceps-pushdown"],
+  "media": [
+    {
+      "path": "media/exercises/seated-machine-triceps-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a seated triceps-extension machine, with the triceps highlighted in red.",
+        "tr": "Oturarak triseps ekstansiyon makinesinin iki gri aşaması; triseps kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-triceps-extension.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+    }
+  ]
+}

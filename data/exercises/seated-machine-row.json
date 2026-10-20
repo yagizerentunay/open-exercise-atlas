@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-machine-row",
+  "slug": "seated-machine-row",
+  "name": {
+    "en": "Seated Machine Row",
+    "tr": "Makinede Oturarak Yatay Kürek"
+  },
+  "description": {
+    "en": "A chest-supported horizontal row using a selectorized machine's independent handles.",
+    "tr": "Göğüs destekli seçmeli ağırlık makinesinde bağımsız tutacaklarla yapılan yatay çekiş."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["lats", "upper-back"],
+  "secondaryMuscles": ["biceps"],
+  "instructions": {
+    "en": [
+      "Adjust the seat and chest pad so the handles are near mid-torso height; plant your feet on the rests and reach for the handles.",
+      "Keep your chest against the pad and pull the handles horizontally toward your lower ribs, driving your elbows behind you.",
+      "Extend your arms slowly without letting the weight stack pull your torso forward."
+    ],
+    "tr": [
+      "Koltuğu ve göğüs pedini, tutacaklar gövde ortası hizasında olacak şekilde ayarla; ayaklarını desteğe basıp tutacaklara uzan.",
+      "Göğsünü pedde tutarak tutacakları alt kaburgalarına doğru yatay çek; dirseklerini geriye taşı.",
+      "Ağırlığın gövdeni öne çekmesine izin vermeden kollarını yavaşça uzat."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas machine expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": ["seated-cable-row", "machine-high-row"],
+  "media": [
+    {
+      "path": "media/exercises/seated-machine-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a chest-supported seated machine row, with back muscles highlighted red.",
+        "tr": "Göğüs destekli makinede oturarak yatay çekişin iki gri aşaması; sırt kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+    }
+  ]
+}

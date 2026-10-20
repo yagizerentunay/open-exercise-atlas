@@ -9893,6 +9893,56 @@
   },
   {
     "schemaVersion": 1,
+    "id": "machine-glute-kickback",
+    "slug": "machine-glute-kickback",
+    "name": "Machine Glute Kickback",
+    "description": "A standing single-leg hip extension against a dedicated machine's foot pedal.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Set the pedal and resistance; rest your chest and forearms on the support, keep one foot planted and place the other foot on the pedal.",
+      "Without arching your lower back or turning your pelvis, press the pedal back by extending the working hip.",
+      "Return the leg slowly to the start, then complete the set on the other side."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "cable-glute-kickback",
+      "machine-hip-thrust"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/machine-glute-kickback.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a standing machine glute kickback, with the working glute highlighted red.",
+          "tr": "Ayakta makinede kalça geri itişinin iki gri aşaması; çalışan kalça kası kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-glute-kickback.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "machine-high-row",
     "slug": "machine-high-row",
     "name": "Machine High Row",
@@ -10038,6 +10088,57 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-machine-hip-thrust.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "machine-incline-chest-press",
+    "slug": "machine-incline-chest-press",
+    "name": "Machine Incline Chest Press",
+    "description": "A seated machine press that moves the handles forward and upward from upper-chest level.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Adjust the seat so the handles begin around upper-chest height; keep your back on the pad and feet planted.",
+      "Press the handles forward and slightly upward with straight wrists, stopping before your elbows lock.",
+      "Return the handles slowly to a comfortable upper-chest position without lifting your shoulders from the pad."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "machine-chest-press",
+      "incline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/machine-incline-chest-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated incline machine chest press, with the chest highlighted in red.",
+          "tr": "Eğimli makinede oturarak göğüs presinin iki gri aşaması; göğüs kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-incline-chest-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
     ]
   },
@@ -11023,6 +11124,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-plate-front-raise.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-seated-dip",
+    "slug": "plate-loaded-seated-dip",
+    "name": "Plate-Loaded Seated Dip",
+    "description": "A seated machine dip pressing loaded side handles down while the thighs stay secured.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Adjust the seat and thigh restraint; sit upright with feet planted and grasp the handles beside your lower chest.",
+      "Keep your torso steady and press the handles down toward your hips by extending the elbows without locking them.",
+      "Let the handles rise slowly until your elbows reach a comfortable bend; avoid shrugging your shoulders."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "assisted-dip",
+      "chest-dip",
+      "triceps-pushdown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-seated-dip.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a plate-loaded seated dip machine, with the triceps highlighted red.",
+          "tr": "Ağırlık plakalı oturarak dip makinesinin iki gri aşaması; triseps kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-seated-dip.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
     ]
   },
@@ -13226,6 +13379,152 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-biceps-curl.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-machine-crunch",
+    "slug": "seated-machine-crunch",
+    "name": "Seated Machine Crunch",
+    "description": "A seated abdominal crunch against a selectorized machine's torso resistance.",
+    "category": "strength",
+    "movementPattern": "core",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Adjust the seat and resistance; sit with hips against the back of the seat, feet planted and hands on the handles.",
+      "Keep your hips seated and curl your rib cage gently toward your pelvis as the handles move down.",
+      "Return slowly without jerking the weight or pulling with your arms; keep your neck relaxed."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "cable-crunch",
+      "floor-crunch"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-machine-crunch.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated abdominal crunch machine, with the abdominals highlighted red.",
+          "tr": "Oturarak crunch makinesinin iki gri aşaması; karın kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-crunch.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-machine-row",
+    "slug": "seated-machine-row",
+    "name": "Seated Machine Row",
+    "description": "A chest-supported horizontal row using a selectorized machine's independent handles.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "lats",
+      "upper-back"
+    ],
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Adjust the seat and chest pad so the handles are near mid-torso height; plant your feet on the rests and reach for the handles.",
+      "Keep your chest against the pad and pull the handles horizontally toward your lower ribs, driving your elbows behind you.",
+      "Extend your arms slowly without letting the weight stack pull your torso forward."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "seated-cable-row",
+      "machine-high-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-machine-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a chest-supported seated machine row, with back muscles highlighted red.",
+          "tr": "Göğüs destekli makinede oturarak yatay çekişin iki gri aşaması; sırt kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-machine-triceps-extension",
+    "slug": "seated-machine-triceps-extension",
+    "name": "Seated Machine Triceps Extension",
+    "description": "A seated machine elbow extension with the upper arms supported on a pad.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Adjust the seat so your elbows align with the machine pivots; rest your upper arms on the pads and hold the handles with neutral wrists.",
+      "Keep the upper arms supported and extend the elbows to move the handles forward and down without locking out.",
+      "Bend the elbows slowly to return the handles, keeping your back against the support."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "triceps-pushdown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-machine-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated triceps-extension machine, with the triceps highlighted in red.",
+          "tr": "Oturarak triseps ekstansiyon makinesinin iki gri aşaması; triseps kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
     ]
   },

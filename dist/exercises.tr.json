@@ -9893,6 +9893,56 @@
   },
   {
     "schemaVersion": 1,
+    "id": "machine-glute-kickback",
+    "slug": "machine-glute-kickback",
+    "name": "Makinede Kalça Geri İtişi",
+    "description": "Özel makinenin ayak pedalına karşı ayakta yapılan tek bacaklı kalça ekstansiyonu.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Pedalı ve direnci ayarla; göğsünü ve ön kollarını desteğe yerleştir, bir ayağını yere basıp diğerini pedala koy.",
+      "Belini çukurlaştırmadan veya leğen kemiğini döndürmeden çalışan kalçanı açarak pedalı geriye it.",
+      "Bacağını yavaşça başlangıca getir; seti bitirince diğer tarafa geç."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "cable-glute-kickback",
+      "machine-hip-thrust"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/machine-glute-kickback.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a standing machine glute kickback, with the working glute highlighted red.",
+          "tr": "Ayakta makinede kalça geri itişinin iki gri aşaması; çalışan kalça kası kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-glute-kickback.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "machine-high-row",
     "slug": "machine-high-row",
     "name": "Makinede Yüksek Row",
@@ -10038,6 +10088,57 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-machine-hip-thrust.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "machine-incline-chest-press",
+    "slug": "machine-incline-chest-press",
+    "name": "Eğimli Makinede Göğüs Presi",
+    "description": "Tutacakların üst göğüs hizasından öne ve yukarı itildiği oturarak makine presi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Tutacaklar üst göğüs hizasından başlayacak şekilde koltuğu ayarla; sırtını pede yaslayıp ayaklarını yere bas.",
+      "Bileklerini düz tutarak tutacakları öne ve hafif yukarı it; dirseklerini kilitlemeden dur.",
+      "Omuzlarını pedden kaldırmadan tutacakları kontrollü olarak rahat bir üst göğüs konumuna geri getir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "machine-chest-press",
+      "incline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/machine-incline-chest-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated incline machine chest press, with the chest highlighted in red.",
+          "tr": "Eğimli makinede oturarak göğüs presinin iki gri aşaması; göğüs kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-incline-chest-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
     ]
   },
@@ -11023,6 +11124,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-plate-front-raise.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-seated-dip",
+    "slug": "plate-loaded-seated-dip",
+    "name": "Ağırlık Plakalı Oturarak Dip",
+    "description": "Uyluklar sabitlenmişken yüklü yan tutacakların aşağı itildiği oturarak makine dip hareketi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Koltuğu ve uyluk desteğini ayarla; ayaklarını yere basıp dik otur ve tutacakları alt göğüs yanında kavra.",
+      "Gövdeni sabit tutarak dirseklerini açıp tutacakları kalçana doğru aşağı it; dirseklerini kilitleme.",
+      "Omuzlarını yukarı çekmeden tutacakları, dirseklerin rahatça bükülene kadar yavaşça yükselt."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "assisted-dip",
+      "chest-dip",
+      "triceps-pushdown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-seated-dip.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a plate-loaded seated dip machine, with the triceps highlighted red.",
+          "tr": "Ağırlık plakalı oturarak dip makinesinin iki gri aşaması; triseps kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-seated-dip.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
     ]
   },
@@ -13226,6 +13379,152 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-biceps-curl.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-machine-crunch",
+    "slug": "seated-machine-crunch",
+    "name": "Makinede Oturarak Crunch",
+    "description": "Oturarak makine direncine karşı gövdenin öne kıvrıldığı karın hareketi.",
+    "category": "strength",
+    "movementPattern": "core",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Koltuğu ve direnci ayarla; kalçanı koltuğun arkasına yaslayıp ayaklarını bas ve tutacakları kavra.",
+      "Kalçan koltukta kalırken kaburgalarını kontrollü biçimde leğen kemiğine doğru kıvır; tutacaklar aşağı insin.",
+      "Ağırlığı savurmadan veya kollarınla çekmeden yavaşça geri dön; boynunu rahat tut."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "cable-crunch",
+      "floor-crunch"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-machine-crunch.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated abdominal crunch machine, with the abdominals highlighted red.",
+          "tr": "Oturarak crunch makinesinin iki gri aşaması; karın kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-crunch.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-machine-row",
+    "slug": "seated-machine-row",
+    "name": "Makinede Oturarak Yatay Kürek",
+    "description": "Göğüs destekli seçmeli ağırlık makinesinde bağımsız tutacaklarla yapılan yatay çekiş.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "lats",
+      "upper-back"
+    ],
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Koltuğu ve göğüs pedini, tutacaklar gövde ortası hizasında olacak şekilde ayarla; ayaklarını desteğe basıp tutacaklara uzan.",
+      "Göğsünü pedde tutarak tutacakları alt kaburgalarına doğru yatay çek; dirseklerini geriye taşı.",
+      "Ağırlığın gövdeni öne çekmesine izin vermeden kollarını yavaşça uzat."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "seated-cable-row",
+      "machine-high-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-machine-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a chest-supported seated machine row, with back muscles highlighted red.",
+          "tr": "Göğüs destekli makinede oturarak yatay çekişin iki gri aşaması; sırt kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-machine-triceps-extension",
+    "slug": "seated-machine-triceps-extension",
+    "name": "Makinede Oturarak Triseps Ekstansiyonu",
+    "description": "Üst kollar pedde destekliyken dirseklerin açıldığı oturarak makine hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Dirseklerin makinenin dönme ekseniyle hizalanacak şekilde koltuğu ayarla; üst kollarını pede yerleştirip tutacakları bileklerin düzken kavra.",
+      "Üst kolların pedde kalırken dirseklerini açarak tutacakları öne ve aşağı taşı; dirsekleri kilitleme.",
+      "Sırtın destekten ayrılmadan dirseklerini yavaşça büküp tutacakları geri getir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "reviewStatus": "pending",
+    "alternatives": [
+      "triceps-pushdown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-machine-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated triceps-extension machine, with the triceps highlighted in red.",
+          "tr": "Oturarak triseps ekstansiyon makinesinin iki gri aşaması; triseps kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
     ]
   },
