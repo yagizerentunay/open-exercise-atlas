@@ -55,6 +55,18 @@ describe('filterExercises', () => {
     expect(NO_EQUIPMENT).toBe('none')
     expect(ids({ equipment: NO_EQUIPMENT })).toEqual(['neck-curl'])
   })
+  it('finds Turkish names typed without Turkish letters, in any case', () => {
+    const turkish = [
+      makeExercise({ id: 'dumbbell-press', slug: 'dumbbell-press', name: { en: 'Dumbbell Press', tr: 'Dambıl Press' } }),
+      makeExercise({ id: 'push-up', slug: 'push-up', name: { en: 'Push-Up', tr: 'Şınav' } }),
+    ].map((e) => localize(e, 'tr'))
+    const found = (query: string) => filterExercises(turkish, { query }).map((e) => e.id)
+    expect(found('dambil')).toEqual(['dumbbell-press'])
+    expect(found('DAMBIL')).toEqual(['dumbbell-press'])
+    expect(found('dambıl')).toEqual(['dumbbell-press'])
+    expect(found('sinav')).toEqual(['push-up'])
+    expect(found('ŞINAV')).toEqual(['push-up'])
+  })
   it('does not mutate its input', () => {
     const before = JSON.stringify(records)
     filterExercises(records, { muscle: 'chest' })
