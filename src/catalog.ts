@@ -25,14 +25,17 @@ export function pickIllustration(media: readonly MediaAsset[] | undefined): Medi
 /** Equipment filter value that matches exercises needing no equipment (`equipment: []`). */
 export const NO_EQUIPMENT = 'none'
 
+/** Search key: lowercase (in the "en" locale, so the result does not depend on the browser), accents removed, dotless ı read as i. "dambil" finds "Dambıl", "sinav" finds "Şınav". */
+const fold = (text: string) => text.toLocaleLowerCase('en').normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ı/g, 'i')
+
 export interface Filters { query?: string; muscle?: string; equipment?: string; difficulty?: string; category?: string; movementPattern?: string }
 export function filterExercises(exercises: ResolvedExercise[], filters: Filters): ResolvedExercise[] {
-  const query = (filters.query ?? '').trim().toLocaleLowerCase()
+  const query = fold((filters.query ?? '').trim())
   const matchesEquipment = (exercise: ResolvedExercise) =>
     !filters.equipment ||
     (filters.equipment === NO_EQUIPMENT ? exercise.equipment.length === 0 : exercise.equipment.includes(filters.equipment as never))
   return exercises.filter((exercise) =>
-    (!query || exercise.name.toLocaleLowerCase().includes(query)) &&
+    (!query || fold(exercise.name).includes(query)) &&
     (!filters.muscle || [...exercise.primaryMuscles, ...exercise.secondaryMuscles].includes(filters.muscle as never)) &&
     matchesEquipment(exercise) &&
     (!filters.difficulty || exercise.difficulty === filters.difficulty) &&
