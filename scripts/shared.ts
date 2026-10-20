@@ -5,7 +5,7 @@ import addFormats from 'ajv-formats'
 import type { Exercise } from '../src/types.ts'
 
 export const root = resolve(import.meta.dirname, '..')
-const read = (path: string) => JSON.parse(readFileSync(resolve(root, path), 'utf8')) as unknown
+const read = (path: string, base = root) => JSON.parse(readFileSync(resolve(base, path), 'utf8')) as unknown
 
 /** Compiles the record schema. Returns a function that yields a readable error string, or null when the record is valid. */
 export function createRecordValidator(): (record: unknown) => string | null {
@@ -16,15 +16,16 @@ export function createRecordValidator(): (record: unknown) => string | null {
   return (record) => (validate(record) ? null : ajv.errorsText(validate.errors))
 }
 
-export function loadAndValidate(): Exercise[] {
+/** Loads and checks every record under `<base>/data`. `base` is the repository root, or a copy of it in tests. */
+export function loadAndValidate(base = root): Exercise[] {
   const validate = createRecordValidator()
-  const files = readdirSync(resolve(root, 'data/exercises')).filter((name) => name.endsWith('.json')).sort()
+  const files = readdirSync(resolve(base, 'data/exercises')).filter((name) => name.endsWith('.json')).sort()
   const records: Exercise[] = []
   const ids = new Set<string>()
   const slugs = new Set<string>()
   const legacyIds = new Set<string>()
   for (const file of files) {
-    const raw = read(`data/exercises/${file}`)
+    const raw = read(`data/exercises/${file}`, base)
     const problem = validate(raw)
     if (problem) throw new Error(`${file}: ${problem}`)
     const ex = raw as Exercise
@@ -42,14 +43,14 @@ export function loadAndValidate(): Exercise[] {
     for (const media of ex.media ?? []) {
       if (mediaPaths.has(media.path)) throw new Error(`${file}: duplicate media path ${media.path}`)
       mediaPaths.add(media.path)
-      if (!existsSync(resolve(root, media.path))) throw new Error(`${file}: missing media ${media.path}`)
+      if (!existsSync(resolve(base, media.path))) throw new Error(`${file}: missing media ${media.path}`)
     }
     records.push(ex)
   }
   for (const ex of records) for (const related of [...(ex.alternatives ?? []), ...(ex.variations ?? [])]) {
     if (related === ex.id || !ids.has(related)) throw new Error(`${ex.id}: broken relationship ${related}`)
   }
-  const registry = read('data/id-registry.json') as Record<string, string>
+  const registry = read('data/id-registry.json', base) as Record<string, string>
   for (const [id, registeredId] of Object.entries(registry)) {
     const ex = records.find((item) => item.id === id)
     if (!ex || registeredId !== id) throw new Error(`ID registry changed or removed: ${id}`)
