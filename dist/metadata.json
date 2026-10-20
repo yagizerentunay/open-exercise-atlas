@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "count": 344,
+  "count": 345,
   "reviewed": 0,
   "translationCoverage": {
     "tr": {
-      "present": 1032,
-      "total": 1032,
+      "present": 1035,
+      "total": 1035,
       "percent": 100
     }
   },
@@ -134,6 +134,7 @@
     "dumbbell-shrug",
     "dumbbell-side-bend",
     "dumbbell-skull-crusher",
+    "dumbbell-split-squat",
     "dumbbell-squeeze-press",
     "dumbbell-step-up",
     "dumbbell-sumo-squat",
