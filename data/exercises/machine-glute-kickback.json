@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-glute-kickback",
+  "slug": "machine-glute-kickback",
+  "name": {
+    "en": "Machine Glute Kickback",
+    "tr": "Makinede Kalça Geri İtişi"
+  },
+  "description": {
+    "en": "A standing single-leg hip extension against a dedicated machine's foot pedal.",
+    "tr": "Özel makinenin ayak pedalına karşı ayakta yapılan tek bacaklı kalça ekstansiyonu."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["hamstrings"],
+  "instructions": {
+    "en": [
+      "Set the pedal and resistance; rest your chest and forearms on the support, keep one foot planted and place the other foot on the pedal.",
+      "Without arching your lower back or turning your pelvis, press the pedal back by extending the working hip.",
+      "Return the leg slowly to the start, then complete the set on the other side."
+    ],
+    "tr": [
+      "Pedalı ve direnci ayarla; göğsünü ve ön kollarını desteğe yerleştir, bir ayağını yere basıp diğerini pedala koy.",
+      "Belini çukurlaştırmadan veya leğen kemiğini döndürmeden çalışan kalçanı açarak pedalı geriye it.",
+      "Bacağını yavaşça başlangıca getir; seti bitirince diğer tarafa geç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas machine expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": ["cable-glute-kickback", "machine-hip-thrust"],
+  "media": [
+    {
+      "path": "media/exercises/machine-glute-kickback.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a standing machine glute kickback, with the working glute highlighted red.",
+        "tr": "Ayakta makinede kalça geri itişinin iki gri aşaması; çalışan kalça kası kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-glute-kickback.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+    }
+  ]
+}

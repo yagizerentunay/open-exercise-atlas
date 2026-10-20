@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-incline-chest-press",
+  "slug": "machine-incline-chest-press",
+  "name": {
+    "en": "Machine Incline Chest Press",
+    "tr": "Eğimli Makinede Göğüs Presi"
+  },
+  "description": {
+    "en": "A seated machine press that moves the handles forward and upward from upper-chest level.",
+    "tr": "Tutacakların üst göğüs hizasından öne ve yukarı itildiği oturarak makine presi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "instructions": {
+    "en": [
+      "Adjust the seat so the handles begin around upper-chest height; keep your back on the pad and feet planted.",
+      "Press the handles forward and slightly upward with straight wrists, stopping before your elbows lock.",
+      "Return the handles slowly to a comfortable upper-chest position without lifting your shoulders from the pad."
+    ],
+    "tr": [
+      "Tutacaklar üst göğüs hizasından başlayacak şekilde koltuğu ayarla; sırtını pede yaslayıp ayaklarını yere bas.",
+      "Bileklerini düz tutarak tutacakları öne ve hafif yukarı it; dirseklerini kilitlemeden dur.",
+      "Omuzlarını pedden kaldırmadan tutacakları kontrollü olarak rahat bir üst göğüs konumuna geri getir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas machine expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "reviewStatus": "pending",
+  "alternatives": ["machine-chest-press", "incline-dumbbell-press"],
+  "media": [
+    {
+      "path": "media/exercises/machine-incline-chest-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a seated incline machine chest press, with the chest highlighted in red.",
+        "tr": "Eğimli makinede oturarak göğüs presinin iki gri aşaması; göğüs kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-incline-chest-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+    }
+  ]
+}

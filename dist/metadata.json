@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "count": 345,
+  "count": 351,
   "reviewed": 0,
   "translationCoverage": {
     "tr": {
-      "present": 1035,
-      "total": 1035,
+      "present": 1053,
+      "total": 1053,
       "percent": 100
     }
   },
@@ -209,9 +209,11 @@
     "lying-overhead-dumbbell-triceps-extension",
     "lying-straight-leg-raise",
     "machine-chest-press",
+    "machine-glute-kickback",
     "machine-high-row",
     "machine-hip-abduction",
     "machine-hip-thrust",
+    "machine-incline-chest-press",
     "machine-lateral-raise",
     "machine-pullover",
     "machine-rear-delt-fly",
@@ -232,6 +234,7 @@
     "pistol-squat",
     "plank",
     "plate-front-raise",
+    "plate-loaded-seated-dip",
     "plate-pinch",
     "plate-pinch-carry",
     "pogo-hops",
@@ -276,6 +279,9 @@
     "seated-hip-flexion",
     "seated-leg-curl",
     "seated-machine-biceps-curl",
+    "seated-machine-crunch",
+    "seated-machine-row",
+    "seated-machine-triceps-extension",
     "seated-neck-cars",
     "side-crunch",
     "side-lying-hip-abduction",
