@@ -9,20 +9,20 @@ Bu bir ajan destekli editoryal tutarlılık taramasıdır. `ok`, tarif/etiket/g�
 | Grup | Kayıt | `ok` | `needs-review` | `error` |
 | --- | ---: | ---: | ---: | ---: |
 | 1–117 | 117 | 110 | 7 | 0 |
-| 118–234 | 117 | 110 | 7 | 0 |
+| 118–234 | 117 | 111 | 6 | 0 |
 | 235–351 | 117 | 112 | 5 | 0 |
-| **Toplam** | **351** | **332** | **19** | **0** |
+| **Toplam** | **351** | **333** | **18** | **0** |
 
 ## İşlem ve açık inceleme kuyruğu
 
 `seated-dumbbell-wrist-curl` kaydındaki `biceps` ikincil etiketi kaldırıldı ve altı dağıtım dışa aktarımı yenilendi. Desteklenen bilek fleksiyonu önkol fleksörlerinde gerçekleşir; tarif de ön kolun sabit tutulmasını söylüyor. [ACE: Wrist Curl – Flexion](https://www.acefitness.org/resources/everyone/exercise-library/30/wrist-curl-flexion/). Bu düzeltme, kaydı uzman tarafından `reviewed` yapmaz.
 
-Kalan 18 bayrak uzman/editör kararına açık. İlgili satırlar, gözlem ve gerekçeyi üç ayrıntılı raporda verir:
+Kalan 17 bayrak uzman/editör kararına açık. `overhead-press` görseli yeniden açılınca göğüs sandığımız kırmızı alanın omuz/arka kol/karın olduğu görüldü; yanlış pozitif bayrak kaldırıldı. `floor-crunch` ve `cable-hip-abduction` alt metinleri de görselde gerçekten görülen kırmızı hareket oklarını anlatacak biçimde düzeltildi; hedef kas vurgusu görsellerde eksik kaldığından bu iki bayrak açıktır. İlgili satırlar, gözlem ve gerekçeyi üç ayrıntılı raporda verir:
 
 | Öncelik | Kayıtlar | Karar ihtiyacı |
 | --- | --- | --- |
 | Yüksek: görsel hedefi ile etiket ayrışıyor | `band-resisted-march`, `bodyweight-crab-reach`, `bodyweight-lateral-bound`, `bulgarian-split-squat`, `deficit-deadlift`, `flutter-kicks`, `kettlebell-suitcase-deadlift`, `medicine-ball-overhead-slam`, `reverse-lunge-knee-drive`, `worlds-greatest-stretch` | Birincil kas önceliğini ve kırmızı görsel alanını birlikte kararlaştır; gerektiğinde görseli yeniden üret. |
-| Yüksek: görsel/alt metin kapsamı | `cable-hip-abduction`, `dumbbell-shoulder-press`, `floor-crunch`, `overhead-press` | Hedef kas vurgusu eksik ya da görselde fazladan alan kırmızı. Görseli ve iki dilde alt metni eşleştir. |
+| Yüksek: görsel/alt metin kapsamı | `cable-hip-abduction`, `dumbbell-shoulder-press`, `floor-crunch` | Hedef kas vurgusu eksik ya da görselde fazladan alan kırmızı. Görseli ve iki dilde alt metni eşleştir. |
 | Orta: çok bileşenli hareketin kas önceliği | `bird-dog`, `kettlebell-swing`, `two-dumbbell-hang-clean` | Primer/sekonder sırasını hareketin gerçek eklem eylemiyle ve görselle birlikte yeniden belirle. |
 | Orta: taksonomi | `tibialis-raise` | Ön kaval/tibialis anterior için `calves` etiketinin kapsamını veya yeni kas kodunu ürün genelinde kararlaştır. |
 
