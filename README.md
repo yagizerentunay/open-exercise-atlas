@@ -6,7 +6,7 @@
 [![Code: MIT](https://img.shields.io/badge/code-MIT-222222)](LICENSE)
 [![Data: CC0 1.0](https://img.shields.io/badge/original%20data-CC0%201.0-222222)](DATA-LICENSE.md)
 
-**Current catalog:** [205 exercises](dist/metadata.json) · [19 muscle groups](docs/data-model.md#controlled-vocabulary) · English and Turkish · [six ready-to-use exports](#use-the-data)
+**Current catalog:** [351 exercises](dist/metadata.json) · [19 muscle groups](docs/data-model.md#controlled-vocabulary) · English and Turkish · [six ready-to-use exports](#use-the-data)
 
 <p align="center">
   <img src="media/exercises/assisted-pull-up.webp" alt="Illustrated assisted pull-up with the target muscles highlighted" width="480">
