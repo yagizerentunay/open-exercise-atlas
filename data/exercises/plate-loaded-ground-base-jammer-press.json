@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-ground-base-jammer-press",
+  "slug": "plate-loaded-ground-base-jammer-press",
+  "name": {
+    "en": "Plate-Loaded Ground Base Jammer Press",
+    "tr": "Plaka Yüklü Ground Base Jammer Press"
+  },
+  "description": {
+    "en": "A standing, plate-loaded press in which an athletic stance and leg drive help move independent handles forward and upward along the machine's arc.",
+    "tr": "Ayakta atletik duruş ve bacak itişiyle bağımsız tutacakların makinenin kavisli yolunda öne ve yukarı itildiği plaka yüklü press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine"],
+  "primaryMuscles": ["chest", "shoulders"],
+  "secondaryMuscles": ["triceps", "abdominals", "quadriceps", "glutes"],
+  "instructions": {
+    "en": [
+      "Load the independent arms evenly. Stand in a stable split stance with the handles near upper-chest height, wrists straight, and knees softly bent.",
+      "Brace your trunk and press the handles forward and upward along the machine's path while keeping your feet planted and torso controlled.",
+      "Let the handles return slowly to the start without letting the arms pull your shoulders forward. Use a load you can control and keep clear of the moving arms."
+    ],
+    "tr": [
+      "Bağımsız kollara eşit plaka tak. Tutacaklar üst göğüs hizasındayken dengeli bir adım duruşu al; bileklerini düz, dizlerini hafif bükülü tut.",
+      "Gövdeni sabitleyip ayaklarını yerde tutarak tutacakları makinenin yolu boyunca öne ve yukarı it.",
+      "Kolların omuzlarını öne çekmesine izin vermeden tutacakları yavaşça başlangıca döndür. Kontrol edebileceğin bir yük kullan ve hareketli kollardan uzak dur."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle catalog follow-up",
+    "license": "CC0-1.0"
+  },
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-ground-base-jammer-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a standing Ground Base Jammer press with independent plate-loaded arms; the athlete wears opaque shorts and the chest is highlighted red.",
+        "tr": "Bağımsız plaka yüklü kollu ayakta Ground Base Jammer press hareketinin iki gri aşaması; sporcu kapalı şort giyiyor ve göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-ground-base-jammer-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.lifefitness.com/en-eu/catalog/strength-training/plate-loaded/ground-base-jammer"
+    }
+  ]
+}

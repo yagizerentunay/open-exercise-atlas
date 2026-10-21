@@ -19,10 +19,12 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 | Cable Romanian Deadlift | `data/exercises/cable-romanian-deadlift.json` | `media/exercises/cable-romanian-deadlift.webp` | `705b66f2a1803ab54e6bfeabf5d0db80141063ac026ff70faa911b210aa79935` |
 | Smith Machine Romanian Deadlift | `data/exercises/smith-machine-romanian-deadlift.json` | `media/exercises/smith-machine-romanian-deadlift.webp` | `c3bd14f954c0f536cff2116d39b56165e5b14acb293bacb8322abe16012cc09a` |
 | Plate-Loaded Iso-Lateral Wide Chest Press | `data/exercises/plate-loaded-iso-lateral-wide-chest-press.json` | `media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp` | `b724567f7496043c5ec59d458ed6d958a7678d185437b8c489132073d1336efd` |
+| Plate-Loaded Ground Base Jammer Press | `data/exercises/plate-loaded-ground-base-jammer-press.json` | `media/exercises/plate-loaded-ground-base-jammer-press.webp` | `4b37b9e533393583442b039bf4debc34759e1b1066e54073bf267c8ca17ca6b1` |
+| Plate-Loaded Ground Base High Pull | `data/exercises/plate-loaded-ground-base-high-pull.json` | `media/exercises/plate-loaded-ground-base-high-pull.webp` | `63f562efaab2ca06fdb68560464cc1f3abc5e0d8cdf7055ef8218a61c1433d32` |
 
 [Original ten-exercise contact sheet](major-muscle-gap-2026-10-22-contact-sheet.jpg)
 
-The five later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp), [Smith Machine Romanian Deadlift](../../media/exercises/smith-machine-romanian-deadlift.webp), and [Iso-Lateral Wide Chest Press](../../media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp).
+The seven later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp), [Smith Machine Romanian Deadlift](../../media/exercises/smith-machine-romanian-deadlift.webp), [Iso-Lateral Wide Chest Press](../../media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp), [Ground Base Jammer Press](../../media/exercises/plate-loaded-ground-base-jammer-press.webp), and [Ground Base High Pull](../../media/exercises/plate-loaded-ground-base-high-pull.webp).
 
 ## Why they are distinct
 
@@ -41,6 +43,8 @@ The five later visuals are linked separately because they were added after the o
 - **Cable Romanian Deadlift:** Atlas has barbell and dumbbell RDLs and a cable pull-through. The cable RDL faces the pulley and tracks the handle along the front of the legs, unlike the pull-through's away-facing rope path between the legs.
 - **Smith Machine Romanian Deadlift:** Atlas has free-weight RDLs and other Smith movements but no Smith RDL. Its guided bar path allows a machine-specific hinge setup while retaining the front-of-leg RDL path.
 - **Iso-Lateral Wide Chest:** Atlas has horizontal and decline presses, but no upright press that begins with a particularly wide arm position. The manufacturer describes independent converging arms and a wide starting position; this differs from the existing decline machine's conventional start width and path.
+- **Ground Base Jammer Press:** Atlas has seated and cable presses, but no standing plate-loaded Jammer with independent converging/diverging lever arms. The athletic split stance, leg drive, and forward/upward path make it a distinct press pattern.
+- **Ground Base High Pull:** Atlas has rows and upright rows but no independent-arm, plate-loaded high pull performed from a grounded squat stance. The machine pairs a deep leg drive with a close upward pull; this represents its high-pull function separately from the squat function.
 
 Primary movement references:
 
@@ -63,12 +67,14 @@ Primary movement references:
 - [Life Fitness — Smith Machine](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine)
 - [ACE — Romanian Deadlift technique](https://www.acefitness.org/continuing-education/certified/may-2025/8865/the-ace-do-it-better-series-the-romanian-deadlift/)
 - [Hammer Strength — Iso-Lateral Wide Chest](https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-wide-chest)
+- [Hammer Strength — Ground Base Jammer](https://www.lifefitness.com/en-eu/catalog/strength-training/plate-loaded/ground-base-jammer)
+- [Hammer Strength — Ground Base Squat / High Pull](https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-squat-high-pull)
 
 ## Artwork and cues
 
-All fifteen original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
+All seventeen original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
 
 ## Validation
 
-The ten-record follow-up and five later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 385 records; automated tests were not run.
+The ten-record follow-up and seven later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 387 records; automated tests were not run.
 

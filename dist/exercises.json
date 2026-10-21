@@ -14696,6 +14696,132 @@
   },
   {
     "schemaVersion": 1,
+    "id": "plate-loaded-ground-base-high-pull",
+    "slug": "plate-loaded-ground-base-high-pull",
+    "name": {
+      "en": "Plate-Loaded Ground Base High Pull",
+      "tr": "Plaka Yüklü Ground Base High Pull"
+    },
+    "description": {
+      "en": "A standing high pull using independent, plate-loaded arms, combining a controlled leg and hip drive with an upward pull to the lower chest.",
+      "tr": "Bağımsız plaka yüklü kollarla ayakta yapılan; bacak ve kalça itişini tutacakları alt göğse doğru çekmeyle birleştiren high pull hareketi."
+    },
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "traps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "glutes",
+      "hamstrings",
+      "biceps",
+      "forearms",
+      "abdominals"
+    ],
+    "instructions": {
+      "en": [
+        "Load both independent arms evenly. Stand with feet planted, hold the long handles near thigh level, and set a stable athletic stance with hips hinged and knees bent.",
+        "Drive through your feet and extend your hips and knees as you pull the handles close to your body toward the lower chest; let the elbows lead without rising above shoulder level.",
+        "Lower the handles under control to the start. Begin with a light load, avoid jerking the arms, and stop if the movement causes shoulder pain."
+      ],
+      "tr": [
+        "Bağımsız kollara eşit plaka tak. Ayaklarını yere sağlam bas; uzun tutacakları uyluk hizasında kavrayıp kalçanı geriye alarak dengeli atletik duruş kur ve dizlerini bük.",
+        "Ayaklarını yere bastırıp kalçanla dizlerini açarken tutacakları gövdene yakın biçimde alt göğsüne doğru çek; dirseklerin harekete öncülük etsin ama omuz hizasını aşmasın.",
+        "Tutacakları kontrollü biçimde başlangıca indir. Hafif yükle başla, kollarını savurma; omuz ağrısı olursa hareketi bırak."
+      ]
+    },
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle catalog follow-up",
+      "license": "CC0-1.0"
+    },
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-ground-base-high-pull.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a Ground Base high pull, from a squat start to a lower-chest pull; the athlete wears opaque shorts and the trapezius and quadriceps are highlighted red.",
+          "tr": "Squat başlangıcından alt göğse çekişe uzanan Ground Base high pull hareketinin iki gri aşaması; sporcu kapalı şort giyiyor, trapez ve ön uyluk kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-ground-base-high-pull.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-squat-high-pull"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-ground-base-jammer-press",
+    "slug": "plate-loaded-ground-base-jammer-press",
+    "name": {
+      "en": "Plate-Loaded Ground Base Jammer Press",
+      "tr": "Plaka Yüklü Ground Base Jammer Press"
+    },
+    "description": {
+      "en": "A standing, plate-loaded press in which an athletic stance and leg drive help move independent handles forward and upward along the machine's arc.",
+      "tr": "Ayakta atletik duruş ve bacak itişiyle bağımsız tutacakların makinenin kavisli yolunda öne ve yukarı itildiği plaka yüklü press hareketi."
+    },
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "abdominals",
+      "quadriceps",
+      "glutes"
+    ],
+    "instructions": {
+      "en": [
+        "Load the independent arms evenly. Stand in a stable split stance with the handles near upper-chest height, wrists straight, and knees softly bent.",
+        "Brace your trunk and press the handles forward and upward along the machine's path while keeping your feet planted and torso controlled.",
+        "Let the handles return slowly to the start without letting the arms pull your shoulders forward. Use a load you can control and keep clear of the moving arms."
+      ],
+      "tr": [
+        "Bağımsız kollara eşit plaka tak. Tutacaklar üst göğüs hizasındayken dengeli bir adım duruşu al; bileklerini düz, dizlerini hafif bükülü tut.",
+        "Gövdeni sabitleyip ayaklarını yerde tutarak tutacakları makinenin yolu boyunca öne ve yukarı it.",
+        "Kolların omuzlarını öne çekmesine izin vermeden tutacakları yavaşça başlangıca döndür. Kontrol edebileceğin bir yük kullan ve hareketli kollardan uzak dur."
+      ]
+    },
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle catalog follow-up",
+      "license": "CC0-1.0"
+    },
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-ground-base-jammer-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a standing Ground Base Jammer press with independent plate-loaded arms; the athlete wears opaque shorts and the chest is highlighted red.",
+          "tr": "Bağımsız plaka yüklü kollu ayakta Ground Base Jammer press hareketinin iki gri aşaması; sporcu kapalı şort giyiyor ve göğüs kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-ground-base-jammer-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.lifefitness.com/en-eu/catalog/strength-training/plate-loaded/ground-base-jammer"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "plate-loaded-iso-lateral-d-y-row",
     "slug": "plate-loaded-iso-lateral-d-y-row",
     "name": {

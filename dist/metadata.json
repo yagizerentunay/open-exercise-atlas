@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 385,
+  "count": 387,
   "translationCoverage": {
     "tr": {
-      "present": 1155,
-      "total": 1155,
+      "present": 1161,
+      "total": 1161,
       "percent": 100
     }
   },
@@ -247,6 +247,8 @@
     "plank",
     "plate-front-raise",
     "plate-loaded-assisted-nordic-hamstring-curl",
+    "plate-loaded-ground-base-high-pull",
+    "plate-loaded-ground-base-jammer-press",
     "plate-loaded-iso-lateral-d-y-row",
     "plate-loaded-iso-lateral-decline-chest-press",
     "plate-loaded-iso-lateral-horizontal-bench-press",
