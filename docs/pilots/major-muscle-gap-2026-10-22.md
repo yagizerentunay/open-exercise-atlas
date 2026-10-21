@@ -24,10 +24,11 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 | Smith Machine Shoulder Press | `data/exercises/smith-machine-shoulder-press.json` | `media/exercises/smith-machine-shoulder-press.webp` | `cf3c8580d151a4d6682f257dc98c5a95a613044cbb823b6c90ada10c41da9838` |
 | Yates Row | `data/exercises/yates-row.json` | `media/exercises/yates-row.webp` | `decc50731992cc11dcd8a9011502330626b8ab15940a26531f3037292b69e503` |
 | Plate-Loaded Reverse Lunge | `data/exercises/plate-loaded-reverse-lunge.json` | `media/exercises/plate-loaded-reverse-lunge.webp` | `f3165e41c5e8cdbd03b58972fafaf918d52d9c0f7a97e970ef1904ce2776cd0d` |
+| Overhead Machine Triceps Extension | `data/exercises/overhead-machine-triceps-extension.json` | `media/exercises/overhead-machine-triceps-extension.webp` | `a46da1fbbbf7f207f6ef32bf5dbf3f4a10627df8b9c2a5d1571ea3dd43f8295e` |
 
 [Original ten-exercise contact sheet](major-muscle-gap-2026-10-22-contact-sheet.jpg)
 
-The ten later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp), [Smith Machine Romanian Deadlift](../../media/exercises/smith-machine-romanian-deadlift.webp), [Iso-Lateral Wide Chest Press](../../media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp), [Ground Base Jammer Press](../../media/exercises/plate-loaded-ground-base-jammer-press.webp), [Ground Base High Pull](../../media/exercises/plate-loaded-ground-base-high-pull.webp), [Smith Machine Shoulder Press](../../media/exercises/smith-machine-shoulder-press.webp), [Yates Row](../../media/exercises/yates-row.webp), and [Plate-Loaded Reverse Lunge](../../media/exercises/plate-loaded-reverse-lunge.webp).
+The eleven later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp), [Smith Machine Romanian Deadlift](../../media/exercises/smith-machine-romanian-deadlift.webp), [Iso-Lateral Wide Chest Press](../../media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp), [Ground Base Jammer Press](../../media/exercises/plate-loaded-ground-base-jammer-press.webp), [Ground Base High Pull](../../media/exercises/plate-loaded-ground-base-high-pull.webp), [Smith Machine Shoulder Press](../../media/exercises/smith-machine-shoulder-press.webp), [Yates Row](../../media/exercises/yates-row.webp), [Plate-Loaded Reverse Lunge](../../media/exercises/plate-loaded-reverse-lunge.webp), and [Overhead Machine Triceps Extension](../../media/exercises/overhead-machine-triceps-extension.webp).
 
 ## Why they are distinct
 
@@ -51,6 +52,7 @@ The ten later visuals are linked separately because they were added after the or
 - **Smith Machine Shoulder Press:** Atlas has a selectorized shoulder press and free-weight overhead presses, but no seated Smith press. The Smith uses one guided bar on rails while the selectorized machine uses pivoting press arms.
 - **Yates Row:** Atlas's bent-over barbell row is pictured and cued with a pronated grip. Yates described keeping his torso more upright than a conventional near-parallel row; he used underhand for most of his career and later also used overhand. This record documents the underhand version shown in the illustration.
 - **Plate-Loaded Reverse Lunge:** Atlas has bodyweight and barbell reverse lunges, but not a guided machine lunge where the front foot stays on a fixed platform while the rear foot moves on an inclined sliding platform. Panatta describes its Super Lunge as an alternating backward lunge with a guided track, separating it from the step-back versions already in Atlas.
+- **Overhead Machine Triceps Extension:** Atlas has a seated machine extension with upper arms on a pad and overhead extensions using dumbbells or cables. Panatta's French Press machine keeps the shoulders flexed and upper arms overhead throughout elbow extension; its guided path differs from the pad-supported downward machine extension.
 
 Primary movement references:
 
@@ -81,12 +83,14 @@ Primary movement references:
 - [Dorian Yates — Row Like the Shadow](https://www.muscleandfitness.com/flexonline/training/row-shadow/)
 - [Panatta — Super Lunge Machine](https://www.panattasport.com/en/free-weight-special/super-lunge-machine/)
 - [ACE — Reverse Lunge](https://www.acefitness.org/resources/everyone/exercise-library/319/reverse-lunge/)
+- [Panatta — Super French Press Machine](https://www.panattasport.com/en/free-weight-special/super-french-press-machine/)
+- [ACE — Machine Triceps Extension](https://www.acefitness.org/resources/everyone/exercise-library/292/tricep-extension/)
 
 ## Artwork and cues
 
-All twenty original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
+All twenty-one original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
 
 ## Validation
 
-The ten-record follow-up and ten later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 390 records; automated tests were not run.
+The ten-record follow-up and eleven later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 391 records; automated tests were not run.
 

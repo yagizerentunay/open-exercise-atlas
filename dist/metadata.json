@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 390,
+  "count": 391,
   "translationCoverage": {
     "tr": {
-      "present": 1170,
-      "total": 1170,
+      "present": 1173,
+      "total": 1173,
       "percent": 100
     }
   },
@@ -238,6 +238,7 @@
     "one-arm-dumbbell-row",
     "overhead-cable-triceps-extension",
     "overhead-dumbbell-shrug",
+    "overhead-machine-triceps-extension",
     "overhead-press",
     "pec-deck-fly",
     "pendlay-row",
