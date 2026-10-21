@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 392,
+  "count": 393,
   "translationCoverage": {
     "tr": {
-      "present": 1176,
-      "total": 1176,
+      "present": 1179,
+      "total": 1179,
       "percent": 100
     }
   },
@@ -229,6 +229,7 @@
     "machine-pullover",
     "machine-rear-delt-fly",
     "machine-shoulder-press",
+    "meadows-row",
     "medicine-ball-overhead-slam",
     "neck-extension-isometric",
     "neck-flexion-isometric",

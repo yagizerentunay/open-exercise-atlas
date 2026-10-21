@@ -1,6 +1,6 @@
 # Major-muscle catalog follow-up — 22 October 2026
 
-A renewed post-push scan against manufacturer catalogs found two lower-body machine movements missing from Atlas: the V-Squat and Vertical Leg Press. A further check of the plate-loaded lineup found eight more distinct machines: independent-arm horizontal and decline chest presses, a Super Squat Press, an Assisted Nordic Hamstring Curl, a D.Y. Row, a Super Incline Press, a machine shrug, and a machine gripper. Later scans added a dedicated tibialis dorsi-flexion machine, Barbell Bulgarian Split Squat, Cable Romanian Deadlift, Smith Machine Romanian Deadlift, and Iso-Lateral Wide Chest Press.
+A renewed post-push scan against manufacturer catalogs found two lower-body machine movements missing from Atlas: the V-Squat and Vertical Leg Press. A further check of the plate-loaded lineup found eight more distinct machines: independent-arm horizontal and decline chest presses, a Super Squat Press, an Assisted Nordic Hamstring Curl, a D.Y. Row, a Super Incline Press, a machine shrug, and a machine gripper. Later scans added a dedicated tibialis dorsi-flexion machine, Barbell Bulgarian Split Squat, Cable Romanian Deadlift, Smith Machine Romanian Deadlift, and Iso-Lateral Wide Chest Press. A later back-row pass added Meadows Row, a named side-on pronated-sleeve landmine variation.
 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
@@ -26,10 +26,11 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 | Plate-Loaded Reverse Lunge | `data/exercises/plate-loaded-reverse-lunge.json` | `media/exercises/plate-loaded-reverse-lunge.webp` | `f3165e41c5e8cdbd03b58972fafaf918d52d9c0f7a97e970ef1904ce2776cd0d` |
 | Overhead Machine Triceps Extension | `data/exercises/overhead-machine-triceps-extension.json` | `media/exercises/overhead-machine-triceps-extension.webp` | `a46da1fbbbf7f207f6ef32bf5dbf3f4a10627df8b9c2a5d1571ea3dd43f8295e` |
 | Standing Machine Hip Thrust | `data/exercises/standing-machine-hip-thrust.json` | `media/exercises/standing-machine-hip-thrust.webp` | `504ede1425fa8057990f7da8aa698502a4d09a19680ef46a3a7dbf93486e4548` |
+| Meadows Row | `data/exercises/meadows-row.json` | `media/exercises/meadows-row.webp` | `539263578a64fc317667060995a069df6151ce516270417d819ad11fc7051ff7` |
 
 [Original ten-exercise contact sheet](major-muscle-gap-2026-10-22-contact-sheet.jpg)
 
-The twelve later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp), [Smith Machine Romanian Deadlift](../../media/exercises/smith-machine-romanian-deadlift.webp), [Iso-Lateral Wide Chest Press](../../media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp), [Ground Base Jammer Press](../../media/exercises/plate-loaded-ground-base-jammer-press.webp), [Ground Base High Pull](../../media/exercises/plate-loaded-ground-base-high-pull.webp), [Smith Machine Shoulder Press](../../media/exercises/smith-machine-shoulder-press.webp), [Yates Row](../../media/exercises/yates-row.webp), [Plate-Loaded Reverse Lunge](../../media/exercises/plate-loaded-reverse-lunge.webp), and [Overhead Machine Triceps Extension](../../media/exercises/overhead-machine-triceps-extension.webp), plus [Standing Machine Hip Thrust](../../media/exercises/standing-machine-hip-thrust.webp).
+The thirteen later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp), [Smith Machine Romanian Deadlift](../../media/exercises/smith-machine-romanian-deadlift.webp), [Iso-Lateral Wide Chest Press](../../media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp), [Ground Base Jammer Press](../../media/exercises/plate-loaded-ground-base-jammer-press.webp), [Ground Base High Pull](../../media/exercises/plate-loaded-ground-base-high-pull.webp), [Smith Machine Shoulder Press](../../media/exercises/smith-machine-shoulder-press.webp), [Yates Row](../../media/exercises/yates-row.webp), [Plate-Loaded Reverse Lunge](../../media/exercises/plate-loaded-reverse-lunge.webp), and [Overhead Machine Triceps Extension](../../media/exercises/overhead-machine-triceps-extension.webp), plus [Standing Machine Hip Thrust](../../media/exercises/standing-machine-hip-thrust.webp) and [Meadows Row](../../media/exercises/meadows-row.webp).
 
 ## Why they are distinct
 
@@ -55,6 +56,7 @@ The twelve later visuals are linked separately because they were added after the
 - **Plate-Loaded Reverse Lunge:** Atlas has bodyweight and barbell reverse lunges, but not a guided machine lunge where the front foot stays on a fixed platform while the rear foot moves on an inclined sliding platform. Panatta describes its Super Lunge as an alternating backward lunge with a guided track, separating it from the step-back versions already in Atlas.
 - **Overhead Machine Triceps Extension:** Atlas has a seated machine extension with upper arms on a pad and overhead extensions using dumbbells or cables. Panatta's French Press machine keeps the shoulders flexed and upper arms overhead throughout elbow extension; its guided path differs from the pad-supported downward machine extension.
 - **Standing Machine Hip Thrust:** Atlas already has a conventional seated machine hip thrust and a single-leg machine glute kickback. Panatta's newer standing unit uses adjustable footrests, a pelvis roller, and a guided bilateral standing hip-extension path, so the torso no longer rests on a bench/backrest. This is a distinct posture and movement setup; it is a newer machine format, not a claim that all gyms have one.
+- **Meadows Row:** Atlas has a general Landmine Row, but its record uses a front-facing grip on a handle. John Meadows's named variation stands perpendicular to the bar, grips the loaded sleeve overhand, braces the free hand on the forward thigh, and rows with a wider elbow path. A Strength & Conditioning Journal technique column describes Meadows Row as a separate landmine-row variation with distinct setup and execution.
 
 Primary movement references:
 
@@ -87,13 +89,15 @@ Primary movement references:
 - [ACE — Reverse Lunge](https://www.acefitness.org/resources/everyone/exercise-library/319/reverse-lunge/)
 - [Panatta — Super French Press Machine](https://www.panattasport.com/en/free-weight-special/super-french-press-machine/)
 - [Panatta — Standing Hip Thrust](https://www.panattasport.com/en/freeweight-one/standing-hip-thrust/)
+- [John Meadows — Tip: Master the Meadows Row](https://archive.t-nation.com/training/tip-master-the-meadows-row/)
+- [Lincoln et al. — Exercise Technique: The Landmine Row, Strength & Conditioning Journal](https://doi.org/10.1519/ssc.0000000000000751)
 - [ACE — Machine Triceps Extension](https://www.acefitness.org/resources/everyone/exercise-library/292/tricep-extension/)
 
 ## Artwork and cues
 
-All twenty-two original illustrations show two movement phases in grayscale on transparent backgrounds. Target muscles are highlighted red where appropriate; the Standing Machine Hip Thrust stays grayscale so its opaque shorts clearly cover the glutes. Every athlete wears opaque athletic shorts fully covering the hips and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
+All twenty-three original illustrations show two movement phases in grayscale on transparent backgrounds. Target muscles are highlighted red where appropriate; the Standing Machine Hip Thrust stays grayscale so its opaque shorts clearly cover the glutes. Every athlete wears opaque athletic shorts fully covering the hips and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
 
 ## Validation
 
-The ten-record follow-up and twelve later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 392 records; automated tests were not run.
+The ten-record follow-up and thirteen later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 393 records; automated tests were not run.
 

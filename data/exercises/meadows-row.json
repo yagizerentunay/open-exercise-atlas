@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "meadows-row",
+  "slug": "meadows-row",
+  "name": {
+    "en": "Meadows Row",
+    "tr": "Meadows Row"
+  },
+  "aliases": ["Meadows Landmine Row", "Perpendicular Landmine Row"],
+  "description": {
+    "en": "A one-arm landmine row performed side-on to the bar with a pronated grip on the loaded sleeve and the free hand braced on the front thigh.",
+    "tr": "Bara dik durup plakalı kovana ters tutuşla tek kolla yapılan, boşta kalan elin öndeki uyluğa destek verdiği landmine kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["barbell"],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["upper-back", "biceps", "forearms", "lower-back"],
+  "instructions": {
+    "en": [
+      "Secure one end of the bar in a landmine pivot and load the free sleeve. Stand side-on in a split stance with the foot opposite the working arm forward; hinge at the hips, brace your free hand on the front thigh, and grip the loaded sleeve overhand.",
+      "Let the working shoulder reach forward without rounding your lower back. Keeping your torso still, drive the elbow up and out and row the sleeve along the bar's arc toward your lower chest.",
+      "Lower the bar under control to a comfortable stretch without twisting or dropping the plates. Finish one side, then switch arms."
+    ],
+    "tr": [
+      "Barın bir ucunu landmine yuvasına sabitleyip serbest kovana plaka tak. Çalışan kolunun tersindeki ayağın önde olduğu çapraz duruşta, bara yan dön; kalçadan eğil, boşta kalan elini öndeki uyluğuna daya ve plakalı kovanı üstten kavra.",
+      "Belini yuvarlamadan çalışan omzunun kontrollü biçimde öne uzamasına izin ver. Gövdeni sabit tutup dirseğini yana ve yukarı çekerek kovanı barın yayı boyunca alt göğsüne doğru kürekle.",
+      "Gövdeni döndürmeden ve plakaları düşürmeden barı rahat bir esnemeye kontrollü indir. Bir tarafı bitirince kol değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "John Meadows, Tip: Master the Meadows Row",
+    "url": "https://archive.t-nation.com/training/tip-master-the-meadows-row/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["landmine-row", "one-arm-dumbbell-row", "single-arm-iso-lateral-machine-row"],
+  "media": [
+    {
+      "path": "media/exercises/meadows-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a side-on Meadows Row: the athlete hinges beside an anchored bar and rows the loaded sleeve with one arm, wearing opaque shorts; lats are highlighted red.",
+        "tr": "Bara yan dönülerek yapılan Meadows Row hareketinin iki gri aşaması: sporcu sabitlenmiş barın yanında eğilip plakalı kovanı tek kolla çeker; opak şort giyer ve lat kasları kırmızıyla vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/meadows-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://archive.t-nation.com/training/tip-master-the-meadows-row/"
+    }
+  ]
+}
