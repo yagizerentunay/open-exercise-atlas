@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-machine-shrug",
+  "slug": "plate-loaded-machine-shrug",
+  "name": {
+    "en": "Plate-Loaded Machine Shrug",
+    "tr": "Plaka Yüklü Makinede Shrug"
+  },
+  "description": {
+    "en": "A trap-focused shrug performed seated or standing on a plate-loaded machine with side-positioned handles for shoulder alignment.",
+    "tr": "Omuz hizasını korumaya yardımcı yan tutacaklı plaka yüklü makinede oturarak veya ayakta yapılan trapez odaklı shrug."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["traps"],
+  "secondaryMuscles": ["forearms"],
+  "instructions": {
+    "en": [
+      "Choose the seated or standing setup, set the machine stops if present, and hold the side handles with your arms straight.",
+      "Raise your shoulders vertically toward your ears without bending your elbows or rolling your shoulders.",
+      "Lower your shoulders slowly to the start position while keeping the plates under control."
+    ],
+    "tr": [
+      "Oturma veya ayakta durma kurulumunu seç; varsa makine güvenliğini ayarla ve yan tutacakları kolların düzken kavra.",
+      "Dirseklerini bükmeden veya omuzlarını döndürmeden omuzlarını dikey olarak kulaklarına doğru kaldır.",
+      "Plakaların kontrolünü koruyarak omuzlarını yavaşça başlangıç konumuna indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["barbell-shrug", "dumbbell-shrug", "cable-shrug"],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-machine-shrug.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a seated plate-loaded shrug machine; the athlete wears opaque shorts and the trapezius muscles are highlighted red.",
+        "tr": "Oturmalı plaka yüklü shrug makinesinin iki gri aşaması; sporcu kapalı şort giyiyor ve trapez kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-machine-shrug.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-assisted-nordic-hamstring-curl",
+  "slug": "plate-loaded-assisted-nordic-hamstring-curl",
+  "name": {
+    "en": "Plate-Loaded Assisted Nordic Hamstring Curl",
+    "tr": "Plaka Yüklü Destekli Nordic Hamstring Curl"
+  },
+  "description": {
+    "en": "A kneeling Nordic curl on a counterbalanced plate-loaded machine; additional load on the assistance horns reduces the effort required.",
+    "tr": "Denge ağırlıklı plaka yüklü makinede diz üstü yapılan Nordic curl; yardım kollarına eklenen yük gereken eforu azaltır."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": ["machine"],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["glutes", "calves"],
+  "instructions": {
+    "en": [
+      "Set assistance according to the machine placard; on this counterbalanced model, adding weight increases assistance. Adjust the torso pad and secure your ankles beneath the rollers.",
+      "Keep your body straight from knees through shoulders and slowly lean forward from the knees, resisting the descent with your hamstrings.",
+      "Use your hamstrings to curl back to kneeling under control; increase assistance if you cannot control the full range."
+    ],
+    "tr": [
+      "Desteği makine talimatına göre ayarla; bu denge ağırlıklı modelde plaka eklemek yardımı artırır. Gövde pedini ayarla ve ayak bileklerini makaraların altına sabitle.",
+      "Dizlerinden omuzlarına kadar gövdeni düz tutup dizlerinden öne doğru yavaşça eğil; inişi arka uyluk kaslarınla frenle.",
+      "Arka uyluk kaslarınla kontrollü biçimde diz üstü konuma dön; tüm hareket yolunu kontrol edemiyorsan yardımı artır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["nordic-hamstring-curl", "glute-ham-raise", "machine-kneeling-leg-curl"],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-assisted-nordic-hamstring-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of an assisted Nordic curl machine with secured ankles and counterbalance plates; the athlete wears opaque shorts and hamstrings are highlighted red.",
+        "tr": "Ayak bilekleri sabitlenmiş ve denge plakaları görünen destekli Nordic curl makinesinin iki gri aşaması; sporcu kapalı şort giyiyor ve arka uyluk kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-assisted-nordic-hamstring-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

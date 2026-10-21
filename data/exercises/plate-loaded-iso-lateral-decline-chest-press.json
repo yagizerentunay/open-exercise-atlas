@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-iso-lateral-decline-chest-press",
+  "slug": "plate-loaded-iso-lateral-decline-chest-press",
+  "name": {
+    "en": "Plate-Loaded Iso-Lateral Decline Chest Press",
+    "tr": "Plaka Yüklü Iso-Lateral Decline Göğüs Presi"
+  },
+  "description": {
+    "en": "An upright seated decline chest press with independent plate-loaded arms and a downward-forward pressing path.",
+    "tr": "Bağımsız plaka yüklü kollara ve aşağı-öne pres yoluna sahip, dik oturuşlu decline göğüs presi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["machine", "bench"],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "instructions": {
+    "en": [
+      "Adjust the seat so the handles begin near the lower chest; brace your back against the pad and secure your feet.",
+      "Press the independent handles forward and slightly downward, keeping your wrists straight and elbows softly bent.",
+      "Let the handles return slowly until your elbows are comfortably behind your torso; keep the plates controlled."
+    ],
+    "tr": [
+      "Tutacaklar alt göğüs hizasında başlayacak şekilde koltuğu ayarla; sırtını pede dayayıp ayaklarını sabitle.",
+      "Bileklerini düz ve dirseklerini hafif bükülü tutarak bağımsız tutacakları öne ve biraz aşağı it.",
+      "Dirseklerin gövdenin rahatça gerisine gelene kadar tutacakları yavaşça geri bırak; plakaların kontrolünü koru."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "machine-decline-chest-press",
+    "decline-dumbbell-press",
+    "plate-loaded-iso-lateral-horizontal-bench-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-iso-lateral-decline-chest-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of an independent-arm plate-loaded decline chest press; the athlete wears opaque shorts and the chest is highlighted red.",
+        "tr": "Bağımsız kollu plaka yüklü decline göğüs presinin iki gri aşaması; sporcu kapalı şort giyiyor ve göğüs kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-decline-chest-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

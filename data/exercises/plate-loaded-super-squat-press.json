@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-super-squat-press",
+  "slug": "plate-loaded-super-squat-press",
+  "name": {
+    "en": "Plate-Loaded Super Squat Press",
+    "tr": "Plaka Yüklü Super Squat Press"
+  },
+  "description": {
+    "en": "A plate-loaded squat machine with articulating foot platforms and independent work arms that allow each leg to move separately.",
+    "tr": "Hareketli ayak platformları ve her bacağın ayrı çalışmasına izin veren bağımsız kollara sahip plaka yüklü squat makinesi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine", "bench"],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "instructions": {
+    "en": [
+      "Load both sides evenly and set the machine safety; place your shoulders and back against the pads and both feet securely on the platforms.",
+      "Bend your hips and knees to lower into a comfortable squat while keeping your heels planted and knees tracking over your toes.",
+      "Drive through the platforms to stand, stop before locking your knees, then engage the safety before stepping off."
+    ],
+    "tr": [
+      "İki tarafa eşit plaka takıp makine güvenliğini ayarla; omuzlarını ve sırtını pedlere, iki ayağını platformlara sağlam yerleştir.",
+      "Topuklarını platformda tutup dizlerini ayak yönünde izleyerek rahat bir squat derinliğine alçal.",
+      "Dizlerini kilitlemeden platformlardan güç alıp yüksel; inmeden önce güvenliği devreye al."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["hack-squat", "v-squat", "pendulum-squat", "leg-press"],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-super-squat-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a plate-loaded Super Squat Press with articulating footplates; the athlete wears opaque shorts and the quadriceps are highlighted red.",
+        "tr": "Hareketli ayak platformlu plaka yüklü Super Squat Press'in iki gri aşaması; sporcu kapalı şort giyiyor ve ön uyluk kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-super-squat-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

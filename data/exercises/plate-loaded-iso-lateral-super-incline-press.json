@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-iso-lateral-super-incline-press",
+  "slug": "plate-loaded-iso-lateral-super-incline-press",
+  "name": {
+    "en": "Plate-Loaded Iso-Lateral Super Incline Press",
+    "tr": "Plaka Yüklü Iso-Lateral Dik Eğimli Pres"
+  },
+  "description": {
+    "en": "An independent-arm plate-loaded press with a steep upward-and-forward path between a conventional incline press and a shoulder press.",
+    "tr": "Geleneksel eğimli göğüs presi ile omuz presi arasında dik, yukarı-öne bir yol izleyen bağımsız kollu plaka yüklü pres."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine", "bench"],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["chest", "triceps"],
+  "instructions": {
+    "en": [
+      "Adjust the seat so the handles start near upper-chest level; brace your back against the pad and plant your feet.",
+      "Press the independent handles up and forward along the steep path without arching your back or locking your elbows.",
+      "Lower the handles slowly to the start position, keeping your shoulders down and both arms controlled."
+    ],
+    "tr": [
+      "Tutacaklar üst göğüs hizasında başlayacak şekilde koltuğu ayarla; sırtını pede dayayıp ayaklarını yere bas.",
+      "Belini aşırı çukurlaştırmadan ve dirseklerini kilitlemeden bağımsız tutacakları dik açıyla yukarı ve öne it.",
+      "Omuzlarını aşağıda ve iki kolu kontrollü tutarak tutacakları yavaşça başlangıç konumuna indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "machine-shoulder-press",
+    "machine-incline-chest-press",
+    "plate-loaded-iso-lateral-incline-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-iso-lateral-super-incline-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a steep independent-arm Super Incline Press; the athlete wears opaque shorts and the upper chest and front shoulders are highlighted red.",
+        "tr": "Dik açılı bağımsız kollu Super Incline Press'in iki gri aşaması; sporcu kapalı şort giyiyor, üst göğüs ve ön omuzlar kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-super-incline-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-machine-gripper",
+  "slug": "plate-loaded-machine-gripper",
+  "name": {
+    "en": "Plate-Loaded Machine Gripper",
+    "tr": "Plaka Yüklü Makine Gripper"
+  },
+  "description": {
+    "en": "A seated plate-loaded hand-grip exercise with multiple handle orientations for training grip strength through controlled finger flexion.",
+    "tr": "Kontrollü parmak fleksiyonuyla kavrama gücünü çalıştıran, farklı tutuş yönleri sunan oturmalı plaka yüklü el kavrama egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Choose a comfortable pronated or supinated handle position, sit upright, and set a light load that lets you keep your wrists straight.",
+      "Close the handles by flexing your fingers; keep your wrists still and avoid leaning your body into the squeeze.",
+      "Let the handles open slowly under control and stop before your grip slips."
+    ],
+    "tr": [
+      "Rahat bir avuç içi aşağı veya yukarı tutuş seç; dik otur ve bileklerini düz tutabileceğin hafif bir yük ayarla.",
+      "Bileklerini sabit tutup parmaklarını bükerek tutacakları kapat; sıkarken gövdenle yüklenme.",
+      "Kavrayışın kaymadan önce dur; tutacakların kontrollü biçimde yavaşça açılmasına izin ver."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["hand-gripper-squeeze", "plate-pinch", "dead-hang", "wrist-roller"],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-machine-gripper.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a seated plate-loaded gripper machine; the athlete wears opaque shorts and the forearms are highlighted red.",
+        "tr": "Oturmalı plaka yüklü gripper makinesinin iki gri aşaması; sporcu kapalı şort giyiyor ve ön kol kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-machine-gripper.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

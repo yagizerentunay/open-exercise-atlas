@@ -11459,6 +11459,215 @@
   },
   {
     "schemaVersion": 1,
+    "id": "plate-loaded-assisted-nordic-hamstring-curl",
+    "slug": "plate-loaded-assisted-nordic-hamstring-curl",
+    "name": "Plate-Loaded Assisted Nordic Hamstring Curl",
+    "description": "A kneeling Nordic curl on a counterbalanced plate-loaded machine; additional load on the assistance horns reduces the effort required.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "calves"
+    ],
+    "instructions": [
+      "Set assistance according to the machine placard; on this counterbalanced model, adding weight increases assistance. Adjust the torso pad and secure your ankles beneath the rollers.",
+      "Keep your body straight from knees through shoulders and slowly lean forward from the knees, resisting the descent with your hamstrings.",
+      "Use your hamstrings to curl back to kneeling under control; increase assistance if you cannot control the full range."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "nordic-hamstring-curl",
+      "glute-ham-raise",
+      "machine-kneeling-leg-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-assisted-nordic-hamstring-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of an assisted Nordic curl machine with secured ankles and counterbalance plates; the athlete wears opaque shorts and hamstrings are highlighted red.",
+          "tr": "Ayak bilekleri sabitlenmiş ve denge plakaları görünen destekli Nordic curl makinesinin iki gri aşaması; sporcu kapalı şort giyiyor ve arka uyluk kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-assisted-nordic-hamstring-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-iso-lateral-d-y-row",
+    "slug": "plate-loaded-iso-lateral-d-y-row",
+    "name": "Plate-Loaded Iso-Lateral D.Y. Row",
+    "description": "A chest-supported plate-loaded row with underhand grips and overhead-pivot arms that follow a natural downward-and-back arc.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "lats",
+      "upper-back"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "traps"
+    ],
+    "instructions": [
+      "Adjust the seat and chest pad so your chest stays supported; place your feet on the rests and take the underhand handles with straight wrists.",
+      "Pull the handles down and back toward your lower ribs by driving your elbows behind you; keep your chest on the pad.",
+      "Let the independent arms travel forward slowly until your shoulders reach a comfortable stretch; avoid jerking or lifting your chest."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-high-row",
+      "machine-low-row",
+      "chest-supported-t-bar-row",
+      "single-arm-iso-lateral-machine-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-iso-lateral-d-y-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a chest-supported plate-loaded D.Y. Row with underhand grips; opaque shorts cover the athlete and the lats and mid-back are highlighted red.",
+          "tr": "Avuç içleri yukarı tutuşlu göğüs destekli plaka yüklü D.Y. Row hareketinin iki gri aşaması; sporcu kapalı şort giyiyor, kanat ve orta sırt kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-d-y-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-iso-lateral-decline-chest-press",
+    "slug": "plate-loaded-iso-lateral-decline-chest-press",
+    "name": "Plate-Loaded Iso-Lateral Decline Chest Press",
+    "description": "An upright seated decline chest press with independent plate-loaded arms and a downward-forward pressing path.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Adjust the seat so the handles begin near the lower chest; brace your back against the pad and secure your feet.",
+      "Press the independent handles forward and slightly downward, keeping your wrists straight and elbows softly bent.",
+      "Let the handles return slowly until your elbows are comfortably behind your torso; keep the plates controlled."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-decline-chest-press",
+      "decline-dumbbell-press",
+      "plate-loaded-iso-lateral-horizontal-bench-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-iso-lateral-decline-chest-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of an independent-arm plate-loaded decline chest press; the athlete wears opaque shorts and the chest is highlighted red.",
+          "tr": "Bağımsız kollu plaka yüklü decline göğüs presinin iki gri aşaması; sporcu kapalı şort giyiyor ve göğüs kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-decline-chest-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-iso-lateral-horizontal-bench-press",
+    "slug": "plate-loaded-iso-lateral-horizontal-bench-press",
+    "name": "Plate-Loaded Iso-Lateral Horizontal Bench Press",
+    "description": "A seated horizontal chest press with independent plate-loaded arms that move separately through a converging or diverging path.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Set the seat so the handles start around mid-chest; brace your back against the pad and plant your feet.",
+      "Press both independent handles forward at chest height, keeping your wrists straight and elbows softly bent at the finish.",
+      "Return the handles slowly until you feel a comfortable chest stretch; keep both arms controlled."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-chest-press",
+      "barbell-bench-press",
+      "plate-loaded-iso-lateral-incline-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-iso-lateral-horizontal-bench-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of an independent-arm plate-loaded horizontal bench press; the athlete wears opaque shorts and the chest is highlighted red.",
+          "tr": "Bağımsız kollu plaka yüklü yatay bench pressin iki gri aşaması; sporcu kapalı şort giyiyor ve göğüs kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-horizontal-bench-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "plate-loaded-iso-lateral-incline-press",
     "slug": "plate-loaded-iso-lateral-incline-press",
     "name": "Plate-Loaded Iso-Lateral Incline Press",
@@ -11506,6 +11715,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-incline-press.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-iso-lateral-super-incline-press",
+    "slug": "plate-loaded-iso-lateral-super-incline-press",
+    "name": "Plate-Loaded Iso-Lateral Super Incline Press",
+    "description": "An independent-arm plate-loaded press with a steep upward-and-forward path between a conventional incline press and a shoulder press.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "instructions": [
+      "Adjust the seat so the handles start near upper-chest level; brace your back against the pad and plant your feet.",
+      "Press the independent handles up and forward along the steep path without arching your back or locking your elbows.",
+      "Lower the handles slowly to the start position, keeping your shoulders down and both arms controlled."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-shoulder-press",
+      "machine-incline-chest-press",
+      "plate-loaded-iso-lateral-incline-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-iso-lateral-super-incline-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a steep independent-arm Super Incline Press; the athlete wears opaque shorts and the upper chest and front shoulders are highlighted red.",
+          "tr": "Dik açılı bağımsız kollu Super Incline Press'in iki gri aşaması; sporcu kapalı şort giyiyor, üst göğüs ve ön omuzlar kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-super-incline-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },
@@ -11562,6 +11823,105 @@
   },
   {
     "schemaVersion": 1,
+    "id": "plate-loaded-machine-gripper",
+    "slug": "plate-loaded-machine-gripper",
+    "name": "Plate-Loaded Machine Gripper",
+    "description": "A seated plate-loaded hand-grip exercise with multiple handle orientations for training grip strength through controlled finger flexion.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Choose a comfortable pronated or supinated handle position, sit upright, and set a light load that lets you keep your wrists straight.",
+      "Close the handles by flexing your fingers; keep your wrists still and avoid leaning your body into the squeeze.",
+      "Let the handles open slowly under control and stop before your grip slips."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "hand-gripper-squeeze",
+      "plate-pinch",
+      "dead-hang",
+      "wrist-roller"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-machine-gripper.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated plate-loaded gripper machine; the athlete wears opaque shorts and the forearms are highlighted red.",
+          "tr": "Oturmalı plaka yüklü gripper makinesinin iki gri aşaması; sporcu kapalı şort giyiyor ve ön kol kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-machine-gripper.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-machine-shrug",
+    "slug": "plate-loaded-machine-shrug",
+    "name": "Plate-Loaded Machine Shrug",
+    "description": "A trap-focused shrug performed seated or standing on a plate-loaded machine with side-positioned handles for shoulder alignment.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Choose the seated or standing setup, set the machine stops if present, and hold the side handles with your arms straight.",
+      "Raise your shoulders vertically toward your ears without bending your elbows or rolling your shoulders.",
+      "Lower your shoulders slowly to the start position while keeping the plates under control."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "barbell-shrug",
+      "dumbbell-shrug",
+      "cable-shrug"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-machine-shrug.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated plate-loaded shrug machine; the athlete wears opaque shorts and the trapezius muscles are highlighted red.",
+          "tr": "Oturmalı plaka yüklü shrug makinesinin iki gri aşaması; sporcu kapalı şort giyiyor ve trapez kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-machine-shrug.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "plate-loaded-seated-dip",
     "slug": "plate-loaded-seated-dip",
     "name": "Plate-Loaded Seated Dip",
@@ -11608,6 +11968,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-seated-dip.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-super-squat-press",
+    "slug": "plate-loaded-super-squat-press",
+    "name": "Plate-Loaded Super Squat Press",
+    "description": "A plate-loaded squat machine with articulating foot platforms and independent work arms that allow each leg to move separately.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Load both sides evenly and set the machine safety; place your shoulders and back against the pads and both feet securely on the platforms.",
+      "Bend your hips and knees to lower into a comfortable squat while keeping your heels planted and knees tracking over your toes.",
+      "Drive through the platforms to stand, stop before locking your knees, then engage the safety before stepping off."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "hack-squat",
+      "v-squat",
+      "pendulum-squat",
+      "leg-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-super-squat-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a plate-loaded Super Squat Press with articulating footplates; the athlete wears opaque shorts and the quadriceps are highlighted red.",
+          "tr": "Hareketli ayak platformlu plaka yüklü Super Squat Press'in iki gri aşaması; sporcu kapalı şort giyiyor ve ön uyluk kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-super-squat-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },
@@ -17344,6 +17757,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "v-squat",
+    "slug": "v-squat",
+    "name": "V-Squat Machine",
+    "description": "A plate-loaded machine squat that follows a supported, curved arc rather than the linear path of a hack squat.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "adductors"
+    ],
+    "instructions": [
+      "Load both sides evenly. Set your back and shoulders against the pads, place both feet securely on the platform, and follow the machine placard to release the safety.",
+      "Bend your hips and knees to lower along the machine's arc; keep your heels planted and knees tracking with your toes.",
+      "Push through the platform to stand without snapping your knees straight, then engage the safety before stepping off."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "hack-squat",
+      "pendulum-squat",
+      "belt-squat",
+      "smith-machine-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/v-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a V-Squat machine exercise; the athlete wears opaque black shorts and the hamstrings are highlighted in red.",
+          "tr": "V-Squat makinesi hareketinin iki gri aşaması; sporcu siyah şort giyiyor ve arka uyluk kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/v-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "v-up",
     "slug": "v-up",
     "name": "V-Up",
@@ -17383,6 +17849,57 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/v-up.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-6.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "vertical-leg-press",
+    "slug": "vertical-leg-press",
+    "name": "Vertical Leg Press",
+    "description": "A supine leg press in which the feet drive a guided platform vertically above the hips.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Load both sides evenly. Lie back with your head, back, and hips supported; place your feet shoulder-width on the platform and release the safety only as the machine placard directs.",
+      "Bend your knees to lower the platform toward you under control, stopping at a depth that keeps your hips and lower back supported.",
+      "Press through the whole foot without snapping the knees straight; engage both safety stops before getting out."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "leg-press",
+      "single-leg-leg-press",
+      "pendulum-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/vertical-leg-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a supine vertical leg press, with quadriceps and glutes highlighted in red.",
+          "tr": "Sırtüstü dikey leg press hareketinin iki gri aşaması; ön uyluk ve kalça kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/vertical-leg-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },

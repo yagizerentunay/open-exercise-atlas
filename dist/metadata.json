@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 370,
+  "count": 380,
   "translationCoverage": {
     "tr": {
-      "present": 1110,
-      "total": 1110,
+      "present": 1140,
+      "total": 1140,
       "percent": 100
     }
   },
@@ -244,9 +244,17 @@
     "pistol-squat",
     "plank",
     "plate-front-raise",
+    "plate-loaded-assisted-nordic-hamstring-curl",
+    "plate-loaded-iso-lateral-d-y-row",
+    "plate-loaded-iso-lateral-decline-chest-press",
+    "plate-loaded-iso-lateral-horizontal-bench-press",
     "plate-loaded-iso-lateral-incline-press",
+    "plate-loaded-iso-lateral-super-incline-press",
     "plate-loaded-iso-lateral-wide-pulldown",
+    "plate-loaded-machine-gripper",
+    "plate-loaded-machine-shrug",
     "plate-loaded-seated-dip",
+    "plate-loaded-super-squat-press",
     "plate-pinch",
     "plate-pinch-carry",
     "pogo-hops",
@@ -366,7 +374,9 @@
     "triceps-pushdown",
     "two-dumbbell-hang-clean",
     "upright-row",
+    "v-squat",
     "v-up",
+    "vertical-leg-press",
     "waiter-curl",
     "walking-lunge",
     "wall-ball-shot",

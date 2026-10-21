@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-iso-lateral-horizontal-bench-press",
+  "slug": "plate-loaded-iso-lateral-horizontal-bench-press",
+  "name": {
+    "en": "Plate-Loaded Iso-Lateral Horizontal Bench Press",
+    "tr": "Plaka Yüklü Iso-Lateral Yatay Bench Press"
+  },
+  "description": {
+    "en": "A seated horizontal chest press with independent plate-loaded arms that move separately through a converging or diverging path.",
+    "tr": "Plaka yüklü bağımsız kolların yakınsayan veya uzaklaşan bir yolda ayrı hareket ettiği oturarak yatay göğüs presi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["machine", "bench"],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "instructions": {
+    "en": [
+      "Set the seat so the handles start around mid-chest; brace your back against the pad and plant your feet.",
+      "Press both independent handles forward at chest height, keeping your wrists straight and elbows softly bent at the finish.",
+      "Return the handles slowly until you feel a comfortable chest stretch; keep both arms controlled."
+    ],
+    "tr": [
+      "Tutacaklar göğüs ortası hizasında başlayacak şekilde koltuğu ayarla; sırtını pede dayayıp ayaklarını yere bas.",
+      "Bileklerini düz tutarak iki bağımsız tutacağı göğüs hizasında öne it; bitişte dirseklerini hafif bükülü bırak.",
+      "Rahat bir göğüs gerilmesi hissedene kadar tutacakları yavaşça geri getir; iki kolu da kontrollü tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "machine-chest-press",
+    "barbell-bench-press",
+    "plate-loaded-iso-lateral-incline-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-iso-lateral-horizontal-bench-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of an independent-arm plate-loaded horizontal bench press; the athlete wears opaque shorts and the chest is highlighted red.",
+        "tr": "Bağımsız kollu plaka yüklü yatay bench pressin iki gri aşaması; sporcu kapalı şort giyiyor ve göğüs kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-horizontal-bench-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

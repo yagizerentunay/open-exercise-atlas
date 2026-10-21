@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-iso-lateral-d-y-row",
+  "slug": "plate-loaded-iso-lateral-d-y-row",
+  "name": {
+    "en": "Plate-Loaded Iso-Lateral D.Y. Row",
+    "tr": "Plaka Yüklü Iso-Lateral D.Y. Row"
+  },
+  "description": {
+    "en": "A chest-supported plate-loaded row with underhand grips and overhead-pivot arms that follow a natural downward-and-back arc.",
+    "tr": "Avuç içleri yukarı bakan tutacaklar ve doğal aşağı-geri yay izleyen üstten pivotlu kollara sahip, göğüs destekli plaka yüklü row hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine", "bench"],
+  "primaryMuscles": ["lats", "upper-back"],
+  "secondaryMuscles": ["biceps", "traps"],
+  "instructions": {
+    "en": [
+      "Adjust the seat and chest pad so your chest stays supported; place your feet on the rests and take the underhand handles with straight wrists.",
+      "Pull the handles down and back toward your lower ribs by driving your elbows behind you; keep your chest on the pad.",
+      "Let the independent arms travel forward slowly until your shoulders reach a comfortable stretch; avoid jerking or lifting your chest."
+    ],
+    "tr": [
+      "Göğsün destekli kalacak şekilde koltuğu ve göğüs pedini ayarla; ayaklarını dayanaklara koyup avuç içlerin yukarı bakacak şekilde tutacakları kavra.",
+      "Göğsünü pedden kaldırmadan dirseklerini geriye sürerek tutacakları aşağı ve alt kaburgalarına doğru çek.",
+      "Omuzların rahatça gerilene kadar bağımsız kolları yavaşça öne bırak; silkme ve göğsünü pedden kaldırma."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "machine-high-row",
+    "machine-low-row",
+    "chest-supported-t-bar-row",
+    "single-arm-iso-lateral-machine-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-iso-lateral-d-y-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a chest-supported plate-loaded D.Y. Row with underhand grips; opaque shorts cover the athlete and the lats and mid-back are highlighted red.",
+        "tr": "Avuç içleri yukarı tutuşlu göğüs destekli plaka yüklü D.Y. Row hareketinin iki gri aşaması; sporcu kapalı şort giyiyor, kanat ve orta sırt kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-d-y-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

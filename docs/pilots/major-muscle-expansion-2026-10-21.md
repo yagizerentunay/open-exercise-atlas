@@ -65,3 +65,8 @@ The remaining similar catalog items either already map to these movement familie
 OpenAI ImageGen produced original transparent two-phase illustrations in the Atlas grayscale/red-highlight style. Images were resized to 1024 × 1024 WebP at quality 85; the contact sheet was checked at 160 px. No third-party artwork or written instructions were copied. Bilingual cues include setup, controlled execution/return, and relevant machine safety.
 
 `npm run validate` passed with 370 records. All sixteen records in this follow-up have unique IDs, alternatives resolve, and referenced media files exist. `npm run data:check`, `npm run build`, and `git diff --check` passed for the expanded catalogue. Automated tests were not run.
+
+
+## Post-push follow-up — 22 October 2026
+
+A renewed comparison identified two distinct lower-body machine gaps: V-Squat and Vertical Leg Press. Their records, two-phase illustrations, source comparisons, and validation are documented in [the follow-up report](major-muscle-gap-2026-10-22.md). The catalog now contains 372 exercises.
