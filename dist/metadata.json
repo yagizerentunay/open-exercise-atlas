@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 387,
+  "count": 388,
   "translationCoverage": {
     "tr": {
-      "present": 1161,
-      "total": 1161,
+      "present": 1164,
+      "total": 1164,
       "percent": 100
     }
   },
@@ -344,6 +344,7 @@
     "smith-machine-bench-press",
     "smith-machine-incline-bench-press",
     "smith-machine-romanian-deadlift",
+    "smith-machine-shoulder-press",
     "smith-machine-squat",
     "smith-machine-standing-calf-raise",
     "sorensen-hold",

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "smith-machine-shoulder-press",
+  "slug": "smith-machine-shoulder-press",
+  "name": {
+    "en": "Smith Machine Shoulder Press",
+    "tr": "Smith Makinesinde Omuz Pressi"
+  },
+  "description": {
+    "en": "A seated overhead press with a Smith bar guided along fixed rails, using a bar path distinct from a selectorized press machine's pivoting handles.",
+    "tr": "Seçici kollu omuz press makinesinin döner tutacaklarından farklı olarak sabit raylarda ilerleyen Smith barıyla oturarak yapılan baş üstü press."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine", "bench"],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["triceps"],
+  "instructions": {
+    "en": [
+      "Place an upright bench under the Smith bar. Set the bar near shoulder height and the safety stops just below the bottom of your comfortable range. Sit with your back supported, feet planted, and hands slightly wider than shoulder width.",
+      "Unrack the bar and press it overhead along the rails; keep your wrists straight, elbows slightly forward, and torso against the pad without over-arching your lower back.",
+      "Lower the bar slowly to the front of your shoulders, then engage the hooks before changing the setup. Use a load you can control."
+    ],
+    "tr": [
+      "Dik sırtlıklı benchi Smith barının altına yerleştir. Barı omuz hizasına, güvenlik stoperlerini rahat hareket aralığının alt sınırının hemen altına ayarla. Sırtın destekli ve ayakların yerde olacak şekilde otur; barı omuz genişliğinden biraz açık tut.",
+      "Barı kancalardan çıkarıp raylar boyunca başının üzerine it; bileklerini düz, dirseklerini hafif önde, gövdeni pedde tut ve belini aşırı çukurlaştırma.",
+      "Barı omuzlarının önüne doğru yavaşça indir; ayarı değiştirmeden önce kancalara oturt. Kontrol edebileceğin bir yük kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle catalog follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["machine-shoulder-press", "seated-dumbbell-shoulder-press"],
+  "media": [
+    {
+      "path": "media/exercises/smith-machine-shoulder-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a seated Smith machine shoulder press, with a guided bar and upright bench; the athlete wears opaque shorts and the shoulders are highlighted red.",
+        "tr": "Dik bench ve yönlendirmeli barla oturarak yapılan Smith omuz pressinin iki gri aşaması; sporcu kapalı şort giyiyor ve omuzlar kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-shoulder-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine"
+    }
+  ]
+}
