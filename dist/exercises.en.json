@@ -12177,6 +12177,64 @@
   },
   {
     "schemaVersion": 1,
+    "id": "plate-loaded-reverse-lunge",
+    "slug": "plate-loaded-reverse-lunge",
+    "name": "Plate-Loaded Reverse Lunge",
+    "aliases": [
+      "Machine Reverse Lunge",
+      "Guided Reverse Lunge",
+      "Panatta Super Lunge"
+    ],
+    "description": "An alternating reverse lunge on a guided plate-loaded machine, with the rear foot moving on a sliding inclined platform.",
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "adductors",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Follow the machine placard to set the shoulder pad and starting position. Place the front foot on the fixed platform and the rear foot on the sliding platform; hold the handles and brace your torso.",
+      "Bend both knees and lower under control as the rear platform glides back along its inclined guide. Keep the front foot planted and the front knee aligned with the toes.",
+      "Press through the front foot to return to the start while guiding the handles smoothly. Complete the repetitions on one side, then switch; use a load you can control."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Panatta Super Lunge Machine",
+      "url": "https://www.panattasport.com/en/free-weight-special/super-lunge-machine/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "reverse-lunge",
+      "barbell-reverse-lunge",
+      "walking-lunge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-reverse-lunge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a plate-loaded guided reverse lunge; the rear foot slides on an inclined platform. The athlete wears opaque shorts and quadriceps are highlighted red.",
+          "tr": "Plaka yüklü kılavuzlu geri lunge hareketinin iki gri aşaması; arka ayak eğimli platformda kayar. Sporcu opak şort giyer ve quadriceps kasları kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-reverse-lunge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.panattasport.com/en/free-weight-special/super-lunge-machine/"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "plate-loaded-seated-dip",
     "slug": "plate-loaded-seated-dip",
     "name": "Plate-Loaded Seated Dip",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 389,
+  "count": 390,
   "translationCoverage": {
     "tr": {
-      "present": 1167,
-      "total": 1167,
+      "present": 1170,
+      "total": 1170,
       "percent": 100
     }
   },
@@ -258,6 +258,7 @@
     "plate-loaded-iso-lateral-wide-pulldown",
     "plate-loaded-machine-gripper",
     "plate-loaded-machine-shrug",
+    "plate-loaded-reverse-lunge",
     "plate-loaded-seated-dip",
     "plate-loaded-super-squat-press",
     "plate-loaded-tibia-dorsi-flexion",
