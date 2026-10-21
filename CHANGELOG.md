@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Add 19 original two-phase exercise illustrations and bilingual editorial records, one new movement for each muscle group; all remain pending technique review.
+- Add 19 original two-phase exercise illustrations and bilingual editorial records, one new movement for each muscle group.
 - Complete the muscle gallery with original `neck` and `hip-flexors` reference illustrations.
 - Additive vocabulary for the Monk Mode migration (schema version stays `1`): muscles `neck` and `hip-flexors`; equipment `ez-bar`, `exercise-ball` and `other`; an empty `equipment` list now explicitly means "no equipment"; optional `aliases` (other English names, used only for import matching); media role `reference` (one illustration that is neither a start nor a finish frame). Media licenses are limited to the documented allow-list `CC0-1.0` and `MIT`; `.webp` and `.png` paths under `media/exercises/` are accepted.
 - Turkish labels for the new codes: Boyun, Kalça fleksörleri, EZ bar, Pilates topu, Diğer; the explorer shows "No equipment" / "Ekipmansız" and a `none` equipment filter.

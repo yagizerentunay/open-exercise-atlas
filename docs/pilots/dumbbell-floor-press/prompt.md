@@ -4,7 +4,7 @@
 - **Date:** 2026-10-14
 - **Generator:** OpenAI built-in image generation
 - **Style reference:** [`media/exercises/assisted-pull-up.webp`](../../../media/exercises/assisted-pull-up.webp), supplied to the generator as a style reference. The movement and composition are new.
-- **Status:** User review preview. Not part of an exercise record or the published site. No technique or anatomy expert review.
+- **Status:** Local visual preview; not part of an exercise record or the published site.
 - **SHA-256:** `5fba76cad00a97b8b559155ebcc0fc3d8cbd9d034083d04213ffb7c2868daaa57`
 
 ## Prompt

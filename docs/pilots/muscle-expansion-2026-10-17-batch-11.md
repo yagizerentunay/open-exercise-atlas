@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 11
 
-Five additional distinct movements: Sled Push, Barbell Walking Lunge, Barbell Decline Bench Press, Lying Overhead Dumbbell Triceps Extension, and Captain’s Chair Knee Raise. The loaded lunge and barbell press add distinct loading setups not represented by the bodyweight walking lunge and dumbbell decline press; the supported knee raise removes the hanging grip demand. No neck-targeted exercise was added. Records await expert review. [Contact sheet](muscle-expansion-2026-10-17-batch-11-contact-sheet.webp).
+Five additional distinct movements: Sled Push, Barbell Walking Lunge, Barbell Decline Bench Press, Lying Overhead Dumbbell Triceps Extension, and Captain’s Chair Knee Raise. The loaded lunge and barbell press add distinct loading setups not represented by the bodyweight walking lunge and dumbbell decline press; the supported knee raise removes the hanging grip demand. No neck-targeted exercise was added. Records are reference illustrations. [Contact sheet](muscle-expansion-2026-10-17-batch-11-contact-sheet.webp).
 
 | Primary muscle(s) | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Five additional distinct movements: Sled Push, Barbell Walking Lunge, Barbell De
 
 ## Artwork
 
-Five original AI-assisted two-phase illustrations were generated with OpenAI built-in ImageGen, using the Atlas `assisted-pull-up.webp` and `dumbbell-bench-press.webp` assets as style references only. Outputs were converted to 1024 × 1024 WebP at quality 85. No reference pixels or exercise instructions were copied. AI output may not be unique; exercise form, highlighted anatomy, and classifications remain pending expert/editor review.
+Five original AI-assisted two-phase illustrations were generated with OpenAI built-in ImageGen, using the Atlas `assisted-pull-up.webp` and `dumbbell-bench-press.webp` assets as style references only. Outputs were converted to 1024 × 1024 WebP at quality 85. No reference pixels or exercise instructions were copied. AI output may not be unique; illustrations are general exercise references.
 
 ## Movement references
 

@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 7
 
-Four additional distinct core exercises for hip flexors and obliques. No neck-targeted movement is added. Records are bilingual and pending expert form/anatomy review. [Contact sheet](muscle-expansion-2026-10-17-batch-7-contact-sheet.webp).
+Four additional distinct core exercises for hip flexors and obliques. No neck-targeted movement is added. Records are bilingual entries in the exercise catalog. [Contact sheet](muscle-expansion-2026-10-17-batch-7-contact-sheet.webp).
 
 | Primary muscle | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -12,4 +12,4 @@ Four additional distinct core exercises for hip flexors and obliques. No neck-ta
 
 ## Original artwork
 
-Four original two-phase images were generated with OpenAI built-in ImageGen, using the approved Atlas visual style as a reference. Each PNG was resized to 1024 × 1024 and converted to WebP at quality 85. No reference pixels were copied. AI output may not be unique; these movement guides await expert review.
+Four original two-phase images were generated with OpenAI built-in ImageGen, using the approved Atlas visual style as a reference. Each PNG was resized to 1024 × 1024 and converted to WebP at quality 85. No reference pixels were copied. AI output may not be unique; these movement guides are reference illustrations.

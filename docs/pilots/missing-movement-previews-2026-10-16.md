@@ -1,6 +1,6 @@
 # Missing-movement visual previews — 2026-10-16
 
-These are **local visual pilots**, not catalogue records or published exercise media. The source catalogue contained 205 records when the candidates were checked. Normalized ID, slug, English name, and alias comparison found no exact match for the 45 movements below. Related movements may still require editorial equivalence review before any record is added.
+These are **local visual pilots**, not catalogue records or published exercise media. The source catalogue contained 205 records when the candidates were checked. Normalized ID, slug, English name, and alias comparison found no exact match for the 45 movements below.
 
 All images were generated as original art with OpenAI built-in image generation; the tool did not expose a model ID. [`assisted-pull-up.webp`](../../media/exercises/assisted-pull-up.webp) was supplied only as a style reference. The final PNG outputs were resized to 1024 × 1024 and encoded as transparent WebP at quality 85. The [contact sheet](missing-movement-contact-sheet.webp) allows a small-size composition check. No exercise data, site code, or existing media was changed.
 
@@ -150,8 +150,8 @@ Shared visual direction for each separate generation: “Use case: scientific-ed
 44. **Squat thrust:** Ellerini yere koyarak alçak çömel. Ellerini yerinde tutup iki ayağını birlikte geriye atarak yüksek planka geç; kontrollü geri topla.
 45. **Yan yatarak gövde açma:** Yan yatıp dizlerini üst üste bük. Üst kolunu göğsünün önünden geniş bir yayla geriye açarken dizlerini birlikte tut; rahat aralıkta başlangıca dön.
 
-These are editorial visual guides and draft cues only. They do not establish exercise equivalence, medical suitability, or expert approval of form/anatomy. The project may dedicate rights it holds in the original generated output under its [media policy](../media-provenance.md); AI output may not be unique, and no exclusivity is claimed. Drafts rejected for duplicate catalogue content, wrong panel layout, insufficient movement difference, or inconsistent target highlighting were not added to this set.
+These are editorial visual guides and draft cues only. They do not establish exercise equivalence or medical suitability. The project may dedicate rights it holds in the original generated output under its [media policy](../media-provenance.md); AI output may not be unique, and no exclusivity is claimed. Drafts rejected for duplicate catalogue content, wrong panel layout, insufficient movement difference, or inconsistent target highlighting were not added to this set.
 
 ## Additional pilot — 2026-10-17
 
-- **Zercher Squat:** [original two-phase WebP](zercher-squat/assisted-style-preview.webp), [prompt, hash, rights, and review scope](zercher-squat/README.md). No exact catalogue/pilot name or ID match was found; movement-equivalence review remains open.
+- **Zercher Squat:** [original two-phase WebP](zercher-squat/assisted-style-preview.webp), [prompt, hash, and rights](zercher-squat/README.md). No exact catalogue/pilot name or ID match was found.

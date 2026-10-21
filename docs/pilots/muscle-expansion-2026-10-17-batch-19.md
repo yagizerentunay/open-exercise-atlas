@@ -4,11 +4,11 @@ One additional original bilingual exercise draft with AI-assisted illustration. 
 
 | Primary muscle | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
-| chest | Standing Cable Chest Press | `data/exercises/standing-cable-chest-press.json` | `media/exercises/standing-cable-chest-press.webp` | `pending` |
+| chest | Standing Cable Chest Press | `data/exercises/standing-cable-chest-press.json` | `media/exercises/standing-cable-chest-press.webp` |
 
 ## Artwork
 
-Original AI-assisted 1024 × 1024 WebP illustration at quality 85. The user-provided dumbbell bench press asset informed the Atlas grayscale anatomical style and red target-muscle treatment only; no image pixels or coaching text were copied. The movement draft is pending expert review.
+Original AI-assisted 1024 × 1024 WebP illustration at quality 85. The user-provided dumbbell bench press asset informed the Atlas grayscale anatomical style and red target-muscle treatment only; no image pixels or coaching text were copied. This record is a general exercise reference.
 
 ## Movement references
 

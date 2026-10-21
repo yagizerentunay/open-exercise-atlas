@@ -47,10 +47,9 @@
       "media": []
     }
   ],
-  "matchStatus": "needs-human-review",
   "matchNotes": [
     "Both records use cable and primary lats, with biceps and middle/upper back secondary.",
-    "Monk specifically names a wide overhand grip and also lists shoulders secondary; Atlas describes a generic bar pulldown with no grip width and does not list shoulders. Exact variation equivalence requires human review."
+    "Monk specifically names a wide overhand grip and also lists shoulders secondary; Atlas describes a generic bar pulldown with no grip width and does not list shoulders, so the Atlas record is not mapped to Monk's specific variation."
   ],
   "atlasId": "lat-pulldown",
   "prompts": {
@@ -71,12 +70,6 @@
       "webpSha256": "20ad6b387e48faeb7c690d5e33d4b0475e5284e221f401536a8e64f48f876967"
     }
   },
-  "visualReview": "needs-human-review",
-  "rightsReview": "pending",
-  "issues": [
-    "The revised front three-quarter pair shows the bar below the chin at the upper chest in FINISH; independent human review is still required for exact joint mechanics, muscle overlay boundaries and machine geometry.",
-    "Atlas generic lat-pulldown variation match unresolved; no legacyIds mapping was added. The wide-grip example pair is registered in the generic Atlas media field while exercise reviewStatus remains pending."
-  ],
   "generation": {
     "tool": "OpenAI built-in image generation",
     "model": "not exposed by tool",

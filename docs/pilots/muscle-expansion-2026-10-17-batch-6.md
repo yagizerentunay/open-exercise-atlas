@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 6
 
-Three additional distinct exercises: V-Up, L-Sit Hold, and Trap-Bar Deadlift. No neck-targeted movement is added. Each image was generated for its movement; records remain pending expert review. [Batches 4–6 combined contact sheet](muscle-expansion-2026-10-17-batches-4-6-contact-sheet.webp).
+Three additional distinct exercises: V-Up, L-Sit Hold, and Trap-Bar Deadlift. No neck-targeted movement is added. Each image was generated for its movement; records are included as general exercise references. [Batches 4–6 combined contact sheet](muscle-expansion-2026-10-17-batches-4-6-contact-sheet.webp).
 
 | Primary muscle | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -10,4 +10,4 @@ Three additional distinct exercises: V-Up, L-Sit Hold, and Trap-Bar Deadlift. No
 
 ## Original artwork
 
-Three original two-phase images were generated with OpenAI built-in ImageGen using Atlas assisted-pull-up.webp and the approved Dumbbell Floor Press pilot as style references only. PNG outputs were resized to 1024 × 1024 and converted to WebP at quality 85. No reference pixels were copied. AI output may not be unique; these guides await expert form and anatomy review.
+Three original two-phase images were generated with OpenAI built-in ImageGen using Atlas assisted-pull-up.webp and the Dumbbell Floor Press pilot as style references only. PNG outputs were resized to 1024 × 1024 and converted to WebP at quality 85. No reference pixels were copied. AI output may not be unique; these are general exercise references.

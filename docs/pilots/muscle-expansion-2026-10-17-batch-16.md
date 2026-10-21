@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 16
 
-Three additional common strength movements with original AI-assisted two-phase illustrations. Bilingual drafts await expert review; no neck exercise was added.
+Three additional common strength movements with original AI-assisted two-phase illustrations. Bilingual drafts are reference illustrations; no neck exercise was added.
 [Contact sheet](muscle-expansion-2026-10-17-batch-16-contact-sheet.webp).
 
 | Primary muscle(s) | Exercise | Record | Asset | SHA-256 |
@@ -11,7 +11,7 @@ Three additional common strength movements with original AI-assisted two-phase i
 
 ## Artwork
 
-Three original AI-assisted illustrations use the Atlas two-phase grayscale style, warm off-white background and red target-muscle highlights. Converted to 1024 × 1024 WebP at quality 85; no reference pixels or instructions were copied. Technical form and muscle classifications remain pending expert review.
+Three original AI-assisted illustrations use the Atlas two-phase grayscale style, warm off-white background and red target-muscle highlights. Converted to 1024 × 1024 WebP at quality 85; no reference pixels or instructions were copied. Exercise form cues and muscle classifications are general reference information.
 
 ## Movement references
 

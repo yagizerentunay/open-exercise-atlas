@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 3
 
-This batch adds nine distinct exercises across remaining high-priority gaps. Neck movements are excluded. Each record has English and Turkish instructions and its own two-phase image. All remain pending expert form/anatomy review. [Combined contact sheet for batches 2–3](muscle-expansion-2026-10-17-batches-2-3-contact-sheet.webp).
+This batch adds nine distinct exercises across remaining high-priority gaps. Neck movements are excluded. Each record has English and Turkish instructions and its own two-phase image. All are included in the exercise catalog. [Combined contact sheet for batches 2–3](muscle-expansion-2026-10-17-batches-2-3-contact-sheet.webp).
 
 | Primary muscle | Exercise | Record | Asset | Source | SHA-256 |
 | --- | --- | --- | --- | --- | --- |
@@ -20,4 +20,4 @@ Six original exercise-specific images were generated with OpenAI built-in ImageG
 
 The remaining three images—Single-Dumbbell Suitcase March, Medicine Ball Overhead Slam, and Bodyweight Jumping Jack—were copied byte-for-byte from the existing original pilot set. Their prompts are documented in the pilot index.
 
-The project dedicates any rights it holds in original outputs under CC0 1.0; OpenAI's Terms of Use assign output to the user to the extent permitted by law. AI output may not be unique. These visuals are guides, not expert form/anatomy approval.
+The project dedicates any rights it holds in original outputs under CC0 1.0; OpenAI's Terms of Use assign output to the user to the extent permitted by law. AI output may not be unique. These visuals are general exercise references.

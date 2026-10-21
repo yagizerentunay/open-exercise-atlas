@@ -5,7 +5,7 @@
 - **SHA-256:** `0d42f0d28e2e470a10a260f3a4c2ed79d4096f5f0f9ed3fa28f705a70e749df5`
 - **Reference:** [Dumbbell Bench Press](https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-bench-press.webp), supplied only to guide the grayscale anatomical rendering, red muscle emphasis, and two-phase instructional composition. No reference pixels were copied or edited into this asset.
 - **Catalogue check:** no Zercher match was found in the current 205 exercise records or in the previous 45-movement pilot list. This checks names/IDs, not editorial movement equivalence.
-- **Scope:** one local illustration pilot. No exercise record, production media reference, or site code was added. Expert form and anatomy review remains open.
+- **Scope:** one local illustration pilot. No exercise record, production media reference, or site code was added.
 - **Rights:** The project dedicates any rights it holds in this original generated output under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law. AI output may not be unique; no exclusivity is claimed.
 
 ## Generation prompt

@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 10
 
-Five distinct movements added: Child’s Pose, Bear Crawl, Burpee, Dumbbell Bulgarian Split Squat, and Stiff-Leg Deadlift. The loaded Bulgarian variation differs from the existing bodyweight record; the stiff-leg hinge uses near-fixed soft knees unlike the existing Romanian Deadlift. No neck-targeted exercise was added. Records await expert review. [Contact sheet](muscle-expansion-2026-10-17-batch-10-contact-sheet.webp).
+Five distinct movements added: Child’s Pose, Bear Crawl, Burpee, Dumbbell Bulgarian Split Squat, and Stiff-Leg Deadlift. The loaded Bulgarian variation differs from the existing bodyweight record; the stiff-leg hinge uses near-fixed soft knees unlike the existing Romanian Deadlift. No neck-targeted exercise was added. Records are reference illustrations. [Contact sheet](muscle-expansion-2026-10-17-batch-10-contact-sheet.webp).
 
 | Primary muscle | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Five distinct movements added: Child’s Pose, Bear Crawl, Burpee, Dumbbell Bulg
 
 ## Original artwork
 
-Five original two-phase illustrations were generated with OpenAI built-in ImageGen using approved Atlas art as style reference only; PNGs were converted to 1024 × 1024 WebP at quality 85. No reference pixels or exercise instructions were copied. AI output may not be unique; form and classifications await expert review.
+Five original two-phase illustrations were generated with OpenAI built-in ImageGen using approved Atlas art as style reference only; PNGs were converted to 1024 × 1024 WebP at quality 85. No reference pixels or exercise instructions were copied. AI output may not be unique; form and classifications are reference illustrations.
 
 ## Movement references
 

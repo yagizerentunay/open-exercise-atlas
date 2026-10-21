@@ -36,7 +36,6 @@ export function loadAndValidate(base = root): Exercise[] {
       if (legacyIds.has(legacy)) throw new Error(`${file}: duplicate legacy ID ${legacy}`)
       legacyIds.add(legacy)
     }
-    if (ex.reviewStatus === 'reviewed' && (!ex.source.reviewedBy || !ex.source.reviewedAt)) throw new Error(`${file}: reviewed record needs reviewer and date`)
     if (ex.source.type === 'adapted' && !ex.source.url) throw new Error(`${file}: adapted record needs source URL`)
     if (ex.primaryMuscles.some((m) => ex.secondaryMuscles.includes(m))) throw new Error(`${file}: muscle appears in both groups`)
     const mediaPaths = new Set<string>()

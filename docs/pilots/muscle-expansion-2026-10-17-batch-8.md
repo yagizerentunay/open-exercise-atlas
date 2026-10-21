@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 8
 
-Thirteen distinct exercise records with original illustrations were added across common muscle groups. A generated Hanging Leg Raise image was excluded because its bent-knee movement duplicates the existing Hanging Knee Raise. No neck-targeted exercise was added. Records remain pending expert form/anatomy review. [Contact sheet](muscle-expansion-2026-10-17-batch-8-contact-sheet.webp).
+Thirteen distinct exercise records with original illustrations were added across common muscle groups. A generated Hanging Leg Raise image was excluded because its bent-knee movement duplicates the existing Hanging Knee Raise. No neck-targeted exercise was added. Records are included in the exercise catalog. [Contact sheet](muscle-expansion-2026-10-17-batch-8-contact-sheet.webp).
 
 | Primary muscle | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -21,4 +21,4 @@ Thirteen distinct exercise records with original illustrations were added across
 
 ## Original artwork
 
-Thirteen original two-phase images were generated with OpenAI built-in ImageGen using approved Atlas illustrations as style references only. PNGs were resized to 1024 × 1024 and converted to WebP at quality 85. No reference pixels were copied. AI outputs may not be unique; illustrations and exercise classifications await expert review.
+Thirteen original two-phase images were generated with OpenAI built-in ImageGen using approved Atlas illustrations as style references only. PNGs were resized to 1024 × 1024 and converted to WebP at quality 85. No reference pixels were copied. AI outputs may not be unique; illustrations and exercise classifications are reference illustrations.

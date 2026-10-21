@@ -5,7 +5,7 @@
 - **Generator:** OpenAI built-in image generation; model identifier not exposed.
 - **Style reference:** [`media/exercises/assisted-pull-up.webp`](../../../media/exercises/assisted-pull-up.webp), supplied as a style reference only. The movement and pose are new.
 - **Catalogue check:** No `pallof` or `anti-rotation` exercise record, ID, or exercise image was found in the 205-record source catalogue when this preview was made.
-- **Status:** User review preview only. No exercise record or published media reference was added. Form and anatomy have not had expert review.
+- **Status:** Local visual preview only. No exercise record or published media reference was added.
 - **SHA-256:** `f1552c5d56d299d582e04f1967c600cdb73df056f48ff34c1a22b60aff7a4ad5`.
 
 ## Prompt

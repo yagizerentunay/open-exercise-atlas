@@ -16,7 +16,6 @@ export function makeExercise(overrides: Partial<Exercise> = {}): Exercise {
     secondaryMuscles: [],
     instructions: { en: ['Do the first step.', 'Do the second step.'] },
     source: { type: 'original', title: 'Fixture', license: 'CC0-1.0' },
-    reviewStatus: 'pending',
     ...overrides,
   }
 }

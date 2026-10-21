@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 14
 
-Five additional common movements: Weighted Dip, Barbell Reverse Lunge, Pike Push-Up, Battle Rope Alternating Waves, and Battle Rope Double-Arm Slam. No neck-targeted exercise was added. Records are pending expert review. [Contact sheet](muscle-expansion-2026-10-17-batch-14-contact-sheet.webp).
+Five additional common movements: Weighted Dip, Barbell Reverse Lunge, Pike Push-Up, Battle Rope Alternating Waves, and Battle Rope Double-Arm Slam. No neck-targeted exercise was added. Records are included in the exercise catalog. [Contact sheet](muscle-expansion-2026-10-17-batch-14-contact-sheet.webp).
 
 | Primary muscle(s) | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Five additional common movements: Weighted Dip, Barbell Reverse Lunge, Pike Push
 
 ## Artwork
 
-Five original AI-assisted two-phase illustrations were generated with Atlas `assisted-pull-up.webp` and user-supplied `dumbbell-bench-press.webp` used as style references only. Converted to 1024 × 1024 WebP at quality 85; no reference pixels or written cues were copied. AI outputs may not be unique; form, highlighted anatomy, and classifications await expert/editor review.
+Five original AI-assisted two-phase illustrations were generated with Atlas `assisted-pull-up.webp` and user-supplied `dumbbell-bench-press.webp` used as style references only. Converted to 1024 × 1024 WebP at quality 85; no reference pixels or written cues were copied. AI outputs may not be unique; these are general exercise references.
 
 ## Movement references
 

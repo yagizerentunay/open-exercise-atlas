@@ -27,7 +27,7 @@ Yeni renk, font, gölge, radius veya hareket eklerken kullanım amacını ve mev
 
 **Egzersiz detayı:** geri dönüş → egzersiz adı ve kısa tanım → temel sınıflandırma ve inceleme durumu → medya ile uygulama adımları → alternatifler. `.hero` yalnız kütüphanede gösterilir; hareket içeriği detayın ilk ekranında başlar. İnceleme bekleyen içeriğe doğrulanmış gibi görsel ağırlık veya rozet verme.
 
-**Durumlar:** yükleniyor, hata, boş sonuç, medyasız kayıt, inceleme bekliyor ve Türkçe alan için İngilizceye dönüş açıkça anlaşılmalı. `reviewStatus` verideki gerçek değerden türemeli; tüm kayıtları aynı sabit metinle anlatma.
+**Durumlar:** yükleniyor, hata, boş sonuç, medyasız kayıt ve Türkçe alan için İngilizceye dönüş açıkça anlaşılmalı.
 
 ## Egzersiz görsel dili
 

@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 13
 
-Five additional movements: Dumbbell Bent-Over Row, Weighted Push-Up, Dumbbell Lateral Lunge, Reverse Sled Drag, and Hanging Straight-Leg Raise. No neck-targeted exercise was added. Records remain pending expert review. [Contact sheet](muscle-expansion-2026-10-17-batch-13-contact-sheet.webp).
+Five additional movements: Dumbbell Bent-Over Row, Weighted Push-Up, Dumbbell Lateral Lunge, Reverse Sled Drag, and Hanging Straight-Leg Raise. No neck-targeted exercise was added. Records are included as general exercise references. [Contact sheet](muscle-expansion-2026-10-17-batch-13-contact-sheet.webp).
 
 | Primary muscle(s) | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Five additional movements: Dumbbell Bent-Over Row, Weighted Push-Up, Dumbbell La
 
 ## Artwork
 
-Five original AI-assisted two-phase illustrations were generated with Atlas `assisted-pull-up.webp` and user-supplied `dumbbell-bench-press.webp` used as style references only. Images were converted to 1024 × 1024 WebP at quality 85; no reference pixels or instructions were copied. AI outputs may not be unique; form, highlighted anatomy, and classifications await expert/editor review.
+Five original AI-assisted two-phase illustrations were generated with Atlas `assisted-pull-up.webp` and user-supplied `dumbbell-bench-press.webp` used as style references only. Images were converted to 1024 × 1024 WebP at quality 85; no reference pixels or instructions were copied. AI outputs may not be unique; these are general exercise references.
 
 ## Movement references
 
