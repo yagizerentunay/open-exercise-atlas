@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 383,
+  "count": 384,
   "translationCoverage": {
     "tr": {
-      "present": 1149,
-      "total": 1149,
+      "present": 1152,
+      "total": 1152,
       "percent": 100
     }
   },
@@ -340,6 +340,7 @@
     "sliding-lateral-lunge",
     "smith-machine-bench-press",
     "smith-machine-incline-bench-press",
+    "smith-machine-romanian-deadlift",
     "smith-machine-squat",
     "smith-machine-standing-calf-raise",
     "sorensen-hold",
