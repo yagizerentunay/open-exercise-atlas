@@ -19,11 +19,12 @@
     "kettlebell"
   ],
   "primaryMuscles": [
-    "lower-back"
+    "glutes",
+    "quadriceps"
   ],
   "secondaryMuscles": [
-    "glutes",
     "hamstrings",
+    "lower-back",
     "abdominals"
   ],
   "instructions": {
@@ -54,13 +55,13 @@
   ],
   "media": [
     {
-      "path": "media/exercises/kettlebell-suitcase-deadlift.webp",
+      "path": "media/exercises/kettlebell-suitcase-deadlift-v2.png",
       "role": "reference",
       "alt": {
-        "en": "Grayscale athlete performing the Kettlebell Suitcase Deadlift, lower back highlighted in red.",
-        "tr": "Kettlebell Valiz Deadlift hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+        "en": "Two-phase grayscale suitcase deadlift showing glutes, thigh muscles and lower-back stabilizers in red.",
+        "tr": "Kettlebell valiz deadlift'in iki aşamalı gri çizimi; kalça, uyluk ve bel sabitleyicileri kırmızı."
       },
-      "creator": "Monk Mode (AI-assisted original illustration)",
+      "creator": "Open Exercise Atlas (AI-assisted derivative illustration)",
       "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-kettlebell-suitcase-deadlift.webp",
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"

@@ -17,12 +17,12 @@
     "bodyweight"
   ],
   "primaryMuscles": [
-    "upper-back"
+    "glutes",
+    "obliques"
   ],
   "secondaryMuscles": [
     "shoulders",
-    "glutes",
-    "obliques"
+    "upper-back"
   ],
   "instructions": {
     "en": [

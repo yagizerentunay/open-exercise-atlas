@@ -17,11 +17,11 @@
     "dumbbell"
   ],
   "primaryMuscles": [
+    "glutes",
+    "quadriceps",
     "traps"
   ],
   "secondaryMuscles": [
-    "glutes",
-    "quadriceps",
     "hamstrings"
   ],
   "instructions": {

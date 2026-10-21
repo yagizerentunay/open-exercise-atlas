@@ -30,12 +30,12 @@ export interface MonkCatalog {
   extraLegacyIds: Record<string, string>
 }
 
-/** Atlas muscle code -> Monk Mode muscle name. Exact inverse of the Monk -> Atlas migration table. */
+/** Atlas muscle code -> Monk Mode muscle name. Tibialis maps to the legacy calves group. */
 export const monkMuscleNames: Record<Muscle, string> = {
   chest: 'chest', 'upper-back': 'middle back', lats: 'lats', shoulders: 'shoulders', biceps: 'biceps', triceps: 'triceps',
   forearms: 'forearms', abdominals: 'abdominals', obliques: 'obliques', 'lower-back': 'lower back', glutes: 'glutes',
   quadriceps: 'quadriceps', hamstrings: 'hamstrings', calves: 'calves', adductors: 'adductors', abductors: 'abductors',
-  traps: 'traps', neck: 'neck', 'hip-flexors': 'hip flexors',
+  traps: 'traps', neck: 'neck', 'hip-flexors': 'hip flexors', 'tibialis-anterior': 'calves',
 }
 
 /** Atlas equipment code -> Monk Mode equipment value, for the codes Monk Mode knows. */

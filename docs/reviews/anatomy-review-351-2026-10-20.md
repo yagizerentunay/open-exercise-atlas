@@ -1,5 +1,7 @@
 # 351 pending kayıt: anatomi ve görsel tutarlılığı denetimi (20 Ekim 2026)
 
+> Bu rapor 20 Ekim taramasının tarihsel sonucudur. Düzeltmeler ve güncel açık kuyruk için [21 Ekim takip raporuna](anatomy-follow-up-2026-10-21.md) bakın.
+
 ## Kapsam ve yöntem
 
 `data/exercises/*.json` içindeki 351 kayıt alfabetik olarak üç eşit gruba bölündü. Üç Luna ajanı her kayıtta hareket tarifini, birincil/ikincil kas etiketlerini ve ilgili WebP görselindeki kırmızı vurguyu karşılaştırdı. Her gruptaki 117 görsel tek tek tam çözünürlükte açıldı. Satır bazındaki kanıt ve gerekçe şu raporlarda yer alır: [1–117](anatomy-001-117-2026-10-20.md), [118–234](anatomy-118-234-2026-10-20.md), [235–351](anatomy-235-351-2026-10-20.md).

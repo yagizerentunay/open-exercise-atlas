@@ -72,9 +72,9 @@ describe('toMonkExercise', () => {
     expect(result.secondaryMuscles).toEqual(['hip flexors', 'lower back', 'obliques'])
   })
 
-  it('maps every muscle and equipment code: names are unique so the mapping is invertible', () => {
+  it('maps every muscle and equipment code with the documented tibialis fallback', () => {
     expect(Object.keys(monkMuscleNames).sort()).toEqual([...muscles].sort())
-    expect(new Set(Object.values(monkMuscleNames)).size).toBe(muscles.length)
+    expect(new Set(Object.values(monkMuscleNames)).size).toBe(muscles.length - 1) // tibialis maps to legacy calves
     const mapped = equipment.filter((code) => !['bench', 'mat', 'pull-up-bar'].includes(code))
     expect(Object.keys(monkEquipmentNames).sort()).toEqual([...mapped].sort())
     expect(new Set(Object.values(monkEquipmentNames)).size).toBe(mapped.length)

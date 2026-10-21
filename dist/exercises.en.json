@@ -2133,12 +2133,12 @@
       "bodyweight"
     ],
     "primaryMuscles": [
-      "upper-back"
+      "glutes",
+      "obliques"
     ],
     "secondaryMuscles": [
       "shoulders",
-      "glutes",
-      "obliques"
+      "upper-back"
     ],
     "instructions": [
       "Sit with hands behind you and feet flat; lift your hips into a stable crab tabletop.",
@@ -2334,14 +2334,14 @@
     "reviewStatus": "pending",
     "media": [
       {
-        "path": "media/exercises/bodyweight-lateral-bound.webp",
+        "path": "media/exercises/bodyweight-lateral-bound-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Two-panel grayscale illustration of Bodyweight Lateral Bound with the target muscle highlighted in red.",
-          "tr": "Vücut Ağırlığıyla Yana Sıçrama hareketinin iki aşamalı gri tonlu çizimi; hedef kas kırmızıyla vurgulanmış."
+          "en": "Two-phase grayscale lateral bound showing glutes and quadriceps of the working leg in red.",
+          "tr": "Yana sıçramanın iki aşamalı gri çizimi; çalışan bacağın kalça ve ön uyluk kasları kırmızı."
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
-        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bodyweight-lateral-bound.webp",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/bodyweight-lateral-bound-v2.png",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
       }
@@ -2814,13 +2814,13 @@
     ],
     "media": [
       {
-        "path": "media/exercises/bulgarian-split-squat.webp",
+        "path": "media/exercises/bulgarian-split-squat-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the Bulgarian Split Squat, glutes highlighted in red.",
-          "tr": "Bulgar Split Squat hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+          "en": "Two-phase grayscale Bulgarian split squat with front-leg glutes and quadriceps highlighted red.",
+          "tr": "Bulgar split squat'ın iki aşamalı gri çizimi; öndeki bacağın kalça ve ön uyluk kasları kırmızı."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
+        "creator": "Open Exercise Atlas (AI-assisted derivative illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-bulgarian-split-squat.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
@@ -3159,13 +3159,13 @@
     ],
     "media": [
       {
-        "path": "media/exercises/cable-hip-abduction.webp",
+        "path": "media/exercises/cable-hip-abduction-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing cable hip abduction; a red arrow shows the leg moving outward.",
-          "tr": "Kablo ile kalça abdüksiyonu yapan gri tonlu sporcu; kırmızı ok bacağın dışa hareketini gösteriyor."
+          "en": "Grayscale athlete performing cable hip abduction; the outer hip of the moving leg is highlighted red and an arrow shows the outward movement.",
+          "tr": "Kablo ile kalça abdüksiyonu yapan gri tonlu sporcu; hareket eden bacağın dış kalçası kırmızıyla vurgulanmış ve ok dışa hareketi gösteriyor."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
+        "creator": "Open Exercise Atlas (AI-assisted edit of Monk Mode illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
@@ -4889,12 +4889,12 @@
       "barbell"
     ],
     "primaryMuscles": [
-      "lower-back"
+      "glutes",
+      "quadriceps"
     ],
     "secondaryMuscles": [
-      "glutes",
       "hamstrings",
-      "quadriceps"
+      "lower-back"
     ],
     "instructions": [
       "Stand on a low, stable platform with the bar over mid-foot; hinge down and grip the bar with a neutral spine.",
@@ -4914,14 +4914,14 @@
     ],
     "media": [
       {
-        "path": "media/exercises/deficit-deadlift.webp",
+        "path": "media/exercises/deficit-deadlift-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Two-phase grayscale illustration of Deficit Deadlift; lower-back, glutes and hamstrings highlighted in red.",
-          "tr": "Yükseltilmiş Zeminden Deadlift hareketinin iki aşamalı gri tonlu çizimi; bel, kalça ve arka bacak kasları kırmızıyla vurgulanmış."
+          "en": "Two-phase grayscale deficit deadlift showing glutes, thighs and a narrow lower-back strip in red.",
+          "tr": "Yükseltilmiş zeminde deadlift'in iki aşamalı gri çizimi; kalça, bacaklar ve ince bir bel şeridi kırmızı."
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
-        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/deficit-deadlift.webp",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/deficit-deadlift-v2.png",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-16.md"
       }
@@ -6013,14 +6013,14 @@
     ],
     "media": [
       {
-        "path": "media/exercises/dumbbell-shoulder-press.webp",
+        "path": "media/exercises/dumbbell-shoulder-press-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing a standing dumbbell shoulder press, deltoids highlighted red.",
-          "tr": "Ayakta dambıl omuz press yapan gri tonlu sporcu; deltoidler kırmızıyla vurgulanmış."
+          "en": "Two grayscale phases of a standing dumbbell shoulder press, with shoulders and upper arms highlighted red.",
+          "tr": "Ayakta dambıl omuz press hareketinin iki gri tonlu aşaması; omuzlar ve üst kollar kırmızıyla vurgulanmış."
         },
-        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
-        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-shoulder-press.webp",
+        "creator": "Open Exercise Atlas (AI-assisted edit of original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-shoulder-press-v2.png",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
@@ -6854,13 +6854,13 @@
     ],
     "media": [
       {
-        "path": "media/exercises/floor-crunch.webp",
+        "path": "media/exercises/floor-crunch-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing a floor crunch; a red arrow shows the upward movement.",
-          "tr": "Yerde crunch yapan gri tonlu sporcu; kırmızı ok yukarı yönlü hareketi gösteriyor."
+          "en": "Grayscale athlete performing a floor crunch; red highlights show the abdominal muscles and an arrow shows the upward movement.",
+          "tr": "Yerde crunch yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanmış ve kırmızı ok yukarı yönlü hareketi gösteriyor."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
+        "creator": "Open Exercise Atlas (AI-assisted edit of Monk Mode illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
@@ -6881,11 +6881,10 @@
       "mat"
     ],
     "primaryMuscles": [
-      "hip-flexors"
-    ],
-    "secondaryMuscles": [
+      "hip-flexors",
       "abdominals"
     ],
+    "secondaryMuscles": [],
     "instructions": [
       "Lie on your back with legs extended and hands beside your hips; brace your trunk and keep your lower back gently supported.",
       "Lift both heels slightly, then alternate raising and lowering each leg in a small, controlled range.",
@@ -8859,11 +8858,12 @@
       "kettlebell"
     ],
     "primaryMuscles": [
-      "lower-back"
+      "glutes",
+      "quadriceps"
     ],
     "secondaryMuscles": [
-      "glutes",
       "hamstrings",
+      "lower-back",
       "abdominals"
     ],
     "instructions": [
@@ -8887,13 +8887,13 @@
     ],
     "media": [
       {
-        "path": "media/exercises/kettlebell-suitcase-deadlift.webp",
+        "path": "media/exercises/kettlebell-suitcase-deadlift-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the Kettlebell Suitcase Deadlift, lower back highlighted in red.",
-          "tr": "Kettlebell Valiz Deadlift hareketini yapan gri tonlu sporcu; alt sırt kasları kırmızıyla vurgulanıyor."
+          "en": "Two-phase grayscale suitcase deadlift showing glutes, thigh muscles and lower-back stabilizers in red.",
+          "tr": "Kettlebell valiz deadlift'in iki aşamalı gri çizimi; kalça, uyluk ve bel sabitleyicileri kırmızı."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
+        "creator": "Open Exercise Atlas (AI-assisted derivative illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lower-back-kettlebell-suitcase-deadlift.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
@@ -8914,10 +8914,11 @@
       "kettlebell"
     ],
     "primaryMuscles": [
-      "hamstrings"
+      "hamstrings",
+      "glutes",
+      "adductors"
     ],
     "secondaryMuscles": [
-      "glutes",
       "lower-back"
     ],
     "instructions": [
@@ -8940,13 +8941,13 @@
     ],
     "media": [
       {
-        "path": "media/exercises/kettlebell-swing.webp",
+        "path": "media/exercises/kettlebell-swing-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the Kettlebell Swing, hamstrings highlighted in red.",
-          "tr": "Kettlebell Swing hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+          "en": "Two grayscale phases of a kettlebell swing with glutes, hamstrings and inner thighs highlighted red.",
+          "tr": "Kettlebell swing hareketinin iki gri tonlu aşaması; kalça, arka uyluk ve iç uyluk kasları kırmızıyla vurgulanmış."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
+        "creator": "Open Exercise Atlas (AI-assisted edit of Monk Mode illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-kettlebell-swing.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
@@ -10348,11 +10349,13 @@
       "other"
     ],
     "primaryMuscles": [
-      "abdominals"
-    ],
-    "secondaryMuscles": [
+      "glutes",
+      "quadriceps",
       "lats",
       "shoulders"
+    ],
+    "secondaryMuscles": [
+      "abdominals"
     ],
     "instructions": [
       "Hold a non-bouncing medicine ball with both hands and raise it overhead.",
@@ -10367,14 +10370,14 @@
     "reviewStatus": "pending",
     "media": [
       {
-        "path": "media/exercises/medicine-ball-overhead-slam.webp",
+        "path": "media/exercises/medicine-ball-overhead-slam-v2.png",
         "role": "reference",
         "alt": {
-          "en": "Two-panel grayscale illustration of Medicine Ball Overhead Slam with target muscles highlighted red.",
-          "tr": "Sağlık Topunu Baş Üstünden Yere Vurma hareketinin iki aşamalı gri tonlu çizimi; hedef kaslar kırmızıyla vurgulanmış."
+          "en": "Two-phase grayscale overhead slam showing shoulders, lateral back, glutes and thighs in red, with lighter abdominal highlight.",
+          "tr": "Baş üstünden yere vuruşun iki aşamalı gri çizimi; omuzlar, yan sırt, kalça ve ön bacak kırmızı, karın daha hafif vurgulu."
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
-        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/medicine-ball-overhead-slam.webp",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/medicine-ball-overhead-slam-v2.png",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/missing-movement-previews-2026-10-16.md"
       }
@@ -12309,11 +12312,11 @@
       "bodyweight"
     ],
     "primaryMuscles": [
-      "hip-flexors"
+      "glutes",
+      "quadriceps"
     ],
     "secondaryMuscles": [
-      "quadriceps",
-      "glutes",
+      "hip-flexors",
       "abdominals"
     ],
     "instructions": [
@@ -16408,7 +16411,7 @@
       "bodyweight"
     ],
     "primaryMuscles": [
-      "calves"
+      "tibialis-anterior"
     ],
     "secondaryMuscles": [],
     "instructions": [
@@ -16637,11 +16640,11 @@
       "dumbbell"
     ],
     "primaryMuscles": [
+      "glutes",
+      "quadriceps",
       "traps"
     ],
     "secondaryMuscles": [
-      "glutes",
-      "quadriceps",
       "hamstrings"
     ],
     "instructions": [
@@ -17194,8 +17197,8 @@
     ],
     "secondaryMuscles": [
       "adductors",
-      "hamstrings",
-      "upper-back"
+      "upper-back",
+      "obliques"
     ],
     "instructions": [
       "Step into a long lunge and place both hands inside the front foot.",
