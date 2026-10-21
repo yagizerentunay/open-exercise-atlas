@@ -14118,6 +14118,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "seated-cable-chest-press",
+    "slug": "seated-cable-chest-press",
+    "name": "Seated Cable Chest Press",
+    "description": "A supported horizontal chest press using two cable handles at mid-chest height.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Set two cable pulleys around mid-chest height. Sit upright on a backed bench between them, plant your feet, and hold one handle beside each side of your chest.",
+      "Keep your back against the support and press both handles forward at chest height until your elbows are almost straight; keep your wrists neutral.",
+      "Return the handles slowly toward your chest without letting the cables pull your shoulders forward or arching your lower back."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "standing-cable-chest-press",
+      "machine-chest-press",
+      "plate-loaded-iso-lateral-horizontal-bench-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-cable-chest-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated cable chest press with the back supported; chest muscles are highlighted red and opaque shorts cover the hips and groin.",
+          "tr": "Sırt desteğiyle oturarak kablo göğüs pressinin iki gri aşaması; göğüs kasları kırmızıyla vurgulanmış, kalça ve kasık opak şortla örtülmüş."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-cable-chest-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "seated-cable-row",
     "slug": "seated-cable-row",
     "name": "Seated Cable Row",

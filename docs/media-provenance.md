@@ -283,6 +283,15 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Source and rights:** This is an edit of Atlas's existing original AI-assisted V-Squat art; no third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`v-squat.json`](../data/exercises/v-squat.json).
 
+## Seated Cable Chest Press illustration
+
+- **Asset:** `media/exercises/seated-cable-chest-press.webp` (208,288 bytes; SHA-256 `a4105e9c93fb2ea74b2d08332d5abea1ca903038e3d5f143f5425d1dcd47ba49`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original text-to-image illustration, using the approved Atlas exercise-art style reference. The 1254 × 1254 transparent PNG was resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 88, alpha retained). Two phases show a seated, back-supported cable press, with chest highlights and opaque shorts covering the hips and groin.
+- **Prompt summary:** Square two-phase grayscale seated cable chest press; upright back-supported bench between dual cable stacks, hands at mid-chest and pressed forward; chest highlighted red; opaque shorts; transparent background; no text or logos.
+- **Source and rights:** Equipment setup and technique were checked against ACE's [Seated Cable Press exercise guide](https://www.acefitness.org/resources/everyone/exercise-library/165/seated-cable-press/). No third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
+- **Record:** [`seated-cable-chest-press.json`](../data/exercises/seated-cable-chest-press.json).
+
 ## Meadows Row illustration
 
 - **Asset:** `media/exercises/meadows-row.webp` (124,550 bytes; SHA-256 `539263578a64fc317667060995a069df6151ce516270417d819ad11fc7051ff7`).

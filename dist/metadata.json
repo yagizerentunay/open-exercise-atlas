@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 393,
+  "count": 394,
   "translationCoverage": {
     "tr": {
-      "present": 1179,
-      "total": 1179,
+      "present": 1182,
+      "total": 1182,
       "percent": 100
     }
   },
@@ -297,6 +297,7 @@
     "seated-active-neck-rotation",
     "seated-back-extension",
     "seated-band-hip-abduction",
+    "seated-cable-chest-press",
     "seated-cable-row",
     "seated-calf-raise",
     "seated-close-grip-cable-row",
