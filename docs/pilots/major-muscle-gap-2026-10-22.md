@@ -1,6 +1,6 @@
 # Major-muscle catalog follow-up — 22 October 2026
 
-A renewed post-push scan against manufacturer catalogs found two lower-body machine movements missing from Atlas: the V-Squat and Vertical Leg Press. A further check of the plate-loaded lineup found eight more distinct machines: independent-arm horizontal and decline chest presses, a Super Squat Press, an Assisted Nordic Hamstring Curl, a D.Y. Row, a Super Incline Press, a machine shrug, and a machine gripper. Later scans added a dedicated tibialis dorsi-flexion machine, Barbell Bulgarian Split Squat, Cable Romanian Deadlift, and Smith Machine Romanian Deadlift.
+A renewed post-push scan against manufacturer catalogs found two lower-body machine movements missing from Atlas: the V-Squat and Vertical Leg Press. A further check of the plate-loaded lineup found eight more distinct machines: independent-arm horizontal and decline chest presses, a Super Squat Press, an Assisted Nordic Hamstring Curl, a D.Y. Row, a Super Incline Press, a machine shrug, and a machine gripper. Later scans added a dedicated tibialis dorsi-flexion machine, Barbell Bulgarian Split Squat, Cable Romanian Deadlift, Smith Machine Romanian Deadlift, and Iso-Lateral Wide Chest Press.
 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
@@ -18,10 +18,11 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 | Barbell Bulgarian Split Squat | `data/exercises/barbell-bulgarian-split-squat.json` | `media/exercises/barbell-bulgarian-split-squat.webp` | `6e070af892202327fa841474e23702810819a3a02c885e66b75098c29c816e7f` |
 | Cable Romanian Deadlift | `data/exercises/cable-romanian-deadlift.json` | `media/exercises/cable-romanian-deadlift.webp` | `705b66f2a1803ab54e6bfeabf5d0db80141063ac026ff70faa911b210aa79935` |
 | Smith Machine Romanian Deadlift | `data/exercises/smith-machine-romanian-deadlift.json` | `media/exercises/smith-machine-romanian-deadlift.webp` | `c3bd14f954c0f536cff2116d39b56165e5b14acb293bacb8322abe16012cc09a` |
+| Plate-Loaded Iso-Lateral Wide Chest Press | `data/exercises/plate-loaded-iso-lateral-wide-chest-press.json` | `media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp` | `b724567f7496043c5ec59d458ed6d958a7678d185437b8c489132073d1336efd` |
 
 [Original ten-exercise contact sheet](major-muscle-gap-2026-10-22-contact-sheet.jpg)
 
-The four later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp), and [Smith Machine Romanian Deadlift](../../media/exercises/smith-machine-romanian-deadlift.webp).
+The five later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp), [Smith Machine Romanian Deadlift](../../media/exercises/smith-machine-romanian-deadlift.webp), and [Iso-Lateral Wide Chest Press](../../media/exercises/plate-loaded-iso-lateral-wide-chest-press.webp).
 
 ## Why they are distinct
 
@@ -39,6 +40,7 @@ The four later visuals are linked separately because they were added after the o
 - **Barbell Bulgarian Split Squat:** Atlas has bodyweight and dumbbell records but no barbell-loaded version. The bar across the upper back allows a distinct loading progression while preserving the rear-foot-elevated unilateral squat.
 - **Cable Romanian Deadlift:** Atlas has barbell and dumbbell RDLs and a cable pull-through. The cable RDL faces the pulley and tracks the handle along the front of the legs, unlike the pull-through's away-facing rope path between the legs.
 - **Smith Machine Romanian Deadlift:** Atlas has free-weight RDLs and other Smith movements but no Smith RDL. Its guided bar path allows a machine-specific hinge setup while retaining the front-of-leg RDL path.
+- **Iso-Lateral Wide Chest:** Atlas has horizontal and decline presses, but no upright press that begins with a particularly wide arm position. The manufacturer describes independent converging arms and a wide starting position; this differs from the existing decline machine's conventional start width and path.
 
 Primary movement references:
 
@@ -60,12 +62,13 @@ Primary movement references:
 - [ACE — Cable Machine Romanian Deadlift](https://www.acefitness.org/resources/pros/expert-articles/5809/4-deadlift-variations-you-need-to-try/)
 - [Life Fitness — Smith Machine](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine)
 - [ACE — Romanian Deadlift technique](https://www.acefitness.org/continuing-education/certified/may-2025/8865/the-ace-do-it-better-series-the-romanian-deadlift/)
+- [Hammer Strength — Iso-Lateral Wide Chest](https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-wide-chest)
 
 ## Artwork and cues
 
-All fourteen original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
+All fifteen original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
 
 ## Validation
 
-The ten-record follow-up and four later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 384 records; automated tests were not run.
+The ten-record follow-up and five later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 385 records; automated tests were not run.
 
