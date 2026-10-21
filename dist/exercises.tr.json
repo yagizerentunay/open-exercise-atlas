@@ -12026,6 +12026,52 @@
   },
   {
     "schemaVersion": 1,
+    "id": "plate-loaded-tibia-dorsi-flexion",
+    "slug": "plate-loaded-tibia-dorsi-flexion",
+    "name": "Plaka Yüklü Tibialis Dorsifleksiyonu",
+    "description": "Ön ayağı kaval kemiğine doğru kaldırarak tibialis anterior kasını çalıştıran, oturarak yapılan plaka yüklü ayak bileği dorsifleksiyon hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "tibialis-anterior"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Belini destekleyerek otur, uyluklarını sabitleme pedinin altına yerleştir ve yastıklı kolu ayakkabının önüne hizala; hafif yükle başla.",
+      "Dizini sabit tut ve ayak bileğinden hareket ederek ön ayağını kaval kemiğine doğru kaldır.",
+      "Rahat bir esneme hissedene kadar kolu yavaşça indir; sektirme ve ayak bileğini zorlayarak hareket ettirme."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle machine follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "tibialis-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-tibia-dorsi-flexion.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated plate-loaded tibia dorsi-flexion machine; the athlete wears opaque shorts and the front shin muscles are highlighted red.",
+          "tr": "Oturmalı plaka yüklü tibialis dorsifleksiyon makinesinin iki gri aşaması; sporcu kapalı şort giyiyor ve kaval kemiğinin ön kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-tibia-dorsi-flexion.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.lifefitness.com/en-gb/catalog/strength-training/plate-loaded/plate-loaded-tibia-dorsi-flexion"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "plate-pinch",
     "slug": "plate-pinch",
     "name": "Plaka Pinch Tutuşu",

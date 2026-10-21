@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 380,
+  "count": 381,
   "translationCoverage": {
     "tr": {
-      "present": 1140,
-      "total": 1140,
+      "present": 1143,
+      "total": 1143,
       "percent": 100
     }
   },
@@ -255,6 +255,7 @@
     "plate-loaded-machine-shrug",
     "plate-loaded-seated-dip",
     "plate-loaded-super-squat-press",
+    "plate-loaded-tibia-dorsi-flexion",
     "plate-pinch",
     "plate-pinch-carry",
     "pogo-hops",

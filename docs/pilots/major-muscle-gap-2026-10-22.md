@@ -1,6 +1,6 @@
 # Major-muscle catalog follow-up — 22 October 2026
 
-A renewed post-push scan against manufacturer catalogs found two lower-body machine movements missing from Atlas: the V-Squat and Vertical Leg Press. A further check of the plate-loaded lineup found eight more distinct machines: independent-arm horizontal and decline chest presses, a Super Squat Press, an Assisted Nordic Hamstring Curl, a D.Y. Row, a Super Incline Press, a machine shrug, and a machine gripper.
+A renewed post-push scan against manufacturer catalogs found two lower-body machine movements missing from Atlas: the V-Squat and Vertical Leg Press. A further check of the plate-loaded lineup found eight more distinct machines: independent-arm horizontal and decline chest presses, a Super Squat Press, an Assisted Nordic Hamstring Curl, a D.Y. Row, a Super Incline Press, a machine shrug, and a machine gripper. A later scan added a dedicated tibialis dorsi-flexion machine.
 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
@@ -14,8 +14,11 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 | Plate-Loaded Iso-Lateral Super Incline Press | `data/exercises/plate-loaded-iso-lateral-super-incline-press.json` | `media/exercises/plate-loaded-iso-lateral-super-incline-press.webp` | `5462d4b3d9e999cc75692fb831ba0eacbf4f6a323d8d193e5ac2c43a0223dd01` |
 | Plate-Loaded Machine Shrug | `data/exercises/plate-loaded-machine-shrug.json` | `media/exercises/plate-loaded-machine-shrug.webp` | `825ea35a615b40e4241b78a9a92766dbedf5c068ac2de8834c6b13cb39bd43f9` |
 | Plate-Loaded Machine Gripper | `data/exercises/plate-loaded-machine-gripper.json` | `media/exercises/plate-loaded-machine-gripper.webp` | `def885f0d9df5ba44db397eeb763eeb29cf19ca4ecf6a866d901c2b360297c58` |
+| Plate-Loaded Tibia Dorsi-Flexion | `data/exercises/plate-loaded-tibia-dorsi-flexion.json` | `media/exercises/plate-loaded-tibia-dorsi-flexion.webp` | `4c395a207ec59c8dd3b7be4acea53677b00261ea61a2feab7492188097949f8d` |
 
-[Ten-exercise contact sheet](major-muscle-gap-2026-10-22-contact-sheet.jpg)
+[Original ten-exercise contact sheet](major-muscle-gap-2026-10-22-contact-sheet.jpg)
+
+The additional tibialis visual is shown separately because it was added after the original contact sheet was made.
 
 ## Why they are distinct
 
@@ -29,6 +32,7 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 - **Super Incline Press:** Existing machine shoulder and incline presses cover separate conventional angles. The Super Incline has a steeper upward-forward path between those presses and independent work arms.
 - **Machine shrug:** Atlas has cable, barbell, and dumbbell shrugs but no plate-loaded station with fixed side handles and both seated/standing positions.
 - **Machine gripper:** Atlas has a spring hand gripper, but not the seated plate-loaded unit with pronated and supinated grip positions. This adds adjustable loaded grip work while retaining the same hand-grip family.
+- **Tibia Dorsi-Flexion:** Atlas has a wall-supported tibialis raise but no dedicated machine. The plate-loaded seated device stabilizes the thigh and applies resistance at the forefoot for ankle dorsiflexion, complementing calf-raise work.
 
 Primary movement references:
 
@@ -44,12 +48,14 @@ Primary movement references:
 - [Hammer Strength Shop — Iso-Lateral Super Incline Press](https://shop.lifefitness.com/products/hammer-strength-plate-loaded-iso-lateral-super-incline-press)
 - [Hammer Strength Shop — Plate-Loaded Seated/Standing Shrug](https://shop.lifefitness.com/products/hammer-strength-plate-loaded-seated-standing-shrug)
 - [Hammer Strength — Plate-Loaded Gripper](https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-gripper)
+- [Hammer Strength — Plate-Loaded Tibia Dorsi-Flexion](https://www.lifefitness.com/en-gb/catalog/strength-training/plate-loaded/plate-loaded-tibia-dorsi-flexion)
+- [Life Fitness Shop — Plate-Loaded Tibia Dorsi-Flexion](https://shop.lifefitness.com/products/hammer-strength-plate-loaded-tibia-dorsi-flexion)
 
 ## Artwork and cues
 
-All ten original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
+All eleven original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
 
 ## Validation
 
-The ten records and media references were added to Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` passed for the 380-record catalog; automated tests were not run.
+The ten-record follow-up and the later tibialis record use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 381 records; automated tests were not run.
 

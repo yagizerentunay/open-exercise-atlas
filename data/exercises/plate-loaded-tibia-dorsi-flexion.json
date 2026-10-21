@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-tibia-dorsi-flexion",
+  "slug": "plate-loaded-tibia-dorsi-flexion",
+  "name": {
+    "en": "Plate-Loaded Tibia Dorsi-Flexion",
+    "tr": "Plaka Yüklü Tibialis Dorsifleksiyonu"
+  },
+  "description": {
+    "en": "A seated plate-loaded ankle dorsiflexion exercise that raises the forefoot toward the shin to train the tibialis anterior.",
+    "tr": "Ön ayağı kaval kemiğine doğru kaldırarak tibialis anterior kasını çalıştıran, oturarak yapılan plaka yüklü ayak bileği dorsifleksiyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["tibialis-anterior"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit with your lower back supported, place your thighs under the restraint, and position the padded lever over the front of your shoe; begin with a light load.",
+      "Keep your knee still and lift your forefoot toward your shin by moving at the ankle.",
+      "Lower the lever slowly until you feel a comfortable stretch; avoid bouncing or forcing the ankle range."
+    ],
+    "tr": [
+      "Belini destekleyerek otur, uyluklarını sabitleme pedinin altına yerleştir ve yastıklı kolu ayakkabının önüne hizala; hafif yükle başla.",
+      "Dizini sabit tut ve ayak bileğinden hareket ederek ön ayağını kaval kemiğine doğru kaldır.",
+      "Rahat bir esneme hissedene kadar kolu yavaşça indir; sektirme ve ayak bileğini zorlayarak hareket ettirme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle machine follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["tibialis-raise"],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-tibia-dorsi-flexion.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a seated plate-loaded tibia dorsi-flexion machine; the athlete wears opaque shorts and the front shin muscles are highlighted red.",
+        "tr": "Oturmalı plaka yüklü tibialis dorsifleksiyon makinesinin iki gri aşaması; sporcu kapalı şort giyiyor ve kaval kemiğinin ön kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-tibia-dorsi-flexion.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.lifefitness.com/en-gb/catalog/strength-training/plate-loaded/plate-loaded-tibia-dorsi-flexion"
+    }
+  ]
+}
