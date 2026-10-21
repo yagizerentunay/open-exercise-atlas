@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 381,
+  "count": 383,
   "translationCoverage": {
     "tr": {
-      "present": 1143,
-      "total": 1143,
+      "present": 1149,
+      "total": 1149,
       "percent": 100
     }
   },
@@ -26,6 +26,7 @@
     "banded-monster-walk",
     "barbell-back-squat",
     "barbell-bench-press",
+    "barbell-bulgarian-split-squat",
     "barbell-curl",
     "barbell-decline-bench-press",
     "barbell-drag-curl",
@@ -79,6 +80,7 @@
     "cable-oblique-crunch",
     "cable-pull-through",
     "cable-rear-delt-fly",
+    "cable-romanian-deadlift",
     "cable-rope-hammer-curl",
     "cable-shrug",
     "cable-triceps-kickback",

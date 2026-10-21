@@ -1,6 +1,6 @@
 # Major-muscle catalog follow-up — 22 October 2026
 
-A renewed post-push scan against manufacturer catalogs found two lower-body machine movements missing from Atlas: the V-Squat and Vertical Leg Press. A further check of the plate-loaded lineup found eight more distinct machines: independent-arm horizontal and decline chest presses, a Super Squat Press, an Assisted Nordic Hamstring Curl, a D.Y. Row, a Super Incline Press, a machine shrug, and a machine gripper. A later scan added a dedicated tibialis dorsi-flexion machine.
+A renewed post-push scan against manufacturer catalogs found two lower-body machine movements missing from Atlas: the V-Squat and Vertical Leg Press. A further check of the plate-loaded lineup found eight more distinct machines: independent-arm horizontal and decline chest presses, a Super Squat Press, an Assisted Nordic Hamstring Curl, a D.Y. Row, a Super Incline Press, a machine shrug, and a machine gripper. A later scan added a dedicated tibialis dorsi-flexion machine. A priority-movement comparison then identified two common loading variations that were absent: Barbell Bulgarian Split Squat and Cable Romanian Deadlift.
 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
@@ -15,10 +15,12 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 | Plate-Loaded Machine Shrug | `data/exercises/plate-loaded-machine-shrug.json` | `media/exercises/plate-loaded-machine-shrug.webp` | `825ea35a615b40e4241b78a9a92766dbedf5c068ac2de8834c6b13cb39bd43f9` |
 | Plate-Loaded Machine Gripper | `data/exercises/plate-loaded-machine-gripper.json` | `media/exercises/plate-loaded-machine-gripper.webp` | `def885f0d9df5ba44db397eeb763eeb29cf19ca4ecf6a866d901c2b360297c58` |
 | Plate-Loaded Tibia Dorsi-Flexion | `data/exercises/plate-loaded-tibia-dorsi-flexion.json` | `media/exercises/plate-loaded-tibia-dorsi-flexion.webp` | `4c395a207ec59c8dd3b7be4acea53677b00261ea61a2feab7492188097949f8d` |
+| Barbell Bulgarian Split Squat | `data/exercises/barbell-bulgarian-split-squat.json` | `media/exercises/barbell-bulgarian-split-squat.webp` | `6e070af892202327fa841474e23702810819a3a02c885e66b75098c29c816e7f` |
+| Cable Romanian Deadlift | `data/exercises/cable-romanian-deadlift.json` | `media/exercises/cable-romanian-deadlift.webp` | `705b66f2a1803ab54e6bfeabf5d0db80141063ac026ff70faa911b210aa79935` |
 
 [Original ten-exercise contact sheet](major-muscle-gap-2026-10-22-contact-sheet.jpg)
 
-The additional tibialis visual is shown separately because it was added after the original contact sheet was made.
+The three later visuals are linked separately because they were added after the original contact sheet was made: [Tibialis Dorsi-Flexion](../../media/exercises/plate-loaded-tibia-dorsi-flexion.webp), [Barbell Bulgarian Split Squat](../../media/exercises/barbell-bulgarian-split-squat.webp), and [Cable Romanian Deadlift](../../media/exercises/cable-romanian-deadlift.webp).
 
 ## Why they are distinct
 
@@ -33,6 +35,8 @@ The additional tibialis visual is shown separately because it was added after th
 - **Machine shrug:** Atlas has cable, barbell, and dumbbell shrugs but no plate-loaded station with fixed side handles and both seated/standing positions.
 - **Machine gripper:** Atlas has a spring hand gripper, but not the seated plate-loaded unit with pronated and supinated grip positions. This adds adjustable loaded grip work while retaining the same hand-grip family.
 - **Tibia Dorsi-Flexion:** Atlas has a wall-supported tibialis raise but no dedicated machine. The plate-loaded seated device stabilizes the thigh and applies resistance at the forefoot for ankle dorsiflexion, complementing calf-raise work.
+- **Barbell Bulgarian Split Squat:** Atlas has bodyweight and dumbbell records but no barbell-loaded version. The bar across the upper back allows a distinct loading progression while preserving the rear-foot-elevated unilateral squat.
+- **Cable Romanian Deadlift:** Atlas has barbell and dumbbell RDLs and a cable pull-through. The cable RDL faces the pulley and tracks the handle along the front of the legs, unlike the pull-through's away-facing rope path between the legs.
 
 Primary movement references:
 
@@ -50,12 +54,14 @@ Primary movement references:
 - [Hammer Strength — Plate-Loaded Gripper](https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-gripper)
 - [Hammer Strength — Plate-Loaded Tibia Dorsi-Flexion](https://www.lifefitness.com/en-gb/catalog/strength-training/plate-loaded/plate-loaded-tibia-dorsi-flexion)
 - [Life Fitness Shop — Plate-Loaded Tibia Dorsi-Flexion](https://shop.lifefitness.com/products/hammer-strength-plate-loaded-tibia-dorsi-flexion)
+- [University of Sussex — Barbell Bulgarian Split Squat](https://www.sussex.ac.uk/sport/documents/6-bulgarian-split-squat-barbell.pdf)
+- [ACE — Cable Machine Romanian Deadlift](https://www.acefitness.org/resources/pros/expert-articles/5809/4-deadlift-variations-you-need-to-try/)
 
 ## Artwork and cues
 
-All eleven original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
+All thirteen original illustrations show two movement phases in grayscale with target muscles highlighted red on transparent backgrounds. Every athlete wears opaque athletic shorts fully covering the hips, glutes, and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
 
 ## Validation
 
-The ten-record follow-up and the later tibialis record use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 381 records; automated tests were not run.
+The ten-record follow-up and three later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 383 records; automated tests were not run.
 
