@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 388,
+  "count": 389,
   "translationCoverage": {
     "tr": {
-      "present": 1164,
-      "total": 1164,
+      "present": 1167,
+      "total": 1167,
       "percent": 100
     }
   },
@@ -395,6 +395,7 @@
     "wide-grip-lat-pulldown",
     "worlds-greatest-stretch",
     "wrist-roller",
+    "yates-row",
     "zercher-squat",
     "zottman-curl"
   ]

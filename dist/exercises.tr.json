@@ -2007,7 +2007,7 @@
       "lower-back"
     ],
     "instructions": [
-      "Barı kavrayıp kalçadan menteşe yap; sırtını nötr tut ve gövde açını sabitle.",
+      "Barı üstten tutuşla kavrayıp kalçadan menteşe yap; sırtını nötr tut ve gövde açını sabitle.",
       "Dirseklerini geriye çekerek barı alt kaburgalarına doğru kürekle.",
       "Barı kontrollü indir; belin yuvarlanmaya başlarsa ağırlığı azalt."
     ],
@@ -18795,6 +18795,63 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-wrist-roller.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "yates-row",
+    "slug": "yates-row",
+    "name": "Yates Row (Ters Tutuş Halter Kürek)",
+    "aliases": [
+      "Underhand Barbell Row"
+    ],
+    "description": "Gövdenin yere paralel klasik bent-over row'dan daha dik tutulduğu halter kürek; bu kayıtta ters tutuşlu biçimi gösterilir.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "upper-back",
+      "biceps",
+      "forearms",
+      "lower-back"
+    ],
+    "instructions": [
+      "Ayaklarını yaklaşık kalça genişliğinde açıp barı avuç içlerin öne bakacak şekilde kavra. Dizlerini hafif bük, sabit tutabileceğin bir gövde açısında kalçadan menteşelen ve barı omuzlarının altında sarkıt.",
+      "Gövdeni sabit ve barı yakın tut; dirseklerini geriye çekerek barı alt karnına doğru kürekle.",
+      "Kalça menteşesini ve bileklerini düz tutarak kolların rahatça uzayana kadar barı yavaşça indir. Kontrol edebileceğin bir yükle başla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Dorian Yates, Row Like the Shadow",
+      "url": "https://www.muscleandfitness.com/flexonline/training/row-shadow/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "bent-over-row",
+      "pendlay-row",
+      "landmine-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/yates-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of an underhand Yates Row with the torso held on a moderate hip hinge; the athlete wears opaque shorts and the lats and biceps are highlighted red.",
+          "tr": "Gövdenin orta açılı kalça menteşesinde tutulduğu ters tutuşlu Yates Row hareketinin iki gri aşaması; sporcu kapalı şort giyiyor, lat ve biceps kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/yates-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.muscleandfitness.com/flexonline/training/row-shadow/"
       }
     ]
   },
