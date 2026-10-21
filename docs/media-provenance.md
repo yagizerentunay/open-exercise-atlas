@@ -273,6 +273,16 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Prompt summary:** Square two-phase grayscale standing machine hip thrust; adjustable guided frame and pelvic roller; neutral upright finish; opaque shorts with no red anatomy overlay on the covered area; transparent background; no text or logos.
 - **Source and rights:** Machine setup and hip-extension path were checked against Panatta's primary [Standing Hip Thrust](https://www.panattasport.com/en/freeweight-one/standing-hip-thrust/) product page and its [manufacturer demonstration](https://www.youtube.com/watch?v=vzwLvI3akIs). No manufacturer artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`standing-machine-hip-thrust.json`](../data/exercises/standing-machine-hip-thrust.json).
+
+## V-Squat shorts-coverage revision
+
+- **Asset:** `media/exercises/v-squat.webp` (196,262 bytes; SHA-256 `8a4692263d9ea4fbb938821c7fb021dc98fa37a58696523ee68ffe2bac33f8cb`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Edited the existing original V-Squat illustration, preserving its two poses, machine, grayscale rendering, transparent background and red thigh emphasis. The 1254 × 1254 transparent PNG output was resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained). Both poses now use clearly opaque black shorts extending to mid-thigh, covering the glutes, hips and groin; highlights remain below the shorts.
+- **Prompt summary:** Preserve the exact two-panel V-Squat illustration and make the shorts unmistakably opaque and longer in both poses; fully cover glutes, pelvis and groin; no red highlighting on or through clothing; transparent background; no text.
+- **Source and rights:** This is an edit of Atlas's existing original AI-assisted V-Squat art; no third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
+- **Record:** [`v-squat.json`](../data/exercises/v-squat.json).
+
 ## Meadows Row illustration
 
 - **Asset:** `media/exercises/meadows-row.webp` (124,550 bytes; SHA-256 `539263578a64fc317667060995a069df6151ce516270417d819ad11fc7051ff7`).

@@ -4,7 +4,7 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
-| V-Squat Machine | `data/exercises/v-squat.json` | `media/exercises/v-squat.webp` | `c6c1d7f132cb1afc76f270783e76580a117a915eec39d195db7bd7437c401e5b` |
+| V-Squat Machine | `data/exercises/v-squat.json` | `media/exercises/v-squat.webp` | `8a4692263d9ea4fbb938821c7fb021dc98fa37a58696523ee68ffe2bac33f8cb` |
 | Vertical Leg Press | `data/exercises/vertical-leg-press.json` | `media/exercises/vertical-leg-press.webp` | `06c0df0b92fdbbaafbd8cf72e9a9ae9c21e27a09b4796284f8e14e85e64fa996` |
 | Plate-Loaded Iso-Lateral Horizontal Bench Press | `data/exercises/plate-loaded-iso-lateral-horizontal-bench-press.json` | `media/exercises/plate-loaded-iso-lateral-horizontal-bench-press.webp` | `6cf98313482a12810d693b17f5e0b83224b881e3c651755b3df669f05c63802c` |
 | Plate-Loaded Iso-Lateral Decline Chest Press | `data/exercises/plate-loaded-iso-lateral-decline-chest-press.json` | `media/exercises/plate-loaded-iso-lateral-decline-chest-press.webp` | `b53b1ece7c5aff60e8c81bd03ede2e22ae3f714201fe7523b06c185c0c868cc5` |
