@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "single-leg-leg-press",
+  "slug": "single-leg-leg-press",
+  "name": {
+    "en": "Single-Leg Leg Press",
+    "tr": "Tek Bacak Leg Press"
+  },
+  "description": {
+    "en": "A unilateral leg press performed on a seated machine with one foot driving the sled.",
+    "tr": "Kızaklı makinede kızağın tek ayakla itildiği tek taraflı leg press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Set the seat and safety stops, then place one foot flat near the center of the platform; keep the other leg clear of the moving sled.",
+      "Release the stops and lower the platform slowly until the working knee bends within a comfortable range without your pelvis lifting.",
+      "Press through the whole foot without locking the knee, then return under control and re-engage the stops before changing sides."
+    ],
+    "tr": [
+      "Koltuk ve emniyet durdurucularını ayarla; bir ayağını platformun ortasına düz bas, diğer bacağını hareketli kızaktan uzak tut.",
+      "Durdurucuları aç ve pelvisin koltuktan kalkmadığı rahat bir aralığa kadar platformu yavaşça indir.",
+      "Dizini kilitlemeden ayağının tamamından it; kontrollü geri dön ve taraf değiştirmeden önce durdurucuları yeniden tak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "leg-press",
+    "single-leg-leg-extension",
+    "single-leg-box-squat",
+    "hack-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/single-leg-leg-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a single-leg machine press, working quadriceps and glute highlighted red.",
+        "tr": "Tek bacak makine leg press hareketinin iki gri aşaması; çalışan quadriceps ve glute kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-leg-leg-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+    }
+  ]
+}

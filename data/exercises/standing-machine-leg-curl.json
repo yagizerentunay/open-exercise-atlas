@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-machine-leg-curl",
+  "slug": "standing-machine-leg-curl",
+  "name": {
+    "en": "Standing Machine Leg Curl",
+    "tr": "Ayakta Makinede Leg Curl"
+  },
+  "description": {
+    "en": "A unilateral hamstring curl performed standing with the working thigh supported against the machine pad.",
+    "tr": "Çalışan uyluğun makine pedine dayandığı, ayakta tek bacakla yapılan hamstring curl."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the machine so its pivot aligns with your knee and the roller rests just above your ankle; hold the support handles.",
+      "Keep your thigh against the pad and curl your heel toward your glute without swinging your hip.",
+      "Lower the weight slowly until your knee is nearly straight, keeping tension on the stack."
+    ],
+    "tr": [
+      "Makine eksenini dizinle hizala, silindiri ayak bileğinin hemen üzerine getir ve destek tutacaklarını kavra.",
+      "Uyluğunu pede dayalı tut; kalçanı savurmadan topuğunu kalçana doğru çek.",
+      "Ağırlık yığınına gerilim vererek dizin neredeyse düz olana kadar yavaşça geri indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "lying-leg-curls",
+    "seated-leg-curl",
+    "single-leg-seated-leg-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/standing-machine-leg-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a standing machine leg curl, hamstrings highlighted red.",
+        "tr": "Ayakta makinede leg curl hareketinin iki gri aşaması; hamstring kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-machine-leg-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+    }
+  ]
+}

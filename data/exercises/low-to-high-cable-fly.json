@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "low-to-high-cable-fly",
+  "slug": "low-to-high-cable-fly",
+  "name": { "en": "Low-to-High Cable Fly", "tr": "Alttan Üste Kablo Fly" },
+  "description": { "en": "A standing cable fly that sweeps the handles upward and inward from low pulleys.", "tr": "Alçak makaralardan tutacakların yukarı ve içe doğru birleştirildiği ayakta kablo fly hareketi." },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["cable"],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["shoulders"],
+  "instructions": {
+    "en": ["Set both pulleys low, take one handle in each hand, and stand centered with one foot slightly forward.", "With soft elbows, sweep your arms forward and upward until your hands meet around chest height; keep your torso steady.", "Open your arms and lower the handles under control, stopping at a comfortable chest stretch."],
+    "tr": ["İki makarayı alçak konuma al, tutacakları kavra ve bir ayağın hafif önde olacak şekilde ortada dur.", "Dirseklerini hafif bükülü tutup gövdeni sabitlerken kollarını öne ve yukarı süpür; ellerini göğüs hizasında birleştir.", "Kollarını yana açıp tutacakları kontrollü biçimde indir; rahat bir göğüs gerilmesinde dur."]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["cable-crossover", "pec-deck-fly", "incline-dumbbell-fly"],
+  "media": [{ "path": "media/exercises/low-to-high-cable-fly.webp", "role": "reference", "alt": { "en": "Two grayscale phases of a low-to-high cable fly, chest highlighted red.", "tr": "Alttan üste kablo fly hareketinin iki gri aşaması; göğüs kırmızıyla vurgulanmış." }, "creator": "Open Exercise Atlas (AI-assisted original illustration)", "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/low-to-high-cable-fly.webp", "license": "CC0-1.0", "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md" }]
+}

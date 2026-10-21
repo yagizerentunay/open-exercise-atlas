@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "belt-squat",
+  "slug": "belt-squat",
+  "name": { "en": "Belt Squat", "tr": "Belt Squat" },
+  "description": { "en": "A squat performed on a platform with resistance attached to a belt around the hips.", "tr": "Direncin kalça kemerine bağlandığı platform üzerinde yapılan squat hareketi." },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine"],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "instructions": {
+    "en": ["Stand on the platform, attach the belt securely at the hip crease, and hold the machine handles for balance.", "Bend your hips and knees to squat under control, keeping your torso upright and knees tracking with your toes.", "Drive through the platform to stand; follow the machine placard to engage its lock before stepping off."],
+    "tr": ["Platforma çıkıp kemeri kalça kıvrımına sıkıca bağla; denge için makine tutacaklarından destek al.", "Gövdeni dik tutup dizlerini ayak yönünde izleyerek kalçanı ve dizlerini kontrollü biçimde bük.", "Platformu iterek ayağa kalk; inmeden önce makinenin kilidini talimatına göre devreye al."]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["pendulum-squat", "hack-squat", "leg-press"],
+  "media": [{ "path": "media/exercises/belt-squat.webp", "role": "reference", "alt": { "en": "Two grayscale phases of a belt squat machine movement, quadriceps and glutes highlighted red.", "tr": "Belt Squat hareketinin iki gri aşaması; ön uyluk ve kalça kasları kırmızıyla vurgulanmış." }, "creator": "Open Exercise Atlas (AI-assisted original illustration)", "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/belt-squat.webp", "license": "CC0-1.0", "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md" }]
+}

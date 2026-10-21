@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "single-arm-iso-lateral-machine-row",
+  "slug": "single-arm-iso-lateral-machine-row",
+  "name": {
+    "en": "Single-Arm Iso-Lateral Machine Row",
+    "tr": "Tek Kollu Iso-Lateral Makine Row"
+  },
+  "description": {
+    "en": "A unilateral chest-supported row on a plate-loaded machine with independent work arms.",
+    "tr": "Bağımsız hareket eden kollara sahip plaka yüklü makinede göğüs destekli tek taraflı row."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "upper-back",
+    "biceps"
+  ],
+  "instructions": {
+    "en": [
+      "Sit against the chest pad, plant your feet, and grasp both independent handles; keep the non-working hand braced on its handle.",
+      "Pull one elbow toward your hip without rotating your torso or lifting your chest from the pad.",
+      "Extend that arm slowly, then repeat on the other side; keep the plates controlled throughout."
+    ],
+    "tr": [
+      "Göğüs pedine yaslanıp ayaklarını dayanaklara koy ve iki bağımsız tutacağı kavra; çalışmayan elinle diğer tutacağı sabitle.",
+      "Gövdeni döndürmeden ve göğsünü pedden kaldırmadan bir dirseğini kalçana doğru çek.",
+      "Plakaları kontrollü tutarak kolunu yavaşça uzat, ardından diğer tarafta tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "single-arm-cable-row",
+    "machine-low-row",
+    "chest-supported-t-bar-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/single-arm-iso-lateral-machine-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a single-arm chest-supported iso-lateral row, lats and upper back highlighted red.",
+        "tr": "Tek kollu göğüs destekli iso-lateral row hareketinin iki gri aşaması; kanat ve üst sırt kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-iso-lateral-machine-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+    }
+  ]
+}

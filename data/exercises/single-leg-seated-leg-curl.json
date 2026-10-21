@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "single-leg-seated-leg-curl",
+  "slug": "single-leg-seated-leg-curl",
+  "name": { "en": "Single-Leg Seated Leg Curl", "tr": "Tek Bacak Oturarak Leg Curl" },
+  "description": { "en": "A unilateral seated machine knee curl that trains one hamstring at a time.", "tr": "Arka bacağı tek seferde bir tarafta çalıştıran tek bacaklı oturarak makine curl hareketi." },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": ["Adjust the seat and pads so the knee aligns with the pivot, the thigh is secured, and the lower-leg pad rests above the ankle.", "Keep your hips against the seat and curl one heel down and back, bending the working knee.", "Extend the working leg slowly without letting the weight stack drop; finish that side, then switch legs."],
+    "tr": ["Diz pivotla hizalanacak, uyluk sabitlenecek ve alt bacak pedi bileğin üzerinde kalacak şekilde koltuğu ve pedleri ayarla.", "Kalçanı koltukta tutup çalışan bacağının topuğunu aşağı-geriye çekerek dizini bük.", "Ağırlık bloğunu düşürmeden bacağını yavaşça uzat; bir tarafı bitirince diğer bacağa geç."]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["seated-leg-curl", "lying-leg-curls"],
+  "media": [{ "path": "media/exercises/single-leg-seated-leg-curl.webp", "role": "reference", "alt": { "en": "Two grayscale phases of a single-leg seated leg curl, working hamstring highlighted red.", "tr": "Tek Bacak Oturarak Leg Curl hareketinin iki gri aşaması; çalışan arka bacak kırmızıyla vurgulanmış." }, "creator": "Open Exercise Atlas (AI-assisted original illustration)", "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-leg-seated-leg-curl.webp", "license": "CC0-1.0", "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md" }]
+}

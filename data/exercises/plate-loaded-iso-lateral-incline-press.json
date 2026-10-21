@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-iso-lateral-incline-press",
+  "slug": "plate-loaded-iso-lateral-incline-press",
+  "name": {
+    "en": "Plate-Loaded Iso-Lateral Incline Press",
+    "tr": "Plaka Yüklü Iso-Lateral Eğimli Göğüs Presi"
+  },
+  "description": {
+    "en": "An inclined plate-loaded chest press with independent lever arms for each side.",
+    "tr": "Her tarafın bağımsız kolu bulunan, plaka yüklü eğimli göğüs presi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the seat and back pad so the handles begin near upper-chest level; place your feet firmly on the rests.",
+      "Press both independent handles upward and forward without locking your elbows or lifting your back from the pad.",
+      "Lower the handles slowly until you feel a comfortable chest stretch; keep both sides controlled."
+    ],
+    "tr": [
+      "Tutacaklar üst göğüs hizasında başlayacak şekilde koltuk ve sırt pedini ayarla; ayaklarını dayanaklara sağlam bas.",
+      "Sırtını pedden kaldırmadan ve dirseklerini kilitlemeden iki bağımsız tutacağı yukarı ve öne it.",
+      "Göğsünde rahat bir gerilme hissedene kadar tutacakları yavaşça indir; iki tarafı da kontrollü tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "machine-incline-chest-press",
+    "smith-machine-incline-bench-press",
+    "incline-dumbbell-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/plate-loaded-iso-lateral-incline-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a plate-loaded iso-lateral incline press, chest highlighted red.",
+        "tr": "Plaka yüklü iso-lateral eğimli göğüs presinin iki gri aşaması; göğüs kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-incline-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+    }
+  ]
+}

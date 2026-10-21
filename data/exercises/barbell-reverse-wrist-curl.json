@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-reverse-wrist-curl",
+  "slug": "barbell-reverse-wrist-curl",
+  "name": { "en": "Barbell Reverse Wrist Curl", "tr": "Halterle Ters Bilek Curl" },
+  "description": { "en": "A seated wrist-extension exercise with the forearms supported and a barbell held palms-down.", "tr": "Ön kollar destekliyken halteri avuçlar aşağı bakacak şekilde tutup bileği yukarı kaldırdığın hareket." },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["barbell", "bench"],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": ["Sit with your forearms supported on your thighs or a bench and hold a light barbell with palms facing down.", "Keeping your forearms still, lift the backs of your hands by extending your wrists.", "Lower your wrists slowly to a comfortable range; use a light load and avoid bouncing."],
+    "tr": ["Ön kollarını uyluklarına veya sehpaya dayayıp avuçların aşağı bakacak şekilde hafif bir halter tut.", "Ön kollarını sabit tutarak bileklerini aç ve ellerinin üstünü kaldır.", "Bileklerini rahat hareket aralığında yavaşça indir; hafif yük kullan ve sektirme."]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["dumbbell-reverse-wrist-curl", "cable-wrist-extension"],
+  "media": [{ "path": "media/exercises/barbell-reverse-wrist-curl.webp", "role": "reference", "alt": { "en": "Two grayscale phases of a barbell reverse wrist curl, forearm extensors highlighted red.", "tr": "Halterle Ters Bilek Curl hareketinin iki gri aşaması; ön kol ekstansörleri kırmızıyla vurgulanmış." }, "creator": "Open Exercise Atlas (AI-assisted original illustration)", "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-reverse-wrist-curl.webp", "license": "CC0-1.0", "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md" }]
+}

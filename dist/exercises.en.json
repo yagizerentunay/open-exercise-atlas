@@ -1208,6 +1208,54 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-reverse-wrist-curl",
+    "slug": "barbell-reverse-wrist-curl",
+    "name": "Barbell Reverse Wrist Curl",
+    "description": "A seated wrist-extension exercise with the forearms supported and a barbell held palms-down.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit with your forearms supported on your thighs or a bench and hold a light barbell with palms facing down.",
+      "Keeping your forearms still, lift the backs of your hands by extending your wrists.",
+      "Lower your wrists slowly to a comfortable range; use a light load and avoid bouncing."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-reverse-wrist-curl",
+      "cable-wrist-extension"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-reverse-wrist-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a barbell reverse wrist curl, forearm extensors highlighted red.",
+          "tr": "Halterle Ters Bilek Curl hareketinin iki gri aşaması; ön kol ekstansörleri kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-reverse-wrist-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-shrug",
     "slug": "barbell-shrug",
     "name": "Barbell Shrug",
@@ -1692,6 +1740,57 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms-behind-back-wrist-curl.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "belt-squat",
+    "slug": "belt-squat",
+    "name": "Belt Squat",
+    "description": "A squat performed on a platform with resistance attached to a belt around the hips.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Stand on the platform, attach the belt securely at the hip crease, and hold the machine handles for balance.",
+      "Bend your hips and knees to squat under control, keeping your torso upright and knees tracking with your toes.",
+      "Drive through the platform to stand; follow the machine placard to engage its lock before stepping off."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "pendulum-squat",
+      "hack-squat",
+      "leg-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/belt-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a belt squat machine movement, quadriceps and glutes highlighted red.",
+          "tr": "Belt Squat hareketinin iki gri aşaması; ön uyluk ve kalça kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/belt-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
       }
     ]
   },
@@ -3397,6 +3496,54 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-triceps-kickback",
+    "slug": "cable-triceps-kickback",
+    "name": "Cable Triceps Kickback",
+    "description": "A one-arm cable elbow extension performed from a hinged position with the upper arm held beside the torso.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Set a single handle to a low pulley. Hinge slightly and brace your free hand on your thigh; keep the working upper arm beside your torso.",
+      "Straighten your elbow to move the handle back until the arm is nearly straight; keep the shoulder and upper arm still.",
+      "Bend your elbow slowly to return, then complete the same number of repetitions on the other side."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-triceps-kickback",
+      "single-arm-cable-pushdown",
+      "cross-body-cable-triceps-extension"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-triceps-kickback.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a one-arm cable triceps kickback, triceps highlighted red.",
+          "tr": "Tek kollu Kablo Arka Kol Kickback hareketinin iki gri aşaması; arka kol kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-triceps-kickback.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-woodchop",
     "slug": "cable-woodchop",
     "name": "Cable Woodchop",
@@ -3883,6 +4030,57 @@
   },
   {
     "schemaVersion": 1,
+    "id": "chest-supported-t-bar-row",
+    "slug": "chest-supported-t-bar-row",
+    "name": "Chest-Supported T-Bar Row",
+    "description": "A plate-loaded T-bar row with the torso supported on an angled chest pad.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "upper-back",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Adjust the chest pad so you can reach the handles with your chest supported and feet planted.",
+      "Pull the handles toward your lower ribs, driving your elbows back while keeping your chest on the pad.",
+      "Extend your arms slowly to return; do not let the plates drop or your torso lift from the pad."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "t-bar-row",
+      "seated-machine-row",
+      "machine-low-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/chest-supported-t-bar-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a chest-supported T-bar row, back muscles highlighted red.",
+          "tr": "Göğüs destekli T-Bar Row hareketinin iki gri aşaması; sırt kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/chest-supported-t-bar-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "childs-pose",
     "slug": "childs-pose",
     "name": "Child's Pose",
@@ -4123,6 +4321,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/lats-close-grip-front-lat-pulldown.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "close-grip-machine-chest-press",
+    "slug": "close-grip-machine-chest-press",
+    "name": "Close-Grip Machine Chest Press",
+    "description": "A seated machine chest press using close handles to emphasize elbow extension while training the chest.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Adjust the seat so the close-grip handles begin near mid-chest; plant your feet and keep your back on the pad.",
+      "Press the handles forward with elbows close to your sides, stopping before locking them.",
+      "Let the handles return slowly until your elbows bend comfortably; keep your shoulders from rolling forward."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-chest-press",
+      "close-grip-bench-press",
+      "plate-loaded-seated-dip",
+      "seated-machine-triceps-extension"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/close-grip-machine-chest-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a close-grip machine chest press, chest and triceps highlighted red.",
+          "tr": "Makinede dar tutuş göğüs presinin iki gri aşaması; göğüs ve arka kol kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/close-grip-machine-chest-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
       }
     ]
   },
@@ -7979,6 +8229,56 @@
   },
   {
     "schemaVersion": 1,
+    "id": "high-to-low-cable-fly",
+    "slug": "high-to-low-cable-fly",
+    "name": "High-to-Low Cable Fly",
+    "description": "A standing cable chest fly that sweeps the handles down and inward from high pulleys.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Set both pulleys above shoulder height, take a staggered stance, and hold the handles with a soft bend in your elbows.",
+      "Bring your hands down and inward toward the lower chest while keeping your torso steady.",
+      "Open your arms slowly until you feel a comfortable chest stretch; do not let the shoulders roll forward."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "cable-crossover",
+      "pec-deck-fly",
+      "low-to-high-cable-fly"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/high-to-low-cable-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a high-to-low cable fly, chest highlighted red.",
+          "tr": "Yukarıdan aşağı cable fly hareketinin iki gri aşaması; göğüs kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/high-to-low-cable-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "hip-airplane",
     "slug": "hip-airplane",
     "name": "Hip Airplane",
@@ -9496,6 +9796,56 @@
   },
   {
     "schemaVersion": 1,
+    "id": "low-to-high-cable-fly",
+    "slug": "low-to-high-cable-fly",
+    "name": "Low-to-High Cable Fly",
+    "description": "A standing cable fly that sweeps the handles upward and inward from low pulleys.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Set both pulleys low, take one handle in each hand, and stand centered with one foot slightly forward.",
+      "With soft elbows, sweep your arms forward and upward until your hands meet around chest height; keep your torso steady.",
+      "Open your arms and lower the handles under control, stopping at a comfortable chest stretch."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "cable-crossover",
+      "pec-deck-fly",
+      "incline-dumbbell-fly"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/low-to-high-cable-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a low-to-high cable fly, chest highlighted red.",
+          "tr": "Alttan üste kablo fly hareketinin iki gri aşaması; göğüs kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/low-to-high-cable-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "lying-leg-curls",
     "slug": "lying-leg-curls",
     "name": "Lying Leg Curls",
@@ -9690,6 +10040,57 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/chest-machine-chest-press.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "machine-decline-chest-press",
+    "slug": "machine-decline-chest-press",
+    "name": "Machine Decline Chest Press",
+    "description": "A seated plate-loaded press that moves the handles forward along a slight downward path.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "instructions": [
+      "Adjust the seat so the handles begin near mid-chest; sit back against the pad and secure the seat belt if fitted.",
+      "Press the handles forward along the machine's path, keeping your wrists straight and stopping before the elbows lock.",
+      "Bring the handles back slowly until you feel a comfortable chest stretch; keep your shoulders against the pad."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-chest-press",
+      "machine-incline-chest-press",
+      "decline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/machine-decline-chest-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated decline machine chest press, with the chest highlighted in red.",
+          "tr": "Oturarak makinede decline göğüs presinin iki gri aşaması; göğüs kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-decline-chest-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-21.md"
       }
     ]
   },
@@ -9941,6 +10342,54 @@
   },
   {
     "schemaVersion": 1,
+    "id": "machine-kneeling-leg-curl",
+    "slug": "machine-kneeling-leg-curl",
+    "name": "Machine Kneeling Leg Curl",
+    "description": "A unilateral hamstring curl performed from a supported kneeling position on an iso-lateral machine.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Kneel on the support pad, lean forward onto the thigh and forearm pads, and set the roller just above the working ankle.",
+      "Keep your hips and back steady as you bend the working knee, drawing the heel toward your glute.",
+      "Extend the knee slowly without letting the weight stack rest; complete controlled repetitions before switching legs."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "lying-leg-curls",
+      "seated-leg-curl",
+      "standing-machine-leg-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/machine-kneeling-leg-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a kneeling machine leg curl, working hamstring highlighted red.",
+          "tr": "Makinede diz çökerek leg curl hareketinin iki gri aşaması; çalışan hamstring kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-kneeling-leg-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "machine-lateral-raise",
     "slug": "machine-lateral-raise",
     "name": "Machine Lateral Raise",
@@ -9979,6 +10428,57 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-lateral-raise.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "machine-low-row",
+    "slug": "machine-low-row",
+    "name": "Machine Low Row",
+    "description": "A chest-supported plate-loaded row that pulls the handles back from a low starting angle.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "lats",
+      "upper-back"
+    ],
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "instructions": [
+      "Set the seat so you can reach the handles with your chest supported and feet firmly on the rests.",
+      "Keeping your chest against the pad, pull the handles low toward your lower ribs with your elbows close to your sides.",
+      "Extend your arms slowly to return; let the shoulders reach forward without losing contact with the pad."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-machine-row",
+      "machine-high-row",
+      "t-bar-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/machine-low-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a chest-supported machine low row, with the lats and mid-back highlighted in red.",
+          "tr": "Göğüs destekli makinede alçak row hareketinin iki gri aşaması; kanat ve orta sırt kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-low-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-21.md"
       }
     ]
   },
@@ -10710,6 +11210,57 @@
   },
   {
     "schemaVersion": 1,
+    "id": "pendulum-squat",
+    "slug": "pendulum-squat",
+    "name": "Pendulum Squat",
+    "description": "A machine squat performed under shoulder pads on a guided pendulum arm and footplate.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Position your shoulders under the pads, place both feet on the platform, and release the machine's safety lock as directed by its placard.",
+      "Bend your knees and hips to lower the sled under control, keeping your feet planted and knees aligned with your toes.",
+      "Push through the platform to rise; stop short of locking the knees, then engage the safety before stepping out."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas machine expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "hack-squat",
+      "leg-press",
+      "smith-machine-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/pendulum-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a pendulum squat machine exercise, with quadriceps and glutes highlighted in red.",
+          "tr": "Pendulum squat makinesi hareketinin iki gri aşaması; ön uyluk ve kalça kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/pendulum-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "pike-push-up",
     "slug": "pike-push-up",
     "name": "Pike Push-Up",
@@ -10903,6 +11454,109 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-plate-front-raise.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-iso-lateral-incline-press",
+    "slug": "plate-loaded-iso-lateral-incline-press",
+    "name": "Plate-Loaded Iso-Lateral Incline Press",
+    "description": "An inclined plate-loaded chest press with independent lever arms for each side.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Adjust the seat and back pad so the handles begin near upper-chest level; place your feet firmly on the rests.",
+      "Press both independent handles upward and forward without locking your elbows or lifting your back from the pad.",
+      "Lower the handles slowly until you feel a comfortable chest stretch; keep both sides controlled."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-incline-chest-press",
+      "smith-machine-incline-bench-press",
+      "incline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-iso-lateral-incline-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a plate-loaded iso-lateral incline press, chest highlighted red.",
+          "tr": "Plaka yüklü iso-lateral eğimli göğüs presinin iki gri aşaması; göğüs kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-incline-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "plate-loaded-iso-lateral-wide-pulldown",
+    "slug": "plate-loaded-iso-lateral-wide-pulldown",
+    "name": "Plate-Loaded Iso-Lateral Wide Pulldown",
+    "description": "A seated wide-grip pulldown using independent plate-loaded arms that travel down and slightly back.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "upper-back",
+      "biceps"
+    ],
+    "instructions": [
+      "Set the thigh pads snugly, sit tall, and grasp the wide handles with the grip specified by the machine.",
+      "Pull your elbows down and slightly back toward your upper ribs while keeping your torso steady.",
+      "Return the handles overhead slowly without letting the plates settle between repetitions."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "wide-grip-lat-pulldown",
+      "assisted-pull-up",
+      "close-grip-front-lat-pulldown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-iso-lateral-wide-pulldown.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of an iso-lateral wide pulldown, lats and upper back highlighted red.",
+          "tr": "Iso-lateral geniş pulldown hareketinin iki gri aşaması; kanat ve üst sırt kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-wide-pulldown.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
       }
     ]
   },
@@ -13970,6 +14624,57 @@
   },
   {
     "schemaVersion": 1,
+    "id": "single-arm-iso-lateral-machine-row",
+    "slug": "single-arm-iso-lateral-machine-row",
+    "name": "Single-Arm Iso-Lateral Machine Row",
+    "description": "A unilateral chest-supported row on a plate-loaded machine with independent work arms.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "upper-back",
+      "biceps"
+    ],
+    "instructions": [
+      "Sit against the chest pad, plant your feet, and grasp both independent handles; keep the non-working hand braced on its handle.",
+      "Pull one elbow toward your hip without rotating your torso or lifting your chest from the pad.",
+      "Extend that arm slowly, then repeat on the other side; keep the plates controlled throughout."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "single-arm-cable-row",
+      "machine-low-row",
+      "chest-supported-t-bar-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/single-arm-iso-lateral-machine-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a single-arm chest-supported iso-lateral row, lats and upper back highlighted red.",
+          "tr": "Tek kollu göğüs destekli iso-lateral row hareketinin iki gri aşaması; kanat ve üst sırt kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-iso-lateral-machine-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "single-arm-kneeling-lat-pulldown",
     "slug": "single-arm-kneeling-lat-pulldown",
     "name": "Single-Arm Kneeling Lat Pulldown",
@@ -14342,6 +15047,105 @@
   },
   {
     "schemaVersion": 1,
+    "id": "single-leg-leg-extension",
+    "slug": "single-leg-leg-extension",
+    "name": "Single-Leg Leg Extension",
+    "description": "A unilateral machine knee extension that works one quadriceps at a time.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Adjust the seat so the knee aligns with the machine pivot and the shin pad rests just above the ankle.",
+      "Keep your back against the seat and extend one knee until the leg is nearly straight; do not forcefully lock it.",
+      "Lower the pad slowly, finish your repetitions on that leg, then switch sides."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "leg-extensions",
+      "hack-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/single-leg-leg-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a single-leg machine leg extension, working quadriceps highlighted red.",
+          "tr": "Tek Bacak Leg Extension hareketinin iki gri aşaması; çalışan ön uyluk kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-leg-leg-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "single-leg-leg-press",
+    "slug": "single-leg-leg-press",
+    "name": "Single-Leg Leg Press",
+    "description": "A unilateral leg press performed on a seated machine with one foot driving the sled.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Set the seat and safety stops, then place one foot flat near the center of the platform; keep the other leg clear of the moving sled.",
+      "Release the stops and lower the platform slowly until the working knee bends within a comfortable range without your pelvis lifting.",
+      "Press through the whole foot without locking the knee, then return under control and re-engage the stops before changing sides."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "leg-press",
+      "single-leg-leg-extension",
+      "single-leg-box-squat",
+      "hack-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/single-leg-leg-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a single-leg machine press, working quadriceps and glute highlighted red.",
+          "tr": "Tek bacak makine leg press hareketinin iki gri aşaması; çalışan quadriceps ve glute kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-leg-leg-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "single-leg-romanian-deadlift",
     "slug": "single-leg-romanian-deadlift",
     "name": "Single-Leg Romanian Deadlift",
@@ -14389,6 +15193,53 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-single-leg-romanian-deadlift.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "single-leg-seated-leg-curl",
+    "slug": "single-leg-seated-leg-curl",
+    "name": "Single-Leg Seated Leg Curl",
+    "description": "A unilateral seated machine knee curl that trains one hamstring at a time.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Adjust the seat and pads so the knee aligns with the pivot, the thigh is secured, and the lower-leg pad rests above the ankle.",
+      "Keep your hips against the seat and curl one heel down and back, bending the working knee.",
+      "Extend the working leg slowly without letting the weight stack drop; finish that side, then switch legs."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-leg-curl",
+      "lying-leg-curls"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/single-leg-seated-leg-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a single-leg seated leg curl, working hamstring highlighted red.",
+          "tr": "Tek Bacak Oturarak Leg Curl hareketinin iki gri aşaması; çalışan arka bacak kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-leg-seated-leg-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
       }
     ]
   },
@@ -14674,6 +15525,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-bench-press.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-8.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "smith-machine-incline-bench-press",
+    "slug": "smith-machine-incline-bench-press",
+    "name": "Smith Machine Incline Bench Press",
+    "description": "An inclined chest press performed on a bench beneath the guided Smith machine bar.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Set the bench to a modest incline beneath the bar and position the safety stops just below your comfortable bottom range.",
+      "Unrack the bar and lower it under control toward the upper chest, keeping wrists stacked over elbows.",
+      "Press up without bouncing, then rotate the bar securely back into its hooks."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-incline-chest-press",
+      "incline-dumbbell-press",
+      "smith-machine-bench-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/smith-machine-incline-bench-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a Smith machine incline bench press, chest highlighted red.",
+          "tr": "Smith makinesinde eğimli bench press hareketinin iki gri aşaması; göğüs kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-incline-bench-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
       }
     ]
   },
@@ -15528,6 +16431,56 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-machine-calf-raise.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "standing-machine-leg-curl",
+    "slug": "standing-machine-leg-curl",
+    "name": "Standing Machine Leg Curl",
+    "description": "A unilateral hamstring curl performed standing with the working thigh supported against the machine pad.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "instructions": [
+      "Adjust the machine so its pivot aligns with your knee and the roller rests just above your ankle; hold the support handles.",
+      "Keep your thigh against the pad and curl your heel toward your glute without swinging your hip.",
+      "Lower the weight slowly until your knee is nearly straight, keeping tension on the stack."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "lying-leg-curls",
+      "seated-leg-curl",
+      "single-leg-seated-leg-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/standing-machine-leg-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a standing machine leg curl, hamstrings highlighted red.",
+          "tr": "Ayakta makinede leg curl hareketinin iki gri aşaması; hamstring kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-machine-leg-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
       }
     ]
   },

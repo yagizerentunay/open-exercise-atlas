@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "chest-supported-t-bar-row",
+  "slug": "chest-supported-t-bar-row",
+  "name": { "en": "Chest-Supported T-Bar Row", "tr": "Göğüs Destekli T-Bar Row" },
+  "description": { "en": "A plate-loaded T-bar row with the torso supported on an angled chest pad.", "tr": "Gövdenin eğimli göğüs pedine dayandığı, plaka yüklü T-bar row hareketi." },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["upper-back", "lats"],
+  "secondaryMuscles": ["biceps"],
+  "instructions": {
+    "en": ["Adjust the chest pad so you can reach the handles with your chest supported and feet planted.", "Pull the handles toward your lower ribs, driving your elbows back while keeping your chest on the pad.", "Extend your arms slowly to return; do not let the plates drop or your torso lift from the pad."],
+    "tr": ["Göğsün destek pedindeyken tutacaklara uzanabileceğin şekilde pedi ayarla ve ayaklarını yere bas.", "Göğsünü pedde tutarak tutacakları alt kaburgalarına çek; dirseklerini geriye taşı.", "Plakaları düşürmeden ve gövdeni pedden kaldırmadan kollarını yavaşça uzat."]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["t-bar-row", "seated-machine-row", "machine-low-row"],
+  "media": [{ "path": "media/exercises/chest-supported-t-bar-row.webp", "role": "reference", "alt": { "en": "Two grayscale phases of a chest-supported T-bar row, back muscles highlighted red.", "tr": "Göğüs destekli T-Bar Row hareketinin iki gri aşaması; sırt kasları kırmızıyla vurgulanmış." }, "creator": "Open Exercise Atlas (AI-assisted original illustration)", "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/chest-supported-t-bar-row.webp", "license": "CC0-1.0", "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md" }]
+}

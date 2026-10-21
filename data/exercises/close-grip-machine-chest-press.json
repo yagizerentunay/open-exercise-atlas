@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "close-grip-machine-chest-press",
+  "slug": "close-grip-machine-chest-press",
+  "name": {
+    "en": "Close-Grip Machine Chest Press",
+    "tr": "Makinede Dar Tutuş Göğüs Presi"
+  },
+  "description": {
+    "en": "A seated machine chest press using close handles to emphasize elbow extension while training the chest.",
+    "tr": "Göğsü çalıştırırken dirsek açışını öne çıkaran, yakın tutacaklarla yapılan oturarak makine press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the seat so the close-grip handles begin near mid-chest; plant your feet and keep your back on the pad.",
+      "Press the handles forward with elbows close to your sides, stopping before locking them.",
+      "Let the handles return slowly until your elbows bend comfortably; keep your shoulders from rolling forward."
+    ],
+    "tr": [
+      "Dar tutacaklar göğsünün ortasına yakın başlayacak şekilde koltuğu ayarla; ayaklarını yere bas ve sırtını pede yasla.",
+      "Dirseklerini gövdene yakın tutarak tutacakları öne it; dirseklerini kilitlemeden dur.",
+      "Omuzlarını öne yuvarlamadan, dirseklerin rahatça bükülene kadar tutacakların yavaşça geri gelmesine izin ver."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "machine-chest-press",
+    "close-grip-bench-press",
+    "plate-loaded-seated-dip",
+    "seated-machine-triceps-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/close-grip-machine-chest-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a close-grip machine chest press, chest and triceps highlighted red.",
+        "tr": "Makinede dar tutuş göğüs presinin iki gri aşaması; göğüs ve arka kol kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/close-grip-machine-chest-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+    }
+  ]
+}

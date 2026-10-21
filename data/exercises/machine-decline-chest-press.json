@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-decline-chest-press",
+  "slug": "machine-decline-chest-press",
+  "name": { "en": "Machine Decline Chest Press", "tr": "Makinede Decline Göğüs Presi" },
+  "description": { "en": "A seated plate-loaded press that moves the handles forward along a slight downward path.", "tr": "Tutacakların hafif aşağı yönlü bir hatta öne itildiği oturarak plaka yüklü pres hareketi." },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["triceps", "shoulders"],
+  "instructions": {
+    "en": [
+      "Adjust the seat so the handles begin near mid-chest; sit back against the pad and secure the seat belt if fitted.",
+      "Press the handles forward along the machine's path, keeping your wrists straight and stopping before the elbows lock.",
+      "Bring the handles back slowly until you feel a comfortable chest stretch; keep your shoulders against the pad."
+    ],
+    "tr": [
+      "Tutacaklar göğüs ortası hizasından başlayacak şekilde koltuğu ayarla; pede yaslan ve varsa emniyet kemerini bağla.",
+      "Bileklerini düz tutarak tutacakları makinenin hattında öne it; dirseklerini kilitlemeden dur.",
+      "Omuzlarını pedde tutup rahat bir göğüs gerilimi oluşana kadar tutacakları yavaşça geri getir."
+    ]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas machine expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["machine-chest-press", "machine-incline-chest-press", "decline-dumbbell-press"],
+  "media": [{
+    "path": "media/exercises/machine-decline-chest-press.webp",
+    "role": "reference",
+    "alt": { "en": "Two grayscale phases of a seated decline machine chest press, with the chest highlighted in red.", "tr": "Oturarak makinede decline göğüs presinin iki gri aşaması; göğüs kasları kırmızıyla vurgulanıyor." },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-decline-chest-press.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-21.md"
+  }]
+}

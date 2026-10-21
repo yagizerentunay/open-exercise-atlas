@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-low-row",
+  "slug": "machine-low-row",
+  "name": { "en": "Machine Low Row", "tr": "Makinede Alçak Row" },
+  "description": { "en": "A chest-supported plate-loaded row that pulls the handles back from a low starting angle.", "tr": "Tutacakların alçak başlangıç açısında geriye çekildiği göğüs destekli, plaka yüklü row hareketi." },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["lats", "upper-back"],
+  "secondaryMuscles": ["biceps"],
+  "instructions": {
+    "en": [
+      "Set the seat so you can reach the handles with your chest supported and feet firmly on the rests.",
+      "Keeping your chest against the pad, pull the handles low toward your lower ribs with your elbows close to your sides.",
+      "Extend your arms slowly to return; let the shoulders reach forward without losing contact with the pad."
+    ],
+    "tr": [
+      "Göğsün destek pedinde ve ayakların dayanaklarda sağlam kalırken tutacaklara uzanabileceğin şekilde koltuğu ayarla.",
+      "Göğsünü pedden ayırmadan tutacakları dirseklerin yanlarına yakın olacak biçimde alt kaburgalarına doğru çek.",
+      "Kollarını yavaşça uzatıp dön; pedle temasını kaybetmeden omuzlarının öne gelmesine izin ver."
+    ]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas machine expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["seated-machine-row", "machine-high-row", "t-bar-row"],
+  "media": [{
+    "path": "media/exercises/machine-low-row.webp",
+    "role": "reference",
+    "alt": { "en": "Two grayscale phases of a chest-supported machine low row, with the lats and mid-back highlighted in red.", "tr": "Göğüs destekli makinede alçak row hareketinin iki gri aşaması; kanat ve orta sırt kasları kırmızıyla vurgulanıyor." },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-low-row.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-21.md"
+  }]
+}

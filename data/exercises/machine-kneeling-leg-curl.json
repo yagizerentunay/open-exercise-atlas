@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "machine-kneeling-leg-curl",
+  "slug": "machine-kneeling-leg-curl",
+  "name": {
+    "en": "Machine Kneeling Leg Curl",
+    "tr": "Makinede Diz Çökerek Leg Curl"
+  },
+  "description": {
+    "en": "A unilateral hamstring curl performed from a supported kneeling position on an iso-lateral machine.",
+    "tr": "Iso-lateral makinede destekli diz çökme pozisyonundan tek bacakla yapılan hamstring curl."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Kneel on the support pad, lean forward onto the thigh and forearm pads, and set the roller just above the working ankle.",
+      "Keep your hips and back steady as you bend the working knee, drawing the heel toward your glute.",
+      "Extend the knee slowly without letting the weight stack rest; complete controlled repetitions before switching legs."
+    ],
+    "tr": [
+      "Destek pedine diz çök, uyluk ve ön kol pedlerine yaslan; silindiri çalışan ayak bileğinin hemen üzerine ayarla.",
+      "Dizini büküp topuğunu kalçana doğru çekerken kalçanı ve sırtını sabit tut.",
+      "Ağırlık bloğunu dinlendirmeden dizini yavaşça aç; bacak değiştirmeden önce tekrarları kontrollü tamamla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "lying-leg-curls",
+    "seated-leg-curl",
+    "standing-machine-leg-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/machine-kneeling-leg-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a kneeling machine leg curl, working hamstring highlighted red.",
+        "tr": "Makinede diz çökerek leg curl hareketinin iki gri aşaması; çalışan hamstring kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/machine-kneeling-leg-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+    }
+  ]
+}

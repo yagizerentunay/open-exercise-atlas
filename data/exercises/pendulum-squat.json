@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "pendulum-squat",
+  "slug": "pendulum-squat",
+  "name": { "en": "Pendulum Squat", "tr": "Pendulum Squat Makinesi" },
+  "description": { "en": "A machine squat performed under shoulder pads on a guided pendulum arm and footplate.", "tr": "Omuz pedleri altında, yönlendirmeli pendulum kolu ve ayak platformuyla yapılan makine squat hareketi." },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine"],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "instructions": {
+    "en": [
+      "Position your shoulders under the pads, place both feet on the platform, and release the machine's safety lock as directed by its placard.",
+      "Bend your knees and hips to lower the sled under control, keeping your feet planted and knees aligned with your toes.",
+      "Push through the platform to rise; stop short of locking the knees, then engage the safety before stepping out."
+    ],
+    "tr": [
+      "Omuzlarını pedlerin altına yerleştir, iki ayağını platforma bas ve makinenin güvenlik kilidini talimatına göre aç.",
+      "Ayak tabanlarını platformda tutup dizlerini ayak yönünde izleyerek kalçanı ve dizlerini bük; ağırlığı kontrollü indir.",
+      "Platformu iterek yüksel; dizlerini kilitlemeden dur, ardından makineden çıkmadan önce güvenlik kilidini tak."
+    ]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas machine expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["hack-squat", "leg-press", "smith-machine-squat"],
+  "media": [{
+    "path": "media/exercises/pendulum-squat.webp",
+    "role": "reference",
+    "alt": { "en": "Two grayscale phases of a pendulum squat machine exercise, with quadriceps and glutes highlighted in red.", "tr": "Pendulum squat makinesi hareketinin iki gri aşaması; ön uyluk ve kalça kasları kırmızıyla vurgulanıyor." },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/pendulum-squat.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-21.md"
+  }]
+}

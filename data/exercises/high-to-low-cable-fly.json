@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "high-to-low-cable-fly",
+  "slug": "high-to-low-cable-fly",
+  "name": {
+    "en": "High-to-Low Cable Fly",
+    "tr": "Yukarıdan Aşağı Cable Fly"
+  },
+  "description": {
+    "en": "A standing cable chest fly that sweeps the handles down and inward from high pulleys.",
+    "tr": "Kolların yukarıdaki makaralardan aşağı ve içe doğru kapandığı ayakta kablo göğüs açışı."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Set both pulleys above shoulder height, take a staggered stance, and hold the handles with a soft bend in your elbows.",
+      "Bring your hands down and inward toward the lower chest while keeping your torso steady.",
+      "Open your arms slowly until you feel a comfortable chest stretch; do not let the shoulders roll forward."
+    ],
+    "tr": [
+      "İki makarayı omuz hizasının üzerine ayarla, bir ayağını öne al ve dirseklerini hafif bükerek tutacakları kavra.",
+      "Gövden sabitken ellerini alt göğüs hizasına doğru aşağı ve içe getir.",
+      "Omuzlarını öne düşürmeden, göğsünde rahat bir gerilme hissedene kadar kollarını yavaşça aç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "cable-crossover",
+    "pec-deck-fly",
+    "low-to-high-cable-fly"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/high-to-low-cable-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a high-to-low cable fly, chest highlighted red.",
+        "tr": "Yukarıdan aşağı cable fly hareketinin iki gri aşaması; göğüs kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/high-to-low-cable-fly.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+    }
+  ]
+}

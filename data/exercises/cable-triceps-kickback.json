@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-triceps-kickback",
+  "slug": "cable-triceps-kickback",
+  "name": { "en": "Cable Triceps Kickback", "tr": "Kablo Arka Kol Kickback" },
+  "description": { "en": "A one-arm cable elbow extension performed from a hinged position with the upper arm held beside the torso.", "tr": "Gövde öne eğikken üst kol gövde yanında sabit tutularak tek kolla yapılan kablo dirsek açışı." },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": ["cable"],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": ["Set a single handle to a low pulley. Hinge slightly and brace your free hand on your thigh; keep the working upper arm beside your torso.", "Straighten your elbow to move the handle back until the arm is nearly straight; keep the shoulder and upper arm still.", "Bend your elbow slowly to return, then complete the same number of repetitions on the other side."],
+    "tr": ["Tekli tutacağı alçak makaraya tak. Hafifçe öne eğilip boş elini uyluğuna daya; çalışan üst kolunu gövdenin yanında tut.", "Omzunu ve üst kolunu oynatmadan dirseğini açıp tutacağı kolun neredeyse düz olacağı kadar geriye götür.", "Dirseğini yavaşça bükerek dön; ardından diğer tarafta aynı sayıda tekrar yap."]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle expansion editorial draft", "license": "CC0-1.0" },
+  "alternatives": ["dumbbell-triceps-kickback", "single-arm-cable-pushdown", "cross-body-cable-triceps-extension"],
+  "media": [{ "path": "media/exercises/cable-triceps-kickback.webp", "role": "reference", "alt": { "en": "Two grayscale phases of a one-arm cable triceps kickback, triceps highlighted red.", "tr": "Tek kollu Kablo Arka Kol Kickback hareketinin iki gri aşaması; arka kol kırmızıyla vurgulanmış." }, "creator": "Open Exercise Atlas (AI-assisted original illustration)", "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-triceps-kickback.webp", "license": "CC0-1.0", "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md" }]
+}
