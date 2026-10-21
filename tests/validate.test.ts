@@ -27,9 +27,8 @@ const b = makeExercise({ id: 'b-move', slug: 'b-move' })
 const image = 'media/exercises/a-move-start.webp'
 
 describe('loadAndValidate', () => {
-  it('accepts a clean repository, including reviewed records, media and relationships', () => {
-    const reviewed: Exercise = { ...a, reviewStatus: 'reviewed', source: { ...a.source, reviewedBy: 'A. Reviewer', reviewedAt: '2026-10-20' }, media: [makeMedia('start', image)] }
-    repo([reviewed, { ...b, alternatives: ['a-move'] }], { media: [image] })
+  it('accepts a clean repository, including media and relationships', () => {
+    repo([{ ...a, media: [makeMedia('start', image)] }, { ...b, alternatives: ['a-move'] }], { media: [image] })
     expect(loadAndValidate(base).map((record) => record.id)).toEqual(['a-move', 'b-move'])
   })
 
@@ -37,7 +36,6 @@ describe('loadAndValidate', () => {
     ['a file name that differs from the ID', () => repo([a], { fileNames: { 'a-move': 'other' } }), /other\.json: filename must match ID/],
     ['a duplicate slug', () => repo([a, { ...b, slug: 'a-move' }]), /duplicate ID or slug/],
     ['a legacy ID owned by two records', () => repo([{ ...a, legacyIds: ['old'] }, { ...b, legacyIds: ['old'] }]), /duplicate legacy ID old/],
-    ['a reviewed record without a reviewer', () => repo([{ ...a, reviewStatus: 'reviewed' }]), /reviewed record needs reviewer and date/],
     ['an adapted record without a source URL', () => repo([{ ...a, source: { type: 'adapted', title: 'T', license: 'CC0-1.0' } }]), /adapted record needs source URL/],
     ['a muscle in both groups', () => repo([{ ...a, secondaryMuscles: ['chest'] }]), /muscle appears in both groups/],
     ['a media file that does not exist', () => repo([{ ...a, media: [makeMedia('start', image)] }]), /missing media/],

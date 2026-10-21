@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 2
 
-This batch adds 31 distinct exercise records. It excludes neck movements per the project preference. Every record has bilingual instructions and its own two-phase illustration; reviewStatus remains pending for expert form and anatomy review.
+This batch adds 31 distinct exercise records. It excludes neck movements per the project preference. Every record has bilingual instructions and its own two-phase illustration.
 
 | Primary muscle | Exercise | Record | Asset | Artwork source | SHA-256 |
 | --- | --- | --- | --- | --- | --- |
@@ -42,4 +42,4 @@ Seven movement-specific originals were created with OpenAI built-in ImageGen usi
 
 The other 24 visuals are original AI-generated pilots from the 2026-10-16 set, copied byte-for-byte. The pilot index documents movement-specific prompts and style direction.
 
-The project dedicates rights it holds in original generated output under CC0 1.0; OpenAI's Terms of Use assign output to the user to the extent permitted by law. AI output may not be unique, and no exclusivity is claimed. These visuals are guides and have not received expert form/anatomy approval.
+The project dedicates rights it holds in original generated output under CC0 1.0; OpenAI's Terms of Use assign output to the user to the extent permitted by law. AI output may not be unique, and no exclusivity is claimed. These visuals are general exercise references.

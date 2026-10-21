@@ -18,7 +18,7 @@ export interface MediaAsset {
   license: MediaLicense
   redistributionEvidenceUrl: string
 }
-export interface Source { type: 'original' | 'adapted'; title: string; url?: string; license: string; reviewedBy?: string; reviewedAt?: string }
+export interface Source { type: 'original' | 'adapted'; title: string; url?: string; license: string }
 export interface Exercise {
   schemaVersion: 1
   id: string
@@ -43,7 +43,6 @@ export interface Exercise {
   variations?: string[]
   media?: MediaAsset[]
   source: Source
-  reviewStatus: 'pending' | 'reviewed'
   legacyIds?: string[]
 }
 export type ResolvedExercise = Omit<Exercise, 'name' | 'description' | 'instructions' | 'formCues' | 'commonMistakes'> & {

@@ -7,7 +7,7 @@ Atlas arayüzü, veri sunumu ve egzersiz medyası üzerinde çalışan ajanlar i
 1. Değişiklikten önce ilgili `site/src/main.tsx`, `site/src/style.css`, egzersiz JSON'u ve mevcut ekranı incele. Her öneriyi gerçek kullanıcı görevi ve dosyayla ilişkilendir.
 2. Bir görünümde önceliği belirle: kütüphanede bulma/filtreleme, detayda hareketi anlama. Büyük tanıtım alanı veya dekorasyon bu işi geciktirmesin.
 3. Mevcut renk, tipografi ve bileşen dilini yeniden kullan. Yeni görsel kararın amacı ve etkisi açıklanabilmeli.
-4. Gösterilen sayı, kas, ekipman, zorluk, alternatif, medya ve inceleme durumu kanonik veriden gelsin. Tasarım uğruna veri uydurma veya `pending` kaydını onaylı gösterme.
+4. Gösterilen sayı, kas, ekipman, zorluk, alternatif ve medya kanonik veriden gelsin. Tasarım uğruna veri uydurma.
 5. Medyalı ve medyasız kartlar aynı katalogun parçaları gibi dursun. Tekil görseli tüm kartlara rastgele üretimle yayma.
 6. Egzersiz görsellerini ortak kadraj/ışık/anatomi/ok kurallarına göre değerlendir. Teknik ve hak incelemesi gerektiren noktaları açıkça işaretle; otomatik doğrulama sonucunu uzman onayı diye sunma.
 7. Arama, filtreler, URL parametreleri, dil geçişi, veri exportları ve sabit `id` davranışı korunmalı. `dist/` dosyalarını elle düzenleme.

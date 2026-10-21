@@ -10,5 +10,5 @@ export const movementPatterns = ['squat', 'hinge', 'push', 'pull', 'lunge', 'car
 export const categories = ['strength', 'mobility', 'cardio'] as const
 export const difficulties = ['beginner', 'intermediate', 'advanced'] as const
 export const mediaRoles = ['start', 'finish', 'animation', 'reference'] as const
-/** Licenses accepted for a media asset. Anything else needs a documented review and a schema change. */
+/** Licenses accepted for a media asset. Adding another value needs a schema change. */
 export const mediaLicenses = ['CC0-1.0', 'MIT'] as const

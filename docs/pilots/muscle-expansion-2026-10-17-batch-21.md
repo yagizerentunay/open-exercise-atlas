@@ -10,7 +10,7 @@ Three original bilingual exercise drafts with AI-assisted Atlas-style illustrati
 
 ## Artwork
 
-Original AI-assisted 1024 × 1024 WebP illustrations at quality 85. The user-provided dumbbell bench press asset informed the Atlas grayscale anatomical style and red target-muscle treatment only; no reference pixels or coaching text were copied. Form and muscle classification remain pending expert review. [Contact sheet](muscle-expansion-2026-10-17-batch-21-contact-sheet.webp).
+Original AI-assisted 1024 × 1024 WebP illustrations at quality 85. The user-provided dumbbell bench press asset informed the Atlas grayscale anatomical style and red target-muscle treatment only; no reference pixels or coaching text were copied. Form cues and muscle classifications are general reference information. [Contact sheet](muscle-expansion-2026-10-17-batch-21-contact-sheet.webp).
 
 ## Movement references
 

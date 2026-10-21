@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 9
 
-Five distinct exercises added: a stability-ball core drill, hip-flexor and lat stretches, an adductor stretch, and a calf stretch. ACE’s library identifies Stir the Pot as a core-stability progression and features kneeling hip-flexor and bench-supported lat stretches; cues here are original. No neck-targeted movement was added. Records remain pending expert review. [Contact sheet](muscle-expansion-2026-10-17-batch-9-contact-sheet.webp).
+Five distinct exercises added: a stability-ball core drill, hip-flexor and lat stretches, an adductor stretch, and a calf stretch. ACE’s library identifies Stir the Pot as a core-stability progression and features kneeling hip-flexor and bench-supported lat stretches; cues here are original. No neck-targeted movement was added. Records are included as general exercise references. [Contact sheet](muscle-expansion-2026-10-17-batch-9-contact-sheet.webp).
 
 | Primary muscle | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Five distinct exercises added: a stability-ball core drill, hip-flexor and lat s
 
 ## Original artwork
 
-Five original two-phase images were generated with OpenAI built-in ImageGen using approved Atlas illustrations as style references only, then converted from PNG to 1024 × 1024 WebP at quality 85. No reference pixels or written cues were copied. AI output may not be unique; movement classification and form await expert review.
+Five original two-phase images were generated with OpenAI built-in ImageGen using approved Atlas illustrations as style references only, then converted from PNG to 1024 × 1024 WebP at quality 85. No reference pixels or written cues were copied. AI output may not be unique; movement classification and form are reference illustrations.
 
 ## Movement references
 

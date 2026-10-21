@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 5
 
-Five additional high-priority exercises: machine Leg Press, Sissy Squat, Dumbbell Side Bend, Hand Gripper Squeeze, and Hanging Oblique Knee Raise. No neck-targeted exercise is included; records are pending expert form/anatomy review.
+Five additional high-priority exercises: machine Leg Press, Sissy Squat, Dumbbell Side Bend, Hand Gripper Squeeze, and Hanging Oblique Knee Raise. No neck-targeted exercise is included; records are included in the exercise catalog.
 
 | Primary muscle | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -14,4 +14,4 @@ Five additional high-priority exercises: machine Leg Press, Sissy Squat, Dumbbel
 
 Five original two-phase illustrations were generated with OpenAI built-in ImageGen using Atlas assisted-pull-up.webp and the approved Dumbbell Floor Press pilot as style references only. Generated PNGs were resized to 1024 × 1024 and converted to WebP at quality 85. No reference exercise pixels were copied.
 
-The project dedicates any rights it holds in original generated output under CC0 1.0; OpenAI's Terms of Use assign output to the user to the extent permitted by law. AI output may not be unique. The visuals are guides and have not received expert form/anatomy review.
+The project dedicates any rights it holds in original generated output under CC0 1.0; OpenAI's Terms of Use assign output to the user to the extent permitted by law. AI output may not be unique. The visuals are general exercise references.

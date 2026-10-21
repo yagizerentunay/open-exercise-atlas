@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17, batch 12
 
-Five common resistance-training movements added as distinct load or support variations: Smith Machine Squat, Weighted Pull-Up, Reverse-Grip Lat Pulldown, Assisted Dip, and Standing Machine Calf Raise. No neck-targeted exercise was added. Records await expert review. [Contact sheet](muscle-expansion-2026-10-17-batch-12-contact-sheet.webp).
+Five common resistance-training movements added as distinct load or support variations: Smith Machine Squat, Weighted Pull-Up, Reverse-Grip Lat Pulldown, Assisted Dip, and Standing Machine Calf Raise. No neck-targeted exercise was added. Records are reference illustrations. [Contact sheet](muscle-expansion-2026-10-17-batch-12-contact-sheet.webp).
 
 | Primary muscle(s) | Exercise | Record | Asset | SHA-256 |
 | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Five common resistance-training movements added as distinct load or support vari
 
 ## Artwork
 
-Five original AI-assisted two-phase illustrations were generated using Atlas `assisted-pull-up.webp` and the user-supplied `dumbbell-bench-press.webp` assets as style references only. Images were converted to 1024 × 1024 WebP at quality 85; no reference pixels or written instructions were copied. AI outputs may not be unique; form, highlighted anatomy, and classifications await expert/editor review.
+Five original AI-assisted two-phase illustrations were generated using Atlas `assisted-pull-up.webp` and the user-supplied `dumbbell-bench-press.webp` assets as style references only. Images were converted to 1024 × 1024 WebP at quality 85; no reference pixels or written instructions were copied. AI outputs may not be unique; these are general exercise references.
 
 ## Movement references
 

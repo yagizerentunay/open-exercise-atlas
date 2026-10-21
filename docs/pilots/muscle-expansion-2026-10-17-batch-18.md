@@ -8,7 +8,7 @@ One additional original bilingual exercise draft with AI-assisted illustration. 
 
 ## Artwork
 
-Original AI-assisted 1024 × 1024 WebP illustration, quality 85. The supplied dumbbell bench press image informed only the visual style; no reference pixels or coaching text were copied. Form and muscle classification remain pending expert review.
+Original AI-assisted 1024 × 1024 WebP illustration, quality 85. The supplied dumbbell bench press image informed only the visual style; no reference pixels or coaching text were copied. Form cues and muscle classifications are general reference information.
 
 ## Movement references
 

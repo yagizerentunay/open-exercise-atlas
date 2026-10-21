@@ -1,6 +1,6 @@
 # Muscle coverage expansion — 2026-10-17
 
-This batch adds 19 exercise records, one for each controlled muscle code, alongside the existing coverage set. [View the 160-pixel contact sheet](muscle-expansion-2026-10-17-contact-sheet.webp). Each record has its own reference illustration, English and Turkish copy, and remains `reviewStatus: pending` for editorial and form review.
+This batch adds 19 exercise records, one for each controlled muscle code, alongside the existing coverage set. [View the 160-pixel contact sheet](muscle-expansion-2026-10-17-contact-sheet.webp). Each record has its own reference illustration and English and Turkish copy.
 
 ## Asset mapping and hashes
 
@@ -37,4 +37,4 @@ The five additional prompt briefs were:
 - **Quadruped Adductor Rockback:** hands-and-knees position with one leg extended sideways, gentle hip rock, inner thigh highlighted red.
 - **Seated Neck CARs:** seated neutral posture with a small controlled head rotation arc, neck highlighted red; avoid forced end range.
 
-The generated images are original outputs. The project dedicates rights it holds under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by law. AI output may not be unique, and no exclusivity is claimed. These visuals are exercise guides, not a form or anatomy review.
+The generated images are original outputs. The project dedicates rights it holds under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by law. AI output may not be unique, and no exclusivity is claimed. These visuals are general exercise references.

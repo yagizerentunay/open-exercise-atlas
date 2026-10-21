@@ -12,8 +12,6 @@
   <img src="media/exercises/assisted-pull-up.webp" alt="Illustrated assisted pull-up with the target muscles highlighted" width="480">
 </p>
 
-> [!IMPORTANT]
-> **Pre-release editorial draft.** Every exercise currently has `reviewStatus: pending`; **none has passed technique review**. Illustrations are visual guides, not evidence of reviewed exercise form. See the [data model](docs/data-model.md) and [media provenance](docs/media-provenance.md) before using the catalog in a training product.
 
 ## Explore the catalog
 
@@ -48,8 +46,7 @@ For example, a localized record includes a stable ID and language-neutral filter
   "id": "dumbbell-bench-press",
   "name": "Dambılla Bench Press",
   "equipment": ["dumbbell", "bench"],
-  "primaryMuscles": ["chest"],
-  "reviewStatus": "pending"
+  "primaryMuscles": ["chest"]
 }
 ```
 
@@ -92,7 +89,7 @@ npm run build
 
 ## Contribute
 
-Start with the [contribution guide](CONTRIBUTING.md). New exercises need a stable ID, original or rights-cleared text, and documented sources. Media needs its own creator, license, source, redistribution evidence, and alt text. Leave `reviewStatus` as `pending` until a named reviewer has checked the movement instructions. The [rights policy](docs/rights.md) explains the requirements in detail.
+Start with the [contribution guide](CONTRIBUTING.md). New exercises need a stable ID, original or rights-cleared text, and documented sources. Media needs its own creator, license, source, redistribution evidence, and alt text. The [rights policy](docs/rights.md) explains the requirements in detail.
 
 ## Publish the explorer
 

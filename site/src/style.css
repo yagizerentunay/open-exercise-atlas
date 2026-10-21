@@ -64,7 +64,6 @@ main { max-width: 1340px; margin: auto; padding: 0 5vw; }
 .media:has(figure:nth-child(2)) { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: 12px; }
 .media:has(figure:nth-child(2)) img { width: 100%; max-height: 300px; }
 .media figcaption { font-size: 12px; font-weight: 700; color: #465b4f; padding-top: 8px; }
-.notice { display: inline-block; font-size: 13px; font-weight: 700; color: #65491d; background: #f5ead1; padding: 9px 12px; margin: 16px 0 0; }
 .translation-note { font-size: 13px; color: #465b4f; margin: 12px 0 0; }
 .library-translation-note { margin: -3px 0 17px; }
 .link { display: block; text-align: left; margin: 8px 0; line-height: 1.4; }

@@ -1,6 +1,6 @@
 # Machine exercise expansion — 20 October 2026
 
-Six original bilingual machine exercise drafts, separate from existing horizontal machine chest press, cable triceps pushdown, cable crunch, assisted kneeling dip, cable row, and cable glute kickback records. Exact movements and IDs were absent from the catalog and ID registry before this batch. No neck-targeted exercise was added. All six records remain `pending` for independent form, anatomy, and rights review.
+Six original bilingual machine exercise drafts, separate from existing horizontal machine chest press, cable triceps pushdown, cable crunch, assisted kneeling dip, cable row, and cable glute kickback records. Exact movements and IDs were absent from the catalog and ID registry before this batch. No neck-targeted exercise was added.
 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Six original bilingual machine exercise drafts, separate from existing horizonta
 
 ## Artwork and scope
 
-OpenAI built-in ImageGen produced one original two-phase illustration per exercise. The user-provided `lats-close-grip-front-lat-pulldown.webp` informed only the grayscale anatomical style, red muscle highlighting, and transparent two-phase layout. No source pixels or written instructions were copied into the new artwork. The generated PNGs were resized from 1254 × 1254 to 1024 × 1024 and encoded as transparent WebP at quality 85. Visual inspection confirmed distinct start and finish poses, machine equipment, and red highlights limited to the intended chest or triceps. Machine geometry and muscle boundaries still need human review.
+OpenAI built-in ImageGen produced one original two-phase illustration per exercise. The user-provided `lats-close-grip-front-lat-pulldown.webp` informed only the grayscale anatomical style, red muscle highlighting, and transparent two-phase layout. No source pixels or written instructions were copied into the new artwork. The generated PNGs were resized from 1254 × 1254 to 1024 × 1024 and encoded as transparent WebP at quality 85. Visual inspection confirmed distinct start and finish poses, machine equipment, and red highlights limited to the intended chest or triceps.
 
 ## Movement references
 
@@ -24,7 +24,7 @@ OpenAI built-in ImageGen produced one original two-phase illustration per exerci
 - [Hammer Strength Plate-Loaded Seated Dip](https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-seated-dip) supports the loaded machine, thigh restraint, and triceps primary with chest and shoulders secondary.
 - [ACE Seated Row](https://www.acefitness.org/resources/everyone/exercise-library/168/seated-row/) supports the chest-supported machine setup and horizontal pull with a stable torso.
 - [Life Fitness Axiom Seated Row](https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/axiom-series-seated-row) confirms a dedicated selectorized machine with independent grips, distinct from a cable row.
-- [ACE selectorized exercise library](https://www.acefitness.org/resources/everyone/exercise-library/equipment/weight-machines-selectorized/) includes a beginner Glute Press machine; the Atlas draft illustrates a standing one-leg pedal variant and needs machine-specific expert review.
+- [ACE selectorized exercise library](https://www.acefitness.org/resources/everyone/exercise-library/equipment/weight-machines-selectorized/) includes a beginner Glute Press machine; the Atlas draft illustrates a standing one-leg pedal variant.
 
 The cues are original editorial summaries tailored to the Atlas illustrations; these references are for movement facts, not copied text or artwork.
 

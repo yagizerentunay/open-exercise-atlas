@@ -4,7 +4,7 @@
   "title": "Open Exercise Atlas exercise v1",
   "type": "object",
   "additionalProperties": false,
-  "required": ["schemaVersion", "id", "slug", "name", "description", "category", "movementPattern", "difficulty", "equipment", "primaryMuscles", "secondaryMuscles", "instructions", "source", "reviewStatus"],
+  "required": ["schemaVersion", "id", "slug", "name", "description", "category", "movementPattern", "difficulty", "equipment", "primaryMuscles", "secondaryMuscles", "instructions", "source"],
   "properties": {
     "schemaVersion": {"const": 1},
     "id": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
@@ -26,8 +26,7 @@
     "alternatives": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
     "variations": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
     "media": {"type": "array", "items": {"$ref": "#/$defs/media"}},
-    "source": {"type": "object", "additionalProperties": false, "required": ["type", "title", "license"], "properties": {"type": {"enum": ["original", "adapted"]}, "title": {"type": "string", "minLength": 1}, "url": {"type": "string", "format": "uri"}, "license": {"type": "string", "minLength": 1}, "reviewedBy": {"type": "string"}, "reviewedAt": {"type": "string", "format": "date"}}},
-    "reviewStatus": {"enum": ["pending", "reviewed"]},
+    "source": {"type": "object", "additionalProperties": false, "required": ["type", "title", "license"], "properties": {"type": {"enum": ["original", "adapted"]}, "title": {"type": "string", "minLength": 1}, "url": {"type": "string", "format": "uri"}, "license": {"type": "string", "minLength": 1}}},
     "legacyIds": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}}
   },
   "$defs": {
