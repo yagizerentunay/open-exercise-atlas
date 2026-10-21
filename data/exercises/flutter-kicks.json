@@ -18,11 +18,10 @@
     "mat"
   ],
   "primaryMuscles": [
-    "hip-flexors"
-  ],
-  "secondaryMuscles": [
+    "hip-flexors",
     "abdominals"
   ],
+  "secondaryMuscles": [],
   "instructions": {
     "en": [
       "Lie on your back with legs extended and hands beside your hips; brace your trunk and keep your lower back gently supported.",

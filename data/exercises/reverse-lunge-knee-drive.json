@@ -17,11 +17,11 @@
     "bodyweight"
   ],
   "primaryMuscles": [
-    "hip-flexors"
+    "glutes",
+    "quadriceps"
   ],
   "secondaryMuscles": [
-    "quadriceps",
-    "glutes",
+    "hip-flexors",
     "abdominals"
   ],
   "instructions": {

@@ -50,13 +50,13 @@
   ],
   "media": [
     {
-      "path": "media/exercises/cable-hip-abduction.webp",
+      "path": "media/exercises/cable-hip-abduction-v2.png",
       "role": "reference",
       "alt": {
-          "en": "Grayscale athlete performing cable hip abduction; a red arrow shows the leg moving outward.",
-          "tr": "Kablo ile kalça abdüksiyonu yapan gri tonlu sporcu; kırmızı ok bacağın dışa hareketini gösteriyor."
+          "en": "Grayscale athlete performing cable hip abduction; the outer hip of the moving leg is highlighted red and an arrow shows the outward movement.",
+          "tr": "Kablo ile kalça abdüksiyonu yapan gri tonlu sporcu; hareket eden bacağın dış kalçası kırmızıyla vurgulanmış ve ok dışa hareketi gösteriyor."
       },
-      "creator": "Monk Mode (AI-assisted original illustration)",
+      "creator": "Open Exercise Atlas (AI-assisted edit of Monk Mode illustration)",
       "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abductors.webp",
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"

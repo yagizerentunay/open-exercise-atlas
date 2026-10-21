@@ -37,13 +37,14 @@ The id of a record in Monk Mode is `legacyIds[0]` when present, otherwise `atlas
 
 ### Reverse mappings
 
-These are the exact inverse of the migration tables.
+These preserve the migration names where possible. The new anterior-shin code falls back to Monk Mode's broader `calves` group.
 
 | Atlas muscle | Monk Mode muscle |
 | --- | --- |
 | `upper-back` | `middle back` |
 | `lower-back` | `lower back` |
 | `hip-flexors` | `hip flexors` |
+| `tibialis-anterior` | `calves` (legacy fallback; Monk Mode has no separate anterior-shin group) |
 | `neck` | `neck` |
 | every other code | same name |
 

@@ -6,7 +6,7 @@ The schema and `src/types.ts` define the same controlled vocabulary. IDs survive
 
 ## Controlled vocabulary
 
-- Muscles (19): `chest`, `upper-back`, `lats`, `shoulders`, `biceps`, `triceps`, `forearms`, `abdominals`, `obliques`, `lower-back`, `glutes`, `quadriceps`, `hamstrings`, `calves`, `adductors`, `abductors`, `traps`, `neck`, `hip-flexors`.
+- Muscles (20): `chest`, `upper-back`, `lats`, `shoulders`, `biceps`, `triceps`, `forearms`, `abdominals`, `obliques`, `lower-back`, `glutes`, `quadriceps`, `hamstrings`, `calves`, `adductors`, `abductors`, `traps`, `neck`, `hip-flexors`, `tibialis-anterior`.
 - Equipment (13): `bodyweight`, `barbell`, `dumbbell`, `kettlebell`, `cable`, `machine`, `band`, `bench`, `pull-up-bar`, `mat`, `ez-bar`, `exercise-ball`, `other`.
 - Media roles: `start`, `finish`, `animation`, `reference`. `reference` is one illustration that is neither a start nor a finish frame; consumers that need a single image prefer `reference`, then `finish`, then `start`.
 - Media licenses: `CC0-1.0` and `MIT` (a record-specific license needs a `redistributionEvidenceUrl`, see [rights](rights.md)). Adding a license means a reviewed schema change.

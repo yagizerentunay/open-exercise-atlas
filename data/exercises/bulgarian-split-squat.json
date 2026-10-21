@@ -53,13 +53,13 @@
   ],
   "media": [
     {
-      "path": "media/exercises/bulgarian-split-squat.webp",
+      "path": "media/exercises/bulgarian-split-squat-v2.png",
       "role": "reference",
       "alt": {
-        "en": "Grayscale athlete performing the Bulgarian Split Squat, glutes highlighted in red.",
-        "tr": "Bulgar Split Squat hareketini yapan gri tonlu sporcu; kalça kasları kırmızıyla vurgulanmış."
+        "en": "Two-phase grayscale Bulgarian split squat with front-leg glutes and quadriceps highlighted red.",
+        "tr": "Bulgar split squat'ın iki aşamalı gri çizimi; öndeki bacağın kalça ve ön uyluk kasları kırmızı."
       },
-      "creator": "Monk Mode (AI-assisted original illustration)",
+      "creator": "Open Exercise Atlas (AI-assisted derivative illustration)",
       "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes-bulgarian-split-squat.webp",
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"

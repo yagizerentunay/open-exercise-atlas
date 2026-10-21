@@ -33,7 +33,7 @@
   "$defs": {
     "text": {"type": "object", "additionalProperties": false, "required": ["en"], "properties": {"en": {"type": "string", "minLength": 1}, "tr": {"type": "string", "minLength": 1}}},
     "steps": {"type": "object", "additionalProperties": false, "required": ["en"], "properties": {"en": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}, "tr": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}}},
-    "muscle": {"enum": ["chest", "upper-back", "lats", "shoulders", "biceps", "triceps", "forearms", "abdominals", "obliques", "lower-back", "glutes", "quadriceps", "hamstrings", "calves", "adductors", "abductors", "traps", "neck", "hip-flexors"]},
+    "muscle": {"enum": ["chest", "upper-back", "lats", "shoulders", "biceps", "triceps", "forearms", "abdominals", "obliques", "lower-back", "glutes", "quadriceps", "hamstrings", "calves", "adductors", "abductors", "traps", "neck", "hip-flexors", "tibialis-anterior"]},
     "media": {"type": "object", "additionalProperties": false, "required": ["path", "role", "alt", "creator", "sourceUrl", "license", "redistributionEvidenceUrl"], "properties": {"path": {"type": "string", "pattern": "^media/exercises/[a-z0-9/-]+\\.(jpg|jpeg|png|webp|gif)$"}, "role": {"enum": ["start", "finish", "animation", "reference"]}, "alt": {"$ref": "#/$defs/text"}, "creator": {"type": "string", "minLength": 1}, "sourceUrl": {"type": "string", "format": "uri"}, "license": {"enum": ["CC0-1.0", "MIT"]}, "redistributionEvidenceUrl": {"type": "string", "format": "uri"}}}
   }
 }

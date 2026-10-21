@@ -11,7 +11,7 @@ const validate = createRecordValidator()
 
 describe('controlled vocabulary', () => {
   it('has the exact final lists', () => {
-    expect([...muscles]).toEqual(['chest', 'upper-back', 'lats', 'shoulders', 'biceps', 'triceps', 'forearms', 'abdominals', 'obliques', 'lower-back', 'glutes', 'quadriceps', 'hamstrings', 'calves', 'adductors', 'abductors', 'traps', 'neck', 'hip-flexors'])
+    expect([...muscles]).toEqual(['chest', 'upper-back', 'lats', 'shoulders', 'biceps', 'triceps', 'forearms', 'abdominals', 'obliques', 'lower-back', 'glutes', 'quadriceps', 'hamstrings', 'calves', 'adductors', 'abductors', 'traps', 'neck', 'hip-flexors', 'tibialis-anterior'])
     expect([...equipment]).toEqual(['bodyweight', 'barbell', 'dumbbell', 'kettlebell', 'cable', 'machine', 'band', 'bench', 'pull-up-bar', 'mat', 'ez-bar', 'exercise-ball', 'other'])
     expect([...mediaRoles]).toEqual(['start', 'finish', 'animation', 'reference'])
     expect([...mediaLicenses]).toEqual(['CC0-1.0', 'MIT'])

@@ -4,7 +4,7 @@
  * lists, `schemas/exercise.schema.json` and `data/translations/*.json` in sync.
  * Adding a code is an additive (minor) change; renaming or removing one is breaking.
  */
-export const muscles = ['chest', 'upper-back', 'lats', 'shoulders', 'biceps', 'triceps', 'forearms', 'abdominals', 'obliques', 'lower-back', 'glutes', 'quadriceps', 'hamstrings', 'calves', 'adductors', 'abductors', 'traps', 'neck', 'hip-flexors'] as const
+export const muscles = ['chest', 'upper-back', 'lats', 'shoulders', 'biceps', 'triceps', 'forearms', 'abdominals', 'obliques', 'lower-back', 'glutes', 'quadriceps', 'hamstrings', 'calves', 'adductors', 'abductors', 'traps', 'neck', 'hip-flexors', 'tibialis-anterior'] as const
 export const equipment = ['bodyweight', 'barbell', 'dumbbell', 'kettlebell', 'cable', 'machine', 'band', 'bench', 'pull-up-bar', 'mat', 'ez-bar', 'exercise-ball', 'other'] as const
 export const movementPatterns = ['squat', 'hinge', 'push', 'pull', 'lunge', 'carry', 'rotation', 'core', 'isolation'] as const
 export const categories = ['strength', 'mobility', 'cardio'] as const

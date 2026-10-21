@@ -18,10 +18,11 @@
     "kettlebell"
   ],
   "primaryMuscles": [
-    "hamstrings"
+    "hamstrings",
+    "glutes",
+    "adductors"
   ],
   "secondaryMuscles": [
-    "glutes",
     "lower-back"
   ],
   "instructions": {
@@ -51,13 +52,13 @@
   ],
   "media": [
     {
-      "path": "media/exercises/kettlebell-swing.webp",
+      "path": "media/exercises/kettlebell-swing-v2.png",
       "role": "reference",
       "alt": {
-        "en": "Grayscale athlete performing the Kettlebell Swing, hamstrings highlighted in red.",
-        "tr": "Kettlebell Swing hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+        "en": "Two grayscale phases of a kettlebell swing with glutes, hamstrings and inner thighs highlighted red.",
+        "tr": "Kettlebell swing hareketinin iki gri tonlu aşaması; kalça, arka uyluk ve iç uyluk kasları kırmızıyla vurgulanmış."
       },
-      "creator": "Monk Mode (AI-assisted original illustration)",
+      "creator": "Open Exercise Atlas (AI-assisted edit of Monk Mode illustration)",
       "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-kettlebell-swing.webp",
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"

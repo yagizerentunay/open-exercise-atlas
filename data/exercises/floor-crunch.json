@@ -48,13 +48,13 @@
   ],
   "media": [
     {
-      "path": "media/exercises/floor-crunch.webp",
+      "path": "media/exercises/floor-crunch-v2.png",
       "role": "reference",
       "alt": {
-          "en": "Grayscale athlete performing a floor crunch; a red arrow shows the upward movement.",
-          "tr": "Yerde crunch yapan gri tonlu sporcu; kırmızı ok yukarı yönlü hareketi gösteriyor."
+          "en": "Grayscale athlete performing a floor crunch; red highlights show the abdominal muscles and an arrow shows the upward movement.",
+          "tr": "Yerde crunch yapan gri tonlu sporcu; karın kasları kırmızıyla vurgulanmış ve kırmızı ok yukarı yönlü hareketi gösteriyor."
       },
-      "creator": "Monk Mode (AI-assisted original illustration)",
+      "creator": "Open Exercise Atlas (AI-assisted edit of Monk Mode illustration)",
       "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/abdominals.webp",
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
