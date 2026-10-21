@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 391,
+  "count": 392,
   "translationCoverage": {
     "tr": {
-      "present": 1173,
-      "total": 1173,
+      "present": 1176,
+      "total": 1176,
       "percent": 100
     }
   },
@@ -365,6 +365,7 @@
     "standing-cable-hip-flexion",
     "standing-dumbbell-reverse-curl",
     "standing-machine-calf-raise",
+    "standing-machine-hip-thrust",
     "standing-machine-leg-curl",
     "standing-wall-calf-stretch",
     "step-up",
