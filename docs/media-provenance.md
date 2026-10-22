@@ -1,5 +1,13 @@
 # Media provenance
 
+## Barbell Good Morning illustration
+
+- **Asset:** `media/exercises/barbell-good-morning.webp` (190,800 bytes; SHA-256 `7f9f22cde84867087f7e166508ee078507654fcedad444c6d13c03677dcffb2d`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 RGBA illustration converted to WebP with FFmpeg/libwebp (quality 90, alpha retained). Two positions show a neutral-spine hip hinge with the bar supported across the upper back; hamstrings are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
+- **Movement source:** [NASM Good Mornings](https://www.nasm.org/resource-center/exercise-library/good-mornings) documents bar placement, hip hinge, slight knee bend, neutral spine, controlled return, and primary/secondary muscle groups. No third-party artwork was imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-good-morning.json`](../data/exercises/barbell-good-morning.json).
+
 ## Arnold Press illustration revision
 
 - **Asset:** [`media/exercises/arnold-press-revised.webp`](../media/exercises/arnold-press-revised.webp), used by [`arnold-press.json`](../data/exercises/arnold-press.json).

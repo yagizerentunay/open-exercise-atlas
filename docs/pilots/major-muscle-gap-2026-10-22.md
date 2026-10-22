@@ -364,3 +364,13 @@ The bilingual record and original two-phase transparent illustration bring the c
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Double Kettlebell Front Squat | `data/exercises/double-kettlebell-front-squat.json` | `media/exercises/double-kettlebell-front-squat.webp` | `6f28bda9b607d4e752ed456afbaedf1f16457e2916a7b8816ed86807fbb05e7d5` |
+
+## Barbell Good Morning — 22 October 2026
+
+Atlas already had barbell Romanian and stiff-leg deadlifts, but not the Good Morning with the bar supported across the upper back. NASM's exercise library describes this as a foundational hip hinge, emphasizing hamstrings and glutes, and specifies a neutral spine, slight knee bend, and controlled hip hinge. Source: [NASM Good Mornings](https://www.nasm.org/resource-center/exercise-library/good-mornings).
+
+The bilingual record cues a controlled range, steady knee bend, and a manageable load without making injury-prevention claims. The original two-phase transparent illustration highlights the hamstrings and uses loose opaque shorts over hips, buttocks, and groin. Catalog count: 432.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Barbell Good Morning | `data/exercises/barbell-good-morning.json` | `media/exercises/barbell-good-morning.webp` | `7f9f22cde84867087f7e166508ee078507654fcedad444c6d13c03677dcffb2d` |
