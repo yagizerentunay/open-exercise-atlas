@@ -310,3 +310,14 @@ The new bilingual record includes original two-phase transparent artwork and bri
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Kneeling Machine Glute Press | `data/exercises/kneeling-machine-glute-press.json` | `media/exercises/kneeling-machine-glute-press.webp` | `2511244260fb88c7864824eb5b96b19f3b5250bde7e7f75c53440f3a65947683` |
+
+
+## Selectorized Triceps Press — 22 October 2026
+
+Life Fitness lists a selectorized Triceps Press with rotating oversized handles and dip-style handles. Atlas already covered the plate-loaded seated dip and a supported elbow-extension machine, but not this selectorized dip-style pressing station. The record distinguishes it by the weight-stack machine and pressing handles, while preserving the same controlled elbow-extension pattern. Source: [Life Fitness Insignia Series Triceps Press](https://www.lifefitness.com/en-eu/catalog/strength-training/selectorized/insignia-series-triceps-press).
+
+The new bilingual record includes original two-phase transparent artwork and brings the catalog to 427 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Selectorized Triceps Press | `data/exercises/selectorized-triceps-press.json` | `media/exercises/selectorized-triceps-press.webp` | `473d7fb88b832d08ec89182b913a20c2fccd67a1fe6c7dba21b2682be4b81d08` |

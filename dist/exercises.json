@@ -20336,6 +20336,71 @@
   },
   {
     "schemaVersion": 1,
+    "id": "selectorized-triceps-press",
+    "slug": "selectorized-triceps-press",
+    "name": {
+      "en": "Selectorized Triceps Press",
+      "tr": "Seçmeli Ağırlık Makinesinde Triceps Presi"
+    },
+    "description": {
+      "en": "A seated dip-style triceps press on a selectorized machine, using rotating pressing handles with back support.",
+      "tr": "Sırt desteği ve döner itiş tutacakları bulunan seçmeli ağırlık makinesinde oturarak yapılan dip tarzı arka kol presi."
+    },
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": {
+      "en": [
+        "Set the weight stack and seat so you can reach the handles while sitting with your back supported and feet planted. Grip the rotating handles comfortably with elbows bent.",
+        "Keep your back against the pad and press the handles down and slightly forward until your elbows are nearly straight; do not snap them into lockout.",
+        "Let the handles rise slowly as your elbows bend, keeping the weight stack under control."
+      ],
+      "tr": [
+        "Ağırlık bloğunu ve koltuğu, sırtın destekli ve ayakların yerdeyken tutacaklara erişebileceğin şekilde ayarla. Dirseklerin bükülü olarak döner tutacakları rahatça kavra.",
+        "Sırtını pede yaslı tutup dirseklerin neredeyse düz olana kadar tutacakları aşağı ve hafif öne it; dirseklerini sertçe kilitleme.",
+        "Dirseklerin bükülürken tutacakların yavaşça yükselmesine izin ver ve ağırlık bloğunu kontrol et."
+      ]
+    },
+    "source": {
+      "type": "adapted",
+      "title": "Life Fitness Insignia Series Triceps Press",
+      "url": "https://www.lifefitness.com/en-eu/catalog/strength-training/selectorized/insignia-series-triceps-press",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "plate-loaded-seated-dip",
+      "assisted-dip",
+      "seated-machine-triceps-extension"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/selectorized-triceps-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a seated selectorized triceps press with rotating handles and a weight stack; triceps highlighted red and loose opaque shorts cover the hips and groin.",
+          "tr": "Döner tutacaklı ve ağırlık bloklu oturarak triceps presinin iki aşaması; arka kol kırmızıyla vurgulanmış, bol opak şort kalça ve kasığı örtüyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/selectorized-triceps-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "side-crunch",
     "slug": "side-crunch",
     "name": {
