@@ -15161,6 +15161,72 @@
   },
   {
     "schemaVersion": 1,
+    "id": "plate-loaded-iso-lateral-front-lat-pulldown",
+    "slug": "plate-loaded-iso-lateral-front-lat-pulldown",
+    "name": {
+      "en": "Plate-Loaded Iso-Lateral Front Lat Pulldown",
+      "tr": "Plaka Yüklü Iso-Lateral Önden Lat Pulldown"
+    },
+    "description": {
+      "en": "A seated underhand lat pulldown using independent plate-loaded arms that arc down and slightly back.",
+      "tr": "Bağımsız plaka yüklü kolları aşağı ve hafif geriye kavis çizerek hareket eden, oturarak ve alttan tutuşla yapılan lat pulldown."
+    },
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper-back",
+      "forearms"
+    ],
+    "instructions": {
+      "en": [
+        "Load both arms evenly, adjust the seat and thigh pads, sit upright, and grasp the overhead handles with an underhand grip.",
+        "Keeping your torso steady, pull the handles down and slightly back toward your upper chest by driving your elbows toward your sides.",
+        "Allow the arms to rise overhead slowly under control without letting the plates drop between repetitions."
+      ],
+      "tr": [
+        "İki kola eşit plaka takıp koltuğu ve uyluk pedlerini ayarla; dik otur ve baş üstündeki tutacakları alttan kavra.",
+        "Gövden sabitken dirseklerini yanlarına doğru indirerek tutacakları aşağı ve hafif geriye, üst göğsüne doğru çek.",
+        "Plakaları tekrarlar arasında düşürmeden kolların baş üstüne yavaşça dönmesine izin ver."
+      ]
+    },
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "reverse-grip-lat-pulldown",
+      "close-grip-front-lat-pulldown",
+      "plate-loaded-iso-lateral-wide-pulldown",
+      "assisted-pull-up"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-iso-lateral-front-lat-pulldown.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of an independent-arm plate-loaded underhand front lat pulldown; lats are highlighted red and opaque shorts cover the hips and groin.",
+          "tr": "Bağımsız kollu plaka yüklü, alttan tutuşlu önden lat pulldown hareketinin iki gri aşaması; kanat kasları kırmızıyla vurgulanmış, kalça ve kasık opak şortla kapalı."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-front-lat-pulldown.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "plate-loaded-iso-lateral-horizontal-bench-press",
     "slug": "plate-loaded-iso-lateral-horizontal-bench-press",
     "name": {

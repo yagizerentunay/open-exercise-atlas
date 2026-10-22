@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 398,
+  "count": 399,
   "translationCoverage": {
     "tr": {
-      "present": 1194,
-      "total": 1194,
+      "present": 1197,
+      "total": 1197,
       "percent": 100
     }
   },
@@ -254,6 +254,7 @@
     "plate-loaded-ground-base-jammer-press",
     "plate-loaded-iso-lateral-d-y-row",
     "plate-loaded-iso-lateral-decline-chest-press",
+    "plate-loaded-iso-lateral-front-lat-pulldown",
     "plate-loaded-iso-lateral-horizontal-bench-press",
     "plate-loaded-iso-lateral-incline-press",
     "plate-loaded-iso-lateral-row",
