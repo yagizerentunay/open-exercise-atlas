@@ -237,3 +237,13 @@ The bilingual record includes an original two-phase transparent illustration and
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Barbell Push Press | `data/exercises/barbell-push-press.json` | `media/exercises/barbell-push-press.webp` | `04925b26943858e0aee0370c9d3fce0e699055df582169e45b831c81094c1faa` |
+
+## Standing Two-Arm Landmine Press — 22 October 2026
+
+Atlas had a single-arm half-kneeling landmine press, but not the common standing two-hand press along the anchored bar's diagonal arc. ACE includes the standing two-arm landmine press in its beginner landmine workout; this variation has a stable standing stance and both hands on the sleeve. Source: [ACE Workout Builder for Landmine Training](https://www.acefitness.org/continuing-education/certified/september-2025/8948/the-ace-workout-builder-for-landmine-training/).
+
+The new bilingual record includes original two-phase transparent artwork and brings the catalog to 420 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Standing Two-Arm Landmine Press | `data/exercises/standing-landmine-press.json` | `media/exercises/standing-landmine-press.webp` | `ae22266f930c3c87e305493bd9f6d0fc34abc49bbc1d1ed4691f98135c539a17` |

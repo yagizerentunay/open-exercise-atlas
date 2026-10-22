@@ -18756,6 +18756,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "standing-landmine-press",
+    "slug": "standing-landmine-press",
+    "name": "Standing Two-Arm Landmine Press",
+    "description": "A standing diagonal press in which both hands drive the anchored end of a barbell upward and forward along the landmine arc.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "barbell",
+      "other"
+    ],
+    "primaryMuscles": [
+      "shoulders",
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "triceps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Secure one end of a barbell in a landmine base. Face the anchored end, hold the free sleeve with both hands at upper-chest height, and stand with a stable hip-width stance.",
+      "Brace your trunk and press the bar diagonally forward and upward along its arc, keeping your torso tall rather than leaning back.",
+      "Bend your elbows and lower the sleeve under control to the upper chest."
+    ],
+    "source": {
+      "type": "adapted",
+      "title": "ACE Workout Builder for Landmine Training",
+      "url": "https://www.acefitness.org/continuing-education/certified/september-2025/8948/the-ace-workout-builder-for-landmine-training/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "half-kneeling-landmine-press",
+      "overhead-press",
+      "machine-shoulder-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/standing-landmine-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a standing two-arm landmine press, from the bar end at the upper chest to an extended diagonal press; chest, shoulders and triceps are highlighted red, and loose opaque shorts cover the hips and groin.",
+          "tr": "Ayakta çift kol Landmine Press hareketinin bar üst göğüsteyken ve çapraz öne-yukarı itilirken gösterilen iki gri aşaması; göğüs, omuz ve arka kol kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-landmine-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "standing-machine-calf-raise",
     "slug": "standing-machine-calf-raise",
     "name": "Standing Machine Calf Raise",

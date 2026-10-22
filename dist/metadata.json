@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 419,
+  "count": 420,
   "translationCoverage": {
     "tr": {
-      "present": 1257,
-      "total": 1257,
+      "present": 1260,
+      "total": 1260,
       "percent": 100
     }
   },
@@ -391,6 +391,7 @@
     "standing-cable-chest-press",
     "standing-cable-hip-flexion",
     "standing-dumbbell-reverse-curl",
+    "standing-landmine-press",
     "standing-machine-calf-raise",
     "standing-machine-hip-thrust",
     "standing-machine-leg-curl",
