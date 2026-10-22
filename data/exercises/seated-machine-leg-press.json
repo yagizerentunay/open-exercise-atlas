@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-machine-leg-press",
+  "slug": "seated-machine-leg-press",
+  "name": {
+    "en": "Seated Machine Leg Press",
+    "tr": "Oturarak Makinede Leg Press"
+  },
+  "description": {
+    "en": "A selectorized seated leg press that drives a footplate away while the back and hips stay supported.",
+    "tr": "Sırt ve kalçalar destekli kalırken ayak platformunun itildiği, seçmeli ağırlık istifli oturarak leg press makinesi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["machine"],
+  "primaryMuscles": ["quadriceps"],
+  "secondaryMuscles": ["glutes", "hamstrings"],
+  "instructions": {
+    "en": [
+      "Adjust the seat so your back and hips remain supported and your knees are comfortably bent at the start; place both feet on the footplate.",
+      "Press the footplate away through your whole feet without lifting your hips from the seat.",
+      "Bend your knees under control to return the footplate, stopping before your lower back or pelvis rolls away from the pad."
+    ],
+    "tr": [
+      "Başlangıçta dizlerin rahatça bükülü ve sırtınla kalçan destekli olacak şekilde koltuğu ayarla; iki ayağını platforma yerleştir.",
+      "Kalçalarını koltuktan kaldırmadan ayaklarının tamamıyla platformu ileri it.",
+      "Belin veya leğen kemiğin pedden ayrılmadan, platformu dizlerini kontrollü bükerek geri getir."
+    ]
+  },
+  "source": {
+    "type": "adapted",
+    "title": "Hammer Strength Select Seated Leg Press product information",
+    "url": "https://shop.lifefitness.com/products/hammer-strength-select-seated-leg-press",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["leg-press", "vertical-leg-press", "single-leg-leg-press", "hack-squat"],
+  "media": [
+    {
+      "path": "media/exercises/seated-machine-leg-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a selectorized seated machine leg press, with quadriceps highlighted red; loose opaque shorts cover the hips and groin.",
+        "tr": "Seçmeli ağırlıklı oturarak makinede leg press hareketinin iki gri aşaması; ön uyluklar kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-machine-leg-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}
