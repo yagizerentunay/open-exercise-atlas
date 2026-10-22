@@ -141,9 +141,9 @@ The ten-record follow-up and twenty-nine later priority-movement records use Atl
 
 ## Plate-Loaded Super Squat Press illustration correction
 
-- **Asset:** `media/exercises/plate-loaded-super-squat-press.webp` (188,276 bytes; SHA-256 `ff2395773ba9ff306ed77d5338723d39fd6a46dce5bceaf32745f06420d02b93`).
+- **Asset:** `media/exercises/plate-loaded-super-squat-press.webp` (181,954 bytes; SHA-256 `00c44d5ef2d9ea65ac23b35503cb4d6f966c85b9c41966e8d0f120b6e924f51f`).
 - **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** After Yağız flagged the illustration for clearer coverage, edited the original two-pose illustration while preserving the machine, poses, muscle highlights, grayscale style, and transparent background. Replaced the shorts with a loose, matte opaque black pair, roomy through the seat and thighs, with draped fabric that fully covers the buttocks and groin in both poses and hides anatomical contours. The output is a 1280 × 1280 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained; alpha extrema 0–255).
+- **Method:** After Yağız flagged the illustration for clearer coverage, edited the original two-pose illustration while preserving the machine, poses, muscle highlights, grayscale style, and transparent background. Replaced the shorts with a loose, matte opaque black pair, roomy through the seat and thighs, with draped fabric that fully covers the buttocks and groin in both poses and hides anatomical contours. The output is a 1280 × 1280 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 90, alpha retained; alpha extrema 0–255).
 - **Source and rights:** This is an edit of Atlas's existing original AI-assisted illustration; no third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`plate-loaded-super-squat-press.json`](../data/exercises/plate-loaded-super-squat-press.json).
 
