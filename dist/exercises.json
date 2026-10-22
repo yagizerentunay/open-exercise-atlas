@@ -21170,6 +21170,73 @@
   },
   {
     "schemaVersion": 1,
+    "id": "smith-machine-close-grip-bench-press",
+    "slug": "smith-machine-close-grip-bench-press",
+    "name": {
+      "en": "Smith Machine Close-Grip Bench Press",
+      "tr": "Smith Makinesinde Dar Tutuş Bench Press"
+    },
+    "description": {
+      "en": "A shoulder-width Smith machine bench press that emphasizes elbow extension and the triceps.",
+      "tr": "Dirsek açışını ve triceps kaslarını öne çıkaran, omuz genişliğinde tutuşla Smith makinesinde yapılan bench press."
+    },
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": {
+      "en": [
+        "Set a flat bench beneath the Smith bar, take a shoulder-width grip, and place the safety stops just below your comfortable bottom position.",
+        "Unrack the bar and lower it under control toward the lower chest, keeping wrists over elbows and elbows close to the torso.",
+        "Press smoothly without bouncing or forcefully locking the elbows, then rotate the bar securely into its hooks."
+      ],
+      "tr": [
+        "Düz sehpayı Smith barının altına yerleştir, barı omuz genişliğinde kavra ve emniyet durdurucularını rahat alt pozisyonunun hemen altına ayarla.",
+        "Barı kancalardan çıkarıp bileklerin dirseklerinin üzerinde ve dirseklerin gövdene yakın kalacak şekilde alt göğsüne doğru kontrollü indir.",
+        "Sektirmeden ve dirsekleri sertçe kilitlemeden barı yukarı it; ardından döndürerek güvenle kancalara oturt."
+      ]
+    },
+    "source": {
+      "type": "original",
+      "title": "ACE Close-Grip Bench Press technique and Life Fitness Smith Machine product documentation",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/311/close-grip-bench-press/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "close-grip-bench-press",
+      "smith-machine-bench-press",
+      "plate-loaded-seated-dip",
+      "assisted-dip"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/smith-machine-close-grip-bench-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a Smith Machine Close-Grip Bench Press; the triceps are highlighted red and loose opaque shorts cover the hips and groin.",
+          "tr": "Smith makinesinde dar tutuş bench press hareketinin iki gri aşaması; triceps kırmızıyla vurgulanmış, bol ve opak şort kalça ile kasığı kapatıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-close-grip-bench-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "smith-machine-decline-bench-press",
     "slug": "smith-machine-decline-bench-press",
     "name": {
