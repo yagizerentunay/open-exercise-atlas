@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-reverse-curl",
+  "slug": "barbell-reverse-curl",
+  "name": {
+    "en": "Barbell Reverse Curl",
+    "tr": "Barbell ile Ters Curl"
+  },
+  "aliases": ["Reverse Bicep Curl", "Reverse Grip Barbell Curl"],
+  "description": {
+    "en": "A straight-bar curl with a pronated grip that emphasizes the forearms and brachioradialis.",
+    "tr": "Üstten kavrayışla düz bar kullanılarak yapılan, ön kol ve brachioradialis kaslarını vurgulayan curl."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": ["barbell"],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": ["biceps"],
+  "instructions": {
+    "en": [
+      "Hold a straight bar about shoulder-width with your palms down, wrists straight, and elbows close to your sides.",
+      "Keeping your upper arms still, curl the bar toward your shoulders without swinging your torso.",
+      "Lower the bar slowly to the start position; use a manageable load and keep your wrists neutral."
+    ],
+    "tr": [
+      "Düz barı yaklaşık omuz genişliğinde, avuçların aşağı bakacak, bileklerin düz ve dirseklerin yanlarında kalacak şekilde tut.",
+      "Üst kollarını sabit tutarak gövdeni savurmadan barı omuzlarına doğru kaldır.",
+      "Bileklerini nötr konumda tutup barı yavaşça başlangıca indir; kontrol edebildiğin bir yük seç."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas exercise guide based on ACE Reverse Bicep Curl",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/310/reverse-bicep-curl/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["reverse-ez-bar-curl", "standing-dumbbell-reverse-curl", "hammer-curl"],
+  "media": [
+    {
+      "path": "media/exercises/barbell-reverse-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a standing overhand barbell curl with the forearms highlighted red; the athlete wears opaque shorts.",
+        "tr": "Üstten tutuşla ayakta barbell curl hareketinin iki gri aşaması; ön kollar kırmızıyla vurgulanır ve sporcu opak şort giyer."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-reverse-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/310/reverse-bicep-curl/"
+    }
+  ]
+}

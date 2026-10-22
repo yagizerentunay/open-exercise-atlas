@@ -13,7 +13,7 @@
     <a href="LICENSE"><img alt="Code license: MIT" src="https://img.shields.io/badge/code-MIT-222222"></a>
     <a href="DATA-LICENSE.md"><img alt="Original data: CC0 1.0" src="https://img.shields.io/badge/original%20data-CC0%201.0-222222"></a>
   </p>
-  <p><strong><a href="dist/metadata.json">351 exercises</a></strong> &nbsp;·&nbsp; <strong>20 muscle groups</strong> &nbsp;·&nbsp; <strong>English + Turkish</strong> &nbsp;·&nbsp; <strong>100% Turkish translation coverage</strong></p>
+  <p><strong><a href="dist/metadata.json">398 exercises</a></strong> &nbsp;·&nbsp; <strong>20 muscle groups</strong> &nbsp;·&nbsp; <strong>English + Turkish</strong> &nbsp;·&nbsp; <strong>100% Turkish translation coverage</strong></p>
   <img src="media/exercises/assisted-pull-up.webp" alt="Assisted pull-up illustration with the working muscles highlighted" width="460">
 </div>
 

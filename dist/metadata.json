@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 395,
+  "count": 398,
   "translationCoverage": {
     "tr": {
-      "present": 1185,
-      "total": 1185,
+      "present": 1194,
+      "total": 1194,
       "percent": 100
     }
   },
@@ -33,6 +33,7 @@
     "barbell-floor-press",
     "barbell-glute-bridge",
     "barbell-hip-thrust",
+    "barbell-reverse-curl",
     "barbell-reverse-lunge",
     "barbell-reverse-wrist-curl",
     "barbell-shrug",
@@ -255,6 +256,7 @@
     "plate-loaded-iso-lateral-decline-chest-press",
     "plate-loaded-iso-lateral-horizontal-bench-press",
     "plate-loaded-iso-lateral-incline-press",
+    "plate-loaded-iso-lateral-row",
     "plate-loaded-iso-lateral-super-incline-press",
     "plate-loaded-iso-lateral-wide-chest-press",
     "plate-loaded-iso-lateral-wide-pulldown",
@@ -262,6 +264,7 @@
     "plate-loaded-machine-shrug",
     "plate-loaded-reverse-lunge",
     "plate-loaded-seated-dip",
+    "plate-loaded-super-fly",
     "plate-loaded-super-squat-press",
     "plate-loaded-tibia-dorsi-flexion",
     "plate-pinch",
