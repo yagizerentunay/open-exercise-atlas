@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 433,
+  "count": 434,
   "translationCoverage": {
     "tr": {
-      "present": 1299,
-      "total": 1299,
+      "present": 1302,
+      "total": 1302,
       "percent": 100
     }
   },
@@ -140,6 +140,7 @@
     "dumbbell-kickstand-romanian-deadlift",
     "dumbbell-lateral-lunge",
     "dumbbell-lateral-raise",
+    "dumbbell-overhead-triceps-extension",
     "dumbbell-pullover",
     "dumbbell-push-press",
     "dumbbell-radial-deviation",

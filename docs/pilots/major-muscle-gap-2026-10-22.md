@@ -392,3 +392,13 @@ The bilingual record and original two-phase transparent illustration bring the c
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Wide-Grip Pull-Up | `data/exercises/wide-grip-pull-up.json` | `media/exercises/wide-grip-pull-up.webp` | `dcac29180d6a2cece279556eabcec66ad22a28d7d2558fea00ac16ff5fc55d25` |
+
+## Dumbbell Overhead Triceps Extension — 22 October 2026
+
+Atlas had a single-arm standing dumbbell overhead extension and a two-hand lying extension, but lacked the common standing variation holding one dumbbell with both hands. ACE's exercise-library entry describes the split stance, two-hand overhead hold, controlled elbow bend behind the head, and extension without locking the elbows. Source: [ACE Triceps Extension](https://www.acefitness.org/resources/everyone/exercise-library/74/triceps-extension/).
+
+The bilingual record and original two-phase transparent illustration bring the catalog to 434 exercises. The triceps are highlighted, and loose opaque shorts cover the hips, buttocks, and groin.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Dumbbell Overhead Triceps Extension | `data/exercises/dumbbell-overhead-triceps-extension.json` | `media/exercises/dumbbell-overhead-triceps-extension.webp` | `2564760a196f22d092a9df40dfa996cb2aaa6bd685c5f6fed48d6cd965a934af` |

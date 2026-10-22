@@ -4,7 +4,7 @@
 
 - **Asset:** `media/exercises/good-morning-atlas.webp` (190,800 bytes; SHA-256 `7f9f22cde84867087f7e166508ee078507654fcedad444c6d13c03677dcffb2d`).
 - **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** Original transparent 1254 × 1254 RGBA illustration converted to WebP with FFmpeg/libwebp (quality 90, alpha retained). Two positions show a neutral-spine hip hinge with the bar supported across the upper back; hamstrings are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
+- **Method:** Original transparent 1254 × 1254 RGBA illustration converted to WebP with Pillow (quality 90, alpha retained). Two positions show a neutral-spine hip hinge with the bar supported across the upper back; hamstrings are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
 - **Movement source:** [NASM Good Mornings](https://www.nasm.org/resource-center/exercise-library/good-mornings) documents bar placement, hip hinge, slight knee bend, neutral spine, controlled return, and primary/secondary muscle groups. No third-party artwork was imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
 - **Record:** [`good-morning.json`](../data/exercises/good-morning.json). The existing stable ID was retained after discovering it already represented the barbell Good Morning; the duplicate barbell-prefixed record was removed.
 
@@ -608,7 +608,7 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 
 - **Asset:** `media/exercises/double-kettlebell-front-squat.webp` (222,160 bytes; SHA-256 `6f28bda9b607d4e752ed456afbaedf1f16457e2916a7b8816ed86807fbb05e7d5`).
 - **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** Original transparent 1254 × 1254 RGBA illustration converted to WebP with FFmpeg/libwebp (quality 90, alpha retained). Two positions show one kettlebell in each shoulder's front rack; quadriceps are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
+- **Method:** Original transparent 1254 × 1254 RGBA illustration converted to WebP with Pillow (quality 90, alpha retained). Two positions show one kettlebell in each shoulder's front rack; quadriceps are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
 - **Movement source:** [NASM Kettlebell Front Squat](https://www.nasm.org/resource-center/exercise-library/kettlebell-front-squat) lists the movement; [Kettlebell RX manual](https://kettlebellrx.com/wp-content/uploads/2020/05/KB-Rx-1.0-Manual-2019_.pdf) documents two kettlebells in the rack position with elbows close to the torso. No third-party artwork was imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
 - **Record:** [`double-kettlebell-front-squat.json`](../data/exercises/double-kettlebell-front-squat.json).
 
@@ -616,7 +616,7 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 
 - **Asset:** `media/exercises/barbell-box-squat.webp` (SHA-256 `5239287f95ee8c2e3c82231dedf32a1607d5ede529869dd25c3849e4cfb183bc`).
 - **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** Original transparent 1254 × 1254 RGBA illustration resized to 1024 × 1024 and converted to WebP with FFmpeg/libwebp (quality 90, alpha retained). Two side-view phases show a loaded squat with a brief, controlled box touch; quadriceps are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
+- **Method:** Original transparent 1254 × 1254 RGBA illustration resized to 1024 × 1024 and converted to WebP with Pillow (quality 90, alpha retained). Two side-view phases show a loaded squat with a brief, controlled box touch; quadriceps are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
 - **Movement source:** NSCA includes touch-and-go box squats in its fundamental squat progression; CrossFit describes the box squat as a back-squat variation that reaches the box and pauses before standing. Sources: [NSCA, Progressive Strategies for Teaching Fundamental Resistance Training Movement Patterns](https://www.nsca.com/contentassets/3d09f06f0b4c4f6fbd8cc382ed1f3d4a/ptq-10.2.1-progressive-strategies-for-teaching-fundamental-resistance-training-movement-patterns.pdf) and [CrossFit, The Back Squat](https://www.crossfit.com/essentials/the-back-squat).
 - **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`barbell-box-squat.json`](../data/exercises/barbell-box-squat.json).
@@ -625,7 +625,16 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 
 - **Asset:** `media/exercises/wide-grip-pull-up.webp` (SHA-256 `dcac29180d6a2cece279556eabcec66ad22a28d7d2558fea00ac16ff5fc55d25`).
 - **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** Original transparent 1254 × 1254 RGBA illustration resized to 1024 × 1024 and converted to WebP with FFmpeg/libwebp (quality 90, alpha retained). Two rear-view phases show an overhand pull-up with hands clearly wider than the shoulders; lats are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
+- **Method:** Original transparent 1254 × 1254 RGBA illustration resized to 1024 × 1024 and converted to WebP with Pillow (quality 90, alpha retained). Two rear-view phases show an overhand pull-up with hands clearly wider than the shoulders; lats are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
 - **Movement source:** NASM describes the wide-grip pull-up as a distinct variation; ACE's pull-up guidance emphasizes shoulder control and a shoulder-comfortable range. Sources: [NASM Chin-Ups vs. Pull-Ups](https://www.nasm.org/resource-center/blog/chin-ups-vs-pull-ups-the-difference-the-benefits-muscles-worked) and [ACE Pull-Ups](https://www.acefitness.org/resources/everyone/exercise-library/191/pull-ups/).
 - **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`wide-grip-pull-up.json`](../data/exercises/wide-grip-pull-up.json).
+
+## Dumbbell Overhead Triceps Extension illustration
+
+- **Asset:** `media/exercises/dumbbell-overhead-triceps-extension.webp` (SHA-256 `2564760a196f22d092a9df40dfa996cb2aaa6bd685c5f6fed48d6cd965a934af`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 RGBA illustration resized to 1024 × 1024 and converted to WebP with Pillow (quality 90, alpha retained). Two standing phases show one dumbbell held with both hands overhead and lowered behind the head through elbow flexion; triceps are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
+- **Movement source:** ACE's exercise library documents the two-hand overhead dumbbell setup and controlled elbow extension. Source: [ACE Triceps Extension](https://www.acefitness.org/resources/everyone/exercise-library/74/triceps-extension/).
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`dumbbell-overhead-triceps-extension.json`](../data/exercises/dumbbell-overhead-triceps-extension.json).
