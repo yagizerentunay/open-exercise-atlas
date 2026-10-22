@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-rope-rear-delt-row",
+  "slug": "cable-rope-rear-delt-row",
+  "name": {
+    "en": "Cable Rope Rear-Delt Row",
+    "tr": "Halatlı Kablo Arka Omuz Row"
+  },
+  "description": {
+    "en": "A high-elbow cable row that draws a rope toward the upper chest to emphasize the rear deltoids.",
+    "tr": "Arka omuzları öne çıkaran, halatın üst göğse çekildiği yüksek dirsekli kablo row hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["cable"],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": ["upper-back", "traps", "biceps"],
+  "instructions": {
+    "en": [
+      "Attach a rope to a high pulley and stand facing it in a stable staggered stance. Step back until the cable is taut, then hold both rope ends with your arms reaching forward.",
+      "Keep your torso upright and shoulders away from your ears. Row the rope toward your upper chest while driving your elbows out to the sides at about shoulder height.",
+      "Pause briefly without leaning back, then extend your arms forward under control to return to the start."
+    ],
+    "tr": [
+      "Halatı yüksek makaraya takıp makaraya dönük, dengeli ve ayakların ayrık durduğu bir pozisyon al. Kablo gerilene kadar geriye adım at; ardından kollarını öne uzatıp halatın iki ucunu kavra.",
+      "Gövdeni dik tut ve omuzlarını kulaklarından uzaklaştır. Dirseklerini yaklaşık omuz hizasında yanlara sürerken halatı üst göğsüne doğru çek.",
+      "Geriye yaslanmadan kısa süre durakla; sonra başlangıca dönmek için kollarını kontrollü biçimde öne uzat."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "StrengthLog Cable Rear Delt Row; FitnessTracker Cable Rope Rear-Delt Rows; original Atlas editorial record",
+    "url": "https://www.strengthlog.com/cable-rear-delt-row/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": ["Cable_Rope_Rear-Delt_Rows"],
+  "alternatives": ["face-pull", "cable-rear-delt-fly", "seated-cable-row"],
+  "media": [
+    {
+      "path": "media/exercises/cable-rope-rear-delt-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two side-by-side grayscale phases show a fully clothed athlete performing a high-cable rope rear-delt row. The elbows flare outward and the rope moves from an extended reach to the upper chest; rear deltoids are highlighted red on the textured opaque shirt, and shorts cover the hips and buttocks.",
+        "tr": "Yüksek makaradan halatlı arka omuz row yapan, tamamen spor kıyafetli sporcunun yan yana iki gri aşaması; dirsekler yana açılır ve halat uzanma konumundan üst göğse çekilir. Arka omuzlar dokulu opak tişört üzerinde kırmızı vurgulu; şort kalçayı örter."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-rope-rear-delt-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "recumbent-bike",
+  "slug": "recumbent-bike",
+  "name": {
+    "en": "Recumbent Bike",
+    "tr": "Yatay Sabit Bisiklet"
+  },
+  "description": {
+    "en": "Steady or interval pedaling on a stationary bike with a reclined seat and backrest.",
+    "tr": "Yatık koltuk ve sırt dayanağı bulunan sabit bisiklette düzenli tempoda veya aralıklarla pedal çevirme çalışması."
+  },
+  "category": "cardio",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Sit back against the backrest and adjust the seat so your knee stays slightly bent when the far pedal reaches the bottom of its stroke; adjust while the pedals are stopped.",
+      "Place the balls of your feet on the pedals and secure the straps if fitted. Hold the side handles and pedal smoothly without locking your knees or rocking in the seat.",
+      "Start at a comfortable resistance, ease your pace down before stopping, and wait for the pedals to settle before stepping off."
+    ],
+    "tr": [
+      "Sırtını dayanağa yasla; en uzaktaki pedal hareketin alt noktasına geldiğinde dizin hafif bükülü kalacak şekilde koltuğu ayarla. Ayarı pedallar durmuşken yap.",
+      "Ayaklarının ön kısmını pedallara yerleştir ve varsa kayışları sabitle. Yan tutacakları kavrayıp dizlerini kilitlemeden, koltukta sallanmadan akıcı pedal çevir.",
+      "Rahat bir dirençle başla; durmadan önce temponu azalt ve inmeden önce pedalların hareketinin sona ermesini bekle."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Life Fitness Atmos Recumbent Bike seat adjustment guide; legacy Recumbent_Bike record",
+    "url": "https://support.lifefitness.com/hc/en-us/articles/42862239184279-How-to-Adjust-the-Seat-on-Your-Life-Fitness-Atmos-Recumbent-Bike",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "upright-stationary-bike",
+    "rowing-machine"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/recumbent-bike.webp",
+      "role": "reference",
+      "alt": {
+        "en": "A grayscale illustration shows a fully clothed athlete pedaling a recumbent stationary bike with a padded backrest; opaque shorts cover the hips and buttocks, and only exposed calves are highlighted red.",
+        "tr": "Yastıklı sırt dayanağı olan yatay sabit bisiklette pedal çeviren, tamamen spor kıyafetli sporcunun gri çizimi; opak şort kalçayı örter, yalnız açık baldırlar kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/recumbent-bike.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ],
+  "legacyIds": [
+    "Recumbent_Bike"
+  ]
+}

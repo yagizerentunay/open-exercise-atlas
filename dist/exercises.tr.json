@@ -922,6 +922,64 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-board-press",
+    "slug": "barbell-board-press",
+    "name": "Halterle Board Press",
+    "description": "Barın göğüsteki tahtaya kadar indirilip yeniden itildiği kısmi hareket aralıklı bench press.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench",
+      "other"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders",
+      "forearms"
+    ],
+    "instructions": [
+      "Barı emniyet kolları ayarlı bir rack’e yerleştirip düz sehpaya uzan; bir gözcüden göğsünün ortasında sağlam bir tahtayı tutmasını iste ve kontrol edebileceğin bir yük seç.",
+      "Barı yaklaşık omuz genişliğinde kavra; bileklerini dirseklerinin üzerinde tutarak tahtaya hafifçe değene kadar yavaşça indir, sektirme.",
+      "Barı kolların neredeyse düz olana kadar it; ardından gözcünün yardımıyla rack’e geri yerleştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Fitness Board Press guide; original Atlas adaptation",
+      "url": "https://www.muscleandfitness.com/workouts/chest-exercises/6-bench-press-variations-more-mass-0/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Board_Press"
+    ],
+    "alternatives": [
+      "barbell-floor-press",
+      "close-grip-bench-press",
+      "barbell-bench-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-board-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete bench pressing a bar to a board held on the chest by a spotter, then pressing it up; triceps are highlighted red.",
+          "tr": "Gözcünün göğüste tuttuğu tahtaya kadar barı indirip yeniden iten, opak kıyafetli sporcunun iki gri aşaması; arka kol kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-board-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-box-squat",
     "slug": "barbell-box-squat",
     "name": "Halterle Box Squat",
@@ -1019,6 +1077,182 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-bulgarian-split-squat.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://www.sussex.ac.uk/sport/documents/6-bulgarian-split-squat-barbell.pdf"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-clean",
+    "slug": "barbell-clean",
+    "name": "Halter Clean",
+    "description": "Halterin yerden ön omuz konumuna çekilip tam squat altında karşılandıktan sonra ayağa kalkılarak tamamlandığı olimpik kaldırış.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Bar orta ayak hizasındayken ayakta dur; bacaklarının hemen dışından kavra, omuzlarını barın biraz önünde tutarak gövdeni sabitle ve sırtını nötr konumda koru.",
+      "Yeri itip barı vücuduna yakın tutarak kalça ve dizlerini aç; ardından barın altına girip dirseklerin önde, tam squat pozisyonunda omuzlarında karşıla.",
+      "Barı ön omuz konumunda sabit tutup kalça ve dizlerini açarak ayağa kalk; yeniden başlamadan önce barı güvenli şekilde indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit How to Do a Clean; Squat Clean Progression; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/foundational-movement-clean-what-is-a-clean",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Clean"
+    ],
+    "alternatives": [
+      "barbell-power-clean",
+      "barbell-clean-and-jerk",
+      "front-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete moving a barbell from floor setup to a full-squat front-rack catch; opaque tank and full-length compression leggings cover the torso, hips and buttocks, with only the exposed shoulders highlighted red.",
+          "tr": "Halteri yerden çekip tam squat altında ön omuz konumunda karşılayan sporcunun iki gri aşaması; opak atlet ve uzun kompresyon taytı gövdeyi, kalçayı ve kalçanın arka kısmını örter, yalnızca açık omuzlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-clean-and-jerk",
+    "slug": "barbell-clean-and-jerk",
+    "name": "Halterle Silkme",
+    "description": "Halterin clean ile yerden omuzlara alındığı, ardından jerk ile baş üstüne itildiği olimpik kaldırış.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "traps",
+      "triceps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Bar orta ayak hizasındayken ayakta dur, bacaklarının hemen dışından kavra ve omuzların barın biraz önündeyken gövdeni sabitle.",
+      "Barı vücuduna yakın çekip omuzlarında dengeli bir ön omuz pozisyonunda karşıla.",
+      "Dizlerini hafifçe büküp itiş yaparak barı baş üstüne çıkar; split veya push jerk ile altına gir, ayaklarını kalçalarının altına toplayıp kollarını kilitle ve barı kontrollü indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Clean and Jerk guide and movement standards; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/the-clean-and-jerk",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Clean_and_Jerk"
+    ],
+    "alternatives": [
+      "barbell-power-clean",
+      "barbell-snatch",
+      "barbell-push-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-clean-and-jerk.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Three grayscale phases show an athlete in an opaque top and full-length leggings moving a barbell from floor setup to front rack and overhead split jerk; buttocks are covered and no red highlight appears on the leggings.",
+          "tr": "Spor üstü ve kalçayı örten uzun tayt giyen sporcunun halteri yerden ön omuz konumuna, ardından split jerk ile baş üstüne taşıdığı üç gri aşama; taytta kırmızı vurgu yoktur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean-and-jerk.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-clean-pull",
+    "slug": "barbell-clean-pull",
+    "name": "Halter Clean Pull",
+    "description": "Barın omuzlarda karşılanmadığı, yerden başlayıp tam açışla hızlandırıldığı olimpik clean çekiş egzersizi.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "traps",
+      "lower-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Bar orta ayak hizasındayken clean genişliğinde tutuş al; sırtını nötr tutup omuzlarını barın biraz önünde konumlandır, kollarını uzun bırak ve gövdeni sık.",
+      "Barı yakında tutarak yeri it ve dizlerini aç; bar dizlerini geçene kadar sırt açını koru.",
+      "Bar alt-orta uyluk hizasındayken kalça, diz ve ayak bileklerini dikey biçimde açıp omuzlarını silkerek barı hızlandır; altına girip karşılama yapma. Yeniden başlamadan önce barı güvenle indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Catalyst Athletics Clean Pull exercise guide; original Atlas adaptation",
+      "url": "https://catalystathletics.com/exercise/98/Clean-Pull/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Clean_Pull"
+    ],
+    "alternatives": [
+      "barbell-power-clean",
+      "barbell-clean",
+      "conventional-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-clean-pull.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete pulling a barbell from the floor to full extension with the bar below the chest and no shoulder catch; quadriceps and exposed traps are highlighted red.",
+          "tr": "Halteri yerden çekip göğsün altında tutarak omuzlarda karşılamadan tam açışa ulaşan, opak kıyafetli sporcunun iki gri aşaması; ön bacak ve açık trapez kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean-pull.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -1169,6 +1403,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-finger-curl",
+    "slug": "barbell-finger-curl",
+    "name": "Halterle Parmak Curl",
+    "description": "Hafif halterin parmak uçlarına doğru yuvarlanmasına izin verip parmakları kapatarak avuçlara geri aldığın ön kol egzersizi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Bir sehpaya otur; avuçların yukarı bakarken ön kollarını uyluklarına dayayıp bileklerini dizlerinin biraz önünde tut. Çok hafif bir halteri güvenli biçimde kavra.",
+      "Ön kollarını destekli ve bileklerini olabildiğince sabit tutarak parmaklarını aç; halter kayıp düşmeden parmak eklemlerine doğru yuvarlansın.",
+      "Parmaklarını kapatıp halteri avuçlarına geri al ve kontrollü biçimde tekrarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Finger Curls exercise guide; original Atlas adaptation",
+      "url": "https://fitnesstracker.ca/resources/exercises/finger-curls/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Finger_Curls"
+    ],
+    "alternatives": [
+      "barbell-wrist-curl",
+      "behind-the-back-barbell-wrist-curl",
+      "dumbbell-reverse-wrist-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-finger-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete seated with forearms supported and palms up, opening the fingers to lower a light barbell toward the fingertips and closing them to return it to the palms; forearms are highlighted red.",
+          "tr": "Ön kolları destekli, avuçları yukarı bakan ve hafif halteri parmaklarına indirip parmaklarını kapatarak geri alan opak kıyafetli sporcunun iki gri aşaması; ön kollar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-finger-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-floor-press",
     "slug": "barbell-floor-press",
     "name": "Halterle Floor Press",
@@ -1311,6 +1598,121 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-hack-squat",
+    "slug": "barbell-hack-squat",
+    "name": "Halterle Hack Squat",
+    "description": "Halterin kaldırış boyunca bacakların arkasında tutulduğu serbest ağırlık squat hareketi.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Yüklü halteri kaval kemiklerinin hemen arkasında konumlandırıp ayaklarını yaklaşık omuz genişliğinde aç; kalçanı ve dizlerini bükerek kolların düz, sırtın nötr olacak şekilde halteri bacaklarının hemen dışından kavra.",
+      "Gövdeni sabitleyip zemini it; halteri bacaklarının arkasında yakın tutarak diz ve kalçanı birlikte açıp dik dur.",
+      "Kalçanı ve dizlerini kontrollü bükerek halteri bacaklarının arkasından yere indir; sonraki tekrardan önce tutuşunu ve duruşunu yeniden ayarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Fitness Barbell Hack Squat guide; legacy Barbell_Hack_Squat record; original Atlas editorial record",
+      "url": "https://www.muscleandfitness.com/workouts/leg-exercises/how-barbell-hack-squat/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Hack_Squat"
+    ],
+    "alternatives": [
+      "hack-squat",
+      "barbell-back-squat",
+      "conventional-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-hack-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a barbell hack squat with the bar held behind the calves and thighs from a crouched start to standing; opaque shorts cover the hips and buttocks, while exposed quadriceps below the shorts are highlighted red.",
+          "tr": "Halterin bacakların arkasında tutulduğu hack squat hareketinin çömelik başlangıçtan dik duruşa iki gri aşaması; opak şort kalça ve kalçanın arka kısmını örter, şortun altındaki açık ön bacaklar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-hack-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-hang-clean",
+    "slug": "barbell-hang-clean",
+    "name": "Halterle Hang Clean",
+    "description": "Halterin uyluk önünde asılı konumdan başlatılıp tam squat altında ön omuzda karşılandığı clean varyasyonu.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Halteri dizlerinin hemen üstünde ya da uyluk ortasında tutarak dik dur; ellerini bacaklarının hemen dışına yerleştir, dizlerini hafif bük ve gövdeni sabitle.",
+      "Hafifçe kalçadan eğil; ardından halteri yakında tutarak kalça ve dizlerini hızla aç, altına girip dirseklerin önde tam squat pozisyonunda omuzlarında karşıla.",
+      "Barı ön omuz konumunda tutarak kalça ve dizlerini açıp ayağa kalk; yeniden başlamadan önce halteri kontrollü biçimde indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Hang Squat Clean guide; legacy Hang_Clean record; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/the-hang-squat-clean",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Hang_Clean"
+    ],
+    "alternatives": [
+      "barbell-clean",
+      "barbell-power-clean",
+      "two-dumbbell-hang-clean"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-hang-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a barbell hang clean from the mid-thigh hang to a full-squat front-rack catch; opaque tank and full-length compression leggings cover the torso, hips and buttocks, with only exposed shoulders highlighted red.",
+          "tr": "Halterle hang clean hareketinin uyluk ortasında asılı başlangıçtan tam squat ön omuz karşılamasına iki gri aşaması; opak atlet ve uzun kompresyon taytı gövdeyi ve kalçayı örter, yalnızca açık omuzlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-hang-clean.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-hip-thrust",
     "slug": "barbell-hip-thrust",
     "name": "Halterle Hip Thrust",
@@ -1359,6 +1761,180 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-lateral-lunge",
+    "slug": "barbell-lateral-lunge",
+    "name": "Halterle Yan Lunge",
+    "description": "Halter üst sırttayken kalçanın bükülü bacağa doğru kaydırıldığı yüklü yan lunge hareketi.",
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "adductors"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Halteri boynuna değil üst sırtına güvenli biçimde yerleştir; ayakların yerde ve parmak uçların hafif dışa dönük olacak şekilde geniş dur.",
+      "Bir dizini bükerken kalçanı o tarafa gönder ve karşı bacağını uzun tut; göğsünü açık tut, bükülü dizini ayak parmaklarınla aynı yönde ilerlet.",
+      "Bükülü bacağından iterek geniş duruşa dön ve diğer tarafa tekrarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "U.S. Marine Corps Force Fitness Exercise Guidebook; original Atlas adaptation",
+      "url": "https://www.tbs.marines.mil/Portals/230/Force%20Fitness%20Exercise%20Guidebook.pdf?ver=eGNb828lVw2cF1Ji_XVUsg%3D%3D",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Side_Split_Squat"
+    ],
+    "alternatives": [
+      "lateral-lunge",
+      "dumbbell-lateral-lunge",
+      "cossack-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-lateral-lunge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete holding a barbell across the upper back, first standing wide and then bending one knee into a lateral lunge; the exposed quadriceps are highlighted red.",
+          "tr": "Halteri üst sırtında taşıyan opak kıyafetli sporcunun önce geniş durduğu, sonra bir dizini bükerek yana lunge yaptığı iki gri aşama; açıkta kalan ön bacak kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-lateral-lunge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-overhead-squat",
+    "slug": "barbell-overhead-squat",
+    "name": "Halterle Baş Üstü Squat",
+    "description": "Halterin geniş tutuşla baş üstünde kilitli tutulduğu tam squat hareketi.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "lower-back",
+      "traps"
+    ],
+    "instructions": [
+      "Geniş tutuş alıp halteri raftan ya da hafif bir koparmayla dengeli biçimde baş üstünde kilitle; ayaklarını yaklaşık omuz genişliğinde açıp gövdeni sabitle.",
+      "Halteri orta ayak hizasında dengede, dirseklerini kilitli tutarak kalça kıvrımın dizlerinin altına inene kadar çömel; topuklarını yerde ve dizlerini ayak yönünde tut.",
+      "Gövdeni sabit ve halteri baş üstünde dengeli tutarak zemini itip ayağa kalk; ardından halteri kontrollü biçimde rafa yerleştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit The Overhead Squat; legacy Overhead_Squat record; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/the-overhead-squat",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Overhead_Squat"
+    ],
+    "alternatives": [
+      "barbell-back-squat",
+      "barbell-snatch",
+      "barbell-clean-and-jerk"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-overhead-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete standing and squatting deeply with a barbell locked overhead in a wide grip; opaque tank and full-length compression leggings cover the torso, hips and buttocks, with only exposed shoulders highlighted red.",
+          "tr": "Halteri geniş tutuşla baş üstünde kilitli tutarak ayakta duran ve derin çömelme yapan sporcunun iki gri aşaması; opak atlet ve uzun kompresyon taytı gövdeyi ve kalçayı örter, yalnızca açık omuzlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-overhead-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-power-clean",
+    "slug": "barbell-power-clean",
+    "name": "Halterle Power Clean",
+    "description": "Halteri yerden omuzlara patlayıcı biçimde çekip paralelin üzerinde karşılayarak ayağa kalkılan güç kaldırışı.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Bar orta ayak hizasındayken ayakta durup bacaklarının hemen dışından üstten kapalı tutuş al; gövdeni sabitle ve omuzlarını barın biraz önünde tut.",
+      "Yeri itip kalça ve dizlerini açarken barı yakında tut; ardından altına girip dirseklerin önde, bar omuzlarında olacak şekilde paralelin üzerinde karşıla.",
+      "Barı ön omuz konumunda sabit tutarak kalça ve dizlerini tamamen aç; ardından kontrollü biçimde yere indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Open 11.5 Power Clean movement standards; original Atlas editorial record",
+      "url": "https://games-assets.crossfit.com/11.5_pdf.pdf",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Power_Clean"
+    ],
+    "alternatives": [
+      "barbell-snatch",
+      "two-dumbbell-hang-clean",
+      "barbell-clean-and-jerk"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-power-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lifting a barbell from the floor and receiving it at the shoulders in a power clean; an opaque top and shorts cover the torso and buttocks, with shoulders and quadriceps highlighted red.",
+          "tr": "Halteri yerden çekip omuzlarında power clean karşılaması yapan, spor kıyafetli sporcunun iki gri aşaması; opak üst ve şort gövdeyle kalçayı örter, omuz ve ön bacak kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-power-clean.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -1571,6 +2147,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-seated-calf-raise",
+    "slug": "barbell-seated-calf-raise",
+    "name": "Halterle Oturarak Baldır Yükseltme",
+    "description": "Dizlerin hemen üstündeki uyluklara pedli bir halter yerleştirilerek oturarak yapılan baldır yükseltme hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sağlam bir sehpanın ön tarafına otur; ayak uçlarını alçak ve sabit bir basamağa, topuklarını boşta bırakacak şekilde yerleştir. Uygun ağırlıktaki pedli halteri dizlerinin hemen üstündeki uyluklarına koy.",
+      "Gövdeni sabit tut; ayak uçlarından iterek topuklarını yükselt ve üstte kısa süre dur.",
+      "Zıplamadan, rahat hareket aralığında topuklarını yavaşça indir ve tekrarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Strength Seated Barbell Calf Raise guide; original Atlas adaptation",
+      "url": "https://www.muscleandstrength.com/exercises/seated-barbell-calf-raise.html",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Seated_Calf_Raise"
+    ],
+    "alternatives": [
+      "seated-calf-raise",
+      "seated-dumbbell-calf-raise",
+      "calf-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-seated-calf-raise.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete seated on a bench with a padded barbell across the thighs and forefeet on a step, lowering and raising the heels; the calves are highlighted red.",
+          "tr": "Pedli halter uyluklarında, ayak uçları basamakta olacak şekilde sehpa üzerinde oturan ve topuklarını indirip kaldıran opak kıyafetli sporcunun iki gri aşaması; baldırlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-seated-calf-raise.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-shrug",
     "slug": "barbell-shrug",
     "name": "Halterle Omuz Silkme",
@@ -1670,6 +2299,118 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-barbell-shrug-behind-back.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-snatch",
+    "slug": "barbell-snatch",
+    "name": "Halter Koparma",
+    "description": "Halterin tek ve kesintisiz bir hareketle yerden baş üstü squat pozisyonuna kaldırıldığı ileri düzey bir kaldırış.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "traps",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Bar orta ayak hizasındayken ayakta durup geniş üstten koparma tutuşu al; gövdeni sabitle ve barı kaval kemiklerine yakın tut.",
+      "Yeri itip kalça ve dizlerini açarken barı yakında tut; ardından altına girip kollarını kilitleyerek dengeli bir squat pozisyonunda baş üstünde karşıla.",
+      "Barı dengeli biçimde baş üstünde tutarak kalça ve dizlerini tamamen aç; sonra barı güvenli şekilde indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Level 1 Training Guide, The Snatch; original Atlas editorial record",
+      "url": "https://library.crossfit.com/free/pdf/CFJ_English_Level1_TrainingGuide.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-snatch",
+      "barbell-push-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-snatch.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a barbell snatch from floor setup to an overhead squat catch, with shoulders, glutes and quadriceps highlighted red.",
+          "tr": "Halter koparmanın yerden başlangıç ve baş üstü squat karşılaması iki gri aşamada gösteriliyor; omuz, kalça ve ön bacak kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-snatch.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-step-up",
+    "slug": "barbell-step-up",
+    "name": "Halterle Yükseltiye Adım",
+    "description": "Halter üst sırtta dururken bir ayağın itişiyle vücudun sabit bir yükseltiye çıkarıldığı yüklü tek bacak egzersizi.",
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Önüne sağlam bir yükselti koy; barı boynuna değil üst sırtına güvenli biçimde yerleştir, dik durup gövdeni sabitle.",
+      "Bir ayağını tamamen yükseltiye bas, dizini ayak parmaklarınla aynı yönde tut ve arkadaki ayaktan güçlü itiş almadan öndeki ayağınla yüksel.",
+      "Yükseltide dengeni bul; sonra kontrollü biçimde aşağı in ve diğer tarafla tekrarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "ACE Step-Up exercise guide and barbell training article; original Atlas editorial record",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/28/step-up/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Step_Ups"
+    ],
+    "alternatives": [
+      "step-up",
+      "barbell-forward-lunge",
+      "barbell-walking-lunge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-step-up.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete with a barbell across the upper back beginning on the floor and stepping onto a stable box; shorts cover the buttocks and the quadriceps are highlighted red.",
+          "tr": "Halteri üst sırtında taşıyarak yerden sağlam bir kutuya çıkan, opak spor kıyafetli sporcunun iki gri aşaması; şort kalçayı örter, ön bacak kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-step-up.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -3421,6 +4162,169 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-deadlift",
+    "slug": "cable-deadlift",
+    "name": "Kablo Deadlift",
+    "description": "Düşük kablo makarasına bağlı düz barla yerden başlayarak yapılan kalça menteşesi temelli deadlift.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "lower-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Düz barı en alçak makaraya takıp kablonun üzerine ayaklarını yaklaşık kalça genişliğinde açarak yerleş; kalçanı geriye gönderip dizlerini gerektiği kadar bük, omurganı nötr tutarak kolların düz biçimde barı kavra.",
+      "Gövdeni sıkıp zemini it; barı bacaklarına yakın tutarken kalçanı ve dizlerini birlikte aç.",
+      "Geriye yaslanmadan dik dur; ardından kalçanı büküp dizlerini kontrollü şekilde kırarak barı başlangıç konumuna indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Kysero Cable Deadlift guide; legacy Cable Deadlifts record; original Atlas editorial record",
+      "url": "https://kysero.io/exercise-library/cable-deadlift/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Deadlifts"
+    ],
+    "alternatives": [
+      "conventional-deadlift",
+      "cable-romanian-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-deadlift.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete performing a low-pulley cable deadlift, lowering to grip a straight bar and then standing tall with it; opaque shorts cover the buttocks and only exposed hamstrings are highlighted red.",
+          "tr": "Alçak makaralı kablo deadlift yapan, düz barı kavramak için eğilen ve ardından dik duran spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, yalnızca açık hamstringler kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-deadlift.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-flat-bench-fly",
+    "slug": "cable-flat-bench-fly",
+    "name": "Düz Sehpada Kablo Fly",
+    "description": "İki alçak kablo makarası arasında düz sehpaya uzanarak yapılan göğüs izolasyon açışı.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Düz sehpaya iki kablo istifinin arasına yerleştirip makaraları alçağa ayarla; her elinle bir tutacak kavrayarak uzan ve dirseklerini hafif bükülü tut.",
+      "Omuzların sehpada destekli kalırken kollarını kontrollü bir yayla yana aç; göğsünde rahat bir esneme hissedince dur.",
+      "Dirsek açını değiştirmeden tutacakları göğsünün üzerinde birleştir; yavaşça geri dön ve omuzlarını gövdenin gerisine zorlamamaya dikkat et."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Inspire FT2 Exercise Manual; legacy Flat_Bench_Cable_Flyes record; original Atlas editorial record",
+      "url": "https://inspirefitnesssolutions.co.uk/wp-content/uploads/2015/10/Inspire-FT2-Exercise-Manual.pdf",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Flat_Bench_Cable_Flyes"
+    ],
+    "alternatives": [
+      "cable-crossover",
+      "incline-cable-fly",
+      "dumbbell-fly"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-flat-bench-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on a flat bench between low cable pulleys and opening then bringing the handles together in a fly arc; opaque shorts cover the hips and buttocks, while the chest is highlighted red on clearly textured tank fabric.",
+          "tr": "Alçak kablo makaraları arasında düz sehpaya uzanıp tutacakları fly yayıyla açıp birleştiren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs dokulu atlet kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-flat-bench-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-front-raise",
+    "slug": "cable-front-raise",
+    "name": "Kabloda Öne Kaldırış",
+    "description": "Alçak makara tutacağının gövde önünde omuz hizasına kaldırıldığı omuz izolasyon hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "traps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Tek tutacağı en alçak makaraya tak ve kablo kulesine sırtını dön; tutacağı bir uyluğunun ön yanında tut.",
+      "Gövdeni sabitleyip dirseğini hafif bükülü tutarak tutacağı öne doğru akıcı bir yayla yaklaşık omuz hizasına kaldır; omzunu yukarı çekme.",
+      "Tutacağı yavaşça başlangıç konumuna indir; seti bitirince kol değiştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "PureGym Cable Front Raise exercise guide; original Atlas editorial record",
+      "url": "https://www.puregym.com/exercises/arms-and-shoulders/front-raises/cable-front-raise/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-front-raise",
+      "cable-y-raise",
+      "single-arm-cable-lateral-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-front-raise.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a single-arm low-cable front raise, with a taut cable leading to the lowest pulley and the front deltoid highlighted red.",
+          "tr": "Tek kol alçak makara kablo öne kaldırışının iki gri aşaması; gergin kablo en alçak makaraya uzanıyor ve ön omuz kası kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-front-raise.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-glute-kickback",
     "slug": "cable-glute-kickback",
     "name": "Kablo Glute Kickback",
@@ -3618,6 +4522,112 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-pallof-press",
+    "slug": "cable-pallof-press",
+    "name": "Kabloda Pallof Press",
+    "description": "Göğüs hizasındaki kablo tutacağını gövdeyi döndürmeden öne iterek yapılan ayakta core egzersizi.",
+    "category": "strength",
+    "movementPattern": "rotation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "obliques"
+    ],
+    "secondaryMuscles": [
+      "abdominals"
+    ],
+    "force": "static",
+    "mechanic": "compound",
+    "instructions": [
+      "Tek tutacağı göğüs hizasına ayarla ve kablo makarasına yan dönerek ayaklarını yaklaşık kalça genişliğinde aç; tutacağı göğüs kemiğinde kavra ve kablo gerilene kadar yana doğru uzaklaş.",
+      "Gövdeni sıkıp iki elini göğüs hizasında dümdüz öne uzat; kalçaların ve omuzların karşıya baksın, kablonun seni döndürmesine diren.",
+      "Tutacağı kontrollü biçimde göğsüne geri getir; sonra diğer tarafı çalıştırmak için yönünü değiştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "ACE Standing Anti-Rotation Press guide; legacy Pallof Press record; original Atlas editorial record",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/332/standing-anti-rotation-press/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Pallof_Press"
+    ],
+    "alternatives": [
+      "standing-band-pallof-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-pallof-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete standing side-on to a chest-height cable, first holding the handle at the sternum and then pressing it straight forward while resisting torso rotation; opaque top and shorts cover the body, with obliques highlighted red on the shirt fabric.",
+          "tr": "Göğüs hizasındaki kabloya yan dönük duran sporcunun tutacağı önce göğüs kemiğinde tuttuğu, sonra gövdesini döndürmeden öne ittiği iki gri aşama; opak üst ve şort vücudu örter, oblikler tişört kumaşı üzerinde kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-pallof-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-preacher-curl",
+    "slug": "cable-preacher-curl",
+    "name": "Kabloda Preacher Curl",
+    "description": "Alçak kablo makarasına bağlı düz barla preacher sehpasında yapılan biceps curl.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Düz barı en alçak makaraya takıp preacher sehpasını kablo makarasının önüne yerleştir; göğsün ve üst kolların pedle desteklenecek şekilde oturup barı omuz genişliğinde, avuçların yukarı bakacak biçimde kavra.",
+      "Üst kollarını pedde ve bileklerini düz tutarak gövdeni sallamadan barı omuzlarına doğru kıvır.",
+      "Kablodaki gerilimi koruyarak dirseklerin neredeyse düzleşene kadar barı yavaşça indir; dirseklerini sertçe kilitleme."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Strength Cable Preacher Curl guide; legacy Cable Preacher Curl record; original Atlas editorial record",
+      "url": "https://cdn.muscleandstrength.com/exercises/preacher-cable-curl.html",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Preacher_Curl"
+    ],
+    "alternatives": [
+      "preacher-curl",
+      "cable-biceps-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-preacher-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete seated at a preacher bench with the chest and upper arms supported, curling a straight bar on a low cable; biceps are highlighted red on the short sleeves.",
+          "tr": "Göğsü ve üst kolları preacher sehpasının pedinde destekli oturup alçak kabloya bağlı düz barı kıvıran spor kıyafetli sporcunun iki gri aşaması; biceps kasları kısa kollu tişört üzerinde kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-preacher-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-pull-through",
     "slug": "cable-pull-through",
     "name": "Kablo Pull-Through",
@@ -3718,6 +4728,56 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-cable-rear-delt-fly.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-reverse-crunch",
+    "slug": "cable-reverse-crunch",
+    "name": "Kablolu Ters Crunch",
+    "description": "Ayak bileklerindeki alçak kablo direncine karşı leğen kemiğini göğse doğru kıvıran yer egzersizi.",
+    "category": "strength",
+    "movementPattern": "core",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable",
+      "mat"
+    ],
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Ayak bileği manşetlerini alçak makaraya takıp kablo makarasına ayakların dönük olacak şekilde mata sırtüstü uzan; dizlerini yaklaşık 90 derece bük, kollarını yanlarına koy ve kabloyu hafif gergin tut.",
+      "Karnını sıkıp bacaklarını savurmadan dizlerini göğsüne yaklaştır ve leğen kemiğini hafifçe mattan kıvırarak kaldır.",
+      "Kabloyu kontrol ederek leğen kemiğini ve bacaklarını yavaşça başlangıca indir; ağırlık plakalarının çarpmasına izin verme."
+    ],
+    "source": {
+      "type": "original",
+      "title": "FitnessTracker Cable Reverse Crunch guide; legacy exercise record; original Atlas editorial record",
+      "url": "https://fitnesstracker.ca/resources/exercises/cable-reverse-crunch/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Reverse_Crunch"
+    ],
+    "alternatives": [
+      "reverse-crunch"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-reverse-crunch.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete lying on a mat with ankle cuffs attached to a low cable, drawing bent knees toward the chest and curling the pelvis; an opaque top and shorts cover the torso and buttocks, with abdominals highlighted red on the shirt fabric.",
+          "tr": "Mata uzanıp ayak bileği manşetlerini alçak kabloya bağlayan, dizlerini göğsüne çekip leğen kemiğini kıvıran sporcunun iki gri aşaması; opak üst ve şort gövdeyle kalçayı örter, karın kasları tişört kumaşı üzerinde kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-reverse-crunch.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -3870,6 +4930,62 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-rope-rear-delt-row",
+    "slug": "cable-rope-rear-delt-row",
+    "name": "Halatlı Kablo Arka Omuz Row",
+    "description": "Arka omuzları öne çıkaran, halatın üst göğse çekildiği yüksek dirsekli kablo row hareketi.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "upper-back",
+      "traps",
+      "biceps"
+    ],
+    "instructions": [
+      "Halatı yüksek makaraya takıp makaraya dönük, dengeli ve ayakların ayrık durduğu bir pozisyon al. Kablo gerilene kadar geriye adım at; ardından kollarını öne uzatıp halatın iki ucunu kavra.",
+      "Gövdeni dik tut ve omuzlarını kulaklarından uzaklaştır. Dirseklerini yaklaşık omuz hizasında yanlara sürerken halatı üst göğsüne doğru çek.",
+      "Geriye yaslanmadan kısa süre durakla; sonra başlangıca dönmek için kollarını kontrollü biçimde öne uzat."
+    ],
+    "source": {
+      "type": "original",
+      "title": "StrengthLog Cable Rear Delt Row; FitnessTracker Cable Rope Rear-Delt Rows; original Atlas editorial record",
+      "url": "https://www.strengthlog.com/cable-rear-delt-row/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Rope_Rear-Delt_Rows"
+    ],
+    "alternatives": [
+      "face-pull",
+      "cable-rear-delt-fly",
+      "seated-cable-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-rope-rear-delt-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two side-by-side grayscale phases show a fully clothed athlete performing a high-cable rope rear-delt row. The elbows flare outward and the rope moves from an extended reach to the upper chest; rear deltoids are highlighted red on the textured opaque shirt, and shorts cover the hips and buttocks.",
+          "tr": "Yüksek makaradan halatlı arka omuz row yapan, tamamen spor kıyafetli sporcunun yan yana iki gri aşaması; dirsekler yana açılır ve halat uzanma konumundan üst göğse çekilir. Arka omuzlar dokulu opak tişört üzerinde kırmızı vurgulu; şort kalçayı örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-rope-rear-delt-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-rope-triceps-pushdown",
     "slug": "cable-rope-triceps-pushdown",
     "name": "Halatla Kablo Arka Kol İtişi",
@@ -3914,6 +5030,117 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-rope-triceps-pushdown.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-shotgun-row",
+    "slug": "cable-shotgun-row",
+    "name": "Shotgun Kablo Row",
+    "description": "Gövde öne eğik, boş el öndeki bacağa destekli ve ayaklar ayrık duruşta alçak makaradan tek kolla çekiş yapılan row hareketi.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "upper-back",
+      "biceps",
+      "shoulders",
+      "traps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Alçak makaraya tek tutacak tak. Çalışan kolun tarafındaki ayak önde olacak şekilde makaraya dönük ayrık duruş al, gövdeni hafifçe öne eğ ve boş elini öndeki uyluğuna dayayıp çalışan kolunu makaraya doğru uzat.",
+      "Kalçanı ve gövdeni sabit tutarken kürek kemiğini geriye al; dirseğini gövdene yakın biçimde geriye sürüp tutacağı alt kaburgalarına doğru çek.",
+      "Gövdeni döndürmeden kolunu yavaşça öne uzatıp başlangıca dön; diğer tarafla tekrarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Strength Shotgun Row guide; legacy Shotgun_Row record; original Atlas editorial record",
+      "url": "https://www.muscleandstrength.com/node/3672",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Shotgun_Row"
+    ],
+    "alternatives": [
+      "single-arm-cable-row",
+      "seated-cable-row",
+      "single-arm-high-cable-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-shotgun-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale rear three-quarter phases show a fully clothed athlete in a split stance performing a one-arm low-cable row, with a free hand braced on the forward thigh. Lats are highlighted red on the textured opaque top; shorts cover the hips and buttocks.",
+          "tr": "Ayrık duruşta, boş eli öndeki uyluğunda destekli sporcunun tek kollu alçak kablo row hareketinin iki gri aşaması; latlar dokulu opak atlet üzerinde kırmızı vurgulu, şort kalçayı örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-shotgun-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-shoulder-press",
+    "slug": "cable-shoulder-press",
+    "name": "Kabloda Omuz Presi",
+    "description": "İki alçak kablo makarasının arasında ayakta yapılan baş üstü itiş hareketi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "instructions": [
+      "İki makarayı alçağa ayarlayıp her birine tutacak tak; iki makaranın ortasında, tutacaklar omuz hizasındayken dur. Ayaklarını yaklaşık omuz genişliğinde açıp gövdeni sık.",
+      "Belini aşırı çukurlaştırmadan gövdeni dik tutarak iki tutacağı kontrollü biçimde başının üzerine it; bileklerini dirseklerinin üzerinde hizala.",
+      "Omuzlarını yukarı çekmeden tutacakları yavaşça omuz hizasına indir ve tekrarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Tiger Fitness Cable Shoulder Press guide; legacy cable record; original Atlas editorial record",
+      "url": "https://tigerfitness.com/blogs/exercise-database/cable-shoulder-press",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Shoulder_Press"
+    ],
+    "alternatives": [
+      "dumbbell-shoulder-press",
+      "machine-shoulder-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-shoulder-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete standing between low cable stacks, starting with handles at shoulder height and pressing them overhead; the deltoids are highlighted red.",
+          "tr": "Alçak kablo makaralarının arasında ayakta duran, tutacakları omuz hizasından baş üzerine iten spor kıyafetli sporcunun iki gri aşaması; omuz kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-shoulder-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -4005,6 +5232,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-triceps-kickback.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-upright-row",
+    "slug": "cable-upright-row",
+    "name": "Kabloda Dik Kürek",
+    "description": "Alçak kablo makarasındaki düz barın uyluklardan alt göğse doğru çekildiği dik kürek hareketi.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Düz barı en alçak makaraya takıp makaranın yakınında, üstten tutuşla dik dur; bar uyluklarının önünde, ayakların yaklaşık omuz genişliğinde olsun.",
+      "Gövdeni dik tutup dirseklerini öne alarak barı vücuduna yakın biçimde çek; rahat hissettiğin göğüs veya omuz hizasında dur.",
+      "Barı yavaşça başlangıca indir. Dirseklerini omuz hizasında veya altında tut; omuzda sıkışma ya da ağrı olursa hareketi bırak."
+    ],
+    "source": {
+      "type": "original",
+      "title": "PureGym Cable Upright Row guide; legacy Upright Cable Row record; original Atlas editorial record",
+      "url": "https://www.puregym.com/exercises/arms-and-shoulders/upright-rows/cable-upright-row/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Upright_Cable_Row"
+    ],
+    "alternatives": [
+      "upright-row",
+      "cable-shrug"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-upright-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete pulling a low-cable straight bar from the thighs to mid-chest with elbows flared; deltoid and trapezius targets are printed red on the shirt fabric.",
+          "tr": "Alçak kablodaki düz barı uyluklardan alt göğse dirseklerini yana açarak çeken spor kıyafetli sporcunun iki gri aşaması; omuz ve trapez hedefleri tişört kumaşında kırmızıyla gösterilir."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-upright-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -5340,6 +6620,61 @@
   },
   {
     "schemaVersion": 1,
+    "id": "decline-dumbbell-fly",
+    "slug": "decline-dumbbell-fly",
+    "name": "Dambıl Decline Fly",
+    "description": "Decline sehpada iki dambılı kontrollü bir yay çizerek yana indirip göğsün üzerinde yeniden birleştirmeye dayanan göğüs izolasyon hareketi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Ayaklarını decline sehpanın pedlerinin altına sabitleyip sırtüstü yat; her elinde hafif bir dambılı göğsünün üzerinde tut ve dirseklerini az bükülü bırak.",
+      "Dirsek açını koruyarak iki kolunu geniş bir yayla yana indir; dambıllar göğüs hizasında rahat bir esneme noktasına geldiğinde dur.",
+      "Kollarını bir araya getirip dambılları göğsünün üzerine geri al; yönetilebilir ağırlık kullan ve omuz hareket aralığını zorlama."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Legacy Decline_Dumbbell_Flyes record; Tiger Fitness movement guide; original Atlas editorial record",
+      "url": "https://tigerfitness.com/blogs/exercise-database/decline-dumbbell-flys",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Decline_Dumbbell_Flyes"
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "incline-dumbbell-fly",
+      "decline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/decline-dumbbell-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete secured on a decline bench, lowering and bringing together two dumbbells in a chest-fly arc; opaque shorts cover the hips and buttocks and the chest is highlighted red over the tank fabric.",
+          "tr": "Decline sehpada ayakları sabitlenmiş, iki dambılı göğüs fly hareketiyle yana açıp yukarıda birleştiren spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs atlet kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/decline-dumbbell-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "decline-dumbbell-press",
     "slug": "decline-dumbbell-press",
     "name": "Alt Eğimli Dambıl Press",
@@ -5749,6 +7084,60 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/double-kettlebell-front-squat.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-around-the-worlds",
+    "slug": "dumbbell-around-the-worlds",
+    "name": "Dambılla Around the Worlds",
+    "description": "İki dambılın kalça yanından baş üzerine doğru geniş bir yay çizdiği, sehpada yapılan göğüs izolasyon hareketi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Ayakların yerde olacak şekilde düz sehpaya uzan; her elinde hafif bir dambılı kalçanın yanında, avuç içlerin yukarı bakacak ve dirseklerin hafif bükülü biçimde tut.",
+      "Dirsek açını koruyarak iki kolunu yana ve geniş bir yay çizerek baş üstüne doğru götür; omuzlarının rahat ettiği aralıkta dur.",
+      "Yayı yavaşça tersine izleyip dambılları kalçalarının yanına getir; gövdeni sabit tut ve hafif ağırlık kullan."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Legacy Around_The_Worlds record; Tiger Fitness movement guide; original Atlas editorial record",
+      "url": "https://tigerfitness.com/blogs/exercise-database/around-the-world-dumbbell",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Around_The_Worlds"
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "dumbbell-pullover"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-around-the-worlds.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete sweeping a pair of dumbbells from beside the hips toward overhead while lying on a flat bench; opaque shorts cover the hips and buttocks, and the chest is highlighted red over the shirt.",
+          "tr": "Düz sehpada yatarken iki dambılı kalçanın yanından baş üzerine doğru geniş yayda götüren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs kasları atletin kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-around-the-worlds.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -6301,6 +7690,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-hip-thrust",
+    "slug": "dumbbell-hip-thrust",
+    "name": "Dambılla Hip Thrust",
+    "description": "Üst sırt sehpaya dayanırken kalça kıvrımında tutulan tek dambılla yapılan kalça ekstansiyonu.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "abdominals"
+    ],
+    "instructions": [
+      "Üst sırtını sabit bir sehpanın kenarına dayayarak otur; dizlerini büküp ayaklarını yaklaşık kalça genişliğinde yere bas. Tek dambılı kalça kıvrımında güvenle tut; gerekirse araya ped koy.",
+      "Gövdeni sıkıp ayaklarından kuvvet alarak kalçanı, gövdenle uylukların aynı hizaya gelene kadar kaldır. Kaburgalarını aşağıda tut ve belini çukurlaştırma.",
+      "Dambılın kaymasına izin vermeden kalçanı kontrollü indir ve tekrarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "PureGym Dumbbell Hip Thrust guide; original Atlas editorial record",
+      "url": "https://www.puregym.com/exercises/glutes/hip-thrusts/dumbbell-hip-thrust/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "barbell-hip-thrust",
+      "machine-hip-thrust",
+      "single-leg-hip-thrust"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-hip-thrust.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two side-by-side grayscale phases show a fully clothed athlete performing a dumbbell hip thrust against a bench. The glutes are highlighted red over opaque, textured shorts that fully cover the hips and buttocks.",
+          "tr": "Sehpaya dayanarak dambılla hip thrust yapan, tamamen spor kıyafetli sporcunun yan yana iki gri aşaması; kalçalar, kalçayı tamamen örten opak ve dokulu şortun üzerinde kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-hip-thrust.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-kickstand-romanian-deadlift",
     "slug": "dumbbell-kickstand-romanian-deadlift",
     "name": "Dambılla Destek Ayaklı Romanian Deadlift",
@@ -6491,6 +7933,64 @@
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-overhead-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-power-clean",
+    "slug": "dumbbell-power-clean",
+    "name": "İki Dambılla Power Clean",
+    "description": "Bir çift dambılın yerden omuzlara patlayıcı biçimde çekilip kısmi squat pozisyonunda karşılanarak ayağa kalkıldığı güç kaldırışı.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals"
+    ],
+    "instructions": [
+      "Ayaklarını yaklaşık kalça genişliğinde açıp dambılları ayaklarının hemen dışına koy; kalçanı ve dizlerini bük, sırtını nötr tutup iki ağırlığı kavra.",
+      "Dambılları yakında tutarak yeri it ve kalça ile dizlerini hızla aç; altlarına girip dirseklerin önde olacak şekilde omuzlarında kısmi squat pozisyonunda karşıla.",
+      "Dambılları omuzlarında sabitleyip dik dur; ardından kontrollü biçimde yere indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Dumbbell Power Clean guide; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/the-dumbbell-power-clean",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Dumbbell_Clean"
+    ],
+    "alternatives": [
+      "two-dumbbell-hang-clean",
+      "single-arm-dumbbell-clean",
+      "dumbbell-snatch"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-power-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lifting two dumbbells from the floor and catching them at the shoulders; opaque top and shorts cover the torso and buttocks, with shoulders and quadriceps highlighted red.",
+          "tr": "İki dambılı yerden çekip omuzlarında karşılayan, spor kıyafetli sporcunun iki gri aşaması; opak üst ve şort gövdeyle kalçayı örter, omuz ve ön bacak kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-power-clean.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
@@ -6837,6 +8337,54 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-scaption",
+    "slug": "dumbbell-scaption",
+    "name": "Dambılla Scaption",
+    "description": "Dambılların öne kaldırış ile yana kaldırış arasındaki skapular düzlemde çapraz kaldırıldığı omuz hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Dik durup hafif birer dambılı yanında tut; avuç içlerin gövdene, başparmakların öne veya hafif yukarı baksın, dirseklerini az bükülü bırak.",
+      "Gövdeni sabit ve omuzlarını rahat tutarak iki kolunu yanlarından çapraz biçimde öne, yaklaşık omuz hizasına kaldır.",
+      "Omuzlarını silkmeden ve belini çukurlaştırmadan dambılları aynı yoldan yavaşça indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Aurora Health Care Upper Extremity Dumbbell Home Exercise Program; original Atlas editorial record",
+      "url": "https://ahc.aurorahealthcare.org/fywb/x11240.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-front-raise",
+      "dumbbell-lateral-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-scaption.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete performing dumbbell scaption, raising the arms diagonally between the front and side; opaque shorts cover the hips and buttocks and the shoulders are highlighted red.",
+          "tr": "Dambılla scaption yapan, spor atleti ve kalçayı örten opak şort giymiş sporcunun iki gri aşaması; kollar öne ve yana çapraz kaldırılırken omuzlar kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-scaption.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-shoulder-press",
     "slug": "dumbbell-shoulder-press",
     "name": "Dambılla Omuz Press",
@@ -7029,6 +8577,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-snatch",
+    "slug": "dumbbell-snatch",
+    "name": "Dambıl Koparma",
+    "description": "Tek dambılın tek ve kesintisiz bir hareketle yerden baş üstündeki kilitli konuma kaldırıldığı tek kol patlayıcı çekiş.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "traps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Ayaklarını yaklaşık kalça genişliğinde açıp bir dambılı aralarına koy; kalçandan eğilerek ve dizlerini bükerek tek elinle sapı kavra.",
+      "Yerden güç alıp kalça ve dizlerini aç; dambılı vücuduna yakın tutarak tek ve kesintisiz bir hareketle baş üstüne kaldır.",
+      "Dik durup dambılı gövdenin orta hizasında tut; el değiştirmeden önce kontrollü biçimde yere indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Games dumbbell snatch movement standards; original Atlas editorial record",
+      "url": "https://games.crossfit.com/workouts/basicparent/2026/2?division=2&scaled=0",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-push-press",
+      "two-dumbbell-hang-clean"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-snatch.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a single-arm dumbbell snatch, from a hinged floor start to an overhead finish, with the working shoulder, quadriceps and glutes highlighted red.",
+          "tr": "Tek kol dambıl koparmanın yerden eğilerek başlangıç ve baş üstünde bitiş aşamaları; çalışan omuz, ön bacak ve kalça kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-snatch.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-split-squat",
     "slug": "dumbbell-split-squat",
     "name": "Dambıllı Split Squat",
@@ -7068,6 +8670,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-split-squat.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/dumbbell-split-squat-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-squat",
+    "slug": "dumbbell-squat",
+    "name": "Dambıllı Squat",
+    "description": "Her iki elde birer dambıl yanda tutulurken yapılan çift bacaklı squat.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower-back"
+    ],
+    "instructions": [
+      "Ayaklarını yaklaşık omuz genişliğinde açıp her iki elinde birer dambılı yanında sarkıt; gövdeni sık ve omurganı dengeli tut.",
+      "Topuklarını yerde tutup dizlerini ayaklarınla aynı yönde izleyerek kalça ve dizlerini kontrollü biçimde bük.",
+      "Dambılları yanında tutarak ayaklarından güç alıp yeniden dik dur; hareketin alt noktasında yaylanma."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Mayo Clinic dumbbell squat guidance; original Atlas editorial record",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/squat/vid-20084682",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-front-squat",
+      "dumbbell-sumo-squat",
+      "bodyweight-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete squatting with dumbbells at the sides; opaque shorts cover the hips and buttocks, with quadriceps highlighted red and a subtle glute overlay on the fabric.",
+          "tr": "Yanlarda dambıl tutarak squat yapan, kalça ve kalçanın arkasını örten opak şort ve spor atleti giymiş sporcunun iki gri aşaması; ön bacaklar kırmızı, kalça vurgusu kumaş üzerinde yarı saydam."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -7462,6 +9117,63 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "elliptical-trainer",
+    "slug": "elliptical-trainer",
+    "name": "Eliptik Bisiklet",
+    "description": "Hareketli kol kolları ve bağlantılı ayak pedalları bulunan eliptik kondisyon aletinde yapılan düşük darbeli kardiyo çalışması.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings",
+      "shoulders",
+      "biceps"
+    ],
+    "instructions": [
+      "Yakındaki pedalı en alt konuma getir, sabit tutacakları kavra ve pedallara sırayla bas. Rahat tempoda başla.",
+      "Ayaklarını platformların ortasında tutup dik dur; hareketli kolları bacaklarının ters yönünde akıcı biçimde itip çek. Gerekirse denge için sabit tutacakları kullan.",
+      "Rahat ve kesintisiz bir adım ritmini koru. Aşağı inmeden önce kontrollü biçimde yavaşlayıp dur ve pedalların hareketinin sona ermesini bekle."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Elliptical introduction and safe mounting guide; legacy Elliptical_Trainer record",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42867987346583-Life-Fitness-Atmos-Elliptical-Introduction",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "upright-stationary-bike",
+      "rowing-machine"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/elliptical-trainer.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows a fully clothed athlete using an elliptical trainer with moving arms and linked foot platforms; opaque shorts cover the hips and buttocks, with red highlights only on exposed calves.",
+          "tr": "Eliptik bisikletin hareketli kollarını ve bağlantılı ayak platformlarını kullanan, tamamen spor kıyafetli sporcunun gri tonlu çizimi; opak şort kalçayı örter, kırmızı vurgu yalnız açık baldır kaslarındadır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/elliptical-trainer.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Elliptical_Trainer"
     ]
   },
   {
@@ -9262,6 +10974,169 @@
   },
   {
     "schemaVersion": 1,
+    "id": "incline-bench-dumbbell-reverse-fly",
+    "slug": "incline-bench-dumbbell-reverse-fly",
+    "name": "Eğimli Sehpada Dambıl Ters Açış",
+    "description": "Göğüs eğimli sehpaya dayanmış yüzüstü pozisyonda yapılan arka omuz izolasyon açışı.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "upper-back"
+    ],
+    "instructions": [
+      "Sehpayı orta eğime ayarla ve göğsün mindere dayanacak şekilde yüzüstü uzan; her elinde hafif bir dambıl tutup kollarını omuzlarının altına sarkıt.",
+      "Dirseklerini hafif ve sabit bükülü tutarak iki kolunu omuz hizasına yaklaşana kadar yana kaldır; göğsünü minderden ayırma ve omuzlarını silkeleme.",
+      "Gövdeni savurmadan dambılları sarkık başlangıç konumuna yavaşça indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Tiger Fitness reverse fly guide; original Atlas editorial record",
+      "url": "https://tigerfitness.com/blogs/exercise-database/reverse-flyes",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "bent-over-dumbbell-reverse-fly",
+      "cable-rear-delt-fly",
+      "machine-rear-delt-fly"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-bench-dumbbell-reverse-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete with the chest supported on an incline bench, raising dumbbells out to the sides; opaque shorts cover the hips and buttocks and rear shoulders are highlighted red over the shirt.",
+          "tr": "Göğsü eğimli sehpaya dayalı sporcunun dambılları yana kaldırdığı iki gri aşama; opak kıyafet kalçayı örter ve arka omuzlar atlet kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-bench-dumbbell-reverse-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "incline-cable-chest-press",
+    "slug": "incline-cable-chest-press",
+    "name": "Eğimli Sehpada Kablo Göğüs Presi",
+    "description": "İki alçak kablo makarası arasında eğimli sehpaya uzanarak yapılan bileşik göğüs presi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "İki kablo makarasını alçağa ayarlayıp aralarına eğimli sehpa yerleştir. Her elinle bir tutacak kavra ve tutacaklar üst göğsünün yanında kalacak şekilde sehpaya uzan.",
+      "Omuzların sehpada destekli kalırken tutacakları kolların neredeyse düz olana kadar yukarı ve hafifçe içe doğru it; belini aşırı kavislendirme.",
+      "Dirseklerini kilitlemeden kısa durakla; kabloların kontrolünü koruyarak tutacakları yavaşça üst göğüs hizasına indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Legacy Incline_Cable_Chest_Press record; Muscle & Strength exercise guide; original Atlas editorial record",
+      "url": "https://cdn.muscleandstrength.com/exercises/incline-cable-chest-press",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Incline_Cable_Chest_Press"
+    ],
+    "alternatives": [
+      "seated-incline-cable-press",
+      "machine-incline-chest-press",
+      "incline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-cable-chest-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on an incline bench between low cable pulleys, pressing the handles up from the upper chest; opaque top and shorts cover the torso and hips, with the chest highlighted red on the fabric.",
+          "tr": "Alçak kablo makaraları arasında eğimli sehpaya uzanıp tutacakları üst göğüsten yukarı iten spor kıyafetli sporcunun iki gri aşaması; üst ve şort gövdeyle kalçayı örter, göğüs kumaş üzerinde kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-cable-chest-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "incline-cable-fly",
+    "slug": "incline-cable-fly",
+    "name": "Eğimli Sehpada Kablo Fly",
+    "description": "İki alçak kablo makarası arasında eğimli sehpaya uzanarak yapılan göğüs izolasyon açışı.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Eğimli sehpayı iki kablo makarasının arasına yerleştir, makaraları alçağa ayarla ve her elinle bir tutacak kavrayıp sehpaya uzan; dirseklerini hafif bükülü tut.",
+      "Omuzların sehpada destekli kalırken kollarını kontrollü bir yayla yana aç; göğsünde rahat bir esneme hissedince dur.",
+      "Dirsek açını değiştirmeden kollarını üst göğsünün üzerinde birleştir; yavaşça başlangıca dön ve belini aşırı kavislendirme."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Legacy Incline_Cable_Flye record; Muscle & Strength exercise guide; original Atlas editorial record",
+      "url": "https://www.muscleandstrength.com/node/3822",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Incline_Cable_Flye"
+    ],
+    "alternatives": [
+      "low-to-high-cable-fly",
+      "high-to-low-cable-fly",
+      "incline-dumbbell-fly"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-cable-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on an incline bench between low cable pulleys, opening and bringing together the handles in a fly arc; opaque shorts cover the hips and buttocks and the chest is highlighted red on the tank fabric.",
+          "tr": "Alçak kablo makaraları arasında eğimli sehpaya uzanıp tutacakları fly yayıyla açıp birleştiren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs atlet kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-cable-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "incline-dumbbell-curl",
     "slug": "incline-dumbbell-curl",
     "name": "Eğimli Sehpada Dambıl Curl",
@@ -10629,6 +12504,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "lever-deadlift",
+    "slug": "lever-deadlift",
+    "name": "Kaldıraçlı Makinede Deadlift",
+    "description": "Plaka yüklü döner kollar ve sabit tutacaklarla yapılan kalça menteşesi temelli deadlift.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "lower-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Uygun bir yük seçip platformda ayaklarını yaklaşık kalça genişliğinde açarak ortalan; tutacakları kavra, gövdeni sık ve omurganı nötr tut.",
+      "Başlangıç konumuna ulaşmak için kalçanı geriye gönderip dizlerini gerektiği kadar bük. Platformu iterek kalçanı ve dizlerini birlikte aç; tutacakları vücuduna yakın tut.",
+      "Geriye yaslanmadan dik dur; ardından kalçanı büküp dizlerini kontrollü şekilde bükerek kolları başlangıç konumuna indir ve plakaların çarpmasına izin verme."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Gymleco 083 Deadlift/Squat machine manual; editorial movement guide",
+      "url": "https://gymsport.no/file/brukermanualer/083_gymleco_deadlift_squat-engelsk.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "conventional-deadlift",
+      "smith-machine-deadlift",
+      "trap-bar-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/lever-deadlift.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete in an opaque sleeveless training top and long compression shorts performing a plate-loaded lever deadlift; the hips and buttocks are fully covered, with no red highlight on the buttocks.",
+          "tr": "Plaka yüklü kaldıraçlı makinede deadlift yapan, opak atlet ve uzun kompresyon şortu giyen sporcunun iki gri aşaması; kalça tamamen örtülüdür ve kalçada kırmızı vurgu yoktur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lever-deadlift.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "low-to-high-cable-fly",
     "slug": "low-to-high-cable-fly",
     "name": "Alttan Üste Kablo Fly",
@@ -10674,6 +12603,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/low-to-high-cable-fly.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "lying-cable-triceps-extension",
+    "slug": "lying-cable-triceps-extension",
+    "name": "Yatarak Kabloda Triseps Ekstansiyonu",
+    "description": "Alçak kablo makarasına bağlı düz barla düz sehpada yatarak yapılan dirsek açma hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Düz sehpaya alçak makaranın önünde yer verip makaraya düz bar tak; başın ağırlık bloğuna yakın olacak şekilde sırtüstü yat, ayaklarını yere bas ve dirseklerin bükülüyken barı üst göğsünün üzerinde tut.",
+      "Üst kollarını sabit tutup dirseklerini açarak barı göğsünün üzerine kaldır; omuzlarını sallama ve dirseklerini sertçe kilitleme.",
+      "Üst kollarını yerinde tutarak dirseklerini yavaşça bük, kabloyu kontrol altında tutup barı alnına doğru geri indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Lying Cable Tricep Extension guide; legacy Cable_Lying_Triceps_Extension record; original Atlas editorial record",
+      "url": "https://www.muscleandstrength.com/exercises/lying-cable-tricep-extension.html",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Lying_Triceps_Extension"
+    ],
+    "alternatives": [
+      "overhead-cable-triceps-extension",
+      "lying-overhead-dumbbell-triceps-extension",
+      "cable-rope-triceps-pushdown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/lying-cable-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete lying on a flat bench with a straight bar on a low cable, bending and extending the elbows. The opaque top and shorts cover the torso and hips; triceps on the exposed upper arms are highlighted red.",
+          "tr": "Alçak kabloya bağlı düz barla sehpada yatan sporcunun dirseklerini büküp açtığı iki gri aşama. Opak atlet ve şort gövdeyle kalçayı örter; açıkta kalan üst koldaki triseps kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lying-cable-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -14450,6 +16432,61 @@
   },
   {
     "schemaVersion": 1,
+    "id": "recumbent-bike",
+    "slug": "recumbent-bike",
+    "name": "Yatay Sabit Bisiklet",
+    "description": "Yatık koltuk ve sırt dayanağı bulunan sabit bisiklette düzenli tempoda veya aralıklarla pedal çevirme çalışması.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sırtını dayanağa yasla; en uzaktaki pedal hareketin alt noktasına geldiğinde dizin hafif bükülü kalacak şekilde koltuğu ayarla. Ayarı pedallar durmuşken yap.",
+      "Ayaklarının ön kısmını pedallara yerleştir ve varsa kayışları sabitle. Yan tutacakları kavrayıp dizlerini kilitlemeden, koltukta sallanmadan akıcı pedal çevir.",
+      "Rahat bir dirençle başla; durmadan önce temponu azalt ve inmeden önce pedalların hareketinin sona ermesini bekle."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Recumbent Bike seat adjustment guide; legacy Recumbent_Bike record",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42862239184279-How-to-Adjust-the-Seat-on-Your-Life-Fitness-Atmos-Recumbent-Bike",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "upright-stationary-bike",
+      "rowing-machine"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/recumbent-bike.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows a fully clothed athlete pedaling a recumbent stationary bike with a padded backrest; opaque shorts cover the hips and buttocks, and only exposed calves are highlighted red.",
+          "tr": "Yastıklı sırt dayanağı olan yatay sabit bisiklette pedal çeviren, tamamen spor kıyafetli sporcunun gri çizimi; opak şort kalçayı örter, yalnız açık baldırlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/recumbent-bike.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Recumbent_Bike"
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "reverse-crunch",
     "slug": "reverse-crunch",
     "name": "Ters Crunch",
@@ -14983,6 +17020,69 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "rowing-machine",
+    "slug": "rowing-machine",
+    "name": "Kürek Ergometresiyle Kürek Çekiş",
+    "description": "Sabit kürek ergometresinde bacak itişini, kalçadan gövde açılışını ve kol çekişini birleştiren döngüsel kardiyo hareketi.",
+    "category": "cardio",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "upper-back",
+      "abdominals",
+      "shoulders",
+      "biceps",
+      "forearms",
+      "triceps",
+      "calves"
+    ],
+    "instructions": [
+      "Ayak kayışlarını ayaklarının en geniş bölümünün üzerinden ayarla ve kayan koltuğa otur. Kolların düz, kaval kemiklerin olabildiğince dik ve gövden kalçadan rahatça öne eğilmiş biçimde başlangıç konumunu al; sırtını nötr tut.",
+      "İtişe önce ayak platformunu bacaklarınla iterek başla. Bacakların açılırken kalçadan gövdeni geriye getir; ardından omuzlarını rahat ve bileklerini düz tutarak sapı alt kaburgalarına çek.",
+      "Geri dönüşte önce kollarını uzat, gövdeni kalçadan öne getir; sonra dizlerini büküp koltuğu makara yönüne kontrollü biçimde kaydır. Rahat bir tempoyla başla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Concept2 Indoor Rowing Technique; legacy Rowing_Stationary record",
+      "url": "https://www.concept2.com/training/rowing-technique",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "jump-rope",
+      "sled-push",
+      "battle-rope-alternating-waves"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/rowing-machine.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete rowing on an indoor ergometer, from the bent-knee catch to the legs-extended finish; quadriceps are highlighted red and opaque shorts cover the hips and buttocks.",
+          "tr": "Kapalı spor kıyafetli sporcunun kürek ergometresinde bükülü dizlerle başlangıçtan bacaklar açık bitişe geçtiği iki gri aşama; kuadrisepsler kırmızı vurgulu, kalça opak şortla örtülüdür."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/rowing-machine.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Rowing_Stationary"
     ]
   },
   {
@@ -16510,6 +18610,53 @@
   },
   {
     "schemaVersion": 1,
+    "id": "side-lying-dumbbell-shoulder-external-rotation",
+    "slug": "side-lying-dumbbell-shoulder-external-rotation",
+    "name": "Yan Yatarak Dambılla Omuz Dış Rotasyonu",
+    "description": "Dirsek gövdenin yanında sabitken ön kolun yukarı döndürüldüğü, hafif yükle yapılan yan yatış omuz hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Yan yatıp çalışacak dirseğini yaklaşık 90 derece bükerek gövdene yakın tut; dirseğinle gövden arasına küçük katlı bir havlu yerleştir ve çok hafif bir dambıl kavra.",
+      "Dirseğini ve üst kolunu sabit tutarak ön kolunu karnından uzağa, rahat bir aralıkta yukarı döndür; gövdeni geriye yuvarlama.",
+      "Dambılı başlangıca yavaşça indir. Hafif yük kullan ve hareket ağrıya yol açarsa bırak."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Aurora Health Care Upper Extremity Dumbbell Home Exercise Program; original Atlas editorial record",
+      "url": "https://ahc.aurorahealthcare.org/fywb/x11240.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "standing-band-shoulder-external-rotation"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/side-lying-dumbbell-shoulder-external-rotation.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on the side with a light dumbbell; the elbow stays tucked against the torso as the forearm rotates upward, with the posterior shoulder highlighted red.",
+          "tr": "Yan yatarak hafif dambılla hareket yapan, spor kıyafeti ve kalçayı örten opak şort giyen sporcunun iki gri aşaması; dirsek gövdeye yakınken ön kol yukarı döner ve omuz arkası kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/side-lying-dumbbell-shoulder-external-rotation.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "side-lying-hip-abduction",
     "slug": "side-lying-hip-abduction",
     "name": "Yan Yatarak Kalça Abdüksiyonu",
@@ -17087,6 +19234,60 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-dumbbell-chest-press.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-15.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "single-arm-dumbbell-clean",
+    "slug": "single-arm-dumbbell-clean",
+    "name": "Tek Kolla Dambıl Clean",
+    "description": "Tek dambılın kalça ve dizlerden güç alınarak yerden omuz rafına kaldırıldığı patlayıcı bir hareket.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals"
+    ],
+    "instructions": [
+      "Bir dambılı çalışacağın ayağın hemen dışına koy. Ayaklarını yaklaşık kalça genişliğinde aç; nötr omurgayla kalçadan eğilip dizlerini bükerek dambılı kavra.",
+      "Yeri itip kalçanı ve dizlerini aç; dambılı vücuduna yakın tut, omuzlarını yukarı çek ve dirseğini öne çevirerek hafif diz büküşüyle omzunda karşıla.",
+      "Dik dur; ardından el değiştirmeden önce dambılı kontrollü biçimde yere indirip yeniden pozisyon al."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Dumbbells Training Guide; original Atlas editorial record",
+      "url": "https://assets.crossfit.com/pdfs/seminars/Dumbbell_Training_Guide.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "two-dumbbell-hang-clean",
+      "dumbbell-snatch"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/single-arm-dumbbell-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete cleaning one dumbbell from the floor to the shoulder rack; opaque shorts cover the hips and buttocks, with the glutes and quadriceps highlighted red over the fabric and visible skin.",
+          "tr": "Tek dambılı yerden omuz rafına clean yapan, spor atleti ve kalçayı örten opak şort giymiş sporcunun iki gri aşaması; kalça ve ön bacak kasları kumaş üzerinde ve görünen deride kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-dumbbell-clean.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -18469,6 +20670,63 @@
   },
   {
     "schemaVersion": 1,
+    "id": "smith-machine-pistol-squat",
+    "slug": "smith-machine-pistol-squat",
+    "name": "Smith Makinesinde Pistol Squat",
+    "description": "Boş bacağın öne uzatıldığı, Smith makinesinin yönlendirmeli barıyla yapılan tek bacak squat hareketi.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Emniyet durdurucularını kontrol edebildiğin squat derinliğinin hemen altına ayarla. Barı boynuna değil üst trapezlerine yerleştir; çalışan ayağını bar yolunun biraz önünde, tabanı yerde tut.",
+      "Boş bacağını öne kaldırıp çalışan bacağının kalça ve dizini bükerek alçal; topuğunu yerde tut ve dizini ayak parmaklarınla aynı yönde ilerlet.",
+      "Boş bacağını havada tutarak çalışan ayağının tamamından itip ayağa kalk. Taraf değiştirmeden önce barı güvenle kancala; hafif yükle başla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Smith Machine Pistol Squat guide; legacy Smith_Machine_Pistol_Squat record",
+      "url": "https://www.ritfitsports.com/blogs/article/pistol-squats-smith-machine",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "pistol-squat",
+      "single-leg-box-squat",
+      "smith-machine-bulgarian-split-squat",
+      "smith-machine-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/smith-machine-pistol-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete performing a Smith Machine Pistol Squat with one leg extended forward; the quadriceps are highlighted red, and opaque shorts cover the hips and buttocks.",
+          "tr": "Opak spor kıyafetli sporcunun Smith makinesinde bir bacağını öne uzatarak pistol squat yaptığı iki gri aşama; çalışan kuadriseps kırmızı vurgulu, kalça şortla örtülüdür."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-pistol-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Smith_Machine_Pistol_Squat"
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "smith-machine-reverse-lunge",
     "slug": "smith-machine-reverse-lunge",
     "name": "Smith Makinesinde Geri Lunge",
@@ -18980,6 +21238,62 @@
   },
   {
     "schemaVersion": 1,
+    "id": "stair-climber",
+    "slug": "stair-climber",
+    "name": "Döner Basamaklı Tırmanış Aleti",
+    "description": "Motorlu, döner basamaklı kardiyo makinesinde kesintisiz merdiven çıkma hareketi.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Makinenin giriş yöntemini izleyerek basamaklara çık, düşük bir tempo seç ve ayaklarının tamamını hareketli basamaklara yerleştirerek dik dur.",
+      "Gövdeni dik tutup kontrollü adımlarla çık; tutacakları ağırlığını asmak için değil, hafifçe denge desteği olarak kullan.",
+      "İnmeden önce makinenin durdurma veya toparlanma kontrolüyle yavaşla; basamak desteği ve otomatik durdurma yönergelerini izle."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness PowerMill Climber specifications and product guide; legacy Stairmaster and Step_Mill records",
+      "url": "https://www.lifefitness.com/en-us/catalog/cardio/stair-climbers-stepper-machines/powermill-climber",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "treadmill-walking",
+      "elliptical-trainer"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/stair-climber.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows a fully clothed athlete climbing a revolving-step stair machine; the opaque shorts cover the hips and buttocks, with red highlights only on exposed leg muscles.",
+          "tr": "Döner basamaklı merdiven makinesinde tırmanan, tamamen spor kıyafetli sporcunun gri çizimi; opak şort kalçayı örter, kırmızı vurgu yalnız açık bacak kaslarındadır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/stair-climber.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Stairmaster",
+      "Step_Mill"
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "standing-band-good-morning",
     "slug": "standing-band-good-morning",
     "name": "Ayakta Bantla Good Morning",
@@ -19321,7 +21635,8 @@
     ],
     "source": {
       "type": "original",
-      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "title": "Standing Cable Chest Press guide; legacy Cable_Chest_Press record; original Atlas editorial record",
+      "url": "https://www.sweat.com/exercises/standing-cable-chest-press",
       "license": "CC0-1.0"
     },
     "media": [
@@ -19329,14 +21644,18 @@
         "path": "media/exercises/standing-cable-chest-press.webp",
         "role": "reference",
         "alt": {
-          "en": "Two grayscale panels show the start and finish of a standing cable chest press, with the chest highlighted in red.",
-          "tr": "Ayakta Kablo Göğüs Pressi hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; göğüs kasları kırmızıyla vurgulanmış."
+          "en": "Two grayscale panels show a fully clothed athlete in an opaque sleeveless top and mid-thigh shorts performing a standing cable chest press. Chest highlights appear on visible textured fabric; the hips and buttocks are fully covered.",
+          "tr": "Opak atlet ve uyluk ortası şort giyen sporcunun ayakta kablo göğüs presi yaptığı iki gri kare. Göğüs vurgusu dokulu kumaş üzerinde; kalça tamamen örtülüdür."
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-cable-chest-press.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "legacyIds": [
+      "Cable_Chest_Press",
+      "Standing_Cable_Chest_Press"
     ]
   },
   {
@@ -20299,6 +22618,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "torso-rotation-machine",
+    "slug": "torso-rotation-machine",
+    "name": "Makinede Gövde Rotasyonu",
+    "description": "Gövde sabitlenerek ayarlanabilir dirence karşı kontrollü biçimde döndürülen, oblikleri hedefleyen oturarak makine hareketi.",
+    "category": "strength",
+    "movementPattern": "rotation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "obliques"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Göğüs pedleri üst göğsüne gelecek şekilde koltuğu ayarla; başlangıç yönünü ve direnci seç, ayaklarını platformlara basıp tutacakları kavra.",
+      "Göğsünü pedlere, uyluklarını sabitleme pedlerine dayalı tutarak gövdeni kontrollü bir aralıkta karşı yöne döndür.",
+      "Seçtiğin başlangıç konumuna yavaşça dön; sonra diğer yönü çalışmak için makineyi yeniden ayarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Cybex Prestige Torso Rotation Owner's Manual; original Atlas editorial record",
+      "url": "https://kb.cybexintl.com/Owners_Manuals/Strength/21190-999-4.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "landmine-rotation",
+      "russian-twist",
+      "cable-woodchop"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/torso-rotation-machine.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated selectorized torso rotation machine; the chest and thigh pads stabilize the user and the obliques are highlighted red.",
+          "tr": "Oturarak gövde rotasyon makinesinin iki gri aşaması; göğüs ve uyluk pedleri kullanıcıyı sabitlerken oblik kaslar kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/torso-rotation-machine.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "trap-bar-deadlift",
     "slug": "trap-bar-deadlift",
     "name": "Trap Bar Deadlift",
@@ -20340,6 +22711,117 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-6.md"
       }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "treadmill-running",
+    "slug": "treadmill-running",
+    "name": "Koşu Bandında Koşu",
+    "description": "Hareketli koşu bandında kişinin seçtiği tempoda koşu; legacy jogging adı aynı harekete eşlenir.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Koşu bandının emniyet klipsini kıyafetine tak. Bandı yan basamaklarda düşük hızda başlat ya da yürüyerek başla; dengenin sağlam olduğundan emin ol.",
+      "Sürdürebileceğin koşu hızına kademeli çık. Bandın ortasına yakın kal; gövden dik, omuzların rahat ve kol salınımın doğal olsun.",
+      "Antrenmanı bitirmeden önce yürüyüş hızına kadar yavaşla. Yan basamaklara geçip inmeden önce bandın tamamen durmasını bekle."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Treadmill manual workout and emergency-stop guides; legacy Running_Treadmill and Jogging_Treadmill records",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42814171096215-Life-Fitness-Atmos-Treadmill-How-to-Set-Up-a-Manual-Workout-on-Your-SL-Console",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "treadmill-walking",
+      "elliptical-trainer"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/treadmill-running.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows an athlete in a controlled running stride on a treadmill with the safety tether attached; opaque shorts cover the hips and buttocks, and red highlights appear only on exposed leg muscles.",
+          "tr": "Emniyet klipsi takılı koşu bandında kontrollü adım atan sporcunun gri çizimi; opak şort kalçayı örter, kırmızı vurgu yalnız açık bacak kaslarındadır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/treadmill-running.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Running_Treadmill",
+      "Jogging_Treadmill"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "treadmill-walking",
+    "slug": "treadmill-walking",
+    "name": "Koşu Bandında Yürüyüş",
+    "description": "Hareketli koşu bandında kişinin seçtiği tempoda yürüyüş.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Koşu bandının emniyet klipsini kıyafetine tak. Bant düşük hızda çalışmaya başlarken yan basamaklarda dur; dengeni bulunca yürüyüş yüzeyine geç.",
+      "Bandın ortasına yakın, rahat bir tempoda dik yürü; kollarının doğal biçimde sallanmasına izin ver ve adımlarını kontrollü at.",
+      "Antrenmanı bitirmeden önce hızı azalt. Yan basamaklara geçip inmeden önce bandın tamamen durmasını bekle."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Treadmill manual workout and emergency-stop guides; legacy Walking_Treadmill record",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42814171096215-Life-Fitness-Atmos-Treadmill-How-to-Set-Up-a-Manual-Workout-on-Your-SL-Console",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "treadmill-running",
+      "upright-stationary-bike"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/treadmill-walking.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows an athlete walking on a complete treadmill with the safety tether attached; opaque shorts cover the hips and buttocks, and red highlights appear only on exposed leg muscles.",
+          "tr": "Emniyet klipsi takılı biçimde tam bir koşu bandında yürüyen sporcunun gri çizimi; opak şort kalçayı örter, kırmızı vurgu yalnız açık bacak kaslarındadır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/treadmill-walking.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Walking_Treadmill"
     ]
   },
   {
@@ -20485,6 +22967,61 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "upright-stationary-bike",
+    "slug": "upright-stationary-bike",
+    "name": "Dik Sabit Bisiklet",
+    "description": "Dik sabit kondisyon bisikletinde düzenli tempoda veya aralıklarla pedal çevirme çalışması.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Pedal en alt noktadayken dizin hafif bükülü kalacak şekilde seləni ayarla; ayarı bisikletin üzerindeyken yapma. Ayaklarının ön kısmını pedallara yerleştir ve varsa kayışları sabitle.",
+      "Gidonları rahatça tut, gövdeni sabitle ve kalçanı sallamadan, dizlerini kilitlemeden pedalı dairesel biçimde akıcı çevir.",
+      "Rahat bir direnç ve tempo seç; durup bisikletten inmeden önce hızını kademeli olarak azalt."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Upright Bike seat adjustment and pedal strap guides; legacy Bicycling_Stationary record",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42862231037335-How-to-Adjust-the-Seat-on-Your-Life-Fitness-Atmos-Upright-Bike",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "rowing-machine",
+      "elliptical-trainer"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/upright-stationary-bike.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete in an opaque training top and shorts pedaling an upright stationary bike; the hips and buttocks are covered and only exposed calves are highlighted red.",
+          "tr": "Opak spor üstü ve şort giyen sporcunun dik sabit bisiklette pedal çevirdiği iki gri aşama; kalça örtülüdür, yalnız açıkta kalan baldırlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/upright-stationary-bike.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Bicycling_Stationary"
     ]
   },
   {

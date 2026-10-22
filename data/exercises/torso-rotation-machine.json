@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "torso-rotation-machine",
+  "slug": "torso-rotation-machine",
+  "name": {
+    "en": "Torso Rotation Machine",
+    "tr": "Makinede Gövde Rotasyonu"
+  },
+  "description": {
+    "en": "A seated machine exercise that rotates the braced torso against adjustable resistance, emphasizing the obliques.",
+    "tr": "Gövde sabitlenerek ayarlanabilir dirence karşı kontrollü biçimde döndürülen, oblikleri hedefleyen oturarak makine hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "rotation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the seat so the chest pads sit across your upper chest, choose a starting direction and resistance, then sit with your feet on the platforms and hold the handles.",
+      "Keep your chest against the pads and your thighs braced against the restraints; rotate your torso toward the opposite side through a controlled range.",
+      "Return slowly to the selected start position, then adjust the machine to train the other direction."
+    ],
+    "tr": [
+      "Göğüs pedleri üst göğsüne gelecek şekilde koltuğu ayarla; başlangıç yönünü ve direnci seç, ayaklarını platformlara basıp tutacakları kavra.",
+      "Göğsünü pedlere, uyluklarını sabitleme pedlerine dayalı tutarak gövdeni kontrollü bir aralıkta karşı yöne döndür.",
+      "Seçtiğin başlangıç konumuna yavaşça dön; sonra diğer yönü çalışmak için makineyi yeniden ayarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Cybex Prestige Torso Rotation Owner's Manual; original Atlas editorial record",
+    "url": "https://kb.cybexintl.com/Owners_Manuals/Strength/21190-999-4.pdf",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "landmine-rotation",
+    "russian-twist",
+    "cable-woodchop"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/torso-rotation-machine.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a seated selectorized torso rotation machine; the chest and thigh pads stabilize the user and the obliques are highlighted red.",
+        "tr": "Oturarak gövde rotasyon makinesinin iki gri aşaması; göğüs ve uyluk pedleri kullanıcıyı sabitlerken oblik kaslar kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/torso-rotation-machine.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

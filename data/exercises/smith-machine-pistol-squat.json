@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "smith-machine-pistol-squat",
+  "slug": "smith-machine-pistol-squat",
+  "name": {
+    "en": "Smith Machine Pistol Squat",
+    "tr": "Smith Makinesinde Pistol Squat"
+  },
+  "description": {
+    "en": "A single-leg squat under a guided Smith bar, with the free leg extended forward.",
+    "tr": "Boş bacağın öne uzatıldığı, Smith makinesinin yönlendirmeli barıyla yapılan tek bacak squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Set the safety stops just below your controlled squat depth. Place the bar across your upper traps, not your neck, and stand with the working foot flat slightly in front of the bar path.",
+      "Lift the free leg forward and lower by bending the working hip and knee; keep the heel planted and the knee tracking with the toes.",
+      "Press through the whole working foot to stand while keeping the free leg raised. Rehook the bar securely before changing sides; start with a light load."
+    ],
+    "tr": [
+      "Emniyet durdurucularını kontrol edebildiğin squat derinliğinin hemen altına ayarla. Barı boynuna değil üst trapezlerine yerleştir; çalışan ayağını bar yolunun biraz önünde, tabanı yerde tut.",
+      "Boş bacağını öne kaldırıp çalışan bacağının kalça ve dizini bükerek alçal; topuğunu yerde tut ve dizini ayak parmaklarınla aynı yönde ilerlet.",
+      "Boş bacağını havada tutarak çalışan ayağının tamamından itip ayağa kalk. Taraf değiştirmeden önce barı güvenle kancala; hafif yükle başla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Smith Machine Pistol Squat guide; legacy Smith_Machine_Pistol_Squat record",
+    "url": "https://www.ritfitsports.com/blogs/article/pistol-squats-smith-machine",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "pistol-squat",
+    "single-leg-box-squat",
+    "smith-machine-bulgarian-split-squat",
+    "smith-machine-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/smith-machine-pistol-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete performing a Smith Machine Pistol Squat with one leg extended forward; the quadriceps are highlighted red, and opaque shorts cover the hips and buttocks.",
+        "tr": "Opak spor kıyafetli sporcunun Smith makinesinde bir bacağını öne uzatarak pistol squat yaptığı iki gri aşama; çalışan kuadriseps kırmızı vurgulu, kalça şortla örtülüdür."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-pistol-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ],
+  "legacyIds": [
+    "Smith_Machine_Pistol_Squat"
+  ]
+}

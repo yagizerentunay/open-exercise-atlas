@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-snatch",
+  "slug": "dumbbell-snatch",
+  "name": {
+    "en": "Dumbbell Snatch",
+    "tr": "Dambıl Koparma"
+  },
+  "description": {
+    "en": "A single-arm explosive lift that moves one dumbbell from the floor to an overhead lockout in one continuous motion.",
+    "tr": "Tek dambılın tek ve kesintisiz bir hareketle yerden baş üstündeki kilitli konuma kaldırıldığı tek kol patlayıcı çekiş."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "traps",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with feet about hip-width and place one dumbbell between them; hinge at the hips and bend your knees to grasp the handle with one hand.",
+      "Drive through the floor and extend your hips and knees, keeping the dumbbell close as you lift it overhead in one continuous motion.",
+      "Finish standing tall with the dumbbell over the middle of your body, then lower it under control to the floor before switching hands."
+    ],
+    "tr": [
+      "Ayaklarını yaklaşık kalça genişliğinde açıp bir dambılı aralarına koy; kalçandan eğilerek ve dizlerini bükerek tek elinle sapı kavra.",
+      "Yerden güç alıp kalça ve dizlerini aç; dambılı vücuduna yakın tutarak tek ve kesintisiz bir hareketle baş üstüne kaldır.",
+      "Dik durup dambılı gövdenin orta hizasında tut; el değiştirmeden önce kontrollü biçimde yere indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "CrossFit Games dumbbell snatch movement standards; original Atlas editorial record",
+    "url": "https://games.crossfit.com/workouts/basicparent/2026/2?division=2&scaled=0",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "dumbbell-push-press",
+    "two-dumbbell-hang-clean"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-snatch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a single-arm dumbbell snatch, from a hinged floor start to an overhead finish, with the working shoulder, quadriceps and glutes highlighted red.",
+        "tr": "Tek kol dambıl koparmanın yerden eğilerek başlangıç ve baş üstünde bitiş aşamaları; çalışan omuz, ön bacak ve kalça kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-snatch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

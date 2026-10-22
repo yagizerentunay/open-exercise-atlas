@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-around-the-worlds",
+  "slug": "dumbbell-around-the-worlds",
+  "name": {
+    "en": "Dumbbell Around the Worlds",
+    "tr": "Dambılla Around the Worlds"
+  },
+  "description": {
+    "en": "A bench-based chest isolation exercise in which two dumbbells sweep through a wide arc from beside the hips toward an overhead position.",
+    "tr": "İki dambılın kalça yanından baş üzerine doğru geniş bir yay çizdiği, sehpada yapılan göğüs izolasyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Lie on a flat bench with feet planted; hold a light dumbbell in each hand beside your hips, palms up, with a small bend in your elbows.",
+      "Keeping that elbow bend, sweep both arms outward and in a broad arc toward an overhead position; stop within a comfortable shoulder range.",
+      "Reverse the arc slowly and return the dumbbells beside your hips; keep your torso steady and use light weights."
+    ],
+    "tr": [
+      "Ayakların yerde olacak şekilde düz sehpaya uzan; her elinde hafif bir dambılı kalçanın yanında, avuç içlerin yukarı bakacak ve dirseklerin hafif bükülü biçimde tut.",
+      "Dirsek açını koruyarak iki kolunu yana ve geniş bir yay çizerek baş üstüne doğru götür; omuzlarının rahat ettiği aralıkta dur.",
+      "Yayı yavaşça tersine izleyip dambılları kalçalarının yanına getir; gövdeni sabit tut ve hafif ağırlık kullan."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Legacy Around_The_Worlds record; Tiger Fitness movement guide; original Atlas editorial record",
+    "url": "https://tigerfitness.com/blogs/exercise-database/around-the-world-dumbbell",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Around_The_Worlds"
+  ],
+  "alternatives": [
+    "dumbbell-fly",
+    "dumbbell-pullover"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-around-the-worlds.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete sweeping a pair of dumbbells from beside the hips toward overhead while lying on a flat bench; opaque shorts cover the hips and buttocks, and the chest is highlighted red over the shirt.",
+        "tr": "Düz sehpada yatarken iki dambılı kalçanın yanından baş üzerine doğru geniş yayda götüren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs kasları atletin kumaşı üzerinde kırmızı vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-around-the-worlds.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

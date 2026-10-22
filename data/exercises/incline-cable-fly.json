@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "incline-cable-fly",
+  "slug": "incline-cable-fly",
+  "name": {
+    "en": "Incline Cable Fly",
+    "tr": "Eğimli Sehpada Kablo Fly"
+  },
+  "description": {
+    "en": "A chest isolation fly performed lying on an incline bench between two low cable pulleys.",
+    "tr": "İki alçak kablo makarası arasında eğimli sehpaya uzanarak yapılan göğüs izolasyon açışı."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Place an incline bench between two cable stacks, set both pulleys low, and lie back with a handle in each hand; keep a slight bend in your elbows.",
+      "Open your arms out to the sides in a controlled arc until you feel a comfortable chest stretch; keep your shoulders supported on the bench.",
+      "Sweep your arms together above the upper chest without changing the elbow bend, then return slowly and avoid arching your lower back."
+    ],
+    "tr": [
+      "Eğimli sehpayı iki kablo makarasının arasına yerleştir, makaraları alçağa ayarla ve her elinle bir tutacak kavrayıp sehpaya uzan; dirseklerini hafif bükülü tut.",
+      "Omuzların sehpada destekli kalırken kollarını kontrollü bir yayla yana aç; göğsünde rahat bir esneme hissedince dur.",
+      "Dirsek açını değiştirmeden kollarını üst göğsünün üzerinde birleştir; yavaşça başlangıca dön ve belini aşırı kavislendirme."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Legacy Incline_Cable_Flye record; Muscle & Strength exercise guide; original Atlas editorial record",
+    "url": "https://www.muscleandstrength.com/node/3822",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Incline_Cable_Flye"
+  ],
+  "alternatives": [
+    "low-to-high-cable-fly",
+    "high-to-low-cable-fly",
+    "incline-dumbbell-fly"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/incline-cable-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete lying on an incline bench between low cable pulleys, opening and bringing together the handles in a fly arc; opaque shorts cover the hips and buttocks and the chest is highlighted red on the tank fabric.",
+        "tr": "Alçak kablo makaraları arasında eğimli sehpaya uzanıp tutacakları fly yayıyla açıp birleştiren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs atlet kumaşı üzerinde kırmızı vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-cable-fly.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

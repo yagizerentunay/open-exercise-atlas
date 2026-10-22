@@ -88,7 +88,7 @@ This illustration is a visual guide and does not depict the full exercise moveme
 - **Date:** 2026-10-14.
 - **Creator/tool:** Open Exercise Atlas using OpenAI built-in image generation; model identifier not exposed.
 - **Style references:** The repo's `media/exercises/assisted-pull-up.webp` and the user-approved [Dumbbell Floor Press pilot](pilots/dumbbell-floor-press/prompt.md) were supplied as style inputs. They guided the grayscale anatomical athlete, selective red target-muscle emphasis, arrows, and equal side-by-side START/FINISH composition. No existing movement image was copied into a new movement asset.
-- **Method:** One original two-phase image was generated for each new exercise. Generated PNGs were resized to 1024 × 1024 transparent WebP at quality 85. Each final image is referenced by its own new exercise record; the 186 pre-existing records and media were left intact. The first Cat-Cow, overhead barbell shrug, and band-resisted march drafts were rejected for framing or equipment geometry; the final set uses corrected Cat-Cow, overhead dumbbell shrug, and seated hip flexion assets.
+- **Method:** One original two-phase image was generated for each new exercise. Generated PNGs were resized to 1024 × 485 transparent WebP at quality 85. Each final image is referenced by its own new exercise record; the 186 pre-existing records and media were left intact. The first Cat-Cow, overhead barbell shrug, and band-resisted march drafts were rejected for framing or equipment geometry; the final set uses corrected Cat-Cow, overhead dumbbell shrug, and seated hip flexion assets.
 - **Prompt set:** Shared visual direction: “same athlete and camera in two equal side-by-side panels; START left, FINISH right; hyper-detailed grayscale anatomy; red only on the target muscle; compact framing; small red movement arrow; transparent background; no labels, extra limbs, or cross-panel overlap.” Each [exercise record](../data/exercises/) supplies its movement-specific setup, action, return, and equipment. The exact approved pilot prompt is preserved [here](pilots/dumbbell-floor-press/prompt.md).
 - **Rights:** The project dedicates any rights it holds in these original outputs under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by law. AI output may not be unique; no exclusivity is claimed.
 - **Scope:** Visual guides and editorial records only. The red overlays are approximate.
@@ -638,3 +638,460 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** ACE's exercise library documents the two-hand overhead dumbbell setup and controlled elbow extension. Source: [ACE Triceps Extension](https://www.acefitness.org/resources/everyone/exercise-library/74/triceps-extension/).
 - **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`dumbbell-overhead-triceps-extension.json`](../data/exercises/dumbbell-overhead-triceps-extension.json).
+
+## Torso Rotation Machine illustration — 22 October 2026
+
+- **Asset:** `media/exercises/torso-rotation-machine.webp` (1024 × 1024, transparent WebP; SHA-256 `B6A9259A6ACE2D109E470A877222B749BFC2BEE4A1047BECB3E78C3F21C8428F`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two mirrored torso-rotation phases show a selectorized station with upper-chest and thigh pads; obliques are highlighted red. The generation master is preserved at [`docs/pilots/torso-rotation-machine-source.png`](pilots/torso-rotation-machine-source.png).
+- **Movement source:** [Cybex Prestige Torso Rotation Owner's Manual](https://kb.cybexintl.com/Owners_Manuals/Strength/21190-999-4.pdf) specifies chest-pad setup, selected start rotation, handle grip, thigh stabilization and torso rotation to the opposite side.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`torso-rotation-machine.json`](../data/exercises/torso-rotation-machine.json).
+
+## Dumbbell Snatch illustration — 22 October 2026
+
+- **Asset:** media/exercises/dumbbell-snatch.webp (1024 × 1024, transparent WebP; SHA-256 14EA9EF3C71B0FC4787CC9CC171EADA20D0C8BFD867D3527818E9F58D7017099).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a single dumbbell moving from a hip-hinge floor start to an overhead finish; glutes, quadriceps and working shoulder are highlighted red. The generation master is preserved at [docs/pilots/dumbbell-snatch-source.png](pilots/dumbbell-snatch-source.png).
+- **Movement source:** [CrossFit Games 2026 Dumbbell Snatch movement standards](https://games.crossfit.com/workouts/basicparent/2026/2?division=2&scaled=0) describe a floor start, a one-motion lift overhead and full hip, knee and elbow extension. Atlas instructions summarize these points in original wording.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [dumbbell-snatch.json](../data/exercises/dumbbell-snatch.json).
+
+
+## Flat Bench Cable Fly illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-flat-bench-fly.webp` (1024 × 1024, transparent WebP; SHA-256 `D1AF446F8F0414E60948C5393D141CA0D91F2EAD1368C3630E3DC2BF01B671C5`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a supine flat-bench fly between low cable pulleys. Opaque athletic clothing covers the hips and buttocks; the chest highlight is visibly printed on textured tank fabric. The generation master is preserved at [`docs/pilots/cable-flat-bench-fly-source.png`](pilots/cable-flat-bench-fly-source.png).
+- **Movement source:** The [Inspire FT2 Exercise Manual](https://inspirefitnesssolutions.co.uk/wp-content/uploads/2015/10/Inspire-FT2-Exercise-Manual.pdf) documents the lying chest-fly setup. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`cable-flat-bench-fly.json`](../data/exercises/cable-flat-bench-fly.json).
+
+## Cable Front Raise illustration — 22 October 2026
+
+- **Asset:** media/exercises/cable-front-raise.webp (1024 × 1024, transparent WebP; SHA-256 0583C3BA2436FCA84C2859D5F2BC3F37AD1C49F376B0BD2EC8CCDA60F555E434).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a single-arm low-cable raise from the thigh to shoulder height; anterior deltoid is highlighted red. The generation master is preserved at [docs/pilots/cable-front-raise-source.png](pilots/cable-front-raise-source.png).
+- **Movement source:** [PureGym Cable Front Raise](https://www.puregym.com/exercises/arms-and-shoulders/front-raises/cable-front-raise/) covers the low-pulley setup, back-to-tower position and shoulder-height raise; [Catalyst Athletics](https://www.catalystathletics.com/exercise/812/Cable-Front-Raise/) describes a controlled low-cable raise.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [cable-front-raise.json](../data/exercises/cable-front-raise.json).
+
+
+## Barbell Snatch illustration — 22 October 2026
+
+- **Asset:** media/exercises/barbell-snatch.webp (1024 × 1024, transparent WebP; SHA-256 75DD46A8D2820856A75A88CBC2BE02473394D93ACB56B544209AE4B36E4F6B51).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a wide-grip floor start and stable overhead-squat catch; shoulders, glutes and quadriceps are highlighted red. The generation master is preserved at [docs/pilots/barbell-snatch-source.png](pilots/barbell-snatch-source.png).
+- **Movement source:** [CrossFit Level 1 Training Guide, The Snatch](https://library.crossfit.com/free/pdf/CFJ_English_Level1_TrainingGuide.pdf) documents the wide-grip floor setup, close bar path, overhead squat catch and full extension. Atlas cues summarize these points in original wording.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [barbell-snatch.json](../data/exercises/barbell-snatch.json).
+
+## Lever Deadlift illustration — 22 October 2026
+
+- **Asset:** `media/exercises/lever-deadlift.webp` (1024 × 1024, transparent WebP; SHA-256 `C4F1F771B3E4DEE2955286925A8B58A261139A05263FD20C21F3DF5721378A7E`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated and revised with the built-in image generator; model identifier not exposed.
+- **Method:** Following user feedback that the original image exposed the buttocks and colored them red, the transparent 1254 × 1254 RGBA master was revised and resized to 1024 × 1024 WebP (quality 90, alpha retained). After a second review found the buttock area still looked exposed, both phases were regenerated with a clearly textured opaque tank and mid-thigh shorts fully covering the hips and buttocks. No red appears on the pelvis or clothing; highlights are limited to exposed leg muscles below the shorts hem. Current master SHA-256: `B28E04CE471E0EADC40DFDBE60CCA12CC25CAB511A142407A3648A87F23BB7CD`. The generation master is preserved at [`docs/pilots/lever-deadlift-source.png`](pilots/lever-deadlift-source.png).
+- **Movement source:** [Gymleco 083 Deadlift/Squat machine manual](https://gymsport.no/file/brukermanualer/083_gymleco_deadlift_squat-engelsk.pdf) describes controlled machine deadlifts with multiple handle positions; [Kovo Lever Deadlift guide](https://www.kovofitness.com/exercises/lever-deadlift-plate-loaded) supports the hip-hinge setup and controlled return. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`lever-deadlift.json`](../data/exercises/lever-deadlift.json).
+## Single-Arm Dumbbell Clean illustration — 22 October 2026
+
+- **Asset:** `media/exercises/single-arm-dumbbell-clean.webp` (1024 × 1024, transparent WebP; SHA-256 `089B3BCDDD6EA6E7127381090BDC8ABE4CF41D80EAD208BD7CBA25DBFACF4A6A`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show one dumbbell lifted from the floor to a shoulder rack. The athlete wears an opaque athletic shirt and shorts covering the buttocks; red muscle highlights over the shorts preserve visible fabric texture. The generation master is preserved at [`docs/pilots/single-arm-dumbbell-clean-source.png`](pilots/single-arm-dumbbell-clean-source.png).
+- **Movement source:** The [CrossFit Dumbbells Training Guide](https://assets.crossfit.com/pdfs/seminars/Dumbbell_Training_Guide.pdf) distinguishes one- and two-dumbbell cleans starting from the floor or hang. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`single-arm-dumbbell-clean.json`](../data/exercises/single-arm-dumbbell-clean.json).
+## Dumbbell Squat illustration — 22 October 2026
+
+- **Asset:** `media/exercises/dumbbell-squat.webp` (1024 × 1024, transparent WebP; SHA-256 `783FF5E2B4DAC50EB37A3A1F39CB98066A7D64C4A629D2B3BE4EADAED479E44F`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a bilateral squat with a dumbbell in each hand at the sides. The athlete wears opaque shorts covering the hips and buttocks; red highlights on the shorts preserve visible fabric texture. The generation master is preserved at [`docs/pilots/dumbbell-squat-source.png`](pilots/dumbbell-squat-source.png).
+- **Movement source:** [Mayo Clinic's dumbbell squat guide](https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/squat/vid-20084682) describes dumbbells held at the sides, a controlled squat and return. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`dumbbell-squat.json`](../data/exercises/dumbbell-squat.json).
+## Dumbbell Scaption illustration — 22 October 2026
+
+- **Asset:** `media/exercises/dumbbell-scaption.webp` (1024 × 1024, transparent WebP; SHA-256 `8BFBEA65AD89D39BAE11B85015AE7051E0A68F7C82B4A3E3212D5B1E2805AA49`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show both arms at rest and raised in the scapular plane to shoulder height. The athlete wears opaque athletic clothing covering the hips and buttocks; shoulders are highlighted red. The generation master is preserved at [`docs/pilots/dumbbell-scaption-source.png`](pilots/dumbbell-scaption-source.png).
+- **Movement source:** [Aurora Health Care's Upper Extremity Dumbbell Home Exercise Program](https://ahc.aurorahealthcare.org/fywb/x11240.pdf) distinguishes scaption from front flexion and side abduction, describes the diagonal arm path and thumb-up orientation. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`dumbbell-scaption.json`](../data/exercises/dumbbell-scaption.json).
+## Side-Lying Dumbbell Shoulder External Rotation illustration — 22 October 2026
+
+- **Asset:** `media/exercises/side-lying-dumbbell-shoulder-external-rotation.webp` (1024 × 1024, transparent WebP; SHA-256 `C90D663484555D2B7411C3C342723691598175DEC91B49886A5919059188CE67`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two side-lying phases show the forearm rotating upward while the elbow stays at the torso. The athlete wears opaque clothing covering the hips and buttocks; posterior shoulder is highlighted red. The generation master is preserved at [`docs/pilots/side-lying-dumbbell-shoulder-external-rotation-source.png`](pilots/side-lying-dumbbell-shoulder-external-rotation-source.png).
+- **Movement source:** [Aurora Health Care's Upper Extremity Dumbbell Home Exercise Program](https://ahc.aurorahealthcare.org/fywb/x11240.pdf) includes side-lying external rotation and controlled return. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`side-lying-dumbbell-shoulder-external-rotation.json`](../data/exercises/side-lying-dumbbell-shoulder-external-rotation.json).
+
+## Dumbbell Around the Worlds illustration — 22 October 2026
+
+- **Asset:** `media/exercises/dumbbell-around-the-worlds.webp` (1024 × 1024, transparent WebP; SHA-256 `6BB4447095758E80C4237CFF9F6E19D415B362CB4974B7A8C74012D292314131`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a supine two-dumbbell arc from hip level toward overhead. The athlete wears opaque clothing covering the hips and buttocks; the chest is highlighted red over the tank fabric. The generation master is preserved at [`docs/pilots/dumbbell-around-the-worlds-source.png`](pilots/dumbbell-around-the-worlds-source.png).
+- **Movement source:** [Tiger Fitness Dumbbell Around the World guide](https://tigerfitness.com/blogs/exercise-database/around-the-world-dumbbell) describes the bench setup, broad arc, slight elbow bend and controlled movement. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`dumbbell-around-the-worlds.json`](../data/exercises/dumbbell-around-the-worlds.json).
+
+
+## Decline Dumbbell Fly illustration — 22 October 2026
+
+- **Asset:** `media/exercises/decline-dumbbell-fly.webp` (1024 × 1024, transparent WebP; SHA-256 `29476BB881C3AE1B3CBBD16996C0510AA67F40D72E9C891B6050E1C40A9217D2`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated and edited with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a secured decline-bench chest fly, with the arms opened and returned over the chest. The athlete wears opaque clothing covering the hips and buttocks; chest highlighting appears on the tank fabric. The generation master is preserved at [`docs/pilots/decline-dumbbell-fly-source.png`](pilots/decline-dumbbell-fly-source.png).
+- **Movement sources:** [PureGym decline dumbbell fly guide](https://www.puregym.com/exercises/chest/chest-fly/decline-dumbbell-fly/) and [Tiger Fitness Decline Dumbbell Flys](https://tigerfitness.com/blogs/exercise-database/decline-dumbbell-flys) describe the decline setup, foot anchoring, arc and controlled range. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`decline-dumbbell-fly.json`](../data/exercises/decline-dumbbell-fly.json).
+
+
+## Incline Bench Dumbbell Reverse Fly illustration — 22 October 2026
+
+- **Asset:** `media/exercises/incline-bench-dumbbell-reverse-fly.webp` (1024 × 1024, transparent WebP; SHA-256 `BAFF843E8FEAAD00D8F60C80D1392BFEC02AF9853981D644321781326C5F616C`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a chest-supported incline reverse fly from hanging dumbbells to lateral shoulder abduction. Opaque clothing covers the torso and buttocks; rear-deltoid highlights are on the shirt fabric. The generation master is preserved at [`docs/pilots/incline-bench-dumbbell-reverse-fly-source.png`](pilots/incline-bench-dumbbell-reverse-fly-source.png).
+- **Movement sources:** [Tiger Fitness reverse fly guide](https://tigerfitness.com/blogs/exercise-database/reverse-flyes) and [ACE Incline Reverse Fly](https://www.acefitness.org/resources/everyone/exercise-library/34/incline-reverse-fly/) describe the supported incline setup, shoulder raise and controlled return. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`incline-bench-dumbbell-reverse-fly.json`](../data/exercises/incline-bench-dumbbell-reverse-fly.json).
+
+
+## Incline Cable Fly illustration — 22 October 2026
+
+- **Asset:** `media/exercises/incline-cable-fly.webp` (1024 × 1024, transparent WebP; SHA-256 `826434B3541ACFC7EB1692E3BA210EADAB41354D3BA5CFD57D5ADE64482AE95B`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated and edited with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a supine incline fly with low cables, from open arms to handles together over the chest. The athlete wears opaque athletic clothing; chest highlighting lies on the tank fabric and shorts cover the buttocks. The generation master is preserved at [`docs/pilots/incline-cable-fly-source.png`](pilots/incline-cable-fly-source.png).
+- **Movement source:** [Muscle & Strength Incline Cable Fly guide](https://www.muscleandstrength.com/node/3822) describes low pulleys, an incline bench and a controlled fly movement. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`incline-cable-fly.json`](../data/exercises/incline-cable-fly.json).
+
+
+## Cable Pallof Press illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-pallof-press.webp` (1024 × 1024, transparent WebP; SHA-256 `cb6b088e4fd727c577a9c3163ac3a2c370b60c2bdb77aee8467aa65befe62c48`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a standing chest-height cable anti-rotation press from hands at the sternum to arms extended forward. The athlete wears an opaque top and shorts; oblique highlights are on the shirt fabric. The generation master is preserved at [`docs/pilots/cable-pallof-press-source.png`](pilots/cable-pallof-press-source.png).
+- **Movement source:** [ACE Standing Anti-Rotation Press guide](https://www.acefitness.org/resources/everyone/exercise-library/332/standing-anti-rotation-press/) describes the chest-height pulley, side-on stance, press and controlled return. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`cable-pallof-press.json`](../data/exercises/cable-pallof-press.json).
+
+
+## Cable Shoulder Press illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-shoulder-press.webp` (1024 × 1024, transparent WebP; SHA-256 `58ba85aded1e7c55bf2c2978af9f5d7f9b6e397b354a86f09222a92eed00b255`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a standing bilateral cable shoulder press from handles at shoulder height to an overhead finish. Opaque workout clothing covers the torso and buttocks. The generation master is preserved at [`docs/pilots/cable-shoulder-press-source.png`](pilots/cable-shoulder-press-source.png).
+- **Movement source:** [Tiger Fitness Cable Shoulder Press guide](https://tigerfitness.com/blogs/exercise-database/cable-shoulder-press) describes low pulleys, shoulder-height start, overhead press and controlled lowering. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`cable-shoulder-press.json`](../data/exercises/cable-shoulder-press.json).
+
+
+## Cable Deadlift illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-deadlift.webp` (1024 × 1024, transparent WebP; SHA-256 `631d814d440a211a2dbe8d089fc19b72f15388a1461e3e64731f3151139386d6`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a straight-bar low-pulley cable deadlift from the hinged start to the upright finish. Opaque clothing covers the torso and buttocks; hamstrings are highlighted only below the shorts hem. The generation master is preserved at [`docs/pilots/cable-deadlift-source.png`](pilots/cable-deadlift-source.png).
+- **Movement source:** [Kysero Cable Deadlift guide](https://kysero.io/exercise-library/cable-deadlift/) describes the low-pulley start, hip/knee extension and controlled return. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`cable-deadlift.json`](../data/exercises/cable-deadlift.json).
+
+
+## Cable Reverse Crunch illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-reverse-crunch.webp` (1024 × 1024, transparent WebP; SHA-256 `f8d4600d165601e6228657e2e0295e87a1b03f91d0c411be9e121467f3c17f83`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1774 × 887 RGBA landscape image was fitted and centered on a transparent 1024 × 1024 canvas, preserving its proportions, then encoded as WebP (quality 90, alpha retained). Two phases show a supine cable reverse crunch with ankle cuffs, from knees bent over the hips to knees drawn in with the pelvis curled. Opaque clothing covers the torso and buttocks; abdominal highlights are on the shirt. The generation master is preserved at [`docs/pilots/cable-reverse-crunch-source.png`](pilots/cable-reverse-crunch-source.png).
+- **Movement source:** [FitnessTracker Cable Reverse Crunch guide](https://fitnesstracker.ca/resources/exercises/cable-reverse-crunch/) describes the low pulley and ankle cuffs, supine position, pelvic curl and controlled return. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`cable-reverse-crunch.json`](../data/exercises/cable-reverse-crunch.json).
+
+
+## Cable Preacher Curl illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-preacher-curl.webp` (1024 × 1024, transparent WebP; SHA-256 `57e36f117934bffbcde8a3f06cd9e2eb888238f8273d4ae2d2ee057f2cd9df33`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated and edited with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show an underhand cable preacher curl with the chest and upper arms on the pad. Opaque clothing covers the torso and buttocks; biceps are highlighted on the shirt sleeves. The generation master is preserved at [`docs/pilots/cable-preacher-curl-source.png`](pilots/cable-preacher-curl-source.png).
+- **Movement source:** [Muscle & Strength Cable Preacher Curl guide](https://cdn.muscleandstrength.com/exercises/preacher-cable-curl.html) describes the low-pulley setup, preacher bench, grip and controlled elbow-flexion movement. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`cable-preacher-curl.json`](../data/exercises/cable-preacher-curl.json).
+
+
+## Cable Upright Row illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-upright-row.webp` (1024 × 1024, transparent WebP; SHA-256 `58f944f5283ef2cb59d0d91f039aed9348999a8f997f2128b9bb6fbebe26ebfc`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated and edited with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a low-pulley straight-bar upright row from thighs to mid-chest. An opaque shirt and shorts cover the torso and buttocks; red target graphics are printed on the shirt. The generation master is preserved at [`docs/pilots/cable-upright-row-source.png`](pilots/cable-upright-row-source.png).
+- **Movement source:** [PureGym Cable Upright Row guide](https://www.puregym.com/exercises/arms-and-shoulders/upright-rows/cable-upright-row/) describes the low pulley, straight bar, controlled pull and comfortable stopping range. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`cable-upright-row.json`](../data/exercises/cable-upright-row.json).
+
+## Incline Cable Chest Press illustration — 22 October 2026
+
+- **Asset:** `media/exercises/incline-cable-chest-press.webp` (1024 × 1024, transparent WebP; SHA-256 `624b68f8968ed66dfa267c2df398d092c4856aeb452d3243c0eea0843973fcad`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show an incline-bench cable press from upper-chest level to nearly straight arms. The fully clothed athlete's chest highlight appears on the tank fabric. The generation master is preserved at [`docs/pilots/incline-cable-chest-press-source.png`](pilots/incline-cable-chest-press-source.png).
+- **Movement source:** [Muscle & Strength Incline Cable Chest Press](https://cdn.muscleandstrength.com/exercises/incline-cable-chest-press) supports the low-pulley setup, incline bench position and upward press path; Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`incline-cable-chest-press.json`](../data/exercises/incline-cable-chest-press.json).
+
+
+## Barbell Hack Squat illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-hack-squat.webp` (1024 × 1024, transparent WebP; SHA-256 `D9FB8B78BAE132F255EE7BD8341E72F13AAE71F0880F7B1A89F2A3DE20225CF6`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a barbell squat with the bar held behind the legs. Opaque clothing covers the hips and buttocks; exposed quadriceps below the shorts are highlighted red. The generation master is preserved at [`docs/pilots/barbell-hack-squat-source.png`](pilots/barbell-hack-squat-source.png).
+- **Movement source:** [Muscle & Fitness' Barbell Hack Squat guide](https://www.muscleandfitness.com/workouts/leg-exercises/how-barbell-hack-squat/) describes the bar-behind-the-legs setup and controlled extension. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-hack-squat.json`](../data/exercises/barbell-hack-squat.json).
+
+## Barbell Hang Clean illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-hang-clean.webp` (1024 × 1024, transparent WebP; SHA-256 `8581947D0F47E1A518360AB193409C92F0E35C158934B574BB844DA7D9FB60F7`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a barbell hang clean from mid-thigh to a full-squat front-rack catch. Opaque athletic clothing covers the hips and buttocks; only exposed shoulders are highlighted red. The generation master is preserved at [`docs/pilots/barbell-hang-clean-source.png`](pilots/barbell-hang-clean-source.png).
+- **Movement source:** [CrossFit's Hang Squat Clean guide](https://www.crossfit.com/essentials/the-hang-squat-clean) describes the hang start and full-squat receiving position. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-hang-clean.json`](../data/exercises/barbell-hang-clean.json).
+
+## Barbell Clean illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-clean.webp` (1024 × 1024, transparent WebP; SHA-256 `E7F4D0434AD8878A0641B3D4D0AFA08BDDB1DE3481F8FA548C0428BA43E081B4`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated and revised with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show the floor setup and full-squat front-rack catch of a barbell clean. Opaque athletic clothing covers the hips and buttocks; only exposed shoulders are highlighted red. The generation master is preserved at [`docs/pilots/barbell-clean-source.png`](pilots/barbell-clean-source.png).
+- **Movement source:** [CrossFit's clean guide](https://www.crossfit.com/essentials/foundational-movement-clean-what-is-a-clean) describes the full clean and distinguishes it from the power clean. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-clean.json`](../data/exercises/barbell-clean.json).
+
+## Barbell Overhead Squat illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-overhead-squat.webp` (1024 × 1024, transparent WebP; SHA-256 `99B570F892592842CB0B8903854F9FB6E22659E50C1611DAB7CD61B0CC04F8D1`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a standing overhead lockout and a deep squat while the bar stays overhead. Opaque athletic clothing covers the hips and buttocks; only exposed shoulders are highlighted red. The generation master is preserved at [`docs/pilots/barbell-overhead-squat-source.png`](pilots/barbell-overhead-squat-source.png).
+- **Movement source:** [CrossFit's Overhead Squat guide](https://www.crossfit.com/essentials/the-overhead-squat) describes the overhead position and full squat. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-overhead-squat.json`](../data/exercises/barbell-overhead-squat.json).
+
+## Barbell Power Clean illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-power-clean.webp` (1024 × 1024, transparent WebP; SHA-256 `3af1702593d828af630abe63cb330d0f44eb4a94f1dbd1ff6c24f93fca9c7e84`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a barbell power clean from floor setup to front-rack finish. Opaque athletic clothing covers the torso and buttocks; red highlights are limited to shoulders and quadriceps. Master: [`docs/pilots/barbell-power-clean-source.png`](pilots/barbell-power-clean-source.png).
+- **Movement source:** [CrossFit Open 11.5 standards](https://games-assets.crossfit.com/11.5_pdf.pdf) specify a power clean from the floor to the shoulders. Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-power-clean.json`](../data/exercises/barbell-power-clean.json).
+
+
+## Power Clean illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-power-clean.webp` (1024 × 1024, transparent WebP; SHA-256 `3af1702593d828af630abe63cb330d0f44eb4a94f1dbd1ff6c24f93fca9c7e84`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show the floor setup and the bar received at the shoulders; a CrossFit Open standard describes the power clean from floor to shoulder. Athlete's opaque training top and shorts cover the torso and buttocks; red highlights stay on exposed shoulder and quadriceps muscles. Master: [`docs/pilots/barbell-power-clean-source.png`](pilots/barbell-power-clean-source.png).
+- **Movement source:** [Power Clean guide or standards](https://games-assets.crossfit.com/11.5_pdf.pdf); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-power-clean.json`](../data/exercises/barbell-power-clean.json).
+
+
+## Clean and Jerk illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-clean-and-jerk.webp` (1024 × 1024, transparent WebP; SHA-256 `a26cac9738d545eab249c09dd64996762c08b68bc0ddc95f950b5982012ecbf8`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Three phases show floor start, front-rack clean, then split jerk overhead; CrossFit describes the lift as a clean followed by a jerk. Athlete's opaque top and full-length compression leggings cover the body; no red highlight appears on clothing or buttocks. Master: [`docs/pilots/barbell-clean-and-jerk-source.png`](pilots/barbell-clean-and-jerk-source.png).
+- **Movement source:** [Clean and Jerk guide or standards](https://www.crossfit.com/essentials/the-clean-and-jerk); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-clean-and-jerk.json`](../data/exercises/barbell-clean-and-jerk.json).
+
+
+## Barbell Step-Up illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-step-up.webp` (1024 × 1024, transparent WebP; SHA-256 `fb270aa5680615612b9ac6856863f2ef45515767081e1f44b00338b34cfb20c6`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a loaded step-up onto a stable raised box. ACE describes the stepping mechanics; its barbell training article includes step-ups among unilateral loaded exercises. Athlete's opaque training top and shorts cover the torso and buttocks; quadriceps are highlighted on exposed skin. Master: [`docs/pilots/barbell-step-up-source.png`](pilots/barbell-step-up-source.png).
+- **Movement source:** [Barbell Step-Up guide or standards](https://www.acefitness.org/resources/everyone/exercise-library/28/step-up/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-step-up.json`](../data/exercises/barbell-step-up.json).
+
+
+## Dumbbell Power Clean illustration — 22 October 2026
+
+- **Asset:** `media/exercises/dumbbell-power-clean.webp` (1024 × 1024, transparent WebP; SHA-256 `e5dce2f60eef58b76b438fa5d11e0b3d41ac545d191cb1f41d1b00fd3b56a49d`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show two dumbbells lifted from the floor into a shoulder-level partial-squat catch. Opaque clothing covers the torso and buttocks; shoulder and quadriceps highlights are on exposed skin. Master: [`docs/pilots/dumbbell-power-clean-source.png`](pilots/dumbbell-power-clean-source.png).
+- **Movement source:** [CrossFit Dumbbell Power Clean guide](https://www.crossfit.com/essentials/the-dumbbell-power-clean); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`dumbbell-power-clean.json`](../data/exercises/dumbbell-power-clean.json).
+
+
+## Barbell Seated Calf Raise illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-seated-calf-raise.webp` (1024 × 1024, transparent WebP; SHA-256 `EEAA5CCF7899892FDB6A4E158010000F3C82B4BA2E04217F416041CA5B3167DE`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a padded bar across the thighs, forefeet on a stable step, and heels lowered then raised. The athlete wears an opaque top and mid-thigh shorts covering the torso, pelvis and buttocks; red highlights are confined to exposed calves. Master: [`docs/pilots/barbell-seated-calf-raise-source.png`](pilots/barbell-seated-calf-raise-source.png).
+- **Movement source:** [Muscle & Strength Seated Barbell Calf Raise guide](https://www.muscleandstrength.com/exercises/seated-barbell-calf-raise.html) supports the equipment setup and controlled heel movement; Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-seated-calf-raise.json`](../data/exercises/barbell-seated-calf-raise.json).
+
+
+## Barbell Lateral Lunge illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-lateral-lunge.webp` (1024 × 1024, transparent WebP; SHA-256 `C5A55B2BF7D0018EF0ED7EBEC907501727BBDF3BFDE16C9EE3282D090776B65E`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a barbell held across the upper back during a lateral lunge. Opaque top and mid-thigh shorts cover the torso, pelvis and buttocks; red appears only on exposed quadriceps skin. Master: [`docs/pilots/barbell-lateral-lunge-source.png`](pilots/barbell-lateral-lunge-source.png).
+- **Movement source:** [U.S. Marine Corps Force Fitness Exercise Guidebook](https://www.tbs.marines.mil/Portals/230/Force%20Fitness%20Exercise%20Guidebook.pdf?ver=eGNb828lVw2cF1Ji_XVUsg%3D%3D) documents the barbell position and lateral lunge mechanics; Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-lateral-lunge.json`](../data/exercises/barbell-lateral-lunge.json).
+
+
+## Barbell Finger Curl illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-finger-curl.webp` (1024 × 1024, transparent WebP; SHA-256 `43D97902260E901DFD6E87D204A472954891BA881D786F20417EBFD8D6247218`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two poses show fingers opening to let a light bar roll toward the fingertips and closing to return it to the palms, with forearms supported and wrists nearly still. The athlete wears an opaque top and mid-thigh shorts covering the torso, hips and buttocks; red highlights are only on exposed forearms. Master: [`docs/pilots/barbell-finger-curl-source.png`](pilots/barbell-finger-curl-source.png).
+- **Movement source:** [Finger Curls exercise guide](https://fitnesstracker.ca/resources/exercises/finger-curls/) supports the barbell grip and finger-closing movement; Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-finger-curl.json`](../data/exercises/barbell-finger-curl.json).
+
+
+## Barbell Board Press illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-board-press.webp` (1024 × 1024, transparent WebP; SHA-256 `8DE107E793D2AC5D155C662DFA0353173FDE555F5B9DF3FC717C16126A427725`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show a spotter holding a board on the lifter's chest as the bar gently touches it, then returns to near lockout. The athlete wears an opaque top and mid-thigh shorts covering torso, hips and buttocks; red appears only on exposed triceps. Master: [`docs/pilots/barbell-board-press-source.png`](pilots/barbell-board-press-source.png).
+- **Movement source:** [Muscle & Fitness Board Press guide](https://www.muscleandfitness.com/workouts/chest-exercises/6-bench-press-variations-more-mass-0/) supports the board-on-chest setup and triceps focus; Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-board-press.json`](../data/exercises/barbell-board-press.json).
+
+
+## Barbell Clean Pull illustration — 22 October 2026
+
+- **Asset:** `media/exercises/barbell-clean-pull.webp` (1024 × 1024, transparent WebP; SHA-256 `EAFC70922097875C9DAE3F5DCB751AAFA3B3DFB29FF8924A073157BB83935CC4`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 90, alpha retained). Two phases show the bar from the floor to full extension without a front-rack catch. Opaque top and mid-thigh shorts cover the torso, hips and buttocks; red appears only on exposed quadriceps and trapezius skin. Master: [`docs/pilots/barbell-clean-pull-source.png`](pilots/barbell-clean-pull-source.png).
+- **Movement source:** [Catalyst Athletics Clean Pull guide](https://catalystathletics.com/exercise/98/Clean-Pull/) supports the setup and full-extension position; Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`barbell-clean-pull.json`](../data/exercises/barbell-clean-pull.json).
+
+
+## Standing Cable Chest Press clothing correction — 22 October 2026
+
+- **Asset:** `media/exercises/standing-cable-chest-press.webp` (1024 × 485 transparent WebP; SHA-256 `076AA414E6E59494B6873CDC22B4A29865CC67A88521DBE7FDCD4406432AF5B6`).
+- **Method:** New two-phase AI-assisted image was created at 1254 × 1254 RGBA and resized to 1024 × 1024 WebP (quality 90, alpha retained). Opaque sleeveless training top and mid-thigh shorts are clearly visible; hips and buttocks are covered. Red chest highlights retain visible fabric texture; no red appears on shorts. Master: [`standing-cable-chest-press-clothing-source.png`](pilots/standing-cable-chest-press-clothing-source.png).
+- **Movement source:** [Standing Cable Chest Press guide](https://www.sweat.com/exercises/standing-cable-chest-press); record wording is independently maintained.
+- **Record:** [`standing-cable-chest-press.json`](../data/exercises/standing-cable-chest-press.json); legacy ID `Cable_Chest_Press` maps to this existing record.
+- **Rights and limits:** Original artwork dedicated by the project under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed. Not independently reviewed for form, anatomy or rights.
+
+
+## Lying Cable Triceps Extension illustration — 22 October 2026
+
+- **Asset:** `media/exercises/lying-cable-triceps-extension.webp` (1024 × 485 transparent WebP; SHA-256 `E2C56E1FC060552FDCC50E7B0E20DAB63C958EE56ED566D5C1AF33EFF38B8B50`).
+- **Method:** Two-phase AI-assisted artwork was created as a transparent RGBA master, then resized to 1024 × 1024 WebP (quality 90, alpha retained). It shows elbow flexion near the forehead and extension over the chest with the upper arms steady. An opaque training top and shorts cover the torso and hips; red highlighting appears on the exposed triceps only. Master: [`lying-cable-triceps-extension-source.png`](pilots/lying-cable-triceps-extension-source.png).
+- **Movement source:** [Muscle & Strength Lying Cable Tricep Extension guide](https://www.muscleandstrength.com/exercises/lying-cable-tricep-extension.html); Atlas cues were independently worded.
+- **Record:** [`lying-cable-triceps-extension.json`](../data/exercises/lying-cable-triceps-extension.json).
+- **Rights and limits:** Original illustration dedicated by the project under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed. Not independently reviewed for form, anatomy or rights.
+
+
+## Shotgun Cable Row illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-shotgun-row.webp` (1024 × 485 transparent WebP; SHA-256 `926FA212AF104752937ECF520DBDD9457BA3A1F0596A4F0D0D4DDA1411F8FEE4`).
+- **Method:** Two-phase AI-assisted artwork was created as a transparent RGBA master, then resized to 1024 × 1024 WebP (quality 90, alpha retained). Poses show an extended reach and a row toward the lower ribs from a split stance with the free hand braced on the forward thigh. Opaque top and shorts cover the torso and hips; red lat highlight remains visibly on textured fabric. Master: [`cable-shotgun-row-source.png`](pilots/cable-shotgun-row-source.png).
+- **Movement source:** [Muscle & Strength Shotgun Row guide](https://www.muscleandstrength.com/node/3672); Atlas cues were independently worded.
+- **Record:** [`cable-shotgun-row.json`](../data/exercises/cable-shotgun-row.json).
+- **Rights and limits:** Original artwork dedicated by the project under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed. Not independently reviewed for form, anatomy or rights.
+
+
+## Dumbbell Hip Thrust illustration — 22 October 2026
+
+- **Asset:** `media/exercises/dumbbell-hip-thrust.webp` (1024 × 485 transparent WebP; SHA-256 `B3A6210D8FABB81FBD64217CF684DEFDA94A38923FC855E16DB86B8226784CC5`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 85, alpha retained). Two side-by-side phases show a bench-supported hip thrust with one dumbbell held across the hip crease. Opaque top and shorts fully cover the athlete; the red glute highlight retains the shorts' visible fabric texture. Master: [`dumbbell-hip-thrust-source.png`](pilots/dumbbell-hip-thrust-source.png).
+- **Movement source:** [PureGym Dumbbell Hip Thrust guide](https://www.puregym.com/exercises/glutes/hip-thrusts/dumbbell-hip-thrust/); Atlas cues were independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`dumbbell-hip-thrust.json`](../data/exercises/dumbbell-hip-thrust.json).
+
+
+## Cable Rope Rear-Delt Row illustration — 22 October 2026
+
+- **Asset:** `media/exercises/cable-rope-rear-delt-row.webp` (1024 × 485 transparent WebP; SHA-256 `8C0B1954C81361D5A5ADE99A5BC900BFD278939731B305F725CBFE66E3D9B65D`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 85, alpha retained). Two side-by-side phases show the arms reaching to a high cable and the rope rowed to the upper chest with the elbows flared wide. The athlete wears an opaque shirt and shorts fully covering the torso and hips; the red rear-delt highlight preserves the shirt's visible fabric texture. Master: [`cable-rope-rear-delt-row-source.png`](pilots/cable-rope-rear-delt-row-source.png).
+- **Movement sources:** [StrengthLog Cable Rear Delt Row guide](https://www.strengthlog.com/cable-rear-delt-row/) and [FitnessTracker Cable Rope Rear-Delt Rows guide](https://fitnesstracker.ca/resources/exercises/cable-rope-rear-delt-rows/); Atlas cues were independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`cable-rope-rear-delt-row.json`](../data/exercises/cable-rope-rear-delt-row.json); legacy ID `Cable_Rope_Rear-Delt_Rows`.
+
+## Smith Machine Pistol Squat illustration — 22 October 2026
+
+- **Asset:** `media/exercises/smith-machine-pistol-squat.webp` (1024 × 485 transparent WebP; SHA-256 `D8007F43E58911CFB10E282DBDDC6AF8F9563B3DC755570C805F5C2F7C1A9A77`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent 1254 × 1254 RGBA image resized to 1024 × 1024 and encoded as WebP (quality 85, alpha retained). Two side-by-side phases show a guided Smith-bar single-leg squat with the free leg extended forward. Opaque sportswear fully covers the athlete; red quadriceps highlights stay on exposed thigh skin and off the clothing. Master: [`smith-machine-pistol-squat-source.png`](pilots/smith-machine-pistol-squat-source.png).
+- **Movement source:** [RitFit Smith Machine Pistol Squat guide](https://www.ritfitsports.com/blogs/article/pistol-squats-smith-machine); Atlas cues were independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`smith-machine-pistol-squat.json`](../data/exercises/smith-machine-pistol-squat.json); legacy ID `Smith_Machine_Pistol_Squat`.
+
+## Indoor Rowing illustration — 22 October 2026
+
+- **Asset:** `media/exercises/rowing-machine.webp` (1024 × 485 transparent WebP; SHA-256 `B719823212356480467CC9A68DD766754FDDED009B2B339E2FFA6FAC700A2DCB`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Original transparent RGBA image was alpha-cropped, resized proportionally to 1024 × 485, and encoded as WebP (quality 85, alpha retained). Two side-by-side phases show the catch and finish of a seated indoor rowing stroke. The athlete wears an opaque shirt and shorts covering the torso, hips, and buttocks; red highlights appear only on exposed quadriceps. Master: [`rowing-machine-source.png`](pilots/rowing-machine-source.png) (SHA-256 `7D080893382029C63302388D48B23C0BE175F3CCB55A0A0019E7F417E52D67EC`).
+- **Movement sources:** [Concept2 Indoor Rowing Technique](https://www.concept2.com/training/rowing-technique) and [Concept2 Muscles Used While Rowing](https://www.concept2.com/training/articles/rowing-muscles-used); Atlas cues were independently worded.
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; the output may not be unique and no exclusivity is claimed.
+- **Record:** [`rowing-machine.json`](../data/exercises/rowing-machine.json); legacy ID `Rowing_Stationary`.
+
+
+## Stationary Bike (Upright) illustration — 22 October 2026
+
+- **Asset:** `media/exercises/upright-stationary-bike.webp` (1024 × 517 transparent WebP; SHA-256 `adf1bfd660c530d62f8ec3bf38acf296865de50da61ee71d05dacb4130d692b3`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Single full-body pose on a transparent 1312 × 1199 RGBA master, alpha-cropped with transparent margin and proportionally resized to 1024 px width (quality 90, alpha retained). Opaque athletic clothing covers the hips and buttocks; red highlights appear only on exposed calf skin. Master: [`upright-stationary-bike-source.png`](pilots/upright-stationary-bike-source.png).
+- **Movement sources:** [Stationary Bike (Upright) guide](https://support.lifefitness.com/hc/en-us/articles/42862231037335-How-to-Adjust-the-Seat-on-Your-Life-Fitness-Atmos-Upright-Bike) and [equipment setup/safety guide](https://support.lifefitness.com/hc/en-us/articles/42862246498199-How-to-Adjust-the-Pedal-Straps-on-Your-Atmos-Cardio-Series-Bike); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork, dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed.
+- **Record:** [`upright-stationary-bike.json`](../data/exercises/upright-stationary-bike.json); legacy ID `Bicycling_Stationary`.
+
+
+## Elliptical Trainer illustration — 22 October 2026
+
+- **Asset:** `media/exercises/elliptical-trainer.webp` (1024 × 939 transparent WebP; SHA-256 `c3db6f7b5c4fc8d71086c89f6ca1ae86d9ea231726f3120172a452756239c0cf`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** A single full-body pose on a transparent 1312 × 1199 RGBA master, alpha-cropped with transparent margin and proportionally resized to 1024 px width (quality 90, alpha retained). Opaque athletic clothing covers the hips and buttocks; red highlights appear only on exposed calf skin. Master: [`elliptical-trainer-source.png`](pilots/elliptical-trainer-source.png).
+- **Movement sources:** [Elliptical Trainer guide](https://support.lifefitness.com/hc/en-us/articles/42867987346583-Life-Fitness-Atmos-Elliptical-Introduction) and [equipment setup/safety guide](https://support.lifefitness.com/hc/en-us/articles/42861901438359-How-to-Mount-and-Dismount-Your-Atmos-Elliptical-Safely); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork, dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed.
+- **Record:** [`elliptical-trainer.json`](../data/exercises/elliptical-trainer.json); legacy ID `Elliptical_Trainer`.
+
+
+## Recumbent Bike illustration — 22 October 2026
+
+- **Asset:** `media/exercises/recumbent-bike.webp` (1024 × 935 transparent WebP; SHA-256 `c46321f85c1d5cc9d16c7c8beba8fcad753033a459278ada2bbc5669df16bca7`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Single full-body pose on a transparent 1312 × 1199 RGBA master, alpha-cropped with transparent margin and proportionally resized to 1024 px width (quality 90, alpha retained). Opaque athletic clothing covers the hips and buttocks; red highlights appear only on exposed leg skin. Master: [`recumbent-bike-source.png`](pilots/recumbent-bike-source.png).
+- **Movement source:** [Life Fitness Atmos Recumbent Bike seat adjustment guide; legacy Recumbent_Bike record](https://support.lifefitness.com/hc/en-us/articles/42862239184279-How-to-Adjust-the-Seat-on-Your-Life-Fitness-Atmos-Recumbent-Bike); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed.
+- **Record:** [`recumbent-bike.json`](../data/exercises/recumbent-bike.json); legacy IDs `Recumbent_Bike`.
+
+
+## Treadmill Walking illustration — 22 October 2026
+
+- **Asset:** `media/exercises/treadmill-walking.webp` (1024 × 958 transparent WebP; SHA-256 `56ffb1f2563214e1c655a74e0ee8e076942d5b2394fb84d5b05ffddd9ed120bd`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Single full-body pose on a transparent 1312 × 1199 RGBA master, alpha-cropped with transparent margin and proportionally resized to 1024 px width (quality 90, alpha retained). Opaque athletic clothing covers the hips and buttocks; red highlights appear only on exposed leg skin. Master: [`treadmill-walking-source.png`](pilots/treadmill-walking-source.png).
+- **Movement source:** [Life Fitness Atmos Treadmill manual workout and emergency-stop guides; legacy Walking_Treadmill record](https://support.lifefitness.com/hc/en-us/articles/42814171096215-Life-Fitness-Atmos-Treadmill-How-to-Set-Up-a-Manual-Workout-on-Your-SL-Console); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed.
+- **Record:** [`treadmill-walking.json`](../data/exercises/treadmill-walking.json); legacy IDs `Walking_Treadmill`.
+
+
+## Treadmill Running illustration — 22 October 2026
+
+- **Asset:** `media/exercises/treadmill-running.webp` (1024 × 942 transparent WebP; SHA-256 `3d2be7f3b61655ca6f63351d4ccc4f387cfc4f6b5f961f7f00834cd7a2de1178`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Single full-body pose on a transparent 1312 × 1199 RGBA master, alpha-cropped with transparent margin and proportionally resized to 1024 px width (quality 90, alpha retained). Opaque athletic clothing covers the hips and buttocks; red highlights appear only on exposed leg skin. Master: [`treadmill-running-source.png`](pilots/treadmill-running-source.png).
+- **Movement source:** [Life Fitness Atmos Treadmill manual workout and emergency-stop guides; legacy Running_Treadmill and Jogging_Treadmill records](https://support.lifefitness.com/hc/en-us/articles/42814171096215-Life-Fitness-Atmos-Treadmill-How-to-Set-Up-a-Manual-Workout-on-Your-SL-Console); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed.
+- **Record:** [`treadmill-running.json`](../data/exercises/treadmill-running.json); legacy IDs `Running_Treadmill, Jogging_Treadmill`.
+
+
+## Stair Climber (Step Mill) illustration — 22 October 2026
+
+- **Asset:** `media/exercises/stair-climber.webp` (1024 × 1556 transparent WebP; SHA-256 `fe978b4a69051941f567bf556d595d0ee2e9829a20bf0c72678799ad79148cd5`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration generated with the built-in image generator; model identifier not exposed.
+- **Method:** Single full-body pose on a transparent 1024 × 1536 RGBA master, alpha-cropped with transparent margin and proportionally resized to 1024 px width (quality 90, alpha retained). Opaque athletic clothing covers the hips and buttocks; red highlights appear only on exposed leg skin. Master: [`stair-climber-source.png`](pilots/stair-climber-source.png).
+- **Movement source:** [Life Fitness PowerMill Climber specifications and product guide; legacy Stairmaster and Step_Mill records](https://www.lifefitness.com/en-us/catalog/cardio/stair-climbers-stepper-machines/powermill-climber); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed.
+- **Record:** [`stair-climber.json`](../data/exercises/stair-climber.json); legacy IDs `Stairmaster, Step_Mill`.

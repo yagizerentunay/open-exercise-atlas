@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "decline-dumbbell-fly",
+  "slug": "decline-dumbbell-fly",
+  "name": {
+    "en": "Decline Dumbbell Fly",
+    "tr": "Dambıl Decline Fly"
+  },
+  "description": {
+    "en": "A chest isolation exercise performed on a decline bench, lowering two dumbbells outward in a controlled arc and bringing them back above the chest.",
+    "tr": "Decline sehpada iki dambılı kontrollü bir yay çizerek yana indirip göğsün üzerinde yeniden birleştirmeye dayanan göğüs izolasyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Secure your feet under the decline bench pads and lie back with a light dumbbell in each hand above your chest; keep a small bend in your elbows.",
+      "Lower both arms outward in a wide arc until the dumbbells reach a comfortable chest-level stretch; keep the elbow bend steady.",
+      "Bring the dumbbells back above your chest by drawing your arms together; use a manageable load and avoid forcing the shoulder range."
+    ],
+    "tr": [
+      "Ayaklarını decline sehpanın pedlerinin altına sabitleyip sırtüstü yat; her elinde hafif bir dambılı göğsünün üzerinde tut ve dirseklerini az bükülü bırak.",
+      "Dirsek açını koruyarak iki kolunu geniş bir yayla yana indir; dambıllar göğüs hizasında rahat bir esneme noktasına geldiğinde dur.",
+      "Kollarını bir araya getirip dambılları göğsünün üzerine geri al; yönetilebilir ağırlık kullan ve omuz hareket aralığını zorlama."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Legacy Decline_Dumbbell_Flyes record; Tiger Fitness movement guide; original Atlas editorial record",
+    "url": "https://tigerfitness.com/blogs/exercise-database/decline-dumbbell-flys",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Decline_Dumbbell_Flyes"
+  ],
+  "alternatives": [
+    "dumbbell-fly",
+    "incline-dumbbell-fly",
+    "decline-dumbbell-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/decline-dumbbell-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete secured on a decline bench, lowering and bringing together two dumbbells in a chest-fly arc; opaque shorts cover the hips and buttocks and the chest is highlighted red over the tank fabric.",
+        "tr": "Decline sehpada ayakları sabitlenmiş, iki dambılı göğüs fly hareketiyle yana açıp yukarıda birleştiren spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs atlet kumaşı üzerinde kırmızı vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/decline-dumbbell-fly.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-pallof-press",
+  "slug": "cable-pallof-press",
+  "name": {
+    "en": "Cable Pallof Press",
+    "tr": "Kabloda Pallof Press"
+  },
+  "description": {
+    "en": "A standing anti-rotation core press performed with a chest-height cable handle.",
+    "tr": "Göğüs hizasındaki kablo tutacağını gövdeyi döndürmeden öne iterek yapılan ayakta core egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "rotation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "obliques"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "force": "static",
+  "mechanic": "compound",
+  "instructions": {
+    "en": [
+      "Set a single handle at chest height and stand side-on to the cable stack with your feet about hip-width apart; hold the handle at your sternum and step out until the cable is taut.",
+      "Brace your trunk and press both hands straight forward at chest height; keep your hips and shoulders facing ahead and resist being pulled into a turn.",
+      "Bring the handle back to your chest under control, then turn to face the other way and repeat on the opposite side."
+    ],
+    "tr": [
+      "Tek tutacağı göğüs hizasına ayarla ve kablo makarasına yan dönerek ayaklarını yaklaşık kalça genişliğinde aç; tutacağı göğüs kemiğinde kavra ve kablo gerilene kadar yana doğru uzaklaş.",
+      "Gövdeni sıkıp iki elini göğüs hizasında dümdüz öne uzat; kalçaların ve omuzların karşıya baksın, kablonun seni döndürmesine diren.",
+      "Tutacağı kontrollü biçimde göğsüne geri getir; sonra diğer tarafı çalıştırmak için yönünü değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "ACE Standing Anti-Rotation Press guide; legacy Pallof Press record; original Atlas editorial record",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/332/standing-anti-rotation-press/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Pallof_Press"
+  ],
+  "alternatives": [
+    "standing-band-pallof-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-pallof-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show an athlete standing side-on to a chest-height cable, first holding the handle at the sternum and then pressing it straight forward while resisting torso rotation; opaque top and shorts cover the body, with obliques highlighted red on the shirt fabric.",
+        "tr": "Göğüs hizasındaki kabloya yan dönük duran sporcunun tutacağı önce göğüs kemiğinde tuttuğu, sonra gövdesini döndürmeden öne ittiği iki gri aşama; opak üst ve şort vücudu örter, oblikler tişört kumaşı üzerinde kırmızıyla vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-pallof-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-snatch",
+  "slug": "barbell-snatch",
+  "name": {
+    "en": "Barbell Snatch",
+    "tr": "Halter Koparma"
+  },
+  "description": {
+    "en": "An advanced lift that moves a barbell from the floor to an overhead squat position in one continuous motion.",
+    "tr": "Halterin tek ve kesintisiz bir hareketle yerden baş üstü squat pozisyonuna kaldırıldığı ileri düzey bir kaldırış."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "traps",
+    "abdominals",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with the bar over mid-foot and take a wide overhand snatch grip; brace your trunk with the bar close to your shins.",
+      "Push through the floor and extend your hips and knees, keeping the bar close; then pull under and receive it overhead in a stable squat with arms locked.",
+      "Stand to full hip and knee extension while keeping the bar balanced overhead, then lower it safely."
+    ],
+    "tr": [
+      "Bar orta ayak hizasındayken ayakta durup geniş üstten koparma tutuşu al; gövdeni sabitle ve barı kaval kemiklerine yakın tut.",
+      "Yeri itip kalça ve dizlerini açarken barı yakında tut; ardından altına girip kollarını kilitleyerek dengeli bir squat pozisyonunda baş üstünde karşıla.",
+      "Barı dengeli biçimde baş üstünde tutarak kalça ve dizlerini tamamen aç; sonra barı güvenli şekilde indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "CrossFit Level 1 Training Guide, The Snatch; original Atlas editorial record",
+    "url": "https://library.crossfit.com/free/pdf/CFJ_English_Level1_TrainingGuide.pdf",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "dumbbell-snatch",
+    "barbell-push-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-snatch.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a barbell snatch from floor setup to an overhead squat catch, with shoulders, glutes and quadriceps highlighted red.",
+        "tr": "Halter koparmanın yerden başlangıç ve baş üstü squat karşılaması iki gri aşamada gösteriliyor; omuz, kalça ve ön bacak kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-snatch.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-shoulder-press",
+  "slug": "cable-shoulder-press",
+  "name": {
+    "en": "Cable Shoulder Press",
+    "tr": "Kabloda Omuz Presi"
+  },
+  "description": {
+    "en": "A standing overhead press performed between two low cable pulleys.",
+    "tr": "İki alçak kablo makarasının arasında ayakta yapılan baş üstü itiş hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Set both pulleys low, attach one handle to each, and stand centered between the stacks with a handle at each shoulder; keep your feet about shoulder-width apart and brace your trunk.",
+      "Press both handles overhead in a controlled path, keeping your wrists above your elbows and your torso upright without arching your lower back.",
+      "Lower the handles slowly to shoulder height without shrugging, then repeat."
+    ],
+    "tr": [
+      "İki makarayı alçağa ayarlayıp her birine tutacak tak; iki makaranın ortasında, tutacaklar omuz hizasındayken dur. Ayaklarını yaklaşık omuz genişliğinde açıp gövdeni sık.",
+      "Belini aşırı çukurlaştırmadan gövdeni dik tutarak iki tutacağı kontrollü biçimde başının üzerine it; bileklerini dirseklerinin üzerinde hizala.",
+      "Omuzlarını yukarı çekmeden tutacakları yavaşça omuz hizasına indir ve tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Tiger Fitness Cable Shoulder Press guide; legacy cable record; original Atlas editorial record",
+    "url": "https://tigerfitness.com/blogs/exercise-database/cable-shoulder-press",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Cable_Shoulder_Press"
+  ],
+  "alternatives": [
+    "dumbbell-shoulder-press",
+    "machine-shoulder-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-shoulder-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete standing between low cable stacks, starting with handles at shoulder height and pressing them overhead; the deltoids are highlighted red.",
+        "tr": "Alçak kablo makaralarının arasında ayakta duran, tutacakları omuz hizasından baş üzerine iten spor kıyafetli sporcunun iki gri aşaması; omuz kasları kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-shoulder-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

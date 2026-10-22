@@ -922,6 +922,64 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-board-press",
+    "slug": "barbell-board-press",
+    "name": "Barbell Board Press",
+    "description": "A partial-range bench press in which the bar is lowered to a board held on the chest before pressing back up.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench",
+      "other"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders",
+      "forearms"
+    ],
+    "instructions": [
+      "Set the bar in a rack with safeties, lie on a flat bench, and have a spotter hold a stable board on your mid-chest; use a load you can control.",
+      "Grip the bar around shoulder width and lower it slowly until it gently touches the board; keep your wrists above your elbows and do not bounce.",
+      "Press the bar to near-straight arms, then have the spotter help return it to the rack."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Fitness Board Press guide; original Atlas adaptation",
+      "url": "https://www.muscleandfitness.com/workouts/chest-exercises/6-bench-press-variations-more-mass-0/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Board_Press"
+    ],
+    "alternatives": [
+      "barbell-floor-press",
+      "close-grip-bench-press",
+      "barbell-bench-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-board-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete bench pressing a bar to a board held on the chest by a spotter, then pressing it up; triceps are highlighted red.",
+          "tr": "Gözcünün göğüste tuttuğu tahtaya kadar barı indirip yeniden iten, opak kıyafetli sporcunun iki gri aşaması; arka kol kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-board-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-box-squat",
     "slug": "barbell-box-squat",
     "name": "Barbell Box Squat",
@@ -1019,6 +1077,182 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-bulgarian-split-squat.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://www.sussex.ac.uk/sport/documents/6-bulgarian-split-squat-barbell.pdf"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-clean",
+    "slug": "barbell-clean",
+    "name": "Barbell Clean",
+    "description": "An Olympic lift that brings a barbell from the floor to the front rack, received in a full squat before standing.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Stand with the bar over mid-foot, grip just outside your legs, and brace with your shoulders slightly ahead of the bar and your back neutral.",
+      "Push through the floor and extend your hips and knees while keeping the bar close; pull under it and receive it on your shoulders in a full squat with elbows forward.",
+      "Keep the bar secure in the front rack and stand by extending your hips and knees; lower the bar safely before resetting."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit How to Do a Clean; Squat Clean Progression; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/foundational-movement-clean-what-is-a-clean",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Clean"
+    ],
+    "alternatives": [
+      "barbell-power-clean",
+      "barbell-clean-and-jerk",
+      "front-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete moving a barbell from floor setup to a full-squat front-rack catch; opaque tank and full-length compression leggings cover the torso, hips and buttocks, with only the exposed shoulders highlighted red.",
+          "tr": "Halteri yerden çekip tam squat altında ön omuz konumunda karşılayan sporcunun iki gri aşaması; opak atlet ve uzun kompresyon taytı gövdeyi, kalçayı ve kalçanın arka kısmını örter, yalnızca açık omuzlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-clean-and-jerk",
+    "slug": "barbell-clean-and-jerk",
+    "name": "Clean and Jerk",
+    "description": "An Olympic barbell lift that takes the bar from the floor to the shoulders in a clean, then drives it overhead in a jerk.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "traps",
+      "triceps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Stand with the bar over mid-foot, grip just outside your legs, and brace with your shoulders slightly ahead of the bar.",
+      "Lift the bar close to your body and receive it on your shoulders in a stable front-rack position.",
+      "Dip slightly through the knees, drive the bar overhead, and split or push under it; recover your feet under your hips, lock out, then lower the bar with control."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Clean and Jerk guide and movement standards; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/the-clean-and-jerk",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Clean_and_Jerk"
+    ],
+    "alternatives": [
+      "barbell-power-clean",
+      "barbell-snatch",
+      "barbell-push-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-clean-and-jerk.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Three grayscale phases show an athlete in an opaque top and full-length leggings moving a barbell from floor setup to front rack and overhead split jerk; buttocks are covered and no red highlight appears on the leggings.",
+          "tr": "Spor üstü ve kalçayı örten uzun tayt giyen sporcunun halteri yerden ön omuz konumuna, ardından split jerk ile baş üstüne taşıdığı üç gri aşama; taytta kırmızı vurgu yoktur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean-and-jerk.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-clean-pull",
+    "slug": "barbell-clean-pull",
+    "name": "Barbell Clean Pull",
+    "description": "An Olympic clean-pull exercise that accelerates the bar from the floor through full extension without catching it on the shoulders.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "traps",
+      "lower-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Stand with the bar over mid-foot and take a clean-width grip; brace with your back neutral, shoulders slightly ahead of the bar and arms long.",
+      "Push through the floor and extend your knees while keeping the bar close; maintain your back angle until the bar passes the knees.",
+      "From lower to mid-thigh, extend your hips, knees and ankles vertically and shrug to accelerate the bar; do not pull under or catch it. Lower the bar safely before resetting."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Catalyst Athletics Clean Pull exercise guide; original Atlas adaptation",
+      "url": "https://catalystathletics.com/exercise/98/Clean-Pull/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Clean_Pull"
+    ],
+    "alternatives": [
+      "barbell-power-clean",
+      "barbell-clean",
+      "conventional-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-clean-pull.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete pulling a barbell from the floor to full extension with the bar below the chest and no shoulder catch; quadriceps and exposed traps are highlighted red.",
+          "tr": "Halteri yerden çekip göğsün altında tutarak omuzlarda karşılamadan tam açışa ulaşan, opak kıyafetli sporcunun iki gri aşaması; ön bacak ve açık trapez kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean-pull.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -1169,6 +1403,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-finger-curl",
+    "slug": "barbell-finger-curl",
+    "name": "Barbell Finger Curl",
+    "description": "A forearm exercise in which the fingers open to let a light barbell roll toward the fingertips, then close to bring it back into the palms.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "forearms"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit on a bench and rest your forearms on your thighs, palms up, with your wrists just beyond your knees; hold a very light barbell securely.",
+      "Keeping your forearms supported and wrists nearly still, open your fingers so the bar rolls toward the last finger joints without slipping free.",
+      "Close your fingers to curl the bar back into your palms, then repeat with control."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Finger Curls exercise guide; original Atlas adaptation",
+      "url": "https://fitnesstracker.ca/resources/exercises/finger-curls/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Finger_Curls"
+    ],
+    "alternatives": [
+      "barbell-wrist-curl",
+      "behind-the-back-barbell-wrist-curl",
+      "dumbbell-reverse-wrist-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-finger-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete seated with forearms supported and palms up, opening the fingers to lower a light barbell toward the fingertips and closing them to return it to the palms; forearms are highlighted red.",
+          "tr": "Ön kolları destekli, avuçları yukarı bakan ve hafif halteri parmaklarına indirip parmaklarını kapatarak geri alan opak kıyafetli sporcunun iki gri aşaması; ön kollar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-finger-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-floor-press",
     "slug": "barbell-floor-press",
     "name": "Barbell Floor Press",
@@ -1311,6 +1598,121 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-hack-squat",
+    "slug": "barbell-hack-squat",
+    "name": "Barbell Hack Squat",
+    "description": "A free-weight squat in which the barbell is held behind the legs throughout the lift.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Stand with a loaded barbell just behind your calves, feet about shoulder-width apart; hinge and bend your knees to grip the bar just outside your legs with arms straight and back neutral.",
+      "Brace your trunk and drive through the floor, extending your knees and hips together while keeping the bar close behind your legs until you stand tall.",
+      "Bend your hips and knees under control to lower the bar behind your legs back to the floor; reset your grip and posture before the next repetition."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Fitness Barbell Hack Squat guide; legacy Barbell_Hack_Squat record; original Atlas editorial record",
+      "url": "https://www.muscleandfitness.com/workouts/leg-exercises/how-barbell-hack-squat/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Hack_Squat"
+    ],
+    "alternatives": [
+      "hack-squat",
+      "barbell-back-squat",
+      "conventional-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-hack-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a barbell hack squat with the bar held behind the calves and thighs from a crouched start to standing; opaque shorts cover the hips and buttocks, while exposed quadriceps below the shorts are highlighted red.",
+          "tr": "Halterin bacakların arkasında tutulduğu hack squat hareketinin çömelik başlangıçtan dik duruşa iki gri aşaması; opak şort kalça ve kalçanın arka kısmını örter, şortun altındaki açık ön bacaklar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-hack-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-hang-clean",
+    "slug": "barbell-hang-clean",
+    "name": "Barbell Hang Clean",
+    "description": "A clean variation that starts with the bar hanging at the thighs and is received in a full front-rack squat.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Stand tall with the bar just above your knees or at mid-thigh, hands just outside the legs, and knees softly bent; brace your trunk.",
+      "Hinge slightly, then extend your hips and knees quickly while keeping the bar close; pull under it and receive it on your shoulders in a full squat with elbows forward.",
+      "Stand by extending your hips and knees while keeping the bar in the front rack, then lower it under control to reset."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Hang Squat Clean guide; legacy Hang_Clean record; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/the-hang-squat-clean",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Hang_Clean"
+    ],
+    "alternatives": [
+      "barbell-clean",
+      "barbell-power-clean",
+      "two-dumbbell-hang-clean"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-hang-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a barbell hang clean from the mid-thigh hang to a full-squat front-rack catch; opaque tank and full-length compression leggings cover the torso, hips and buttocks, with only exposed shoulders highlighted red.",
+          "tr": "Halterle hang clean hareketinin uyluk ortasında asılı başlangıçtan tam squat ön omuz karşılamasına iki gri aşaması; opak atlet ve uzun kompresyon taytı gövdeyi ve kalçayı örter, yalnızca açık omuzlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-hang-clean.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-hip-thrust",
     "slug": "barbell-hip-thrust",
     "name": "Barbell Hip Thrust",
@@ -1359,6 +1761,180 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/glutes.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-lateral-lunge",
+    "slug": "barbell-lateral-lunge",
+    "name": "Barbell Lateral Lunge",
+    "description": "A loaded lateral lunge with a barbell across the upper back as the hips shift toward one bent leg.",
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "adductors"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Secure the bar across your upper back, not your neck, and stand in a wide stance with your feet flat and toes slightly turned out.",
+      "Send your hips toward one side as you bend that knee and keep the opposite leg long; keep your chest open and let the bent knee track in the same direction as the toes.",
+      "Press through the bent leg to return to the wide stance, then repeat to the other side."
+    ],
+    "source": {
+      "type": "original",
+      "title": "U.S. Marine Corps Force Fitness Exercise Guidebook; original Atlas adaptation",
+      "url": "https://www.tbs.marines.mil/Portals/230/Force%20Fitness%20Exercise%20Guidebook.pdf?ver=eGNb828lVw2cF1Ji_XVUsg%3D%3D",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Side_Split_Squat"
+    ],
+    "alternatives": [
+      "lateral-lunge",
+      "dumbbell-lateral-lunge",
+      "cossack-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-lateral-lunge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete holding a barbell across the upper back, first standing wide and then bending one knee into a lateral lunge; the exposed quadriceps are highlighted red.",
+          "tr": "Halteri üst sırtında taşıyan opak kıyafetli sporcunun önce geniş durduğu, sonra bir dizini bükerek yana lunge yaptığı iki gri aşama; açıkta kalan ön bacak kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-lateral-lunge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-overhead-squat",
+    "slug": "barbell-overhead-squat",
+    "name": "Barbell Overhead Squat",
+    "description": "A full squat performed while a barbell is held locked out overhead in a wide grip.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "lower-back",
+      "traps"
+    ],
+    "instructions": [
+      "Take a wide grip and get the bar to a stable overhead lockout from a rack or a light snatch; set your feet about shoulder-width and brace your trunk.",
+      "Keep the bar balanced over your mid-foot and your elbows locked as you squat until your hip crease passes below the knees; keep your heels down and knees tracking with your toes.",
+      "Drive through the floor to stand while keeping the bar overhead and your trunk steady, then return the bar to the rack under control."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit The Overhead Squat; legacy Overhead_Squat record; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/the-overhead-squat",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Overhead_Squat"
+    ],
+    "alternatives": [
+      "barbell-back-squat",
+      "barbell-snatch",
+      "barbell-clean-and-jerk"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-overhead-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete standing and squatting deeply with a barbell locked overhead in a wide grip; opaque tank and full-length compression leggings cover the torso, hips and buttocks, with only exposed shoulders highlighted red.",
+          "tr": "Halteri geniş tutuşla baş üstünde kilitli tutarak ayakta duran ve derin çömelme yapan sporcunun iki gri aşaması; opak atlet ve uzun kompresyon taytı gövdeyi ve kalçayı örter, yalnızca açık omuzlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-overhead-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-power-clean",
+    "slug": "barbell-power-clean",
+    "name": "Power Clean",
+    "description": "An explosive barbell lift that brings the bar from the floor to the shoulders, caught above a parallel squat before standing tall.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Stand with the bar over mid-foot and take a closed overhand grip just outside your legs; brace your trunk with shoulders slightly ahead of the bar.",
+      "Push through the floor and extend your hips and knees, keeping the bar close; then pull under and receive it on your shoulders with elbows forward, catching above a parallel squat.",
+      "Stand to full hip and knee extension with the bar secure in front rack, then lower it safely to the floor."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Open 11.5 Power Clean movement standards; original Atlas editorial record",
+      "url": "https://games-assets.crossfit.com/11.5_pdf.pdf",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Power_Clean"
+    ],
+    "alternatives": [
+      "barbell-snatch",
+      "two-dumbbell-hang-clean",
+      "barbell-clean-and-jerk"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-power-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lifting a barbell from the floor and receiving it at the shoulders in a power clean; an opaque top and shorts cover the torso and buttocks, with shoulders and quadriceps highlighted red.",
+          "tr": "Halteri yerden çekip omuzlarında power clean karşılaması yapan, spor kıyafetli sporcunun iki gri aşaması; opak üst ve şort gövdeyle kalçayı örter, omuz ve ön bacak kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-power-clean.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -1571,6 +2147,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-seated-calf-raise",
+    "slug": "barbell-seated-calf-raise",
+    "name": "Barbell Seated Calf Raise",
+    "description": "A seated calf raise with a padded barbell resting across the thighs just above the knees.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sit near the front of a stable bench with the balls of your feet on a low, stable step and your heels free; place a padded, manageable barbell across your lower thighs just above the knees.",
+      "Keep your torso steady and raise your heels by pressing through the balls of your feet; pause briefly at the top.",
+      "Lower your heels slowly through a comfortable range without bouncing, then repeat."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Strength Seated Barbell Calf Raise guide; original Atlas adaptation",
+      "url": "https://www.muscleandstrength.com/exercises/seated-barbell-calf-raise.html",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Seated_Calf_Raise"
+    ],
+    "alternatives": [
+      "seated-calf-raise",
+      "seated-dumbbell-calf-raise",
+      "calf-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-seated-calf-raise.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete seated on a bench with a padded barbell across the thighs and forefeet on a step, lowering and raising the heels; the calves are highlighted red.",
+          "tr": "Pedli halter uyluklarında, ayak uçları basamakta olacak şekilde sehpa üzerinde oturan ve topuklarını indirip kaldıran opak kıyafetli sporcunun iki gri aşaması; baldırlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-seated-calf-raise.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-shrug",
     "slug": "barbell-shrug",
     "name": "Barbell Shrug",
@@ -1670,6 +2299,118 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/traps-barbell-shrug-behind-back.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-snatch",
+    "slug": "barbell-snatch",
+    "name": "Barbell Snatch",
+    "description": "An advanced lift that moves a barbell from the floor to an overhead squat position in one continuous motion.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "traps",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Stand with the bar over mid-foot and take a wide overhand snatch grip; brace your trunk with the bar close to your shins.",
+      "Push through the floor and extend your hips and knees, keeping the bar close; then pull under and receive it overhead in a stable squat with arms locked.",
+      "Stand to full hip and knee extension while keeping the bar balanced overhead, then lower it safely."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Level 1 Training Guide, The Snatch; original Atlas editorial record",
+      "url": "https://library.crossfit.com/free/pdf/CFJ_English_Level1_TrainingGuide.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-snatch",
+      "barbell-push-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-snatch.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a barbell snatch from floor setup to an overhead squat catch, with shoulders, glutes and quadriceps highlighted red.",
+          "tr": "Halter koparmanın yerden başlangıç ve baş üstü squat karşılaması iki gri aşamada gösteriliyor; omuz, kalça ve ön bacak kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-snatch.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-step-up",
+    "slug": "barbell-step-up",
+    "name": "Barbell Step-Up",
+    "description": "A loaded unilateral leg exercise in which one foot drives the body onto a stable raised platform while a barbell rests across the upper back.",
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Set a stable platform in front of you and position the bar securely across your upper back, not on your neck; stand tall and brace.",
+      "Place one whole foot on the platform, keep the knee tracking over the toes, and press through that foot to rise without pushing off strongly with the trailing leg.",
+      "Stand balanced on the platform, then step down slowly under control and repeat on the other side."
+    ],
+    "source": {
+      "type": "original",
+      "title": "ACE Step-Up exercise guide and barbell training article; original Atlas editorial record",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/28/step-up/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Step_Ups"
+    ],
+    "alternatives": [
+      "step-up",
+      "barbell-forward-lunge",
+      "barbell-walking-lunge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-step-up.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete with a barbell across the upper back beginning on the floor and stepping onto a stable box; shorts cover the buttocks and the quadriceps are highlighted red.",
+          "tr": "Halteri üst sırtında taşıyarak yerden sağlam bir kutuya çıkan, opak spor kıyafetli sporcunun iki gri aşaması; şort kalçayı örter, ön bacak kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-step-up.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -3421,6 +4162,169 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-deadlift",
+    "slug": "cable-deadlift",
+    "name": "Cable Deadlift",
+    "description": "A floor-start hip-hinge deadlift performed with a straight bar attached to a low cable pulley.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "lower-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Attach a straight bar to the lowest pulley and stand over the cable with your feet about hip-width apart; hinge at the hips and bend your knees enough to grip the bar with straight arms and a neutral spine.",
+      "Brace your trunk and push through the floor, extending your hips and knees together while keeping the bar close to your legs.",
+      "Stand tall without leaning back, then hinge and bend your knees to lower the bar under control until you reach the start position."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Kysero Cable Deadlift guide; legacy Cable Deadlifts record; original Atlas editorial record",
+      "url": "https://kysero.io/exercise-library/cable-deadlift/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Deadlifts"
+    ],
+    "alternatives": [
+      "conventional-deadlift",
+      "cable-romanian-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-deadlift.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete performing a low-pulley cable deadlift, lowering to grip a straight bar and then standing tall with it; opaque shorts cover the buttocks and only exposed hamstrings are highlighted red.",
+          "tr": "Alçak makaralı kablo deadlift yapan, düz barı kavramak için eğilen ve ardından dik duran spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, yalnızca açık hamstringler kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-deadlift.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-flat-bench-fly",
+    "slug": "cable-flat-bench-fly",
+    "name": "Flat Bench Cable Fly",
+    "description": "A chest isolation fly performed supine on a flat bench between two low cable pulleys.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Place a flat bench between two cable stacks, set both pulleys low, and lie back with one handle in each hand; keep a slight bend in your elbows.",
+      "Open your arms out to the sides in a controlled arc until you feel a comfortable chest stretch, keeping your shoulders supported on the bench.",
+      "Bring the handles together above your mid-chest without changing the elbow bend, then return slowly and avoid forcing your shoulders behind your torso."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Inspire FT2 Exercise Manual; legacy Flat_Bench_Cable_Flyes record; original Atlas editorial record",
+      "url": "https://inspirefitnesssolutions.co.uk/wp-content/uploads/2015/10/Inspire-FT2-Exercise-Manual.pdf",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Flat_Bench_Cable_Flyes"
+    ],
+    "alternatives": [
+      "cable-crossover",
+      "incline-cable-fly",
+      "dumbbell-fly"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-flat-bench-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on a flat bench between low cable pulleys and opening then bringing the handles together in a fly arc; opaque shorts cover the hips and buttocks, while the chest is highlighted red on clearly textured tank fabric.",
+          "tr": "Alçak kablo makaraları arasında düz sehpaya uzanıp tutacakları fly yayıyla açıp birleştiren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs dokulu atlet kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-flat-bench-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-front-raise",
+    "slug": "cable-front-raise",
+    "name": "Cable Front Raise",
+    "description": "A shoulder-isolation exercise that raises a low cable handle in front of the body to shoulder height.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "traps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Set a single handle at the lowest pulley and stand facing away from the cable tower with the handle beside the front of one thigh.",
+      "Brace your torso and raise the handle forward in a smooth arc to about shoulder height, keeping a soft bend in the elbow and avoiding a shrug.",
+      "Lower the handle slowly to the start position; complete the set, then switch arms."
+    ],
+    "source": {
+      "type": "original",
+      "title": "PureGym Cable Front Raise exercise guide; original Atlas editorial record",
+      "url": "https://www.puregym.com/exercises/arms-and-shoulders/front-raises/cable-front-raise/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-front-raise",
+      "cable-y-raise",
+      "single-arm-cable-lateral-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-front-raise.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a single-arm low-cable front raise, with a taut cable leading to the lowest pulley and the front deltoid highlighted red.",
+          "tr": "Tek kol alçak makara kablo öne kaldırışının iki gri aşaması; gergin kablo en alçak makaraya uzanıyor ve ön omuz kası kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-front-raise.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-glute-kickback",
     "slug": "cable-glute-kickback",
     "name": "Cable Glute Kickback",
@@ -3618,6 +4522,112 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-pallof-press",
+    "slug": "cable-pallof-press",
+    "name": "Cable Pallof Press",
+    "description": "A standing anti-rotation core press performed with a chest-height cable handle.",
+    "category": "strength",
+    "movementPattern": "rotation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "obliques"
+    ],
+    "secondaryMuscles": [
+      "abdominals"
+    ],
+    "force": "static",
+    "mechanic": "compound",
+    "instructions": [
+      "Set a single handle at chest height and stand side-on to the cable stack with your feet about hip-width apart; hold the handle at your sternum and step out until the cable is taut.",
+      "Brace your trunk and press both hands straight forward at chest height; keep your hips and shoulders facing ahead and resist being pulled into a turn.",
+      "Bring the handle back to your chest under control, then turn to face the other way and repeat on the opposite side."
+    ],
+    "source": {
+      "type": "original",
+      "title": "ACE Standing Anti-Rotation Press guide; legacy Pallof Press record; original Atlas editorial record",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/332/standing-anti-rotation-press/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Pallof_Press"
+    ],
+    "alternatives": [
+      "standing-band-pallof-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-pallof-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete standing side-on to a chest-height cable, first holding the handle at the sternum and then pressing it straight forward while resisting torso rotation; opaque top and shorts cover the body, with obliques highlighted red on the shirt fabric.",
+          "tr": "Göğüs hizasındaki kabloya yan dönük duran sporcunun tutacağı önce göğüs kemiğinde tuttuğu, sonra gövdesini döndürmeden öne ittiği iki gri aşama; opak üst ve şort vücudu örter, oblikler tişört kumaşı üzerinde kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-pallof-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-preacher-curl",
+    "slug": "cable-preacher-curl",
+    "name": "Cable Preacher Curl",
+    "description": "A preacher-bench biceps curl performed with a straight bar attached to a low cable pulley.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "biceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Attach a straight bar to the lowest pulley and place a preacher bench in front of the cable stack; sit with your chest and upper arms supported on the pad and grip the bar underhand at about shoulder width.",
+      "Keeping your upper arms on the pad and wrists straight, curl the bar toward your shoulders without rocking your torso.",
+      "Lower the bar slowly until your elbows are nearly extended while keeping tension on the cable; do not forcefully lock your elbows."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Strength Cable Preacher Curl guide; legacy Cable Preacher Curl record; original Atlas editorial record",
+      "url": "https://cdn.muscleandstrength.com/exercises/preacher-cable-curl.html",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Preacher_Curl"
+    ],
+    "alternatives": [
+      "preacher-curl",
+      "cable-biceps-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-preacher-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete seated at a preacher bench with the chest and upper arms supported, curling a straight bar on a low cable; biceps are highlighted red on the short sleeves.",
+          "tr": "Göğsü ve üst kolları preacher sehpasının pedinde destekli oturup alçak kabloya bağlı düz barı kıvıran spor kıyafetli sporcunun iki gri aşaması; biceps kasları kısa kollu tişört üzerinde kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-preacher-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-pull-through",
     "slug": "cable-pull-through",
     "name": "Cable Pull-Through",
@@ -3718,6 +4728,56 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/shoulders-cable-rear-delt-fly.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-reverse-crunch",
+    "slug": "cable-reverse-crunch",
+    "name": "Cable Reverse Crunch",
+    "description": "A floor-based reverse crunch that curls the pelvis toward the chest against low-cable resistance attached at the ankles.",
+    "category": "strength",
+    "movementPattern": "core",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable",
+      "mat"
+    ],
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Attach ankle cuffs to a low pulley, lie on a mat with your feet facing the cable stack, and bend your knees to about 90 degrees; rest your arms beside you and keep light cable tension.",
+      "Brace your abdomen and draw your knees toward your chest, curling your pelvis slightly off the mat without swinging your legs.",
+      "Lower your pelvis and legs slowly to the start while keeping control of the cable; do not let the weight stack slam."
+    ],
+    "source": {
+      "type": "original",
+      "title": "FitnessTracker Cable Reverse Crunch guide; legacy exercise record; original Atlas editorial record",
+      "url": "https://fitnesstracker.ca/resources/exercises/cable-reverse-crunch/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Reverse_Crunch"
+    ],
+    "alternatives": [
+      "reverse-crunch"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-reverse-crunch.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete lying on a mat with ankle cuffs attached to a low cable, drawing bent knees toward the chest and curling the pelvis; an opaque top and shorts cover the torso and buttocks, with abdominals highlighted red on the shirt fabric.",
+          "tr": "Mata uzanıp ayak bileği manşetlerini alçak kabloya bağlayan, dizlerini göğsüne çekip leğen kemiğini kıvıran sporcunun iki gri aşaması; opak üst ve şort gövdeyle kalçayı örter, karın kasları tişört kumaşı üzerinde kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-reverse-crunch.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -3870,6 +4930,62 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-rope-rear-delt-row",
+    "slug": "cable-rope-rear-delt-row",
+    "name": "Cable Rope Rear-Delt Row",
+    "description": "A high-elbow cable row that draws a rope toward the upper chest to emphasize the rear deltoids.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "upper-back",
+      "traps",
+      "biceps"
+    ],
+    "instructions": [
+      "Attach a rope to a high pulley and stand facing it in a stable staggered stance. Step back until the cable is taut, then hold both rope ends with your arms reaching forward.",
+      "Keep your torso upright and shoulders away from your ears. Row the rope toward your upper chest while driving your elbows out to the sides at about shoulder height.",
+      "Pause briefly without leaning back, then extend your arms forward under control to return to the start."
+    ],
+    "source": {
+      "type": "original",
+      "title": "StrengthLog Cable Rear Delt Row; FitnessTracker Cable Rope Rear-Delt Rows; original Atlas editorial record",
+      "url": "https://www.strengthlog.com/cable-rear-delt-row/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Rope_Rear-Delt_Rows"
+    ],
+    "alternatives": [
+      "face-pull",
+      "cable-rear-delt-fly",
+      "seated-cable-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-rope-rear-delt-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two side-by-side grayscale phases show a fully clothed athlete performing a high-cable rope rear-delt row. The elbows flare outward and the rope moves from an extended reach to the upper chest; rear deltoids are highlighted red on the textured opaque shirt, and shorts cover the hips and buttocks.",
+          "tr": "Yüksek makaradan halatlı arka omuz row yapan, tamamen spor kıyafetli sporcunun yan yana iki gri aşaması; dirsekler yana açılır ve halat uzanma konumundan üst göğse çekilir. Arka omuzlar dokulu opak tişört üzerinde kırmızı vurgulu; şort kalçayı örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-rope-rear-delt-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-rope-triceps-pushdown",
     "slug": "cable-rope-triceps-pushdown",
     "name": "Cable Rope Triceps Pushdown",
@@ -3914,6 +5030,117 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-rope-triceps-pushdown.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-shotgun-row",
+    "slug": "cable-shotgun-row",
+    "name": "Shotgun Cable Row",
+    "description": "A unilateral low-cable row performed in a split stance with the torso hinged and the free hand braced on the forward thigh.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "upper-back",
+      "biceps",
+      "shoulders",
+      "traps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Attach a single handle to a low pulley. Face the stack in a split stance with the working-side foot forward, hinge slightly, and brace your free hand on the forward thigh; let the working arm reach toward the pulley.",
+      "Keep your hips and torso steady as you draw the shoulder blade back and row the handle toward your lower ribs, driving the elbow close behind you.",
+      "Extend your arm forward slowly to return to the start without twisting your torso, then repeat on the other side."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Strength Shotgun Row guide; legacy Shotgun_Row record; original Atlas editorial record",
+      "url": "https://www.muscleandstrength.com/node/3672",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Shotgun_Row"
+    ],
+    "alternatives": [
+      "single-arm-cable-row",
+      "seated-cable-row",
+      "single-arm-high-cable-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-shotgun-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale rear three-quarter phases show a fully clothed athlete in a split stance performing a one-arm low-cable row, with a free hand braced on the forward thigh. Lats are highlighted red on the textured opaque top; shorts cover the hips and buttocks.",
+          "tr": "Ayrık duruşta, boş eli öndeki uyluğunda destekli sporcunun tek kollu alçak kablo row hareketinin iki gri aşaması; latlar dokulu opak atlet üzerinde kırmızı vurgulu, şort kalçayı örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-shotgun-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-shoulder-press",
+    "slug": "cable-shoulder-press",
+    "name": "Cable Shoulder Press",
+    "description": "A standing overhead press performed between two low cable pulleys.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "instructions": [
+      "Set both pulleys low, attach one handle to each, and stand centered between the stacks with a handle at each shoulder; keep your feet about shoulder-width apart and brace your trunk.",
+      "Press both handles overhead in a controlled path, keeping your wrists above your elbows and your torso upright without arching your lower back.",
+      "Lower the handles slowly to shoulder height without shrugging, then repeat."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Tiger Fitness Cable Shoulder Press guide; legacy cable record; original Atlas editorial record",
+      "url": "https://tigerfitness.com/blogs/exercise-database/cable-shoulder-press",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Shoulder_Press"
+    ],
+    "alternatives": [
+      "dumbbell-shoulder-press",
+      "machine-shoulder-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-shoulder-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete standing between low cable stacks, starting with handles at shoulder height and pressing them overhead; the deltoids are highlighted red.",
+          "tr": "Alçak kablo makaralarının arasında ayakta duran, tutacakları omuz hizasından baş üzerine iten spor kıyafetli sporcunun iki gri aşaması; omuz kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-shoulder-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -4005,6 +5232,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-triceps-kickback.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cable-upright-row",
+    "slug": "cable-upright-row",
+    "name": "Cable Upright Row",
+    "description": "An upright row using a straight bar on a low cable pulley, pulled from the thighs toward the lower chest.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Attach a straight bar to the lowest pulley and stand close to the stack with an overhand grip; begin with the bar in front of your thighs, feet about shoulder-width apart.",
+      "Keep your torso upright and pull the bar close to your body, leading with your elbows; stop around mid-chest or shoulder height, whichever feels comfortable.",
+      "Lower the bar slowly to the start. Keep your elbows at or below shoulder level, and stop if the movement causes shoulder pinching or pain."
+    ],
+    "source": {
+      "type": "original",
+      "title": "PureGym Cable Upright Row guide; legacy Upright Cable Row record; original Atlas editorial record",
+      "url": "https://www.puregym.com/exercises/arms-and-shoulders/upright-rows/cable-upright-row/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Upright_Cable_Row"
+    ],
+    "alternatives": [
+      "upright-row",
+      "cable-shrug"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-upright-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete pulling a low-cable straight bar from the thighs to mid-chest with elbows flared; deltoid and trapezius targets are printed red on the shirt fabric.",
+          "tr": "Alçak kablodaki düz barı uyluklardan alt göğse dirseklerini yana açarak çeken spor kıyafetli sporcunun iki gri aşaması; omuz ve trapez hedefleri tişört kumaşında kırmızıyla gösterilir."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-upright-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -5340,6 +6620,61 @@
   },
   {
     "schemaVersion": 1,
+    "id": "decline-dumbbell-fly",
+    "slug": "decline-dumbbell-fly",
+    "name": "Decline Dumbbell Fly",
+    "description": "A chest isolation exercise performed on a decline bench, lowering two dumbbells outward in a controlled arc and bringing them back above the chest.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Secure your feet under the decline bench pads and lie back with a light dumbbell in each hand above your chest; keep a small bend in your elbows.",
+      "Lower both arms outward in a wide arc until the dumbbells reach a comfortable chest-level stretch; keep the elbow bend steady.",
+      "Bring the dumbbells back above your chest by drawing your arms together; use a manageable load and avoid forcing the shoulder range."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Legacy Decline_Dumbbell_Flyes record; Tiger Fitness movement guide; original Atlas editorial record",
+      "url": "https://tigerfitness.com/blogs/exercise-database/decline-dumbbell-flys",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Decline_Dumbbell_Flyes"
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "incline-dumbbell-fly",
+      "decline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/decline-dumbbell-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete secured on a decline bench, lowering and bringing together two dumbbells in a chest-fly arc; opaque shorts cover the hips and buttocks and the chest is highlighted red over the tank fabric.",
+          "tr": "Decline sehpada ayakları sabitlenmiş, iki dambılı göğüs fly hareketiyle yana açıp yukarıda birleştiren spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs atlet kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/decline-dumbbell-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "decline-dumbbell-press",
     "slug": "decline-dumbbell-press",
     "name": "Decline Dumbbell Press",
@@ -5749,6 +7084,60 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/double-kettlebell-front-squat.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-around-the-worlds",
+    "slug": "dumbbell-around-the-worlds",
+    "name": "Dumbbell Around the Worlds",
+    "description": "A bench-based chest isolation exercise in which two dumbbells sweep through a wide arc from beside the hips toward an overhead position.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Lie on a flat bench with feet planted; hold a light dumbbell in each hand beside your hips, palms up, with a small bend in your elbows.",
+      "Keeping that elbow bend, sweep both arms outward and in a broad arc toward an overhead position; stop within a comfortable shoulder range.",
+      "Reverse the arc slowly and return the dumbbells beside your hips; keep your torso steady and use light weights."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Legacy Around_The_Worlds record; Tiger Fitness movement guide; original Atlas editorial record",
+      "url": "https://tigerfitness.com/blogs/exercise-database/around-the-world-dumbbell",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Around_The_Worlds"
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "dumbbell-pullover"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-around-the-worlds.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete sweeping a pair of dumbbells from beside the hips toward overhead while lying on a flat bench; opaque shorts cover the hips and buttocks, and the chest is highlighted red over the shirt.",
+          "tr": "Düz sehpada yatarken iki dambılı kalçanın yanından baş üzerine doğru geniş yayda götüren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs kasları atletin kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-around-the-worlds.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -6301,6 +7690,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-hip-thrust",
+    "slug": "dumbbell-hip-thrust",
+    "name": "Dumbbell Hip Thrust",
+    "description": "A bench-supported hip extension performed with one dumbbell held across the hip crease.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "abdominals"
+    ],
+    "instructions": [
+      "Sit with your upper back against the edge of a stable bench, knees bent and feet planted about hip-width apart. Hold one dumbbell securely across your hip crease; use a pad if needed.",
+      "Brace your trunk and press through your feet to lift your hips until your torso and thighs form a straight line. Keep your ribs down and avoid arching your lower back.",
+      "Lower your hips under control without letting the dumbbell roll, then repeat."
+    ],
+    "source": {
+      "type": "original",
+      "title": "PureGym Dumbbell Hip Thrust guide; original Atlas editorial record",
+      "url": "https://www.puregym.com/exercises/glutes/hip-thrusts/dumbbell-hip-thrust/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "barbell-hip-thrust",
+      "machine-hip-thrust",
+      "single-leg-hip-thrust"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-hip-thrust.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two side-by-side grayscale phases show a fully clothed athlete performing a dumbbell hip thrust against a bench. The glutes are highlighted red over opaque, textured shorts that fully cover the hips and buttocks.",
+          "tr": "Sehpaya dayanarak dambılla hip thrust yapan, tamamen spor kıyafetli sporcunun yan yana iki gri aşaması; kalçalar, kalçayı tamamen örten opak ve dokulu şortun üzerinde kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-hip-thrust.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-kickstand-romanian-deadlift",
     "slug": "dumbbell-kickstand-romanian-deadlift",
     "name": "Dumbbell Kickstand Romanian Deadlift",
@@ -6491,6 +7933,64 @@
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-overhead-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-power-clean",
+    "slug": "dumbbell-power-clean",
+    "name": "Dumbbell Power Clean",
+    "description": "An explosive lift that brings a pair of dumbbells from the floor to the shoulders, caught in a partial squat before standing tall.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals"
+    ],
+    "instructions": [
+      "Stand with your feet about hip-width apart and the dumbbells just outside your feet; bend at the hips and knees, keep your back neutral, and grip both weights.",
+      "Push through the floor and extend your hips and knees quickly while keeping the dumbbells close; pull under and catch them at your shoulders in a partial squat with elbows forward.",
+      "Stand tall with the dumbbells secure at the shoulders, then lower them to the floor under control."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Dumbbell Power Clean guide; original Atlas editorial record",
+      "url": "https://www.crossfit.com/essentials/the-dumbbell-power-clean",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Dumbbell_Clean"
+    ],
+    "alternatives": [
+      "two-dumbbell-hang-clean",
+      "single-arm-dumbbell-clean",
+      "dumbbell-snatch"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-power-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lifting two dumbbells from the floor and catching them at the shoulders; opaque top and shorts cover the torso and buttocks, with shoulders and quadriceps highlighted red.",
+          "tr": "İki dambılı yerden çekip omuzlarında karşılayan, spor kıyafetli sporcunun iki gri aşaması; opak üst ve şort gövdeyle kalçayı örter, omuz ve ön bacak kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-power-clean.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
@@ -6837,6 +8337,54 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-scaption",
+    "slug": "dumbbell-scaption",
+    "name": "Dumbbell Scaption",
+    "description": "A shoulder raise that lifts dumbbells in the scapular plane, diagonally between a front raise and lateral raise.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Stand tall with a light dumbbell in each hand at your sides, palms facing inward and thumbs pointing forward or slightly up; keep a soft bend in your elbows.",
+      "Keeping your torso still and shoulders relaxed, raise both arms diagonally forward from your sides to about shoulder height.",
+      "Lower the dumbbells slowly along the same path; avoid shrugging or arching your back."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Aurora Health Care Upper Extremity Dumbbell Home Exercise Program; original Atlas editorial record",
+      "url": "https://ahc.aurorahealthcare.org/fywb/x11240.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-front-raise",
+      "dumbbell-lateral-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-scaption.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete performing dumbbell scaption, raising the arms diagonally between the front and side; opaque shorts cover the hips and buttocks and the shoulders are highlighted red.",
+          "tr": "Dambılla scaption yapan, spor atleti ve kalçayı örten opak şort giymiş sporcunun iki gri aşaması; kollar öne ve yana çapraz kaldırılırken omuzlar kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-scaption.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-shoulder-press",
     "slug": "dumbbell-shoulder-press",
     "name": "Dumbbell Shoulder Press",
@@ -7029,6 +8577,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-snatch",
+    "slug": "dumbbell-snatch",
+    "name": "Dumbbell Snatch",
+    "description": "A single-arm explosive lift that moves one dumbbell from the floor to an overhead lockout in one continuous motion.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "traps",
+      "abdominals"
+    ],
+    "instructions": [
+      "Stand with feet about hip-width and place one dumbbell between them; hinge at the hips and bend your knees to grasp the handle with one hand.",
+      "Drive through the floor and extend your hips and knees, keeping the dumbbell close as you lift it overhead in one continuous motion.",
+      "Finish standing tall with the dumbbell over the middle of your body, then lower it under control to the floor before switching hands."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Games dumbbell snatch movement standards; original Atlas editorial record",
+      "url": "https://games.crossfit.com/workouts/basicparent/2026/2?division=2&scaled=0",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-push-press",
+      "two-dumbbell-hang-clean"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-snatch.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a single-arm dumbbell snatch, from a hinged floor start to an overhead finish, with the working shoulder, quadriceps and glutes highlighted red.",
+          "tr": "Tek kol dambıl koparmanın yerden eğilerek başlangıç ve baş üstünde bitiş aşamaları; çalışan omuz, ön bacak ve kalça kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-snatch.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-split-squat",
     "slug": "dumbbell-split-squat",
     "name": "Dumbbell Split Squat",
@@ -7068,6 +8670,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-split-squat.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/dumbbell-split-squat-2026-10-20.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-squat",
+    "slug": "dumbbell-squat",
+    "name": "Dumbbell Squat",
+    "description": "A bilateral squat holding a dumbbell at each side of the body.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "lower-back"
+    ],
+    "instructions": [
+      "Stand about shoulder-width with a dumbbell hanging at each side; brace your trunk and keep your spine steady.",
+      "Bend your hips and knees to lower under control, keeping your heels grounded and knees tracking in line with your feet.",
+      "Press through your feet to stand tall again; keep the dumbbells by your sides and avoid bouncing at the bottom."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Mayo Clinic dumbbell squat guidance; original Atlas editorial record",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/multimedia/squat/vid-20084682",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-front-squat",
+      "dumbbell-sumo-squat",
+      "bodyweight-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete squatting with dumbbells at the sides; opaque shorts cover the hips and buttocks, with quadriceps highlighted red and a subtle glute overlay on the fabric.",
+          "tr": "Yanlarda dambıl tutarak squat yapan, kalça ve kalçanın arkasını örten opak şort ve spor atleti giymiş sporcunun iki gri aşaması; ön bacaklar kırmızı, kalça vurgusu kumaş üzerinde yarı saydam."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -7462,6 +9117,63 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "elliptical-trainer",
+    "slug": "elliptical-trainer",
+    "name": "Elliptical Trainer",
+    "description": "A low-impact cardio stride on an elliptical cross-trainer with moving arms and linked foot pedals.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings",
+      "shoulders",
+      "biceps"
+    ],
+    "instructions": [
+      "Move the nearest pedal to its lowest position, hold the fixed handles, and step onto the pedals one foot at a time. Begin with an easy stride.",
+      "Stand tall with feet centered on the platforms and guide the moving arms as they travel opposite your legs; use the fixed handles for balance if needed.",
+      "Keep a smooth, comfortable stride. Slow to a controlled stop before stepping off, and wait for the pedals to settle."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Elliptical introduction and safe mounting guide; legacy Elliptical_Trainer record",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42867987346583-Life-Fitness-Atmos-Elliptical-Introduction",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "upright-stationary-bike",
+      "rowing-machine"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/elliptical-trainer.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows a fully clothed athlete using an elliptical trainer with moving arms and linked foot platforms; opaque shorts cover the hips and buttocks, with red highlights only on exposed calves.",
+          "tr": "Eliptik bisikletin hareketli kollarını ve bağlantılı ayak platformlarını kullanan, tamamen spor kıyafetli sporcunun gri tonlu çizimi; opak şort kalçayı örter, kırmızı vurgu yalnız açık baldır kaslarındadır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/elliptical-trainer.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Elliptical_Trainer"
     ]
   },
   {
@@ -9262,6 +10974,169 @@
   },
   {
     "schemaVersion": 1,
+    "id": "incline-bench-dumbbell-reverse-fly",
+    "slug": "incline-bench-dumbbell-reverse-fly",
+    "name": "Incline Bench Dumbbell Reverse Fly",
+    "description": "A rear-shoulder isolation raise performed face-down with the chest supported on an incline bench.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "upper-back"
+    ],
+    "instructions": [
+      "Set a bench to a moderate incline and lie face-down with your chest supported; hold a light dumbbell in each hand with arms hanging below the shoulders.",
+      "Keeping a soft, steady elbow bend, raise both arms out to the sides until they approach shoulder height; keep your chest on the pad and avoid shrugging.",
+      "Lower the dumbbells slowly to the hanging start position without swinging your torso."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Tiger Fitness reverse fly guide; original Atlas editorial record",
+      "url": "https://tigerfitness.com/blogs/exercise-database/reverse-flyes",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "bent-over-dumbbell-reverse-fly",
+      "cable-rear-delt-fly",
+      "machine-rear-delt-fly"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-bench-dumbbell-reverse-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete with the chest supported on an incline bench, raising dumbbells out to the sides; opaque shorts cover the hips and buttocks and rear shoulders are highlighted red over the shirt.",
+          "tr": "Göğsü eğimli sehpaya dayalı sporcunun dambılları yana kaldırdığı iki gri aşama; opak kıyafet kalçayı örter ve arka omuzlar atlet kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-bench-dumbbell-reverse-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "incline-cable-chest-press",
+    "slug": "incline-cable-chest-press",
+    "name": "Incline Cable Chest Press",
+    "description": "A compound chest press performed lying on an incline bench between two low cable pulleys.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Set an incline bench between two cable stacks with both pulleys low. Sit down, take a handle in each hand, then lie back with the handles beside your upper chest.",
+      "Press the handles upward and slightly inward until your arms are nearly straight; keep your shoulders supported and avoid arching your lower back.",
+      "Pause before locking your elbows, then lower the handles slowly to the upper chest while keeping control of the cables."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Legacy Incline_Cable_Chest_Press record; Muscle & Strength exercise guide; original Atlas editorial record",
+      "url": "https://cdn.muscleandstrength.com/exercises/incline-cable-chest-press",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Incline_Cable_Chest_Press"
+    ],
+    "alternatives": [
+      "seated-incline-cable-press",
+      "machine-incline-chest-press",
+      "incline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-cable-chest-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on an incline bench between low cable pulleys, pressing the handles up from the upper chest; opaque top and shorts cover the torso and hips, with the chest highlighted red on the fabric.",
+          "tr": "Alçak kablo makaraları arasında eğimli sehpaya uzanıp tutacakları üst göğüsten yukarı iten spor kıyafetli sporcunun iki gri aşaması; üst ve şort gövdeyle kalçayı örter, göğüs kumaş üzerinde kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-cable-chest-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "incline-cable-fly",
+    "slug": "incline-cable-fly",
+    "name": "Incline Cable Fly",
+    "description": "A chest isolation fly performed lying on an incline bench between two low cable pulleys.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders"
+    ],
+    "instructions": [
+      "Place an incline bench between two cable stacks, set both pulleys low, and lie back with a handle in each hand; keep a slight bend in your elbows.",
+      "Open your arms out to the sides in a controlled arc until you feel a comfortable chest stretch; keep your shoulders supported on the bench.",
+      "Sweep your arms together above the upper chest without changing the elbow bend, then return slowly and avoid arching your lower back."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Legacy Incline_Cable_Flye record; Muscle & Strength exercise guide; original Atlas editorial record",
+      "url": "https://www.muscleandstrength.com/node/3822",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Incline_Cable_Flye"
+    ],
+    "alternatives": [
+      "low-to-high-cable-fly",
+      "high-to-low-cable-fly",
+      "incline-dumbbell-fly"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-cable-fly.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on an incline bench between low cable pulleys, opening and bringing together the handles in a fly arc; opaque shorts cover the hips and buttocks and the chest is highlighted red on the tank fabric.",
+          "tr": "Alçak kablo makaraları arasında eğimli sehpaya uzanıp tutacakları fly yayıyla açıp birleştiren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs atlet kumaşı üzerinde kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-cable-fly.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "incline-dumbbell-curl",
     "slug": "incline-dumbbell-curl",
     "name": "Incline Dumbbell Curl",
@@ -10629,6 +12504,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "lever-deadlift",
+    "slug": "lever-deadlift",
+    "name": "Lever Deadlift",
+    "description": "A hip-hinge deadlift performed with plate-loaded pivoting arms and fixed handles.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "lower-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Choose a manageable load, stand centered on the platform with feet about hip-width apart, and grip the handles; brace your trunk and keep your spine neutral.",
+      "Hinge at the hips and bend your knees enough to reach the start position. Drive through the platform and extend your hips and knees together, keeping the handles close.",
+      "Stand tall without leaning back, then lower the lever arms smoothly by hinging and bending your knees until you reach the start position; do not let the plates bounce."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Gymleco 083 Deadlift/Squat machine manual; editorial movement guide",
+      "url": "https://gymsport.no/file/brukermanualer/083_gymleco_deadlift_squat-engelsk.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "conventional-deadlift",
+      "smith-machine-deadlift",
+      "trap-bar-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/lever-deadlift.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete in an opaque sleeveless training top and long compression shorts performing a plate-loaded lever deadlift; the hips and buttocks are fully covered, with no red highlight on the buttocks.",
+          "tr": "Plaka yüklü kaldıraçlı makinede deadlift yapan, opak atlet ve uzun kompresyon şortu giyen sporcunun iki gri aşaması; kalça tamamen örtülüdür ve kalçada kırmızı vurgu yoktur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lever-deadlift.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "low-to-high-cable-fly",
     "slug": "low-to-high-cable-fly",
     "name": "Low-to-High Cable Fly",
@@ -10674,6 +12603,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/low-to-high-cable-fly.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "lying-cable-triceps-extension",
+    "slug": "lying-cable-triceps-extension",
+    "name": "Lying Cable Triceps Extension",
+    "description": "An elbow-extension exercise performed lying on a flat bench with a straight bar attached to a low cable pulley.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Place a flat bench in front of a low pulley, attach a straight bar, and lie face up with your head nearest the stack; plant your feet and hold the bar over your upper chest with elbows bent.",
+      "Keep your upper arms steady and extend your elbows to raise the bar above your chest; avoid swinging your shoulders or forcefully locking your elbows.",
+      "Bend your elbows slowly to return the bar toward your forehead while keeping your upper arms in place and the cable under control."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Lying Cable Tricep Extension guide; legacy Cable_Lying_Triceps_Extension record; original Atlas editorial record",
+      "url": "https://www.muscleandstrength.com/exercises/lying-cable-tricep-extension.html",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Lying_Triceps_Extension"
+    ],
+    "alternatives": [
+      "overhead-cable-triceps-extension",
+      "lying-overhead-dumbbell-triceps-extension",
+      "cable-rope-triceps-pushdown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/lying-cable-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete lying on a flat bench with a straight bar on a low cable, bending and extending the elbows. The opaque top and shorts cover the torso and hips; triceps on the exposed upper arms are highlighted red.",
+          "tr": "Alçak kabloya bağlı düz barla sehpada yatan sporcunun dirseklerini büküp açtığı iki gri aşama. Opak atlet ve şort gövdeyle kalçayı örter; açıkta kalan üst koldaki triseps kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lying-cable-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -14450,6 +16432,61 @@
   },
   {
     "schemaVersion": 1,
+    "id": "recumbent-bike",
+    "slug": "recumbent-bike",
+    "name": "Recumbent Bike",
+    "description": "Steady or interval pedaling on a stationary bike with a reclined seat and backrest.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit back against the backrest and adjust the seat so your knee stays slightly bent when the far pedal reaches the bottom of its stroke; adjust while the pedals are stopped.",
+      "Place the balls of your feet on the pedals and secure the straps if fitted. Hold the side handles and pedal smoothly without locking your knees or rocking in the seat.",
+      "Start at a comfortable resistance, ease your pace down before stopping, and wait for the pedals to settle before stepping off."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Recumbent Bike seat adjustment guide; legacy Recumbent_Bike record",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42862239184279-How-to-Adjust-the-Seat-on-Your-Life-Fitness-Atmos-Recumbent-Bike",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "upright-stationary-bike",
+      "rowing-machine"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/recumbent-bike.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows a fully clothed athlete pedaling a recumbent stationary bike with a padded backrest; opaque shorts cover the hips and buttocks, and only exposed calves are highlighted red.",
+          "tr": "Yastıklı sırt dayanağı olan yatay sabit bisiklette pedal çeviren, tamamen spor kıyafetli sporcunun gri çizimi; opak şort kalçayı örter, yalnız açık baldırlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/recumbent-bike.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Recumbent_Bike"
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "reverse-crunch",
     "slug": "reverse-crunch",
     "name": "Reverse Crunch",
@@ -14983,6 +17020,69 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "rowing-machine",
+    "slug": "rowing-machine",
+    "name": "Indoor Rowing",
+    "description": "A cyclical cardio stroke on a stationary rowing ergometer, combining leg drive, a hip hinge, and an arm pull.",
+    "category": "cardio",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "upper-back",
+      "abdominals",
+      "shoulders",
+      "biceps",
+      "forearms",
+      "triceps",
+      "calves"
+    ],
+    "instructions": [
+      "Adjust the foot straps over the widest part of your feet and sit on the sliding seat. Reach to the catch with arms straight, shins near vertical, and a comfortable hip hinge; keep your back neutral.",
+      "Drive by pressing through the footplates with your legs first. As the legs extend, swing your torso open from the hips, then draw the handle to your lower ribs with relaxed shoulders and flat wrists.",
+      "For recovery, extend your arms first, hinge your torso forward, then bend your knees and slide toward the flywheel smoothly. Keep the return controlled and begin at an easy pace."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Concept2 Indoor Rowing Technique; legacy Rowing_Stationary record",
+      "url": "https://www.concept2.com/training/rowing-technique",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "jump-rope",
+      "sled-push",
+      "battle-rope-alternating-waves"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/rowing-machine.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete rowing on an indoor ergometer, from the bent-knee catch to the legs-extended finish; quadriceps are highlighted red and opaque shorts cover the hips and buttocks.",
+          "tr": "Kapalı spor kıyafetli sporcunun kürek ergometresinde bükülü dizlerle başlangıçtan bacaklar açık bitişe geçtiği iki gri aşama; kuadrisepsler kırmızı vurgulu, kalça opak şortla örtülüdür."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/rowing-machine.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Rowing_Stationary"
     ]
   },
   {
@@ -16510,6 +18610,53 @@
   },
   {
     "schemaVersion": 1,
+    "id": "side-lying-dumbbell-shoulder-external-rotation",
+    "slug": "side-lying-dumbbell-shoulder-external-rotation",
+    "name": "Side-Lying Dumbbell Shoulder External Rotation",
+    "description": "A light side-lying shoulder exercise that rotates the forearm upward while the elbow stays tucked beside the torso.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Lie on your side with your working elbow bent about 90 degrees and tucked against your ribs; place a small folded towel between the elbow and torso and hold a very light dumbbell.",
+      "Keeping your elbow and upper arm still, rotate your forearm upward away from your abdomen through a comfortable range; do not roll your torso backward.",
+      "Lower the dumbbell slowly to the start position. Use a light load and stop if the movement causes pain."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Aurora Health Care Upper Extremity Dumbbell Home Exercise Program; original Atlas editorial record",
+      "url": "https://ahc.aurorahealthcare.org/fywb/x11240.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "standing-band-shoulder-external-rotation"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/side-lying-dumbbell-shoulder-external-rotation.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on the side with a light dumbbell; the elbow stays tucked against the torso as the forearm rotates upward, with the posterior shoulder highlighted red.",
+          "tr": "Yan yatarak hafif dambılla hareket yapan, spor kıyafeti ve kalçayı örten opak şort giyen sporcunun iki gri aşaması; dirsek gövdeye yakınken ön kol yukarı döner ve omuz arkası kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/side-lying-dumbbell-shoulder-external-rotation.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "side-lying-hip-abduction",
     "slug": "side-lying-hip-abduction",
     "name": "Side-Lying Hip Abduction",
@@ -17087,6 +19234,60 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-dumbbell-chest-press.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-15.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "single-arm-dumbbell-clean",
+    "slug": "single-arm-dumbbell-clean",
+    "name": "Single-Arm Dumbbell Clean",
+    "description": "A single dumbbell is lifted from the floor to the shoulder rack with an explosive hip and knee drive.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals"
+    ],
+    "instructions": [
+      "Place one dumbbell just outside your working foot. Set your feet about hip-width apart, hinge and bend your knees to grip it with a neutral spine.",
+      "Drive through the floor and extend your hips and knees; keep the dumbbell close, shrug, and guide it to your shoulder as you rotate your elbow forward, catching with a slight knee bend.",
+      "Stand tall, then lower the dumbbell smoothly to the floor and reset before switching hands."
+    ],
+    "source": {
+      "type": "original",
+      "title": "CrossFit Dumbbells Training Guide; original Atlas editorial record",
+      "url": "https://assets.crossfit.com/pdfs/seminars/Dumbbell_Training_Guide.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "two-dumbbell-hang-clean",
+      "dumbbell-snatch"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/single-arm-dumbbell-clean.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete cleaning one dumbbell from the floor to the shoulder rack; opaque shorts cover the hips and buttocks, with the glutes and quadriceps highlighted red over the fabric and visible skin.",
+          "tr": "Tek dambılı yerden omuz rafına clean yapan, spor atleti ve kalçayı örten opak şort giymiş sporcunun iki gri aşaması; kalça ve ön bacak kasları kumaş üzerinde ve görünen deride kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/single-arm-dumbbell-clean.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
     ]
   },
@@ -18469,6 +20670,63 @@
   },
   {
     "schemaVersion": 1,
+    "id": "smith-machine-pistol-squat",
+    "slug": "smith-machine-pistol-squat",
+    "name": "Smith Machine Pistol Squat",
+    "description": "A single-leg squat under a guided Smith bar, with the free leg extended forward.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Set the safety stops just below your controlled squat depth. Place the bar across your upper traps, not your neck, and stand with the working foot flat slightly in front of the bar path.",
+      "Lift the free leg forward and lower by bending the working hip and knee; keep the heel planted and the knee tracking with the toes.",
+      "Press through the whole working foot to stand while keeping the free leg raised. Rehook the bar securely before changing sides; start with a light load."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Smith Machine Pistol Squat guide; legacy Smith_Machine_Pistol_Squat record",
+      "url": "https://www.ritfitsports.com/blogs/article/pistol-squats-smith-machine",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "pistol-squat",
+      "single-leg-box-squat",
+      "smith-machine-bulgarian-split-squat",
+      "smith-machine-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/smith-machine-pistol-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete performing a Smith Machine Pistol Squat with one leg extended forward; the quadriceps are highlighted red, and opaque shorts cover the hips and buttocks.",
+          "tr": "Opak spor kıyafetli sporcunun Smith makinesinde bir bacağını öne uzatarak pistol squat yaptığı iki gri aşama; çalışan kuadriseps kırmızı vurgulu, kalça şortla örtülüdür."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-pistol-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Smith_Machine_Pistol_Squat"
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "smith-machine-reverse-lunge",
     "slug": "smith-machine-reverse-lunge",
     "name": "Smith Machine Reverse Lunge",
@@ -18980,6 +21238,62 @@
   },
   {
     "schemaVersion": 1,
+    "id": "stair-climber",
+    "slug": "stair-climber",
+    "name": "Stair Climber (Step Mill)",
+    "description": "Continuous stair climbing on a motor-driven revolving-step cardio machine.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "instructions": [
+      "Step onto the machine using its entry procedure, select an easy pace, and stand upright with your full feet on the moving steps.",
+      "Climb continuously with controlled steps, keeping your torso tall and using the handrails lightly for balance rather than leaning heavily on them.",
+      "Use the machine’s stop or recovery control to slow down before stepping off; follow its step-assist and auto-stop instructions."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness PowerMill Climber specifications and product guide; legacy Stairmaster and Step_Mill records",
+      "url": "https://www.lifefitness.com/en-us/catalog/cardio/stair-climbers-stepper-machines/powermill-climber",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "treadmill-walking",
+      "elliptical-trainer"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/stair-climber.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows a fully clothed athlete climbing a revolving-step stair machine; the opaque shorts cover the hips and buttocks, with red highlights only on exposed leg muscles.",
+          "tr": "Döner basamaklı merdiven makinesinde tırmanan, tamamen spor kıyafetli sporcunun gri çizimi; opak şort kalçayı örter, kırmızı vurgu yalnız açık bacak kaslarındadır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/stair-climber.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Stairmaster",
+      "Step_Mill"
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "standing-band-good-morning",
     "slug": "standing-band-good-morning",
     "name": "Standing Band Good Morning",
@@ -19321,7 +21635,8 @@
     ],
     "source": {
       "type": "original",
-      "title": "Open Exercise Atlas illustrated muscle coverage",
+      "title": "Standing Cable Chest Press guide; legacy Cable_Chest_Press record; original Atlas editorial record",
+      "url": "https://www.sweat.com/exercises/standing-cable-chest-press",
       "license": "CC0-1.0"
     },
     "media": [
@@ -19329,14 +21644,18 @@
         "path": "media/exercises/standing-cable-chest-press.webp",
         "role": "reference",
         "alt": {
-          "en": "Two grayscale panels show the start and finish of a standing cable chest press, with the chest highlighted in red.",
-          "tr": "Ayakta Kablo Göğüs Pressi hareketinin başlangıç ve bitişi iki gri karede gösteriliyor; göğüs kasları kırmızıyla vurgulanmış."
+          "en": "Two grayscale panels show a fully clothed athlete in an opaque sleeveless top and mid-thigh shorts performing a standing cable chest press. Chest highlights appear on visible textured fabric; the hips and buttocks are fully covered.",
+          "tr": "Opak atlet ve uyluk ortası şort giyen sporcunun ayakta kablo göğüs presi yaptığı iki gri kare. Göğüs vurgusu dokulu kumaş üzerinde; kalça tamamen örtülüdür."
         },
         "creator": "Open Exercise Atlas (AI-assisted original illustration)",
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-cable-chest-press.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "legacyIds": [
+      "Cable_Chest_Press",
+      "Standing_Cable_Chest_Press"
     ]
   },
   {
@@ -20299,6 +22618,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "torso-rotation-machine",
+    "slug": "torso-rotation-machine",
+    "name": "Torso Rotation Machine",
+    "description": "A seated machine exercise that rotates the braced torso against adjustable resistance, emphasizing the obliques.",
+    "category": "strength",
+    "movementPattern": "rotation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "obliques"
+    ],
+    "secondaryMuscles": [
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Adjust the seat so the chest pads sit across your upper chest, choose a starting direction and resistance, then sit with your feet on the platforms and hold the handles.",
+      "Keep your chest against the pads and your thighs braced against the restraints; rotate your torso toward the opposite side through a controlled range.",
+      "Return slowly to the selected start position, then adjust the machine to train the other direction."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Cybex Prestige Torso Rotation Owner's Manual; original Atlas editorial record",
+      "url": "https://kb.cybexintl.com/Owners_Manuals/Strength/21190-999-4.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "landmine-rotation",
+      "russian-twist",
+      "cable-woodchop"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/torso-rotation-machine.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated selectorized torso rotation machine; the chest and thigh pads stabilize the user and the obliques are highlighted red.",
+          "tr": "Oturarak gövde rotasyon makinesinin iki gri aşaması; göğüs ve uyluk pedleri kullanıcıyı sabitlerken oblik kaslar kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/torso-rotation-machine.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "trap-bar-deadlift",
     "slug": "trap-bar-deadlift",
     "name": "Trap-Bar Deadlift",
@@ -20340,6 +22711,117 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-6.md"
       }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "treadmill-running",
+    "slug": "treadmill-running",
+    "name": "Treadmill Running",
+    "description": "Running at a self-selected pace on a moving treadmill belt; the legacy jogging label maps to this same movement.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Clip the treadmill safety tether to your clothing. Begin at a slow belt speed from the side rails or at a walk, and make sure your footing is stable.",
+      "Gradually increase speed to a sustainable run. Stay near the center of the belt with an upright torso, relaxed shoulders, and a natural arm swing.",
+      "Slow down to a walk before ending the workout. Wait for the belt to stop before stepping onto the side rails and dismounting."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Treadmill manual workout and emergency-stop guides; legacy Running_Treadmill and Jogging_Treadmill records",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42814171096215-Life-Fitness-Atmos-Treadmill-How-to-Set-Up-a-Manual-Workout-on-Your-SL-Console",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "treadmill-walking",
+      "elliptical-trainer"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/treadmill-running.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows an athlete in a controlled running stride on a treadmill with the safety tether attached; opaque shorts cover the hips and buttocks, and red highlights appear only on exposed leg muscles.",
+          "tr": "Emniyet klipsi takılı koşu bandında kontrollü adım atan sporcunun gri çizimi; opak şort kalçayı örter, kırmızı vurgu yalnız açık bacak kaslarındadır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/treadmill-running.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Running_Treadmill",
+      "Jogging_Treadmill"
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "treadmill-walking",
+    "slug": "treadmill-walking",
+    "name": "Treadmill Walking",
+    "description": "Walking at a self-selected pace on a moving treadmill belt.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Clip the treadmill safety tether to your clothing. Stand on the side rails while the belt begins at a slow speed, then step onto the walking surface when steady.",
+      "Walk upright near the center of the belt at a comfortable pace, letting your arms swing naturally and keeping your steps controlled.",
+      "Reduce speed before ending the workout. Wait for the belt to stop before stepping onto the side rails and dismounting."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Treadmill manual workout and emergency-stop guides; legacy Walking_Treadmill record",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42814171096215-Life-Fitness-Atmos-Treadmill-How-to-Set-Up-a-Manual-Workout-on-Your-SL-Console",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "treadmill-running",
+      "upright-stationary-bike"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/treadmill-walking.webp",
+        "role": "reference",
+        "alt": {
+          "en": "A grayscale illustration shows an athlete walking on a complete treadmill with the safety tether attached; opaque shorts cover the hips and buttocks, and red highlights appear only on exposed leg muscles.",
+          "tr": "Emniyet klipsi takılı biçimde tam bir koşu bandında yürüyen sporcunun gri çizimi; opak şort kalçayı örter, kırmızı vurgu yalnız açık bacak kaslarındadır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/treadmill-walking.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Walking_Treadmill"
     ]
   },
   {
@@ -20485,6 +22967,61 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "upright-stationary-bike",
+    "slug": "upright-stationary-bike",
+    "name": "Stationary Bike (Upright)",
+    "description": "Steady or interval pedaling on a stationary upright exercise bike.",
+    "category": "cardio",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps"
+    ],
+    "secondaryMuscles": [
+      "calves",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Adjust the seat so your knee remains slightly bent when the pedal is at its lowest point; make adjustments while off the bike. Place the balls of your feet over the pedals and secure straps if fitted.",
+      "Hold the handlebars comfortably, brace your torso, and pedal smoothly through a full circle without rocking your hips or locking your knees.",
+      "Choose a comfortable resistance and cadence, then ease your pace down before stopping and dismounting."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Life Fitness Atmos Upright Bike seat adjustment and pedal strap guides; legacy Bicycling_Stationary record",
+      "url": "https://support.lifefitness.com/hc/en-us/articles/42862231037335-How-to-Adjust-the-Seat-on-Your-Life-Fitness-Atmos-Upright-Bike",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "rowing-machine",
+      "elliptical-trainer"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/upright-stationary-bike.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete in an opaque training top and shorts pedaling an upright stationary bike; the hips and buttocks are covered and only exposed calves are highlighted red.",
+          "tr": "Opak spor üstü ve şort giyen sporcunun dik sabit bisiklette pedal çevirdiği iki gri aşama; kalça örtülüdür, yalnız açıkta kalan baldırlar kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/upright-stationary-bike.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ],
+    "legacyIds": [
+      "Bicycling_Stationary"
     ]
   },
   {

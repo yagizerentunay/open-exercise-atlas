@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-overhead-squat",
+  "slug": "barbell-overhead-squat",
+  "name": {
+    "en": "Barbell Overhead Squat",
+    "tr": "Halterle Baş Üstü Squat"
+  },
+  "description": {
+    "en": "A full squat performed while a barbell is held locked out overhead in a wide grip.",
+    "tr": "Halterin geniş tutuşla baş üstünde kilitli tutulduğu tam squat hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "lower-back",
+    "traps"
+  ],
+  "instructions": {
+    "en": [
+      "Take a wide grip and get the bar to a stable overhead lockout from a rack or a light snatch; set your feet about shoulder-width and brace your trunk.",
+      "Keep the bar balanced over your mid-foot and your elbows locked as you squat until your hip crease passes below the knees; keep your heels down and knees tracking with your toes.",
+      "Drive through the floor to stand while keeping the bar overhead and your trunk steady, then return the bar to the rack under control."
+    ],
+    "tr": [
+      "Geniş tutuş alıp halteri raftan ya da hafif bir koparmayla dengeli biçimde baş üstünde kilitle; ayaklarını yaklaşık omuz genişliğinde açıp gövdeni sabitle.",
+      "Halteri orta ayak hizasında dengede, dirseklerini kilitli tutarak kalça kıvrımın dizlerinin altına inene kadar çömel; topuklarını yerde ve dizlerini ayak yönünde tut.",
+      "Gövdeni sabit ve halteri baş üstünde dengeli tutarak zemini itip ayağa kalk; ardından halteri kontrollü biçimde rafa yerleştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "CrossFit The Overhead Squat; legacy Overhead_Squat record; original Atlas editorial record",
+    "url": "https://www.crossfit.com/essentials/the-overhead-squat",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Overhead_Squat"
+  ],
+  "alternatives": [
+    "barbell-back-squat",
+    "barbell-snatch",
+    "barbell-clean-and-jerk"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-overhead-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show an athlete standing and squatting deeply with a barbell locked overhead in a wide grip; opaque tank and full-length compression leggings cover the torso, hips and buttocks, with only exposed shoulders highlighted red.",
+        "tr": "Halteri geniş tutuşla baş üstünde kilitli tutarak ayakta duran ve derin çömelme yapan sporcunun iki gri aşaması; opak atlet ve uzun kompresyon taytı gövdeyi ve kalçayı örter, yalnızca açık omuzlar kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-overhead-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}
