@@ -4,11 +4,11 @@
   "slug": "plate-loaded-seated-dip",
   "name": {
     "en": "Plate-Loaded Seated Dip",
-    "tr": "Ağırlık Plakalı Oturarak Dip"
+    "tr": "Plaka Yüklü Oturarak Dip"
   },
   "description": {
-    "en": "A seated machine dip pressing loaded side handles down while the thighs stay secured.",
-    "tr": "Uyluklar sabitlenmişken yüklü yan tutacakların aşağı itildiği oturarak makine dip hareketi."
+    "en": "A seated dip machine with plate-loaded lever arms lets the user press down from a supported position to train the triceps.",
+    "tr": "Plaka yüklü kollara sahip oturmalı dip makinesinde destekli pozisyondan aşağı itiş yapılarak arka kol çalıştırılır."
   },
   "category": "strength",
   "movementPattern": "push",
@@ -20,34 +20,35 @@
   "secondaryMuscles": ["chest", "shoulders"],
   "instructions": {
     "en": [
-      "Adjust the seat and thigh restraint; sit upright with feet planted and grasp the handles beside your lower chest.",
-      "Keep your torso steady and press the handles down toward your hips by extending the elbows without locking them.",
-      "Let the handles rise slowly until your elbows reach a comfortable bend; avoid shrugging your shoulders."
+      "Choose the face-in setup, adjust the seat so the handles are within comfortable reach, plant your feet, and secure the thigh restraint if present.",
+      "Keep your torso against the support and press the handles down until your elbows are nearly straight; do not snap them into lockout.",
+      "Let the handles rise slowly until your elbows bend comfortably, keeping the plates under control."
     ],
     "tr": [
-      "Koltuğu ve uyluk desteğini ayarla; ayaklarını yere basıp dik otur ve tutacakları alt göğüs yanında kavra.",
-      "Gövdeni sabit tutarak dirseklerini açıp tutacakları kalçana doğru aşağı it; dirseklerini kilitleme.",
-      "Omuzlarını yukarı çekmeden tutacakları, dirseklerin rahatça bükülene kadar yavaşça yükselt."
+      "İçe dönük kurulumu seç; tutacaklar rahatça erişebileceğin yerde olacak şekilde koltuğu ayarla, ayaklarını yere bas ve varsa uyluk sabitleyiciyi kullan.",
+      "Gövdeni desteğe yaslı tutup dirseklerin neredeyse düz olana kadar tutacakları aşağı it; dirseklerini sertçe kilitleme.",
+      "Plakaların kontrolünü koruyarak dirseklerin rahatça bükülene kadar tutacakların yavaşça yükselmesine izin ver."
     ]
   },
   "source": {
     "type": "original",
-    "title": "Open Exercise Atlas machine expansion editorial draft",
+    "title": "Hammer Strength Plate Loaded Seated Dip product documentation",
+    "url": "https://shop.lifefitness.com/products/hammer-strength-plate-loaded-seated-dip",
     "license": "CC0-1.0"
   },
-  "alternatives": ["assisted-dip", "chest-dip", "triceps-pushdown"],
+  "alternatives": ["assisted-dip", "chest-dip", "close-grip-machine-chest-press", "seated-machine-triceps-extension"],
   "media": [
     {
       "path": "media/exercises/plate-loaded-seated-dip.webp",
       "role": "reference",
       "alt": {
-        "en": "Two grayscale phases of a plate-loaded seated dip machine, with the triceps highlighted red.",
-        "tr": "Ağırlık plakalı oturarak dip makinesinin iki gri aşaması; triseps kasları kırmızıyla vurgulanmış."
+        "en": "Two grayscale phases of a plate-loaded seated dip; triceps are highlighted red and loose opaque shorts cover the hips and groin.",
+        "tr": "Plaka yüklü oturarak dip hareketinin iki gri aşaması; arka kol kırmızıyla vurgulanmış, bol opak şort kalça ve kasığı kapatıyor."
       },
       "creator": "Open Exercise Atlas (AI-assisted original illustration)",
       "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-seated-dip.webp",
       "license": "CC0-1.0",
-      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
     }
   ]
 }
