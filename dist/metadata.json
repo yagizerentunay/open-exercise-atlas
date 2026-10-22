@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 401,
+  "count": 403,
   "translationCoverage": {
     "tr": {
-      "present": 1203,
-      "total": 1203,
+      "present": 1209,
+      "total": 1209,
       "percent": 100
     }
   },
@@ -257,6 +257,8 @@
     "plate-loaded-iso-lateral-front-lat-pulldown",
     "plate-loaded-iso-lateral-horizontal-bench-press",
     "plate-loaded-iso-lateral-incline-press",
+    "plate-loaded-iso-lateral-leg-curl",
+    "plate-loaded-iso-lateral-leg-extension",
     "plate-loaded-iso-lateral-row",
     "plate-loaded-iso-lateral-super-incline-press",
     "plate-loaded-iso-lateral-wide-chest-press",
