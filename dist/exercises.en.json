@@ -1261,58 +1261,6 @@
   },
   {
     "schemaVersion": 1,
-    "id": "barbell-good-morning",
-    "slug": "barbell-good-morning",
-    "name": "Barbell Good Morning",
-    "description": "A barbell hip hinge with the bar supported across the upper back, emphasizing the hamstrings and glutes.",
-    "category": "strength",
-    "movementPattern": "hinge",
-    "force": "pull",
-    "mechanic": "compound",
-    "difficulty": "intermediate",
-    "equipment": [
-      "barbell"
-    ],
-    "primaryMuscles": [
-      "hamstrings",
-      "glutes"
-    ],
-    "secondaryMuscles": [
-      "lower-back",
-      "adductors",
-      "traps"
-    ],
-    "instructions": [
-      "Set a manageable barbell across the upper back as for a squat. Stand about hip-width, brace your trunk, and keep a slight knee bend.",
-      "Push the hips backward and hinge forward, keeping the spine neutral and knee bend steady. Lower only as far as you can keep this position and feel a controlled hamstring stretch.",
-      "Drive the hips forward to stand upright without leaning back at the top. Keep the bar steady and reduce the load if your back position changes."
-    ],
-    "source": {
-      "type": "original",
-      "title": "Open Exercise Atlas major-muscle follow-up",
-      "license": "CC0-1.0"
-    },
-    "alternatives": [
-      "romanian-deadlift",
-      "stiff-leg-deadlift"
-    ],
-    "media": [
-      {
-        "path": "media/exercises/barbell-good-morning.webp",
-        "role": "reference",
-        "alt": {
-          "en": "Standing and hip-hinged positions of a Barbell Good Morning with the bar across the upper back; hamstrings highlighted red and loose opaque shorts covering hips and groin.",
-          "tr": "Halter üst sırttayken yapılan Good Morning hareketinin ayakta ve kalçadan menteşe pozisyonları; arka bacaklar kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
-        },
-        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
-        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-good-morning.webp",
-        "license": "CC0-1.0",
-        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
-      }
-    ]
-  },
-  {
-    "schemaVersion": 1,
     "id": "barbell-hip-thrust",
     "slug": "barbell-hip-thrust",
     "name": "Barbell Hip Thrust",
@@ -8141,7 +8089,7 @@
     "schemaVersion": 1,
     "id": "good-morning",
     "slug": "good-morning",
-    "name": "Good Morning",
+    "name": "Barbell Good Morning",
     "description": "A barbell hip hinge performed with the bar across the upper back and the torso tipping forward from the hips.",
     "category": "strength",
     "movementPattern": "hinge",
@@ -8151,20 +8099,22 @@
       "barbell"
     ],
     "primaryMuscles": [
-      "hamstrings"
+      "hamstrings",
+      "glutes"
     ],
     "secondaryMuscles": [
-      "glutes",
-      "lower-back"
+      "lower-back",
+      "adductors",
+      "traps"
     ],
     "instructions": [
-      "Place a light bar securely on the upper back; set the feet hip-width apart with the knees slightly bent.",
-      "Keep the spine neutral, send the hips back and tip the torso forward from the hips.",
-      "When you feel tension in the hamstrings, bring the hips forward and stand up; do not round the lower back and start light."
+      "Set a manageable barbell across the upper back as for a squat. Stand about hip-width, brace your trunk, and keep a slight knee bend.",
+      "Push the hips backward and hinge forward, keeping the spine neutral and knee bend steady. Lower only as far as you can keep this position and feel a controlled hamstring stretch.",
+      "Drive the hips forward to stand upright without leaning back at the top. Keep the bar steady and reduce the load if your back position changes."
     ],
     "source": {
       "type": "original",
-      "title": "Monk Mode illustrated exercise library",
+      "title": "Open Exercise Atlas major-muscle follow-up",
       "license": "CC0-1.0"
     },
     "legacyIds": [
@@ -8172,20 +8122,23 @@
     ],
     "alternatives": [
       "romanian-deadlift",
-      "cable-pull-through"
+      "stiff-leg-deadlift"
+    ],
+    "aliases": [
+      "Good Morning"
     ],
     "media": [
       {
-        "path": "media/exercises/good-morning.webp",
+        "path": "media/exercises/good-morning-atlas.webp",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the Good Morning, hamstrings highlighted in red.",
-          "tr": "Good Morning hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+          "en": "Standing and hip-hinged positions of a Barbell Good Morning with the bar across the upper back; hamstrings highlighted red and loose opaque shorts covering hips and groin.",
+          "tr": "Halter üst sırttayken yapılan Good Morning hareketinin ayakta ve kalçadan menteşe pozisyonları; arka bacaklar kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
-        "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-good-morning.webp",
-        "license": "MIT",
-        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/good-morning-atlas.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },

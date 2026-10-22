@@ -1261,58 +1261,6 @@
   },
   {
     "schemaVersion": 1,
-    "id": "barbell-good-morning",
-    "slug": "barbell-good-morning",
-    "name": "Halterle Good Morning",
-    "description": "Halter üst sırtta taşınırken kalçadan menteşe yapılarak arka bacak ve kalçayı çalıştıran hareket.",
-    "category": "strength",
-    "movementPattern": "hinge",
-    "force": "pull",
-    "mechanic": "compound",
-    "difficulty": "intermediate",
-    "equipment": [
-      "barbell"
-    ],
-    "primaryMuscles": [
-      "hamstrings",
-      "glutes"
-    ],
-    "secondaryMuscles": [
-      "lower-back",
-      "adductors",
-      "traps"
-    ],
-    "instructions": [
-      "Halteri squat hareketindeki gibi üst sırtına yerleştir ve güvenli biçimde kavra. Ayaklarını kalça genişliğinde aç, gövdeni sık ve dizlerini hafif bük.",
-      "Kalçanı geriye iterek öne menteşe yap; sırtını nötr, diz bükümünü sabit tut. Bu pozisyonu koruyabildiğin ve arka bacaklarında kontrollü gerginlik hissettiğin yere kadar alçal.",
-      "Üstte geriye yaslanmadan kalçanı öne getirip dik dur. Halteri sabit tut; sırt pozisyonun değişiyorsa yükü azalt."
-    ],
-    "source": {
-      "type": "original",
-      "title": "Open Exercise Atlas major-muscle follow-up",
-      "license": "CC0-1.0"
-    },
-    "alternatives": [
-      "romanian-deadlift",
-      "stiff-leg-deadlift"
-    ],
-    "media": [
-      {
-        "path": "media/exercises/barbell-good-morning.webp",
-        "role": "reference",
-        "alt": {
-          "en": "Standing and hip-hinged positions of a Barbell Good Morning with the bar across the upper back; hamstrings highlighted red and loose opaque shorts covering hips and groin.",
-          "tr": "Halter üst sırttayken yapılan Good Morning hareketinin ayakta ve kalçadan menteşe pozisyonları; arka bacaklar kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
-        },
-        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
-        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-good-morning.webp",
-        "license": "CC0-1.0",
-        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
-      }
-    ]
-  },
-  {
-    "schemaVersion": 1,
     "id": "barbell-hip-thrust",
     "slug": "barbell-hip-thrust",
     "name": "Halterle Hip Thrust",
@@ -8141,7 +8089,7 @@
     "schemaVersion": 1,
     "id": "good-morning",
     "slug": "good-morning",
-    "name": "Good Morning",
+    "name": "Halterle Good Morning",
     "description": "Halter üst sırttayken gövdenin kalçadan öne eğildiği, halterli bir kalça menteşesi hareketi.",
     "category": "strength",
     "movementPattern": "hinge",
@@ -8151,20 +8099,22 @@
       "barbell"
     ],
     "primaryMuscles": [
-      "hamstrings"
+      "hamstrings",
+      "glutes"
     ],
     "secondaryMuscles": [
-      "glutes",
-      "lower-back"
+      "lower-back",
+      "adductors",
+      "traps"
     ],
     "instructions": [
-      "Hafif bir barı üst sırtına güvenle yerleştir; ayaklarını kalça genişliğinde açıp dizlerini hafif bük.",
-      "Omurganı nötr tutarak kalçanı geriye gönder ve gövdeni kalçadan öne eğ.",
-      "Arka bacaklarında gerginlik hissedince kalçanı öne getirip doğrul; belini yuvarlama ve hafif yükle başla."
+      "Halteri squat hareketindeki gibi üst sırtına yerleştir ve güvenle kavra. Ayaklarını kalça genişliğinde aç, gövdeni sık ve dizlerini hafif bük.",
+      "Kalçanı geriye iterek öne menteşe yap; sırtını nötr, diz bükümünü sabit tut. Bu pozisyonu koruyabildiğin ve arka bacaklarında kontrollü gerginlik hissettiğin yere kadar alçal.",
+      "Üstte geriye yaslanmadan kalçanı öne getirip dik dur. Halteri sabit tut; sırt pozisyonun değişiyorsa yükü azalt."
     ],
     "source": {
       "type": "original",
-      "title": "Monk Mode illustrated exercise library",
+      "title": "Open Exercise Atlas major-muscle follow-up",
       "license": "CC0-1.0"
     },
     "legacyIds": [
@@ -8172,20 +8122,23 @@
     ],
     "alternatives": [
       "romanian-deadlift",
-      "cable-pull-through"
+      "stiff-leg-deadlift"
+    ],
+    "aliases": [
+      "Good Morning"
     ],
     "media": [
       {
-        "path": "media/exercises/good-morning.webp",
+        "path": "media/exercises/good-morning-atlas.webp",
         "role": "reference",
         "alt": {
-          "en": "Grayscale athlete performing the Good Morning, hamstrings highlighted in red.",
-          "tr": "Good Morning hareketini yapan gri tonlu sporcu; arka uyluk kasları kırmızıyla vurgulanmış."
+          "en": "Standing and hip-hinged positions of a Barbell Good Morning with the bar across the upper back; hamstrings highlighted red and loose opaque shorts covering hips and groin.",
+          "tr": "Halter üst sırttayken yapılan Good Morning hareketinin ayakta ve kalçadan menteşe pozisyonları; arka bacaklar kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
         },
-        "creator": "Monk Mode (AI-assisted original illustration)",
-        "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/hamstrings-good-morning.webp",
-        "license": "MIT",
-        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/good-morning-atlas.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },
