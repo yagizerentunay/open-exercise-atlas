@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "forward-lunge",
+  "slug": "forward-lunge",
+  "name": { "en": "Forward Lunge", "tr": "İleri Hamle" },
+  "description": {
+    "en": "A bodyweight lunge that steps forward and returns to the starting stance.",
+    "tr": "Öne adım atıp başlangıç duruşuna dönülen vücut ağırlığı lunge hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["bodyweight"],
+  "primaryMuscles": ["quadriceps", "glutes"],
+  "secondaryMuscles": ["hamstrings", "abdominals"],
+  "instructions": {
+    "en": [
+      "Stand tall with feet about hip-width apart, brace your trunk, and keep your shoulders relaxed.",
+      "Step one foot forward, plant it flat, and lower under control until both knees bend comfortably; keep the front knee tracking in line with the toes.",
+      "Push through the front foot to return to standing, then repeat on the other side. Keep your balance and use a comfortable range."
+    ],
+    "tr": [
+      "Ayaklarını yaklaşık kalça genişliğinde açarak dik dur, gövdeni sık ve omuzlarını rahat bırak.",
+      "Bir ayağınla öne adım atıp tabanını yere bas; iki dizin rahatça bükülene kadar kontrollü alçal ve ön dizini ayak parmakların yönünde tut.",
+      "Ön ayağından güç alıp ayakta duruşa dön, sonra diğer tarafla tekrarla. Dengeyi koru ve rahat hareket açıklığında kal."
+    ]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle follow-up", "license": "CC0-1.0" },
+  "alternatives": ["reverse-lunge", "dumbbell-forward-lunge", "barbell-forward-lunge"],
+  "media": [{
+    "path": "media/exercises/forward-lunge.webp",
+    "role": "reference",
+    "alt": {
+      "en": "Two grayscale phases of a forward lunge, with loose opaque shorts covering the hips and groin and the quadriceps and glutes highlighted red.",
+      "tr": "İleri Hamle hareketinin iki gri aşaması; kalça ve kasık bol, opak şortla kapalı, quadriceps ve kalçalar kırmızıyla vurgulanmış."
+    },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/forward-lunge.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+  }]
+}

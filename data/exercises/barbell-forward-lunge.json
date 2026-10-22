@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-forward-lunge",
+  "slug": "barbell-forward-lunge",
+  "name": { "en": "Barbell Forward Lunge", "tr": "Halterle İleri Hamle" },
+  "description": {
+    "en": "A forward lunge performed with a barbell held across the upper back.",
+    "tr": "Halter üst sırtta tutulurken yapılan ileri hamle."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["barbell"],
+  "primaryMuscles": ["quadriceps", "glutes"],
+  "secondaryMuscles": ["hamstrings", "abdominals"],
+  "instructions": {
+    "en": [
+      "Set the bar in a rack at shoulder height, position it across your upper back, and stand with feet about hip-width apart.",
+      "Step one foot forward and lower under control until both knees bend comfortably; keep the front foot planted and knee tracking with the toes.",
+      "Push through the front foot to return to standing, then repeat on the other side. Re-rack the bar securely when finished."
+    ],
+    "tr": [
+      "Halteri omuz hizasındaki sehpaya yerleştirip üst sırtına al; ayaklarını kalça genişliğinde açarak dik dur.",
+      "Bir ayağınla öne adım atıp iki dizin rahatça bükülene kadar kontrollü alçal; ön ayağını yerde tut ve dizini ayak parmakların yönünde izle.",
+      "Ön ayağından güç alıp ayağa dön, sonra diğer tarafla tekrarla. Bitirince halteri güvenli biçimde sehpaya bırak."
+    ]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle follow-up", "license": "CC0-1.0" },
+  "alternatives": ["forward-lunge", "barbell-walking-lunge", "dumbbell-forward-lunge"],
+  "media": [{
+    "path": "media/exercises/barbell-forward-lunge.webp",
+    "role": "reference",
+    "alt": {
+      "en": "Two grayscale phases show a barbell forward lunge; loose opaque shorts fully cover the hips and groin and the quadriceps and glutes are highlighted red.",
+      "tr": "Halterle İleri Hamle hareketinin iki gri aşaması; kalça ve kasık bol, opak şortla tamamen kapalı, quadriceps ve kalçalar kırmızıyla vurgulanmış."
+    },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-forward-lunge.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+  }]
+}

@@ -1114,6 +1114,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-forward-lunge",
+    "slug": "barbell-forward-lunge",
+    "name": "Barbell Forward Lunge",
+    "description": "A forward lunge performed with a barbell held across the upper back.",
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "abdominals"
+    ],
+    "instructions": [
+      "Set the bar in a rack at shoulder height, position it across your upper back, and stand with feet about hip-width apart.",
+      "Step one foot forward and lower under control until both knees bend comfortably; keep the front foot planted and knee tracking with the toes.",
+      "Push through the front foot to return to standing, then repeat on the other side. Re-rack the bar securely when finished."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "forward-lunge",
+      "barbell-walking-lunge",
+      "dumbbell-forward-lunge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-forward-lunge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a barbell forward lunge; loose opaque shorts fully cover the hips and groin and the quadriceps and glutes are highlighted red.",
+          "tr": "Halterle İleri Hamle hareketinin iki gri aşaması; kalça ve kasık bol, opak şortla tamamen kapalı, quadriceps ve kalçalar kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-forward-lunge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-glute-bridge",
     "slug": "barbell-glute-bridge",
     "name": "Barbell Glute Bridge",
@@ -5790,6 +5842,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-forward-lunge",
+    "slug": "dumbbell-forward-lunge",
+    "name": "Dumbbell Forward Lunge",
+    "description": "A forward lunge performed while holding a dumbbell in each hand.",
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "abdominals"
+    ],
+    "instructions": [
+      "Stand tall with a dumbbell at each side and feet about hip-width apart.",
+      "Step one foot forward and lower under control, keeping the front foot flat and the front knee aligned with the toes.",
+      "Push through the front foot to return to standing, then change sides. Keep both dumbbells hanging at your sides."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "forward-lunge",
+      "dumbbell-walking-lunge",
+      "barbell-forward-lunge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-forward-lunge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a forward lunge with dumbbells; loose opaque shorts cover the hips and groin and the legs are highlighted red.",
+          "tr": "Dambılla İleri Hamle hareketinin iki gri aşaması; kalça ve kasık bol, opak şortla kapalı, bacak kasları kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-forward-lunge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-front-raise",
     "slug": "dumbbell-front-raise",
     "name": "Dumbbell Front Raise",
@@ -7282,6 +7386,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/flutter-kicks.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-7.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "forward-lunge",
+    "slug": "forward-lunge",
+    "name": "Forward Lunge",
+    "description": "A bodyweight lunge that steps forward and returns to the starting stance.",
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "abdominals"
+    ],
+    "instructions": [
+      "Stand tall with feet about hip-width apart, brace your trunk, and keep your shoulders relaxed.",
+      "Step one foot forward, plant it flat, and lower under control until both knees bend comfortably; keep the front knee tracking in line with the toes.",
+      "Push through the front foot to return to standing, then repeat on the other side. Keep your balance and use a comfortable range."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "reverse-lunge",
+      "dumbbell-forward-lunge",
+      "barbell-forward-lunge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/forward-lunge.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a forward lunge, with loose opaque shorts covering the hips and groin and the quadriceps and glutes highlighted red.",
+          "tr": "İleri Hamle hareketinin iki gri aşaması; kalça ve kasık bol, opak şortla kapalı, quadriceps ve kalçalar kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/forward-lunge.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },

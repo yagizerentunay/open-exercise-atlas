@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 408,
+  "count": 411,
   "translationCoverage": {
     "tr": {
-      "present": 1224,
-      "total": 1224,
+      "present": 1233,
+      "total": 1233,
       "percent": 100
     }
   },
@@ -31,6 +31,7 @@
     "barbell-decline-bench-press",
     "barbell-drag-curl",
     "barbell-floor-press",
+    "barbell-forward-lunge",
     "barbell-glute-bridge",
     "barbell-hip-thrust",
     "barbell-reverse-curl",
@@ -127,6 +128,7 @@
     "dumbbell-floor-press",
     "dumbbell-fly",
     "dumbbell-forearm-pronation-supination",
+    "dumbbell-forward-lunge",
     "dumbbell-front-raise",
     "dumbbell-front-squat",
     "dumbbell-kickstand-romanian-deadlift",
@@ -158,6 +160,7 @@
     "farmers-carry",
     "floor-crunch",
     "flutter-kicks",
+    "forward-lunge",
     "frog-pump",
     "front-foot-elevated-split-squat",
     "front-squat",

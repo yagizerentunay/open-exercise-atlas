@@ -133,11 +133,11 @@ Primary movement references:
 
 ## Artwork and cues
 
-The table covers thirty-four newly added exercise records and one updated illustration for a pre-existing Plate-Loaded Seated Dip record. All thirty-five illustrations show two movement phases in grayscale on transparent backgrounds. Target muscles are highlighted red where appropriate; the Standing Machine Hip Thrust stays grayscale so its opaque shorts clearly cover the glutes. Every athlete wears opaque athletic shorts fully covering the hips and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
+The table covers thirty-seven newly added exercise records and two updated illustrations for existing records. All thirty-nine illustrations show two movement phases in grayscale on transparent backgrounds. Target muscles are highlighted red where appropriate; the Standing Machine Hip Thrust stays grayscale so its opaque shorts clearly cover the glutes. Every athlete wears opaque athletic shorts fully covering the hips and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
 
 ## Validation
 
-The ten-record follow-up and twenty-four later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 408 records; automated tests were not run.
+The ten-record follow-up and twenty-seven later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 411 records; automated tests were not run.
 
 ## Plate-Loaded Super Squat Press illustration correction
 
@@ -158,3 +158,13 @@ A new ACE/NASM/CrossFit comparison found four common movements missing from the 
 The four bilingual records and original, two-phase transparent illustrations bring the catalog to 408 exercises. Validate, build, and data-check pass for 408 records/six exports; automated tests were not run. See the [Seated Incline Cable Press](https://www.acefitness.org/resources/everyone/exercise-library/167/seated-incline-cable-press/), [Seated Decline Cable Press](https://www.acefitness.org/resources/everyone/exercise-library/166/seated-decline-cable-press/), [NASM Dumbbell Front Squat](https://www.nasm.org/resource-center/exercise-library/dumbbell-front-squat), and [CrossFit Dumbbell Deadlift](https://www.crossfit.com/essentials/the-dumbbell-deadlift) technique sources.
 
 - **Seated Decline Cable Press:** ACE's exercise library includes this supported cable press with the handles moving forward and down toward the thighs. Atlas had horizontal and incline cable pressing but not this downward-forward seated path. The new record uses ACE's supported posture and controlled lower-chest return cues. Source: [ACE Seated Decline Cable Press](https://www.acefitness.org/resources/everyone/exercise-library/166/seated-decline-cable-press/).
+
+## Forward Lunge variations — 22 October 2026
+
+The 408-record catalog had reverse lunges and forward walking lunges, but no forward step-and-return lunge. Added the unweighted Forward Lunge and its common dumbbell and barbell loading variants. These are single-step repetitions that return to the original stance; the existing walking lunge advances on each repetition, so these records cover a distinct movement.
+
+- **Forward Lunge:** ACE's exercise library lists the bodyweight movement as an intermediate exercise and describes stepping forward, lowering under control, and pushing off the leading leg to return. Source: [ACE Forward Lunge (bodyweight)](https://www.acefitness.org/resources/everyone/exercise-library/94/forward-lunge/).
+- **Dumbbell Forward Lunge:** ACE describes holding dumbbells in both hands for a standard forward lunge, with the front knee tracking over the middle toes and a controlled push back to standing. Source: [ACE Weighted Lunges](https://www.acefitness.org/resources/pros/expert-articles/6834/5-moves-for-a-better-butt/).
+- **Barbell Forward Lunge:** ACE documents the bar across the upper back, forward step, controlled knee bend, and alternating return. Source: [ACE Barbell Forward Lunge](https://www.acefitness.org/resources/everyone/exercise-library/8/forward-lunge/).
+
+Three bilingual records and original two-phase illustrations bring the catalog to 411 exercises. `npm run validate`, `npm run data:check`, and `npm run build` were run for this batch; automated tests were not run.

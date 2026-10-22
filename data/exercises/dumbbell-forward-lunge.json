@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-forward-lunge",
+  "slug": "dumbbell-forward-lunge",
+  "name": { "en": "Dumbbell Forward Lunge", "tr": "Dambılla İleri Hamle" },
+  "description": {
+    "en": "A forward lunge performed while holding a dumbbell in each hand.",
+    "tr": "Her iki elde birer dambıl tutularak yapılan ileri hamle."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["dumbbell"],
+  "primaryMuscles": ["quadriceps", "glutes"],
+  "secondaryMuscles": ["hamstrings", "abdominals"],
+  "instructions": {
+    "en": [
+      "Stand tall with a dumbbell at each side and feet about hip-width apart.",
+      "Step one foot forward and lower under control, keeping the front foot flat and the front knee aligned with the toes.",
+      "Push through the front foot to return to standing, then change sides. Keep both dumbbells hanging at your sides."
+    ],
+    "tr": [
+      "Ayakların yaklaşık kalça genişliğinde açıkken iki yanında birer dambılla dik dur.",
+      "Bir ayağınla öne adım atıp kontrollü alçal; ön ayağını yere bas ve ön dizini ayak parmaklarınla aynı yönde tut.",
+      "Ön ayağından güç alıp ayakta duruşa dön, sonra taraf değiştir. Dambılları yanlarında serbestçe tut."
+    ]
+  },
+  "source": { "type": "original", "title": "Open Exercise Atlas major-muscle follow-up", "license": "CC0-1.0" },
+  "alternatives": ["forward-lunge", "dumbbell-walking-lunge", "barbell-forward-lunge"],
+  "media": [{
+    "path": "media/exercises/dumbbell-forward-lunge.webp",
+    "role": "reference",
+    "alt": {
+      "en": "Two grayscale phases of a forward lunge with dumbbells; loose opaque shorts cover the hips and groin and the legs are highlighted red.",
+      "tr": "Dambılla İleri Hamle hareketinin iki gri aşaması; kalça ve kasık bol, opak şortla kapalı, bacak kasları kırmızıyla vurgulanmış."
+    },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-forward-lunge.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+  }]
+}
