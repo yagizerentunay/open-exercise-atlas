@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-push-press",
+  "slug": "barbell-push-press",
+  "name": {
+    "en": "Barbell Push Press",
+    "tr": "Halterle Push Press"
+  },
+  "description": {
+    "en": "An overhead barbell press that uses a shallow leg dip and drive to help move the bar from the shoulders to overhead.",
+    "tr": "Barı omuzlardan baş üzerine taşımak için kısa bir diz-kalça dipi ve bacak itişinden yararlanan halterli baş üstü press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["barbell"],
+  "primaryMuscles": ["shoulders", "triceps"],
+  "secondaryMuscles": ["quadriceps", "glutes", "abdominals"],
+  "instructions": {
+    "en": [
+      "Stand with feet about hip-width apart and the bar resting across the front shoulders; hold it just outside shoulder width with elbows slightly forward.",
+      "Keep your torso upright as you make a short vertical dip by bending your knees, then drive through your feet and press the bar overhead in one smooth motion.",
+      "Finish with the elbows straight and the bar balanced over your midfoot; keep your legs straight after the bar leaves the shoulders, then lower it under control to the front rack."
+    ],
+    "tr": [
+      "Ayaklarını yaklaşık kalça genişliğinde açıp barı ön omuzlarında taşı; ellerini omuz genişliğinin biraz dışında tut ve dirseklerini hafifçe öne al.",
+      "Gövdeni dik tutarak dizlerini kısa ve dikey biçimde bük; ardından ayaklarından güç alıp barı tek akıcı harekette baş üstüne it.",
+      "Dirseklerini açıp barı orta ayağının üzerinde dengele; bar omuzlardan ayrıldıktan sonra bacaklarını düz tut, ardından barı kontrollü biçimde ön omuzlara indir."
+    ]
+  },
+  "source": {
+    "type": "adapted",
+    "title": "CrossFit Level 1 Training Guide — Push Press",
+    "url": "https://library.crossfit.com/free/pdf/CFJ_English_Level1_TrainingGuide.pdf",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["dumbbell-push-press", "overhead-press", "smith-machine-shoulder-press"],
+  "media": [
+    {
+      "path": "media/exercises/barbell-push-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a barbell push press, from the front-rack dip to overhead lockout; shoulders and triceps are highlighted red and loose opaque shorts cover the hips and groin.",
+        "tr": "Halterle Push Press hareketinin ön omuzlardaki dip ve baş üstünde kilitleme aşamaları; omuz ve arka kol kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-push-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

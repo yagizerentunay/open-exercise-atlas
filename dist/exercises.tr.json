@@ -1262,6 +1262,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-push-press",
+    "slug": "barbell-push-press",
+    "name": "Halterle Push Press",
+    "description": "Barı omuzlardan baş üzerine taşımak için kısa bir diz-kalça dipi ve bacak itişinden yararlanan halterli baş üstü press hareketi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "glutes",
+      "abdominals"
+    ],
+    "instructions": [
+      "Ayaklarını yaklaşık kalça genişliğinde açıp barı ön omuzlarında taşı; ellerini omuz genişliğinin biraz dışında tut ve dirseklerini hafifçe öne al.",
+      "Gövdeni dik tutarak dizlerini kısa ve dikey biçimde bük; ardından ayaklarından güç alıp barı tek akıcı harekette baş üstüne it.",
+      "Dirseklerini açıp barı orta ayağının üzerinde dengele; bar omuzlardan ayrıldıktan sonra bacaklarını düz tut, ardından barı kontrollü biçimde ön omuzlara indir."
+    ],
+    "source": {
+      "type": "adapted",
+      "title": "CrossFit Level 1 Training Guide — Push Press",
+      "url": "https://library.crossfit.com/free/pdf/CFJ_English_Level1_TrainingGuide.pdf",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-push-press",
+      "overhead-press",
+      "smith-machine-shoulder-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-push-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a barbell push press, from the front-rack dip to overhead lockout; shoulders and triceps are highlighted red and loose opaque shorts cover the hips and groin.",
+          "tr": "Halterle Push Press hareketinin ön omuzlardaki dip ve baş üstünde kilitleme aşamaları; omuz ve arka kol kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-push-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-reverse-curl",
     "slug": "barbell-reverse-curl",
     "name": "Barbell ile Ters Curl",
