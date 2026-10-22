@@ -141,9 +141,9 @@ The ten-record follow-up and twenty-nine later priority-movement records use Atl
 
 ## Plate-Loaded Super Squat Press illustration correction
 
-- **Asset:** `media/exercises/plate-loaded-super-squat-press.webp` (188,382 bytes; SHA-256 `07ff9ad48712344d5a12487513833bbf1fdf0c13794def45be57440cadd768f9`).
+- **Asset:** `media/exercises/plate-loaded-super-squat-press.webp` (188,276 bytes; SHA-256 `ff2395773ba9ff306ed77d5338723d39fd6a46dce5bceaf32745f06420d02b93`).
 - **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** After Yağız flagged the illustration for clearer coverage, edited the original two-pose illustration while preserving the machine, poses, muscle highlights, grayscale style, and transparent background. Replaced the shorts with a loose, matte opaque black pair, roomy through the seat and thighs, with straight mid-thigh hems and draped fabric that fully covers the buttocks and groin in both poses. The output is a 1254 × 1254 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained; alpha extrema 0–255).
+- **Method:** After Yağız flagged the illustration for clearer coverage, edited the original two-pose illustration while preserving the machine, poses, muscle highlights, grayscale style, and transparent background. Replaced the shorts with a loose, matte opaque black pair, roomy through the seat and thighs, with draped fabric that fully covers the buttocks and groin in both poses and hides anatomical contours. The output is a 1280 × 1280 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained; alpha extrema 0–255).
 - **Source and rights:** This is an edit of Atlas's existing original AI-assisted illustration; no third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`plate-loaded-super-squat-press.json`](../data/exercises/plate-loaded-super-squat-press.json).
 
@@ -257,3 +257,13 @@ The bilingual record includes original two-phase transparent artwork and brings 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Cable Reverse Curl | `data/exercises/cable-reverse-curl.json` | `media/exercises/cable-reverse-curl.webp` | `597366dd9354289f6f90ab4d88b3cb348907cfbac66d4634ac49cbf84f5b6467` |
+
+## Neutral-Grip Lat Pulldown — 22 October 2026
+
+Atlas's generic Lat Pulldown illustration shows a wide overhand bar. Its close-grip plate-loaded front pulldown uses underhand handles, and the independent-arm front pulldown follows a separate machine path; none describes the familiar close parallel-grip cable attachment. NASM distinguishes neutral grip as a natural pulling path and a comfortable option for limited shoulder mobility. Source: [NASM Lat Pulldown Biomechanics and Grip Guide](https://www.nasm.org/resource-center/blog/training/the-biomechanics-of-the-lat-pulldown-muscles-grip-and-form).
+
+The new bilingual record includes original two-phase transparent artwork and brings the catalog to 422 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Neutral-Grip Lat Pulldown | `data/exercises/neutral-grip-lat-pulldown.json` | `media/exercises/neutral-grip-lat-pulldown.webp` | `b8e3166da484cd54bb2b98152e41582ccb9f052b2bb8d0ef89593e3a4df374cb` |

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 421,
+  "count": 422,
   "translationCoverage": {
     "tr": {
-      "present": 1263,
-      "total": 1263,
+      "present": 1266,
+      "total": 1266,
       "percent": 100
     }
   },
@@ -242,6 +242,7 @@
     "neck-extension-isometric",
     "neck-flexion-isometric",
     "neck-rotation-isometric",
+    "neutral-grip-lat-pulldown",
     "neutral-grip-pull-up",
     "nordic-hamstring-curl",
     "one-arm-dumbbell-row",

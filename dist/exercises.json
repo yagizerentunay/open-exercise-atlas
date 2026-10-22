@@ -14422,6 +14422,71 @@
   },
   {
     "schemaVersion": 1,
+    "id": "neutral-grip-lat-pulldown",
+    "slug": "neutral-grip-lat-pulldown",
+    "name": {
+      "en": "Neutral-Grip Lat Pulldown",
+      "tr": "Nötr Tutuşlu Lat Pulldown"
+    },
+    "description": {
+      "en": "A close parallel-grip cable pulldown that brings the handle toward the upper chest while the elbows travel down beside the torso.",
+      "tr": "Yakın paralel tutuşlu kablo çekişinde dirseklerin gövde yanından aşağı ilerleyerek tutamağı üst göğse getirdiği lat pulldown hareketi."
+    },
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper-back"
+    ],
+    "instructions": {
+      "en": [
+        "Sit at the pulldown station and secure your thighs under the pads. Hold a close parallel-grip attachment with your palms facing one another and reach overhead without shrugging.",
+        "Keep your torso tall with a small stable lean, then drive your elbows down beside your body and bring the handle toward the upper chest.",
+        "Extend your arms slowly overhead, keeping the torso steady and allowing the cable to return under control."
+      ],
+      "tr": [
+        "Lat pulldown istasyonuna oturup uyluklarını pedlerin altına sabitle. Yakın paralel tutamağı avuçların birbirine bakacak şekilde kavra ve omuzlarını kulaklarına çekmeden yukarı uzan.",
+        "Gövdeni dik ve hafifçe geriye eğik sabit tut; dirseklerini gövdenin yanından aşağı sürerek tutamağı üst göğsüne yaklaştır.",
+        "Gövdeni oynatmadan kollarını yavaşça baş üzerine uzat ve kabloyu kontrollü biçimde başlangıca bırak."
+      ]
+    },
+    "source": {
+      "type": "adapted",
+      "title": "NASM Lat Pulldown Biomechanics and Grip Guide",
+      "url": "https://www.nasm.org/resource-center/blog/training/the-biomechanics-of-the-lat-pulldown-muscles-grip-and-form",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "lat-pulldown",
+      "close-grip-front-lat-pulldown",
+      "reverse-grip-lat-pulldown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/neutral-grip-lat-pulldown.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a close neutral-grip lat pulldown, from arms extended overhead to the handle at the upper chest; lats are highlighted red and loose opaque shorts cover the hips and groin.",
+          "tr": "Yakın nötr tutuşlu lat pulldown hareketinin kollar baş üzerindeyken ve tutamak üst göğse çekilmişken gösterilen iki gri aşaması; kanatlar kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/neutral-grip-lat-pulldown.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "neutral-grip-pull-up",
     "slug": "neutral-grip-pull-up",
     "name": {
