@@ -343,3 +343,14 @@ The bilingual record and original two-phase transparent illustration bring the c
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Selectorized Dual-Axis Lat Pulldown | `data/exercises/selectorized-dual-axis-lat-pulldown.json` | `media/exercises/selectorized-dual-axis-lat-pulldown.webp` | `59107f123e753ff872114d8f8896f27790aad245de152938be93e2f5c9f96306` |
+
+
+## Selectorized Arc Leg Press — 22 October 2026
+
+Life Fitness describes the Insignia Arc Leg Press as a seated selectorized machine whose footplate follows a natural curved path, allowing greater hip range and a deeper start depth with a depth-assist handle. The Atlas seated machine press describes a conventional path, so this is a distinct leg-press pattern rather than another name for the existing linear machine press. Source: [Life Fitness Insignia Series Arc Leg Press](https://www.lifefitness.com/en-eu/catalog/strength-training/selectorized/insignia-series-arc-leg-press).
+
+The bilingual record and original two-phase transparent illustration bring the catalog to 430 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Selectorized Arc Leg Press | `data/exercises/selectorized-arc-leg-press.json` | `media/exercises/selectorized-arc-leg-press.webp` | `3874b4f35fc4b789fa7fb605caecda3e34877e380d14d4e4e34baeb96dc2c5b8` |

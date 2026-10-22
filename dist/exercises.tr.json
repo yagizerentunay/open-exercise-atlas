@@ -16100,6 +16100,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "selectorized-arc-leg-press",
+    "slug": "selectorized-arc-leg-press",
+    "name": "Seçmeli Ağırlık Makinesinde Kavisli Yörüngeli Leg Press",
+    "description": "Ayak platformu kavisli bir yörüngede ilerleyen ve klasik doğrusal prese göre daha derin kalça bükülmesine izin veren oturarak makine leg pressi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Otururken koltuk taşıyıcısını ve derinlik destek kolunu rahat bir başlangıç derinliği ayarlayacak şekilde düzenle. Ayaklarını platformda yaklaşık omuz genişliğinde yerleştir; sırtını ve kalçanı destekli tut.",
+      "Kalçanı ve dizlerini kavisli yörüngede uzatmak için ayağının tamamıyla platformu it; dizlerini kilitlemeden dur.",
+      "Sırt ve pelvis desteğini koruyarak diz ve kalçanı yavaşça bük, platformu kavis boyunca seçtiğin derinliğe geri getir."
+    ],
+    "source": {
+      "type": "adapted",
+      "title": "Life Fitness Insignia Series Arc Leg Press",
+      "url": "https://www.lifefitness.com/en-eu/catalog/strength-training/selectorized/insignia-series-arc-leg-press",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-machine-leg-press",
+      "leg-press",
+      "plate-loaded-super-squat-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/selectorized-arc-leg-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a seated selectorized arc leg press with the footplate following a curved track; quadriceps highlighted red and loose opaque shorts covering hips and groin.",
+          "tr": "Ayak platformu kavisli rayda ilerleyen oturarak kavisli yörüngeli makine leg pressinin iki aşaması; kuadriseps kırmızıyla vurgulanmış, bol opak şort kalça ve kasığı örtüyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/selectorized-arc-leg-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "selectorized-dual-axis-chest-press",
     "slug": "selectorized-dual-axis-chest-press",
     "name": "Seçmeli Ağırlık Makinesinde Çift Eksenli Göğüs Presi",

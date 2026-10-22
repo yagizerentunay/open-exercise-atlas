@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "selectorized-arc-leg-press",
+  "slug": "selectorized-arc-leg-press",
+  "name": {
+    "en": "Selectorized Arc Leg Press",
+    "tr": "Seçmeli Ağırlık Makinesinde Kavisli Yörüngeli Leg Press"
+  },
+  "description": {
+    "en": "A seated selectorized leg press with a footplate that travels along an arcing path, allowing a deeper hip bend than a conventional linear press.",
+    "tr": "Ayak platformu kavisli bir yörüngede ilerleyen ve klasik doğrusal prese göre daha derin kalça bükülmesine izin veren oturarak makine leg pressi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the seat carriage and depth-assist handle while seated to set a comfortable start depth. Place your feet about shoulder-width apart on the footplate and keep your back and hips supported.",
+      "Press through your whole foot to extend your hips and knees along the curved path; stop before your knees lock.",
+      "Bend your knees and hips slowly to return the footplate along the arc to your selected depth, keeping your back and pelvis supported."
+    ],
+    "tr": [
+      "Otururken koltuk taşıyıcısını ve derinlik destek kolunu rahat bir başlangıç derinliği ayarlayacak şekilde düzenle. Ayaklarını platformda yaklaşık omuz genişliğinde yerleştir; sırtını ve kalçanı destekli tut.",
+      "Kalçanı ve dizlerini kavisli yörüngede uzatmak için ayağının tamamıyla platformu it; dizlerini kilitlemeden dur.",
+      "Sırt ve pelvis desteğini koruyarak diz ve kalçanı yavaşça bük, platformu kavis boyunca seçtiğin derinliğe geri getir."
+    ]
+  },
+  "source": {
+    "type": "adapted",
+    "title": "Life Fitness Insignia Series Arc Leg Press",
+    "url": "https://www.lifefitness.com/en-eu/catalog/strength-training/selectorized/insignia-series-arc-leg-press",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "seated-machine-leg-press",
+    "leg-press",
+    "plate-loaded-super-squat-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/selectorized-arc-leg-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two phases of a seated selectorized arc leg press with the footplate following a curved track; quadriceps highlighted red and loose opaque shorts covering hips and groin.",
+        "tr": "Ayak platformu kavisli rayda ilerleyen oturarak kavisli yörüngeli makine leg pressinin iki aşaması; kuadriseps kırmızıyla vurgulanmış, bol opak şort kalça ve kasığı örtüyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/selectorized-arc-leg-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

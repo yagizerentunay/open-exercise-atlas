@@ -587,3 +587,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Method:** Original transparent 1254 × 1254 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two seated phases show independent overhead handles descending outward; lats are highlighted red. Loose opaque shorts fully cover hips, buttocks, and groin.
 - **Source and rights:** Machine configuration and the user-defined downward/outward pull path adapted from [Life Fitness Insignia Series Dual Axis Pulldown](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-pulldown). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`selectorized-dual-axis-lat-pulldown.json`](../data/exercises/selectorized-dual-axis-lat-pulldown.json).
+
+
+## Selectorized Arc Leg Press illustration
+
+- **Asset:** `media/exercises/selectorized-arc-leg-press.webp` (150,028 bytes; SHA-256 `3874b4f35fc4b789fa7fb605caecda3e34877e380d14d4e4e34baeb96dc2c5b8`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two seated phases show a curved-path selectorized leg press from bent-knee start through controlled extension; quadriceps are highlighted red. Loose opaque shorts fully cover hips, buttocks, and groin.
+- **Source and rights:** Machine configuration, arcing footplate path, adjustable seat carriage, and depth-assist handle adapted from [Life Fitness Insignia Series Arc Leg Press](https://www.lifefitness.com/en-eu/catalog/strength-training/selectorized/insignia-series-arc-leg-press). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`selectorized-arc-leg-press.json`](../data/exercises/selectorized-arc-leg-press.json).
