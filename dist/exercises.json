@@ -20832,6 +20832,72 @@
   },
   {
     "schemaVersion": 1,
+    "id": "smith-machine-bulgarian-split-squat",
+    "slug": "smith-machine-bulgarian-split-squat",
+    "name": {
+      "en": "Smith Machine Bulgarian Split Squat",
+      "tr": "Smith Machine Bulgarian Split Squat"
+    },
+    "description": {
+      "en": "A rear-foot-elevated split squat performed under a guided Smith bar with the front leg doing most of the work.",
+      "tr": "Ön bacağın yükü taşıdığı, arka ayağın yükseltilip Smith makinesinin yönlendirmeli barıyla yapılan split squat."
+    },
+    "category": "strength",
+    "movementPattern": "lunge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": {
+      "en": [
+        "Set the safety stops and place a stable bench behind you. Position the Smith bar across your upper back, not your neck; place the top of one foot on the bench and set the front foot far enough forward to keep its heel down.",
+        "Keeping most of your weight over the front foot, bend both knees and lower under control; let the front knee track in line with your toes.",
+        "Press through the front foot to return to the start. Rack the bar securely before switching legs and use a load you can control."
+      ],
+      "tr": [
+        "Emniyet durdurucularını ayarla ve arkana sağlam bir bench yerleştir. Smith barını boynuna değil üst sırtına oturt; bir ayağının üst kısmını benche koy, öndeki ayağını topuğu yerde kalacak kadar ileri al.",
+        "Ağırlığın çoğunu öndeki ayağında tutarak iki dizini bük ve kontrollü biçimde alçal; ön dizin ayak parmaklarınla aynı yönde ilerlesin.",
+        "Başlangıca dönmek için öndeki ayağından güç al. Taraf değiştirirken barı güvenli biçimde rafa tak ve kontrol edebileceğin bir yük kullan."
+      ]
+    },
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle gap follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "barbell-bulgarian-split-squat",
+      "dumbbell-bulgarian-split-squat",
+      "bulgarian-split-squat",
+      "smith-machine-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/smith-machine-bulgarian-split-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a Smith Machine Bulgarian Split Squat; front-leg quadriceps are highlighted red and opaque shorts cover the hips and groin.",
+          "tr": "Smith Machine Bulgarian Split Squat hareketinin iki gri aşaması; ön bacak kuadriseps kasları kırmızıyla vurgulanmış, kalça ve kasık opak şortla örtülmüş."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-bulgarian-split-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "smith-machine-incline-bench-press",
     "slug": "smith-machine-incline-bench-press",
     "name": {

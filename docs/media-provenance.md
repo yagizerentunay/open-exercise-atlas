@@ -292,6 +292,15 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Source and rights:** Equipment setup and technique were checked against ACE's [Seated Cable Press exercise guide](https://www.acefitness.org/resources/everyone/exercise-library/165/seated-cable-press/). No third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`seated-cable-chest-press.json`](../data/exercises/seated-cable-chest-press.json).
 
+## Smith Machine Bulgarian Split Squat illustration
+
+- **Asset:** `media/exercises/smith-machine-bulgarian-split-squat.webp` (228,162 bytes; SHA-256 `eb64b50adf3db976080660a72e75689bd5e2bd7dfe47acab62f5fb9786cd23f5`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original text-to-image illustration using the approved Atlas style reference. The 1254 × 1254 transparent PNG was resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 88, alpha retained). Two phases show the rear foot on a bench, the bar on the upper back traveling on Smith rails, and front-leg quadriceps highlighted red. Opaque shorts fully cover glutes, hips and groin.
+- **Prompt summary:** Square two-phase grayscale Smith Machine Bulgarian Split Squat; upright under a guided bar with rear foot on a bench and stable front foot; front-quadriceps emphasis; opaque shorts; transparent background; safety catches; no text or logos.
+- **Source and rights:** A peer-reviewed study directly tested the Bulgarian split squat with a Smith machine and free weights ([Li et al.](https://doi.org/10.7717/peerj.15863)); setup and equipment details were checked against Life Fitness's [Smith Machine](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine) product page. No third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
+- **Record:** [`smith-machine-bulgarian-split-squat.json`](../data/exercises/smith-machine-bulgarian-split-squat.json).
+
 ## Meadows Row illustration
 
 - **Asset:** `media/exercises/meadows-row.webp` (124,550 bytes; SHA-256 `539263578a64fc317667060995a069df6151ce516270417d819ad11fc7051ff7`).
