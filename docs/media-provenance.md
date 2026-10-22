@@ -620,3 +620,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** NSCA includes touch-and-go box squats in its fundamental squat progression; CrossFit describes the box squat as a back-squat variation that reaches the box and pauses before standing. Sources: [NSCA, Progressive Strategies for Teaching Fundamental Resistance Training Movement Patterns](https://www.nsca.com/contentassets/3d09f06f0b4c4f6fbd8cc382ed1f3d4a/ptq-10.2.1-progressive-strategies-for-teaching-fundamental-resistance-training-movement-patterns.pdf) and [CrossFit, The Back Squat](https://www.crossfit.com/essentials/the-back-squat).
 - **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`barbell-box-squat.json`](../data/exercises/barbell-box-squat.json).
+
+## Wide-Grip Pull-Up illustration
+
+- **Asset:** `media/exercises/wide-grip-pull-up.webp` (SHA-256 `dcac29180d6a2cece279556eabcec66ad22a28d7d2558fea00ac16ff5fc55d25`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 RGBA illustration resized to 1024 × 1024 and converted to WebP with FFmpeg/libwebp (quality 90, alpha retained). Two rear-view phases show an overhand pull-up with hands clearly wider than the shoulders; lats are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
+- **Movement source:** NASM describes the wide-grip pull-up as a distinct variation; ACE's pull-up guidance emphasizes shoulder control and a shoulder-comfortable range. Sources: [NASM Chin-Ups vs. Pull-Ups](https://www.nasm.org/resource-center/blog/chin-ups-vs-pull-ups-the-difference-the-benefits-muscles-worked) and [ACE Pull-Ups](https://www.acefitness.org/resources/everyone/exercise-library/191/pull-ups/).
+- **Rights:** Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`wide-grip-pull-up.json`](../data/exercises/wide-grip-pull-up.json).

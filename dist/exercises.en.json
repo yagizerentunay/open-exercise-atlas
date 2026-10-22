@@ -20986,6 +20986,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "wide-grip-pull-up",
+    "slug": "wide-grip-pull-up",
+    "name": "Wide-Grip Pull-Up",
+    "description": "An overhand bodyweight pull-up performed with the hands wider than the shoulders.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "pull-up-bar",
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "upper-back",
+      "biceps",
+      "forearms"
+    ],
+    "instructions": [
+      "Hang from a secure bar with an overhand grip slightly wider than shoulder width; brace your torso and keep your legs quiet.",
+      "Drive your elbows down and out to raise your chin to bar height without swinging or shrugging.",
+      "Lower under control to a comfortable overhead reach; do not force an excessively wide or painful grip."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "pull-up",
+      "neutral-grip-pull-up",
+      "wide-grip-lat-pulldown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/wide-grip-pull-up.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a wide-grip pull-up; the athlete wears loose opaque black shorts and the lats are highlighted in red.",
+          "tr": "Geniş Tutuşlu Barfiks hareketinin iki gri aşaması; sporcu bol, opak siyah şort giyiyor ve kanat kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wide-grip-pull-up.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "worlds-greatest-stretch",
     "slug": "worlds-greatest-stretch",
     "name": "World's Greatest Stretch",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 432,
+  "count": 433,
   "translationCoverage": {
     "tr": {
-      "present": 1296,
-      "total": 1296,
+      "present": 1299,
+      "total": 1299,
       "percent": 100
     }
   },
@@ -436,6 +436,7 @@
     "weighted-pull-up",
     "weighted-push-up",
     "wide-grip-lat-pulldown",
+    "wide-grip-pull-up",
     "worlds-greatest-stretch",
     "wrist-roller",
     "yates-row",

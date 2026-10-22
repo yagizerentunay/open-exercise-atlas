@@ -382,3 +382,13 @@ The bilingual record and original two-phase transparent illustration bring the c
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Barbell Box Squat | `data/exercises/barbell-box-squat.json` | `media/exercises/barbell-box-squat.webp` | `5239287f95ee8c2e3c82231dedf32a1607d5ede529869dd25c3849e4cfb183bc` |
+
+## Wide-Grip Pull-Up — 22 October 2026
+
+Atlas had standard overhand, neutral-grip, weighted, and assisted pull-ups, but no wide-overhand variation. NASM lists Wide-Grip Pull-Ups separately and describes the wider hand placement; ACE emphasizes maintaining scapular position and keeping the pull-up within shoulder comfort. The new instructions use a moderately wide, pain-free grip rather than an extreme width. Sources: [NASM Chin-Ups vs. Pull-Ups](https://www.nasm.org/resource-center/blog/chin-ups-vs-pull-ups-the-difference-the-benefits-muscles-worked) and [ACE Pull-Ups](https://www.acefitness.org/resources/everyone/exercise-library/191/pull-ups/).
+
+The bilingual record and original two-phase transparent illustration bring the catalog to 433 exercises. Loose opaque shorts cover hips, buttocks, and groin; the lats are highlighted.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Wide-Grip Pull-Up | `data/exercises/wide-grip-pull-up.json` | `media/exercises/wide-grip-pull-up.webp` | `dcac29180d6a2cece279556eabcec66ad22a28d7d2558fea00ac16ff5fc55d25` |
