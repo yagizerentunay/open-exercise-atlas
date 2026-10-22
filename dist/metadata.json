@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 428,
+  "count": 429,
   "translationCoverage": {
     "tr": {
-      "present": 1284,
-      "total": 1284,
+      "present": 1287,
+      "total": 1287,
       "percent": 100
     }
   },
@@ -337,6 +337,7 @@
     "seated-machine-triceps-extension",
     "seated-neck-cars",
     "selectorized-dual-axis-chest-press",
+    "selectorized-dual-axis-lat-pulldown",
     "selectorized-triceps-press",
     "side-crunch",
     "side-lying-hip-abduction",

@@ -16152,6 +16152,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "selectorized-dual-axis-lat-pulldown",
+    "slug": "selectorized-dual-axis-lat-pulldown",
+    "name": "Selectorized Dual-Axis Lat Pulldown",
+    "description": "A seated selectorized vertical pull where independent arms travel down and outward along a user-defined path.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Set the weight stack and seat; position your thighs securely under the angled pads and reach overhead to grip the handles comfortably.",
+      "Keep your torso steady and pull the independent handles down and slightly outward, driving your elbows toward your sides until the handles reach shoulder or upper-chest level.",
+      "Let the handles rise overhead slowly along their path, keeping the weight stack controlled and shoulders relaxed."
+    ],
+    "source": {
+      "type": "adapted",
+      "title": "Life Fitness Insignia Series Dual Axis Pulldown",
+      "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-pulldown",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "neutral-grip-lat-pulldown",
+      "lat-pulldown",
+      "plate-loaded-iso-lateral-front-lat-pulldown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/selectorized-dual-axis-lat-pulldown.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a seated selectorized dual-axis lat pulldown, with independent handles moving down and outward; lats highlighted red and loose opaque shorts covering hips and groin.",
+          "tr": "Bağımsız tutacakların aşağı ve dışa ilerlediği çift eksenli makinede lat pulldown hareketinin iki aşaması; kanatlar kırmızıyla vurgulanmış, bol opak şort kalça ve kasığı örtüyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/selectorized-dual-axis-lat-pulldown.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "selectorized-triceps-press",
     "slug": "selectorized-triceps-press",
     "name": "Selectorized Triceps Press",

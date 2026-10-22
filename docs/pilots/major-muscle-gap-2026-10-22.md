@@ -332,3 +332,14 @@ The bilingual record includes original two-phase transparent artwork and brings 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Selectorized Dual-Axis Chest Press | `data/exercises/selectorized-dual-axis-chest-press.json` | `media/exercises/selectorized-dual-axis-chest-press.webp` | `e80003ed5a2115f7eafa32a7602ca2aa97c144edbdd85c6f584c8db2fc557b79` |
+
+
+## Selectorized Dual-Axis Lat Pulldown — 22 October 2026
+
+Life Fitness documents its selectorized Dual Axis Pulldown with independent arms, user-defined downward/outward divergence, multiple handle angles, and fixed angled thigh pads. Atlas already includes a conventional cable pulldown and a plate-loaded independent-arm version, but neither combines a selectorized weight stack with this adjustable dual-axis path. Source: [Life Fitness Insignia Series Dual Axis Pulldown](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-pulldown).
+
+The bilingual record and original two-phase transparent illustration bring the catalog to 429 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Selectorized Dual-Axis Lat Pulldown | `data/exercises/selectorized-dual-axis-lat-pulldown.json` | `media/exercises/selectorized-dual-axis-lat-pulldown.webp` | `59107f123e753ff872114d8f8896f27790aad245de152938be93e2f5c9f96306` |

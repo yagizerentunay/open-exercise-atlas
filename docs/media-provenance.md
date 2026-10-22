@@ -578,3 +578,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Method:** Original transparent 1254 × 1254 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two seated phases show the independent machine arms open and then converging; chest is highlighted red. Loose opaque shorts fully cover the hips, buttocks, and groin.
 - **Source and rights:** Machine configuration and user-defined converging path adapted from [Life Fitness Insignia Series Dual Axis Chest Press](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-chest-press). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`selectorized-dual-axis-chest-press.json`](../data/exercises/selectorized-dual-axis-chest-press.json).
+
+
+## Selectorized Dual-Axis Lat Pulldown illustration
+
+- **Asset:** `media/exercises/selectorized-dual-axis-lat-pulldown.webp` (240,624 bytes; SHA-256 `59107f123e753ff872114d8f8896f27790aad245de152938be93e2f5c9f96306`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two seated phases show independent overhead handles descending outward; lats are highlighted red. Loose opaque shorts fully cover hips, buttocks, and groin.
+- **Source and rights:** Machine configuration and the user-defined downward/outward pull path adapted from [Life Fitness Insignia Series Dual Axis Pulldown](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-pulldown). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`selectorized-dual-axis-lat-pulldown.json`](../data/exercises/selectorized-dual-axis-lat-pulldown.json).
