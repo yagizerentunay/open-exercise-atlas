@@ -353,6 +353,14 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Source and rights:** The product setup and muscle focus are based on Life Fitness/Hammer Strength's [Plate Loaded Seated Dip product page](https://shop.lifefitness.com/products/hammer-strength-plate-loaded-seated-dip), which describes the seated support, face-in position, restraint, and triceps as the primary target. No third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`plate-loaded-seated-dip.json`](../data/exercises/plate-loaded-seated-dip.json).
 
+## Smith Machine Front Squat
+
+- **Asset:** `media/exercises/smith-machine-front-squat.webp` (220,144 bytes; SHA-256 `5ad1dc9ede7968e2e4b60bb18bb5deab223cbf6907cebed5d8043aff4703f8fd`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1280 × 1280 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained). Two phases show a Smith bar resting across the front shoulders with raised elbows; the second phase lowers into a controlled squat. Quadriceps are highlighted red. Loose, opaque black shorts fully cover the hips, buttocks, and groin.
+- **Technique and equipment sources:** ACE's [Front Squat to Overhead Press guide](https://www.acefitness.org/resources/everyone/exercise-library/315/front-squat-to-overhead-press/) describes the front-rack position and upright front squat; Life Fitness's [Smith Machine product page](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine) describes its guided bar path. Atlas cues were written independently. No third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
+- **Record:** [`smith-machine-front-squat.json`](../data/exercises/smith-machine-front-squat.json).
+
 ## Plate-Loaded Iso-Lateral Front Lat Pulldown illustration
 
 - **Asset:** `media/exercises/plate-loaded-iso-lateral-front-lat-pulldown.webp` (233,672 bytes; SHA-256 `ed032f4a6bc0831632fc679893c5ba55d986438b11770a68fbaacd34e0d243b3`).
