@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 411,
+  "count": 413,
   "translationCoverage": {
     "tr": {
-      "present": 1233,
-      "total": 1233,
+      "present": 1239,
+      "total": 1239,
       "percent": 100
     }
   },
@@ -264,6 +264,7 @@
     "plate-loaded-iso-lateral-incline-press",
     "plate-loaded-iso-lateral-leg-curl",
     "plate-loaded-iso-lateral-leg-extension",
+    "plate-loaded-iso-lateral-low-row",
     "plate-loaded-iso-lateral-row",
     "plate-loaded-iso-lateral-super-incline-press",
     "plate-loaded-iso-lateral-wide-chest-press",
@@ -364,6 +365,7 @@
     "smith-machine-decline-bench-press",
     "smith-machine-front-squat",
     "smith-machine-incline-bench-press",
+    "smith-machine-reverse-lunge",
     "smith-machine-romanian-deadlift",
     "smith-machine-shoulder-press",
     "smith-machine-squat",

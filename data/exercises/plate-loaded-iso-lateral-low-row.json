@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "plate-loaded-iso-lateral-low-row",
+  "slug": "plate-loaded-iso-lateral-low-row",
+  "name": { "en": "Plate-Loaded Iso-Lateral Low Row", "tr": "Plaka Yüklü Iso-Lateral Alçak Row" },
+  "description": {
+    "en": "A chest-supported plate-loaded row with independent arms that pull along a low angle toward the waist.",
+    "tr": "Bağımsız kolları bel yönüne alçak açıyla çekilen, göğüs destekli plaka yüklü row hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine", "bench"],
+  "primaryMuscles": ["lats", "upper-back"],
+  "secondaryMuscles": ["biceps", "forearms"],
+  "instructions": {
+    "en": [
+      "Load both independent arms evenly; adjust the seat and chest pad so your chest stays supported and your feet are braced.",
+      "Take the overhand handles and pull them low toward your waist, keeping your chest on the pad and elbows close to your sides.",
+      "Let the arms travel forward slowly to a comfortable stretch without letting the plates drop."
+    ],
+    "tr": [
+      "Bağımsız kollara eşit plaka tak; göğsün destekli, ayakların sabit kalacak şekilde koltuğu ve göğüs pedini ayarla.",
+      "Üstten tutuşla tutacakları kavra ve göğsünü pedden kaldırmadan dirseklerini yanına yakın tutarak beline doğru alçak açıyla çek.",
+      "Plakaları düşürmeden kolları rahat bir esnemeye kadar yavaşça öne bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Hammer Strength Iso-Lateral Low Row product documentation",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-low-row",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["machine-low-row", "plate-loaded-iso-lateral-row", "seated-machine-row"],
+  "media": [{
+    "path": "media/exercises/plate-loaded-iso-lateral-low-row.webp",
+    "role": "reference",
+    "alt": {
+      "en": "Two grayscale phases show a chest-supported plate-loaded iso-lateral low row with independent arms; loose opaque shorts cover the hips and groin and the back muscles are highlighted red.",
+      "tr": "Bağımsız kollu, göğüs destekli plaka yüklü iso-lateral alçak row hareketinin iki gri aşaması; bol opak şort kalça ve kasığı örtüyor, sırt kasları kırmızıyla vurgulanıyor."
+    },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-low-row.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+  }]
+}

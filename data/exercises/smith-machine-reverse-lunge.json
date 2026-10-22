@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "smith-machine-reverse-lunge",
+  "slug": "smith-machine-reverse-lunge",
+  "name": { "en": "Smith Machine Reverse Lunge", "tr": "Smith Makinesinde Geri Lunge" },
+  "description": {
+    "en": "A reverse lunge performed under a guided Smith machine bar, returning the stepping foot to the starting stance each repetition.",
+    "tr": "Her tekrarda geri adım atan ayağın başlangıç duruşuna döndüğü, Smith makinesinin yönlendirmeli barı altında yapılan lunge."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["machine"],
+  "primaryMuscles": ["quadriceps", "glutes"],
+  "secondaryMuscles": ["hamstrings", "abdominals"],
+  "instructions": {
+    "en": [
+      "Set the bar and safety stops at a suitable height; stand under the bar across your upper back and unrack it by turning the hooks clear.",
+      "Step one foot backward and lower under control until both knees bend comfortably; keep the front foot planted and front knee aligned with the toes.",
+      "Push through the front foot to return to standing, repeat on the other side, then turn the bar into the hooks securely."
+    ],
+    "tr": [
+      "Barı ve güvenlik durdurucularını uygun yüksekliğe ayarla; üst sırtında olacak şekilde barın altına gir ve kancaları çevirerek güvenli biçimde çıkar.",
+      "Bir ayağınla geriye adım atıp iki dizin rahatça bükülene kadar kontrollü alçal; ön ayağını yerde, ön dizini ayak parmakların yönünde tut.",
+      "Ön ayağından güç alarak ayakta duruşa dön ve diğer tarafla tekrarla; bitince barı kancalara güvenle yerleştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle gap follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["reverse-lunge", "barbell-reverse-lunge", "smith-machine-bulgarian-split-squat"],
+  "media": [{
+    "path": "media/exercises/smith-machine-reverse-lunge.webp",
+    "role": "reference",
+    "alt": {
+      "en": "Two grayscale phases show a Smith machine reverse lunge; loose opaque shorts fully cover the hips and groin and the quadriceps and glutes are highlighted red.",
+      "tr": "Smith Makinesinde Geri Lunge hareketinin iki gri aşaması; bol opak şort kalça ve kasığı tamamen örtüyor, quadriceps ve kalçalar kırmızıyla vurgulanıyor."
+    },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-reverse-lunge.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+  }]
+}

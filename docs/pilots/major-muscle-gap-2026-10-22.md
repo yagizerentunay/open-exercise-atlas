@@ -133,11 +133,11 @@ Primary movement references:
 
 ## Artwork and cues
 
-The table covers thirty-seven newly added exercise records and two updated illustrations for existing records. All thirty-nine illustrations show two movement phases in grayscale on transparent backgrounds. Target muscles are highlighted red where appropriate; the Standing Machine Hip Thrust stays grayscale so its opaque shorts clearly cover the glutes. Every athlete wears opaque athletic shorts fully covering the hips and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
+The table covers thirty-nine newly added exercise records and two updated illustrations for existing records. All forty-one illustrations show two movement phases in grayscale on transparent backgrounds. Target muscles are highlighted red where appropriate; the Standing Machine Hip Thrust stays grayscale so its opaque shorts clearly cover the glutes. Every athlete wears opaque athletic shorts fully covering the hips and groin. Turkish and English cues describe setup and controlled range of motion; machine cues also cover safe machine use. Each image is 1024 × 1024 WebP with alpha transparency.
 
 ## Validation
 
-The ten-record follow-up and twenty-seven later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 411 records; automated tests were not run.
+The ten-record follow-up and twenty-nine later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 413 records; automated tests were not run.
 
 ## Plate-Loaded Super Squat Press illustration correction
 
@@ -168,3 +168,12 @@ The 408-record catalog had reverse lunges and forward walking lunges, but no for
 - **Barbell Forward Lunge:** ACE documents the bar across the upper back, forward step, controlled knee bend, and alternating return. Source: [ACE Barbell Forward Lunge](https://www.acefitness.org/resources/everyone/exercise-library/8/forward-lunge/).
 
 Three bilingual records and original two-phase illustrations bring the catalog to 411 exercises. `npm run validate`, `npm run data:check`, and `npm run build` were run for this batch; automated tests were not run.
+
+## Additional back and leg machine movements — 22 October 2026
+
+A manufacturer audit found a distinct low-angle plate-loaded row missing beside Atlas's selectorized Machine Low Row and chest-supported horizontal Iso-Lateral Row. It also found the Smith Machine Reverse Lunge absent beside free-weight reverse lunges and the Smith Bulgarian Split Squat; this lunge steps back and returns each rep without rear-foot elevation.
+
+- **Plate-Loaded Iso-Lateral Low Row:** Hammer Strength describes chest support, independent arms, an overhand grip, and a low pulling angle that differs from the existing horizontal row path. Source: [Hammer Strength Iso-Lateral Low Row](https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-low-row).
+- **Smith Machine Reverse Lunge:** ACE describes the barbell reverse step, controlled lowering, and return to standing; Life Fitness documents the Smith machine’s fixed guided bar path. The Atlas cues combine the reverse lunge pattern with the Smith bar and its safety hooks. Sources: [ACE Reverse Lunge](https://www.acefitness.org/resources/everyone/exercise-library/319/reverse-lunge/) and [Life Fitness Smith Machine](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine).
+
+Two bilingual records and original two-phase transparent illustrations bring the catalog to 413 exercises. `npm run validate`, `npm run build`, and `npm run data:check` were run for this batch; automated tests were not run.
