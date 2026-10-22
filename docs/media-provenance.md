@@ -542,3 +542,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Method:** Original transparent 1536 × 1024 PNG fitted to a 1024 × 1024 transparent canvas and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two standing phases show a high-cable rope pushdown; hands separate slightly at extension and triceps are highlighted red. Loose opaque shorts cover hips and groin.
 - **Source and rights:** Cues adapted from [NASM Cable Triceps Extension Guidance](https://blog.nasm.org/workout-plans/9-best-arm-exercises/). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`cable-rope-triceps-pushdown.json`](../data/exercises/cable-rope-triceps-pushdown.json).
+
+
+## Assisted Chin-Up illustration
+
+- **Asset:** `media/exercises/assisted-chin-up.webp` (145,634 bytes; SHA-256 `fd6987217e33f5a05a0aff70fcb52f7c698ce0ad1a5fb7706189b8f85840d283`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1536 × 1024 PNG fitted to a 1024 × 1024 transparent canvas and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two positions show an underhand assisted chin-up on a counterweighted station, with lats and biceps highlighted red. Loose opaque shorts cover hips and groin.
+- **Source and rights:** Cues adapted from [ACE Chin-Ups](https://www.acefitness.org/resources/everyone/exercise-library/190/chin-ups/); the machine variant is supported by [Life Fitness Assist Dip Chin](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-assist-dip-chin). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`assisted-chin-up.json`](../data/exercises/assisted-chin-up.json).

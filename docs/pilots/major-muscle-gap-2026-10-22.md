@@ -288,3 +288,14 @@ The new bilingual record includes original two-phase transparent artwork and bri
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Cable Rope Triceps Pushdown | `data/exercises/cable-rope-triceps-pushdown.json` | `media/exercises/cable-rope-triceps-pushdown.webp` | `5b034110c5c2eb5f521d9a5cead6344ed0b7bc3ff6f970912af0a09d0c1f36c2` |
+
+
+## Assisted Chin-Up — 22 October 2026
+
+Atlas had an overhand Assisted Pull-Up and an underhand bodyweight Chin-Up, but lacked the chin-up performed on a counterweighted assist station. ACE describes the palms-facing grip, elbows driving down, controlled vertical pull, and back/biceps involvement; Life Fitness lists an Assist Dip Chin station with multiple hand positions. Sources: [ACE Chin-Ups](https://www.acefitness.org/resources/everyone/exercise-library/190/chin-ups/) and [Life Fitness Insignia Assist Dip Chin](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-assist-dip-chin).
+
+The new bilingual record includes original two-phase transparent art and brings the catalog to 425 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Assisted Chin-Up | `data/exercises/assisted-chin-up.json` | `media/exercises/assisted-chin-up.webp` | `fd6987217e33f5a05a0aff70fcb52f7c698ce0ad1a5fb7706189b8f85840d283` |

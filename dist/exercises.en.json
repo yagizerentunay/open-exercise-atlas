@@ -252,6 +252,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "assisted-chin-up",
+    "slug": "assisted-chin-up",
+    "name": "Assisted Chin-Up",
+    "description": "An underhand-grip chin-up performed on an assist machine that offsets part of the user's body weight.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper-back"
+    ],
+    "instructions": [
+      "Set the counterweight and step carefully onto the assist platform. Take a shoulder-width underhand grip with palms facing you; keep shoulders away from your ears.",
+      "Pull your elbows down beside your torso to raise your chin toward handle height. Keep your body steady and avoid kicking or swinging.",
+      "Lower slowly until your arms are extended under control, then step off the platform carefully."
+    ],
+    "source": {
+      "type": "adapted",
+      "title": "ACE Chin-Ups and Life Fitness Assist Dip Chin Machine",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/190/chin-ups/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "assisted-pull-up",
+      "chin-up",
+      "neutral-grip-pull-up"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/assisted-chin-up.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of an underhand assisted chin-up on a counterweighted machine; lats and biceps highlighted red, loose opaque shorts cover the hips and groin.",
+          "tr": "Karşı ağırlıklı makinede ters tutuşlu yardımlı chin-up hareketinin iki aşaması; kanat ve biceps kasları kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/assisted-chin-up.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "assisted-dip",
     "slug": "assisted-dip",
     "name": "Assisted Dip",
