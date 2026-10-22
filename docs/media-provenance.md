@@ -339,9 +339,9 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 
 ## Plate-Loaded Super Squat Press illustration correction
 
-- **Asset:** `media/exercises/plate-loaded-super-squat-press.webp` (185,384 bytes; SHA-256 `6731702269e7f4d9ec7f40c1237b2e810dcce41bd6821367bc68e6b14a27e09d`).
+- **Asset:** `media/exercises/plate-loaded-super-squat-press.webp` (188,382 bytes; SHA-256 `07ff9ad48712344d5a12487513833bbf1fdf0c13794def45be57440cadd768f9`).
 - **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** After the user reported that the shorts still made the athlete look nude, edited the original two-pose illustration again, preserving the machine, pose, muscle highlights, grayscale style, and transparent background. Replaced the shorts in both poses with loose, matte opaque black shorts; the relaxed fabric fully covers the buttocks and groin without anatomical contours. The 1254 × 1254 RGBA PNG was resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained). Highlighted quadriceps remain visible below the hems.
+- **Method:** After Yağız asked for clearer coverage, edited the original two-pose illustration, preserving the machine, poses, muscle highlights, grayscale style, and transparent background. Replaced the shorts in both poses with a looser matte opaque black pair; the fabric fully covers the buttocks and groin without anatomical contours. The 1254 × 1254 RGBA PNG was resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained). Highlighted quadriceps remain visible below the hems.
 - **Source and rights:** This is an edit of Atlas's existing original AI-assisted illustration; no third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`plate-loaded-super-squat-press.json`](../data/exercises/plate-loaded-super-squat-press.json).
 
