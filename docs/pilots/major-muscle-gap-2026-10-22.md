@@ -177,3 +177,13 @@ A manufacturer audit found a distinct low-angle plate-loaded row missing beside 
 - **Smith Machine Reverse Lunge:** ACE describes the barbell reverse step, controlled lowering, and return to standing; Life Fitness documents the Smith machine’s fixed guided bar path. The Atlas cues combine the reverse lunge pattern with the Smith bar and its safety hooks. Sources: [ACE Reverse Lunge](https://www.acefitness.org/resources/everyone/exercise-library/319/reverse-lunge/) and [Life Fitness Smith Machine](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine).
 
 Two bilingual records and original two-phase transparent illustrations bring the catalog to 413 exercises. `npm run validate`, `npm run build`, and `npm run data:check` were run for this batch; automated tests were not run.
+
+## Additional distinct high-pull machine — 22 October 2026
+
+A check of the Hammer Strength plate-loaded lineup found the Iso-Lateral High Row absent by exact machine model. Atlas already had a generic selectorized Machine High Row and different plate-loaded horizontal and low rows. The manufacturer distinguishes this model by its independent arms, fixed overhand grip, and high pulling angle; it describes a more horizontal path and upper-back emphasis compared with its vertical Front Lat Pulldown. Seat and thigh pads adjust for fit. Source: [Hammer Strength Iso-Lateral High Row](https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-high-row).
+
+The bilingual record uses an upper-rib pull and controlled forward return. Its original two-phase transparent illustration shows the high start and independent arms. The addition brings the catalog to 414 records.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Plate-Loaded Iso-Lateral High Row | `data/exercises/plate-loaded-iso-lateral-high-row.json` | `media/exercises/plate-loaded-iso-lateral-high-row.webp` | `e479bbbc044b1c96d29adddd0517edf114e01077cd67528db65a3c07225a0d1e` |

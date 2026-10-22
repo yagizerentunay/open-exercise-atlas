@@ -12301,6 +12301,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "plate-loaded-iso-lateral-high-row",
+    "slug": "plate-loaded-iso-lateral-high-row",
+    "name": "Plate-Loaded Iso-Lateral High Row",
+    "description": "A plate-loaded high row with independent arms, fixed overhand grips, and a high pulling angle that emphasizes the upper back.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "upper-back",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "traps",
+      "biceps"
+    ],
+    "instructions": [
+      "Load both independent arms evenly; adjust the seat and thigh pad so you can reach the handles comfortably and stay stable, then brace your feet.",
+      "Take the fixed overhand grips and pull each arm down and back toward your upper ribs, keeping your torso steady and elbows moving down and behind you.",
+      "Control the arms as they return forward to a comfortable stretch; do not let the plates drop."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Hammer Strength Iso-Lateral High Row product documentation",
+      "url": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded/plate-loaded-iso-lateral-high-row",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-high-row",
+      "plate-loaded-iso-lateral-row",
+      "plate-loaded-iso-lateral-low-row",
+      "plate-loaded-iso-lateral-front-lat-pulldown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/plate-loaded-iso-lateral-high-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a plate-loaded iso-lateral high row with independent arms and overhand grips; loose opaque shorts cover the hips and groin, and the back muscles are highlighted red.",
+          "tr": "Bağımsız kollu ve üstten tutuşlu plaka yüklü iso-lateral yüksek row hareketinin iki gri aşaması; bol, opak şort kalça ve kasığı örter, sırt kasları kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/plate-loaded-iso-lateral-high-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "plate-loaded-iso-lateral-horizontal-bench-press",
     "slug": "plate-loaded-iso-lateral-horizontal-bench-press",
     "name": "Plate-Loaded Iso-Lateral Horizontal Bench Press",

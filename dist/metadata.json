@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 413,
+  "count": 414,
   "translationCoverage": {
     "tr": {
-      "present": 1239,
-      "total": 1239,
+      "present": 1242,
+      "total": 1242,
       "percent": 100
     }
   },
@@ -260,6 +260,7 @@
     "plate-loaded-iso-lateral-d-y-row",
     "plate-loaded-iso-lateral-decline-chest-press",
     "plate-loaded-iso-lateral-front-lat-pulldown",
+    "plate-loaded-iso-lateral-high-row",
     "plate-loaded-iso-lateral-horizontal-bench-press",
     "plate-loaded-iso-lateral-incline-press",
     "plate-loaded-iso-lateral-leg-curl",
