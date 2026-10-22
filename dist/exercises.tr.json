@@ -17475,6 +17475,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "smith-machine-hip-thrust",
+    "slug": "smith-machine-hip-thrust",
+    "name": "Smith Makinesinde Hip Thrust",
+    "description": "Kalçaların üzerinden geçen pedli Smith barı ve sabit bar yolu kullanılan bench destekli hip thrust.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sırtının üst kısmını kenarına dayayacağın sabit bir bench yerleştir; Smith barının altına oturup pedi kalça kıvrımına al. Barı güvenli başlangıç yüksekliğine getir ve kancaların sağlam tutunduğunu kontrol et.",
+      "Ayak tabanların yerde, dizlerin bükülü olsun; gövdeni sıkıp yerden güç alarak gövde ve uylukların aynı hizaya gelene kadar kalçanı yükselt, belini çukurlaştırma.",
+      "Barı kontrollü biçimde indir; pozisyondan çıkmadan önce kancalara güvenle geri oturt."
+    ],
+    "source": {
+      "type": "original",
+      "title": "ACE Hip Thrust technique and Life Fitness Smith Machine documentation",
+      "url": "https://www.acefitness.org/continuing-education/prosource/january-2016/5756/a-workout-to-counteract-the-effects-of-prolonged-sitting/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "barbell-hip-thrust",
+      "machine-hip-thrust",
+      "standing-machine-hip-thrust",
+      "glute-bridge"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/smith-machine-hip-thrust.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a bench-supported Smith Machine Hip Thrust; loose opaque shorts fully cover the athlete's hips and groin.",
+          "tr": "Bench destekli Smith Makinesinde Hip Thrust hareketinin iki gri aşaması; bol ve opak şort sporcunun kalça ve kasığını tamamen örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-hip-thrust.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "smith-machine-incline-bench-press",
     "slug": "smith-machine-incline-bench-press",
     "name": "Smith Makinesinde Eğimli Bench Press",

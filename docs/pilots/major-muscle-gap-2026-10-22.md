@@ -187,3 +187,13 @@ The bilingual record uses an upper-rib pull and controlled forward return. Its o
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Plate-Loaded Iso-Lateral High Row | `data/exercises/plate-loaded-iso-lateral-high-row.json` | `media/exercises/plate-loaded-iso-lateral-high-row.webp` | `e479bbbc044b1c96d29adddd0517edf114e01077cd67528db65a3c07225a0d1e` |
+
+## Smith Machine Hip Thrust — 22 October 2026
+
+Atlas had barbell hip thrusts and two dedicated hip-thrust machines, but no bench-supported Smith-bar variation. The Smith version keeps the hip-extension pattern while the bar travels on the machine's guided path. ACE documents the upper-back-on-bench hip thrust setup and hip extension; Life Fitness documents the Smith machine bar and support setup. Sources: [ACE Hip Thrusts](https://www.acefitness.org/continuing-education/prosource/january-2016/5756/a-workout-to-counteract-the-effects-of-prolonged-sitting/) and [Life Fitness Smith Machine](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine).
+
+The new bilingual record includes bar-hook safety cues and an original two-phase transparent illustration. It brings the catalog to 415 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Smith Machine Hip Thrust | `data/exercises/smith-machine-hip-thrust.json` | `media/exercises/smith-machine-hip-thrust.webp` | `831e817cf6ea5f73b467b7ee037605c69deace91bf0d2d5f097cbbc251932066` |

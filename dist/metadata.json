@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 414,
+  "count": 415,
   "translationCoverage": {
     "tr": {
-      "present": 1242,
-      "total": 1242,
+      "present": 1245,
+      "total": 1245,
       "percent": 100
     }
   },
@@ -365,6 +365,7 @@
     "smith-machine-close-grip-bench-press",
     "smith-machine-decline-bench-press",
     "smith-machine-front-squat",
+    "smith-machine-hip-thrust",
     "smith-machine-incline-bench-press",
     "smith-machine-reverse-lunge",
     "smith-machine-romanian-deadlift",
