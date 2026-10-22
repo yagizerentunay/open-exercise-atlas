@@ -551,3 +551,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Method:** Original transparent 1536 × 1024 PNG fitted to a 1024 × 1024 transparent canvas and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two positions show an underhand assisted chin-up on a counterweighted station, with lats and biceps highlighted red. Loose opaque shorts cover hips and groin.
 - **Source and rights:** Cues adapted from [ACE Chin-Ups](https://www.acefitness.org/resources/everyone/exercise-library/190/chin-ups/); the machine variant is supported by [Life Fitness Assist Dip Chin](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-assist-dip-chin). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`assisted-chin-up.json`](../data/exercises/assisted-chin-up.json).
+
+
+## Kneeling Machine Glute Press illustration
+
+- **Asset:** `media/exercises/kneeling-machine-glute-press.webp` (108,490 bytes; SHA-256 `2511244260fb88c7864824eb5b96b19f3b5250bde7e7f75c53440f3a65947683`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1774 × 887 PNG fitted to a 1024 × 1024 transparent canvas and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two kneeling, chest-supported phases show the working foot platform pressed back; loose black shorts fully cover the hips and groin, with the target highlight kept below the hem.
+- **Source and rights:** Setup adapted from [ACE Glute Press](https://www.acefitness.org/resources/everyone/exercise-library/293/glute-press/). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`kneeling-machine-glute-press.json`](../data/exercises/kneeling-machine-glute-press.json).

@@ -9840,6 +9840,57 @@
   },
   {
     "schemaVersion": 1,
+    "id": "kneeling-machine-glute-press",
+    "slug": "kneeling-machine-glute-press",
+    "name": "Diz Çökerek Makinede Kalça Presi",
+    "description": "Göğüs desteğine yaslanarak diz çökmüş konumda yapılan, seçmeli makinede tek bacaklı kalça ekstansiyonu.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Göğüs desteğini, diz pedini ve direnci ayarla. Alt pede diz çöküp tutacakları kavra; bir ayağını arkadaki platforma koy ve dizini bükülü tut.",
+      "Gövdeni sıkılaştırıp çalışan kalçanı ve dizini açarak platformu geriye it; belini çukurlaştırmadan sabit tut.",
+      "Dizini rahatça bükene kadar platformu yavaşça geri getir; seti tamamlayınca diğer tarafa geç."
+    ],
+    "source": {
+      "type": "adapted",
+      "title": "ACE Glute Press",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/293/glute-press/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-glute-kickback",
+      "cable-glute-kickback",
+      "machine-hip-thrust"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/kneeling-machine-glute-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a kneeling selectorized glute press, showing the foot platform moving back as the leg extends; the shorts are opaque and cover the hips and buttocks.",
+          "tr": "Diz çökerek makinede kalça presinin iki aşaması; bacak açılırken ayak platformu geriye hareket ediyor, opak şort kalça ve kasık bölgesini tamamen örtüyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kneeling-machine-glute-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "l-sit-hold",
     "slug": "l-sit-hold",
     "name": "L-Sit Tutuşu",

@@ -12445,6 +12445,70 @@
   },
   {
     "schemaVersion": 1,
+    "id": "kneeling-machine-glute-press",
+    "slug": "kneeling-machine-glute-press",
+    "name": {
+      "en": "Kneeling Machine Glute Press",
+      "tr": "Diz Çökerek Makinede Kalça Presi"
+    },
+    "description": {
+      "en": "A unilateral hip-extension press on a selectorized machine, performed from a kneeling position with the chest supported.",
+      "tr": "Göğüs desteğine yaslanarak diz çökmüş konumda yapılan, seçmeli makinede tek bacaklı kalça ekstansiyonu."
+    },
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": {
+      "en": [
+        "Adjust the chest support, kneeling pad, and resistance. Kneel on the lower pad, hold the handles, and place one foot on the rear platform with the knee bent.",
+        "Brace your trunk and press the platform backward by extending the working hip and knee; keep your lower back steady rather than arching.",
+        "Return the platform slowly until the knee bends comfortably, then finish the set and switch sides."
+      ],
+      "tr": [
+        "Göğüs desteğini, diz pedini ve direnci ayarla. Alt pede diz çöküp tutacakları kavra; bir ayağını arkadaki platforma koy ve dizini bükülü tut.",
+        "Gövdeni sıkılaştırıp çalışan kalçanı ve dizini açarak platformu geriye it; belini çukurlaştırmadan sabit tut.",
+        "Dizini rahatça bükene kadar platformu yavaşça geri getir; seti tamamlayınca diğer tarafa geç."
+      ]
+    },
+    "source": {
+      "type": "adapted",
+      "title": "ACE Glute Press",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/293/glute-press/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "machine-glute-kickback",
+      "cable-glute-kickback",
+      "machine-hip-thrust"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/kneeling-machine-glute-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a kneeling selectorized glute press, showing the foot platform moving back as the leg extends; the shorts are opaque and cover the hips and buttocks.",
+          "tr": "Diz çökerek makinede kalça presinin iki aşaması; bacak açılırken ayak platformu geriye hareket ediyor, opak şort kalça ve kasık bölgesini tamamen örtüyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kneeling-machine-glute-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "l-sit-hold",
     "slug": "l-sit-hold",
     "name": {

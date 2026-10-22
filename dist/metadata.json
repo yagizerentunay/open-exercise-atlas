@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 425,
+  "count": 426,
   "translationCoverage": {
     "tr": {
-      "present": 1275,
-      "total": 1275,
+      "present": 1278,
+      "total": 1278,
       "percent": 100
     }
   },
@@ -210,6 +210,7 @@
     "kettlebell-windmill",
     "knee-supported-copenhagen-plank",
     "kneeling-hip-flexor-stretch",
+    "kneeling-machine-glute-press",
     "l-sit-hold",
     "landmine-rotation",
     "landmine-row",

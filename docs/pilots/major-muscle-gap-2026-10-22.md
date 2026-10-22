@@ -299,3 +299,14 @@ The new bilingual record includes original two-phase transparent art and brings 
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Assisted Chin-Up | `data/exercises/assisted-chin-up.json` | `media/exercises/assisted-chin-up.webp` | `fd6987217e33f5a05a0aff70fcb52f7c698ce0ad1a5fb7706189b8f85840d283` |
+
+
+## Kneeling Machine Glute Press — 22 October 2026
+
+ACE's selectorized Glute Press starts with the user kneeling on a lower pad, one foot on a rear platform, and a supported torso; the user presses the platform back by extending the leg. Atlas had a standing one-leg foot-pedal Machine Glute Kickback and several hip-thrust machines, but not this kneeling supported machine press. Source: [ACE Glute Press](https://www.acefitness.org/resources/everyone/exercise-library/293/glute-press/).
+
+The new bilingual record includes original two-phase transparent artwork and brings the catalog to 426 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Kneeling Machine Glute Press | `data/exercises/kneeling-machine-glute-press.json` | `media/exercises/kneeling-machine-glute-press.webp` | `2511244260fb88c7864824eb5b96b19f3b5250bde7e7f75c53440f3a65947683` |
