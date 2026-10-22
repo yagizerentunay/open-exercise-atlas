@@ -569,3 +569,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Method:** Original transparent 1536 × 1024 PNG fitted to a 1024 × 1024 transparent canvas and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two seated phases show rotating press handles moving down and forward against a selectorized stack. Triceps are highlighted red; loose opaque shorts cover hips and groin.
 - **Source and rights:** Equipment configuration adapted from [Life Fitness Insignia Series Triceps Press](https://www.lifefitness.com/en-eu/catalog/strength-training/selectorized/insignia-series-triceps-press); movement cues follow the controlled dip-style press pattern. Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
 - **Record:** [`selectorized-triceps-press.json`](../data/exercises/selectorized-triceps-press.json).
+
+
+## Selectorized Dual-Axis Chest Press illustration
+
+- **Asset:** `media/exercises/selectorized-dual-axis-chest-press.webp` (193,480 bytes; SHA-256 `e80003ed5a2115f7eafa32a7602ca2aa97c144edbdd85c6f584c8db2fc557b79`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two seated phases show the independent machine arms open and then converging; chest is highlighted red. Loose opaque shorts fully cover the hips, buttocks, and groin.
+- **Source and rights:** Machine configuration and user-defined converging path adapted from [Life Fitness Insignia Series Dual Axis Chest Press](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-chest-press). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`selectorized-dual-axis-chest-press.json`](../data/exercises/selectorized-dual-axis-chest-press.json).

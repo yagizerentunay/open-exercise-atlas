@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "selectorized-dual-axis-chest-press",
+  "slug": "selectorized-dual-axis-chest-press",
+  "name": {
+    "en": "Selectorized Dual-Axis Chest Press",
+    "tr": "Seçmeli Ağırlık Makinesinde Çift Eksenli Göğüs Presi"
+  },
+  "description": {
+    "en": "A seated selectorized chest press in which independent arms converge along a user-defined path, combining a press with a fly.",
+    "tr": "Bağımsız kolların kullanıcının belirlediği yolda yakınsadığı, press ile fly hareketini birleştiren oturarak makine göğüs presi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Set the weight stack and seat so the handles begin around mid-chest; while seated, adjust the starting depth to a comfortable range. Keep your back supported and feet planted.",
+      "Press the handles forward and let the independent arms move inward along their natural path. Keep your wrists straight and stop before your elbows lock.",
+      "Return the handles slowly, allowing the arms to open until you feel a comfortable chest stretch; keep the weight stack under control."
+    ],
+    "tr": [
+      "Ağırlık bloğunu ve koltuğu tutacaklar göğüs ortası hizasında başlayacak şekilde ayarla; otururken başlangıç derinliğini rahat bir aralığa getir. Sırtını destekli, ayaklarını yerde tut.",
+      "Bileklerini düz tutarak tutacakları öne it ve bağımsız kolların doğal yolunda içe yaklaşmasına izin ver. Dirseklerini kilitlemeden dur.",
+      "Rahat bir göğüs gerilmesi hissedene kadar kolları yavaşça açıp tutacakları geri getir; ağırlık bloğunu kontrol et."
+    ]
+  },
+  "source": {
+    "type": "adapted",
+    "title": "Life Fitness Insignia Series Dual Axis Chest Press",
+    "url": "https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-chest-press",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "machine-chest-press",
+    "plate-loaded-iso-lateral-horizontal-bench-press",
+    "seated-cable-chest-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/selectorized-dual-axis-chest-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two phases of a seated dual-axis selectorized chest press, with independent handles moving inward; chest muscles highlighted red and opaque shorts covering the hips and groin.",
+        "tr": "Bağımsız tutacakların içe yaklaştığı çift eksenli makinede göğüs presinin iki aşaması; göğüs kasları kırmızıyla vurgulanmış, opak şort kalça ve kasığı örtüyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/selectorized-dual-axis-chest-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

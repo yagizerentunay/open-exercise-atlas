@@ -321,3 +321,14 @@ The new bilingual record includes original two-phase transparent artwork and bri
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Selectorized Triceps Press | `data/exercises/selectorized-triceps-press.json` | `media/exercises/selectorized-triceps-press.webp` | `473d7fb88b832d08ec89182b913a20c2fccd67a1fe6c7dba21b2682be4b81d08` |
+
+
+## Selectorized Dual-Axis Chest Press — 22 October 2026
+
+Life Fitness documents the Insignia dual-axis chest press as a seated selectorized station with multi-directional resistance and user-defined convergence; its independent arms combine the chest-press and pectoral-fly paths. Atlas already includes a conventional forward machine chest press and a converging plate-loaded horizontal press, but neither covers this selectorized dual-axis pattern. Source: [Life Fitness Insignia Series Dual Axis Chest Press](https://www.lifefitness.com/en-us/catalog/strength-training/selectorized/insignia-series-dual-axis-chest-press).
+
+The bilingual record includes original two-phase transparent artwork and brings the catalog to 428 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Selectorized Dual-Axis Chest Press | `data/exercises/selectorized-dual-axis-chest-press.json` | `media/exercises/selectorized-dual-axis-chest-press.webp` | `e80003ed5a2115f7eafa32a7602ca2aa97c144edbdd85c6f584c8db2fc557b79` |
