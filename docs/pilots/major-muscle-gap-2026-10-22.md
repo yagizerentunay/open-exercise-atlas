@@ -354,3 +354,13 @@ The bilingual record and original two-phase transparent illustration bring the c
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Selectorized Arc Leg Press | `data/exercises/selectorized-arc-leg-press.json` | `media/exercises/selectorized-arc-leg-press.webp` | `3874b4f35fc4b789fa7fb605caecda3e34877e380d14d4e4e34baeb96dc2c5b8` |
+
+## Double Kettlebell Front Squat — 22 October 2026
+
+Atlas already had a single-load Goblet Squat, a barbell Front Squat, and a Dumbbell Front Squat. The Double Kettlebell Front Squat holds one kettlebell in each shoulder's front-rack position, a distinct and commonly catalogued loading setup. NASM lists Kettlebell Front Squat as an exercise; the Kettlebell RX manual describes the two-bell rack position with elbows close to the torso. Sources: [NASM Kettlebell Front Squat](https://www.nasm.org/resource-center/exercise-library/kettlebell-front-squat) and [Kettlebell RX manual](https://kettlebellrx.com/wp-content/uploads/2020/05/KB-Rx-1.0-Manual-2019_.pdf).
+
+The bilingual record and original two-phase transparent illustration bring the catalog to 431 exercises. The illustration highlights quadriceps and keeps loose opaque shorts over hips, buttocks, and groin.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Double Kettlebell Front Squat | `data/exercises/double-kettlebell-front-squat.json` | `media/exercises/double-kettlebell-front-squat.webp` | `6f28bda9b607d4e752ed456afbaedf1f16457e2916a7b8816ed86807fbb05e7d5` |

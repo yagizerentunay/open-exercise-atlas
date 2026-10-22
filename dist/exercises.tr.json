@@ -5652,6 +5652,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "double-kettlebell-front-squat",
+    "slug": "double-kettlebell-front-squat",
+    "name": "Çift Kettlebell Ön Squat",
+    "description": "Her omuzda rack pozisyonunda bir kettlebell taşınarak yapılan önden yüklü squat.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "kettlebell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "upper-back"
+    ],
+    "instructions": [
+      "Her omza bir kettlebell'i güvenle alıp front-rack pozisyonunda tut; bileklerini nötr, dirseklerini gövdene yakın tut, ayaklarını yaklaşık omuz genişliğinde aç ve gövdeni sık.",
+      "Kalça ve dizlerini bükerek kontrollü çömel. Gövdeni dik, topuklarını yerde, dizlerini ayak parmaklarınla aynı yönde ve kettlebell'leri omuzlarında sabit tut.",
+      "Ayağının tamamından güç alarak ayağa kalk. Güvenle rack pozisyonunda tutabildiğin bir ağırlık seç ve kettlebell'leri kontrollü biçimde yere indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "goblet-squat",
+      "front-squat",
+      "dumbbell-front-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/double-kettlebell-front-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Standing and bottom positions of a double kettlebell front squat with a kettlebell racked at each shoulder; quadriceps highlighted red and loose opaque shorts covering hips and groin.",
+          "tr": "Her omuzda bir kettlebell'in rack pozisyonunda tutulduğu çift kettlebell ön squatın ayakta ve alçalış pozisyonları; quadriceps kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/double-kettlebell-front-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-bench-press",
     "slug": "dumbbell-bench-press",
     "name": "Dambılla Bench Press",
