@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-high-back-row",
+  "slug": "seated-high-back-row",
+  "name": {
+    "en": "Seated High Back Cable Row",
+    "tr": "Oturarak Geniş Tutuşlu Üst Sırt Küreği"
+  },
+  "description": {
+    "en": "A seated cable row using a wide overhand bar and elbows out, pulling toward the upper chest to emphasize the upper back.",
+    "tr": "Geniş üstten tutuşlu barın dirsekler yana açılarak üst göğse çekildiği, üst sırtı hedefleyen oturarak kablo kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Sit facing a low cable with your knees softly bent and feet braced. Hold a wide straight bar with an overhand grip and keep your back tall.",
+      "Pull the bar toward your upper chest with your elbows traveling out to the sides; keep your torso steady and avoid shrugging.",
+      "Straighten your arms slowly to return the weight under control without rounding your back."
+    ],
+    "tr": [
+      "Alçak makaraya dönük otur; dizlerini hafif büküp ayaklarını desteğe yerleştir. Geniş düz barı üstten kavra ve sırtını dik tut.",
+      "Gövdeni sabit tutup dirseklerini yana açarak barı üst göğsüne doğru çek; omuzlarını kulaklarına kaldırma.",
+      "Sırtını yuvarlamadan kollarını yavaşça uzat ve ağırlığı kontrollü biçimde başlangıca bırak."
+    ]
+  },
+  "source": {
+    "type": "adapted",
+    "title": "ACE Seated High Back Row",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/46/seated-high-back-row/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "seated-cable-row",
+    "seated-close-grip-cable-row",
+    "seated-machine-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-high-back-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two phases of a wide-grip seated cable row, pulling the bar toward the upper chest with the upper back highlighted red; loose opaque shorts cover the hips and groin.",
+        "tr": "Geniş tutuşlu oturarak kablo küreğinin iki aşaması; bar üst göğse çekilirken üst sırt kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-high-back-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

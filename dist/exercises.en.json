@@ -3768,6 +3768,55 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-rope-triceps-pushdown",
+    "slug": "cable-rope-triceps-pushdown",
+    "name": "Cable Rope Triceps Pushdown",
+    "description": "A high-cable elbow-extension exercise using a rope attachment that lets the hands separate slightly at the bottom.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Attach a rope to a high pulley and stand close enough to keep the cable taut. Hold one end in each hand with elbows bent and tucked beside your torso.",
+      "Keep your upper arms still and extend your elbows, pressing the rope down. Near the bottom, let your hands move slightly apart without swinging your shoulders forward.",
+      "Bend your elbows slowly to return the rope to the start while keeping your torso steady."
+    ],
+    "source": {
+      "type": "adapted",
+      "title": "NASM Cable Triceps Extension Guidance",
+      "url": "https://blog.nasm.org/workout-plans/9-best-arm-exercises/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "triceps-pushdown",
+      "reverse-grip-triceps-pushdown",
+      "overhead-cable-triceps-extension"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-rope-triceps-pushdown.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a cable rope triceps pushdown, with elbows tucked and rope ends slightly separated at extension; triceps highlighted red and loose opaque shorts covering the hips and groin.",
+          "tr": "Halatla kablo arka kol itişinin iki aşaması; dirsekler gövde yanında, kollar açılırken halat uçları hafif ayrılmış, arka kol kırmızıyla vurgulanmış ve kalça-kasık bol opak şortla örtülmüş."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-rope-triceps-pushdown.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-shrug",
     "slug": "cable-shrug",
     "name": "Cable Shrug",
@@ -15415,6 +15464,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/forearms.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-high-back-row",
+    "slug": "seated-high-back-row",
+    "name": "Seated High Back Cable Row",
+    "description": "A seated cable row using a wide overhand bar and elbows out, pulling toward the upper chest to emphasize the upper back.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "upper-back"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "biceps",
+      "shoulders"
+    ],
+    "instructions": [
+      "Sit facing a low cable with your knees softly bent and feet braced. Hold a wide straight bar with an overhand grip and keep your back tall.",
+      "Pull the bar toward your upper chest with your elbows traveling out to the sides; keep your torso steady and avoid shrugging.",
+      "Straighten your arms slowly to return the weight under control without rounding your back."
+    ],
+    "source": {
+      "type": "adapted",
+      "title": "ACE Seated High Back Row",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/46/seated-high-back-row/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-cable-row",
+      "seated-close-grip-cable-row",
+      "seated-machine-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-high-back-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a wide-grip seated cable row, pulling the bar toward the upper chest with the upper back highlighted red; loose opaque shorts cover the hips and groin.",
+          "tr": "Geniş tutuşlu oturarak kablo küreğinin iki aşaması; bar üst göğse çekilirken üst sırt kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-high-back-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },

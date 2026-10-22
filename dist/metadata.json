@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 422,
+  "count": 424,
   "translationCoverage": {
     "tr": {
-      "present": 1266,
-      "total": 1266,
+      "present": 1272,
+      "total": 1272,
       "percent": 100
     }
   },
@@ -86,6 +86,7 @@
     "cable-reverse-curl",
     "cable-romanian-deadlift",
     "cable-rope-hammer-curl",
+    "cable-rope-triceps-pushdown",
     "cable-shrug",
     "cable-triceps-kickback",
     "cable-woodchop",
@@ -322,6 +323,7 @@
     "seated-dumbbell-finger-curl",
     "seated-dumbbell-shoulder-press",
     "seated-dumbbell-wrist-curl",
+    "seated-high-back-row",
     "seated-hip-adduction",
     "seated-hip-flexion",
     "seated-incline-cable-press",

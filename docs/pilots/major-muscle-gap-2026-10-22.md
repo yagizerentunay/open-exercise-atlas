@@ -267,3 +267,24 @@ The new bilingual record includes original two-phase transparent artwork and bri
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Neutral-Grip Lat Pulldown | `data/exercises/neutral-grip-lat-pulldown.json` | `media/exercises/neutral-grip-lat-pulldown.webp` | `b8e3166da484cd54bb2b98152e41582ccb9f052b2bb8d0ef89593e3a4df374cb` |
+
+
+## Seated High Back Cable Row — 22 October 2026
+
+ACE lists a seated high-back row using a wide overhand bar, elbows out, and a pull toward the upper chest. Atlas's generic seated cable row and its close-grip lower-rib row do not describe this distinct high elbow path. Source: [ACE Seated High Back Row](https://www.acefitness.org/resources/everyone/exercise-library/46/seated-high-back-row/).
+
+The new bilingual record includes original two-phase transparent artwork and brings the catalog to 423 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Seated High Back Cable Row | `data/exercises/seated-high-back-row.json` | `media/exercises/seated-high-back-row.webp` | `221be5834a1b2ac621baead28078858811dad86d7261de9bbaf5489531aa33e2` |
+
+## Cable Rope Triceps Pushdown — 22 October 2026
+
+Atlas's Cable Triceps Pushdown record specifies a straight bar. The rope attachment lets the hands follow a less constrained path and separate slightly at elbow extension, a common cable option distinct from the bar setup. NASM recommends cable attachments that allow the elbows to track a natural path and includes cable pushdowns among its triceps exercises. Source: [NASM Arm Exercise Guidance](https://blog.nasm.org/workout-plans/9-best-arm-exercises/).
+
+The new bilingual record includes original two-phase transparent artwork and brings the catalog to 424 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Cable Rope Triceps Pushdown | `data/exercises/cable-rope-triceps-pushdown.json` | `media/exercises/cable-rope-triceps-pushdown.webp` | `5b034110c5c2eb5f521d9a5cead6344ed0b7bc3ff6f970912af0a09d0c1f36c2` |

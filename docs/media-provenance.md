@@ -525,3 +525,20 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Method:** Original transparent 1774 × 887 RGBA two-phase illustration resized to 1024 × 512 and centered on a transparent 1024 × 1024 canvas; converted to WebP with Pillow/libwebp (quality 90, alpha retained; alpha extrema 0–255). It shows the close parallel-grip overhead start and upper-chest finish on a cable station. Lats are highlighted red. Loose opaque shorts cover hips, buttocks, and groin.
 - **Technique source:** [NASM Lat Pulldown Biomechanics and Grip Guide](https://www.nasm.org/resource-center/blog/training/the-biomechanics-of-the-lat-pulldown-muscles-grip-and-form) identifies neutral grip as a natural pulling path and a comfortable option for mobility restrictions, and documents the lat-focused pull with the elbows driving down. The record adds a close neutral-grip attachment. Cues were written independently; no third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`neutral-grip-lat-pulldown.json`](../data/exercises/neutral-grip-lat-pulldown.json).
+
+
+## Seated High Back Cable Row illustration
+
+- **Asset:** `media/exercises/seated-high-back-row.webp` (128,740 bytes; SHA-256 `221be5834a1b2ac621baead28078858811dad86d7261de9bbaf5489531aa33e2`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1774 × 887 PNG fitted to a 1024 × 1024 transparent canvas and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two seated phases show a wide overhand bar moving from arm extension toward the upper chest with elbows out; upper back is highlighted red. Loose opaque shorts cover hips and groin.
+- **Source and rights:** Movement setup adapted from [ACE Seated High Back Row](https://www.acefitness.org/resources/everyone/exercise-library/46/seated-high-back-row/). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`seated-high-back-row.json`](../data/exercises/seated-high-back-row.json).
+
+## Cable Rope Triceps Pushdown illustration
+
+- **Asset:** `media/exercises/cable-rope-triceps-pushdown.webp` (97,882 bytes; SHA-256 `5b034110c5c2eb5f521d9a5cead6344ed0b7bc3ff6f970912af0a09d0c1f36c2`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1536 × 1024 PNG fitted to a 1024 × 1024 transparent canvas and converted to WebP with Pillow/libwebp (quality 90, alpha retained). Two standing phases show a high-cable rope pushdown; hands separate slightly at extension and triceps are highlighted red. Loose opaque shorts cover hips and groin.
+- **Source and rights:** Cues adapted from [NASM Cable Triceps Extension Guidance](https://blog.nasm.org/workout-plans/9-best-arm-exercises/). Original AI-assisted artwork; no third-party artwork imported. Any rights the project holds are dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`cable-rope-triceps-pushdown.json`](../data/exercises/cable-rope-triceps-pushdown.json).

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-rope-triceps-pushdown",
+  "slug": "cable-rope-triceps-pushdown",
+  "name": {
+    "en": "Cable Rope Triceps Pushdown",
+    "tr": "Halatla Kablo Arka Kol İtişi"
+  },
+  "description": {
+    "en": "A high-cable elbow-extension exercise using a rope attachment that lets the hands separate slightly at the bottom.",
+    "tr": "Yüksek makarada halat tutacağıyla yapılan; alt noktada ellerin hafifçe ayrılabildiği dirsek açma hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Attach a rope to a high pulley and stand close enough to keep the cable taut. Hold one end in each hand with elbows bent and tucked beside your torso.",
+      "Keep your upper arms still and extend your elbows, pressing the rope down. Near the bottom, let your hands move slightly apart without swinging your shoulders forward.",
+      "Bend your elbows slowly to return the rope to the start while keeping your torso steady."
+    ],
+    "tr": [
+      "Halatı yüksek makaraya tak ve kabloda gerginlik kalacak mesafede dur. Halatın iki ucunu birer elinle tut; dirseklerini büküp gövdenin yanında sabitle.",
+      "Üst kollarını oynatmadan dirseklerini açıp halatı aşağı it. Alt noktada omuzlarını öne savurmadan ellerini hafifçe ayır.",
+      "Gövdeni sabit tutarak dirseklerini yavaşça bük ve halatı kontrollü biçimde başlangıca döndür."
+    ]
+  },
+  "source": {
+    "type": "adapted",
+    "title": "NASM Cable Triceps Extension Guidance",
+    "url": "https://blog.nasm.org/workout-plans/9-best-arm-exercises/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "triceps-pushdown",
+    "reverse-grip-triceps-pushdown",
+    "overhead-cable-triceps-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-rope-triceps-pushdown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two phases of a cable rope triceps pushdown, with elbows tucked and rope ends slightly separated at extension; triceps highlighted red and loose opaque shorts covering the hips and groin.",
+        "tr": "Halatla kablo arka kol itişinin iki aşaması; dirsekler gövde yanında, kollar açılırken halat uçları hafif ayrılmış, arka kol kırmızıyla vurgulanmış ve kalça-kasık bol opak şortla örtülmüş."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-rope-triceps-pushdown.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}
