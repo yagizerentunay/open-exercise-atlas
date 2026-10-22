@@ -8,7 +8,7 @@ A renewed post-push scan against manufacturer catalogs found two lower-body mach
 | Vertical Leg Press | `data/exercises/vertical-leg-press.json` | `media/exercises/vertical-leg-press.webp` | `06c0df0b92fdbbaafbd8cf72e9a9ae9c21e27a09b4796284f8e14e85e64fa996` |
 | Plate-Loaded Iso-Lateral Horizontal Bench Press | `data/exercises/plate-loaded-iso-lateral-horizontal-bench-press.json` | `media/exercises/plate-loaded-iso-lateral-horizontal-bench-press.webp` | `6cf98313482a12810d693b17f5e0b83224b881e3c651755b3df669f05c63802c` |
 | Plate-Loaded Iso-Lateral Decline Chest Press | `data/exercises/plate-loaded-iso-lateral-decline-chest-press.json` | `media/exercises/plate-loaded-iso-lateral-decline-chest-press.webp` | `b53b1ece7c5aff60e8c81bd03ede2e22ae3f714201fe7523b06c185c0c868cc5` |
-| Plate-Loaded Super Squat Press | `data/exercises/plate-loaded-super-squat-press.json` | `media/exercises/plate-loaded-super-squat-press.webp` | `342a6074c195d2653ca1af2dd00534a42ddbf4c3ad269d78e13b4417aed2192c` |
+| Plate-Loaded Super Squat Press | `data/exercises/plate-loaded-super-squat-press.json` | `media/exercises/plate-loaded-super-squat-press.webp` | `1814d3b6717fefdf62634ed150f30c863dfc7a34ee5ec7dd712e7065f657ae4f` |
 | Plate-Loaded Assisted Nordic Hamstring Curl | `data/exercises/plate-loaded-assisted-nordic-hamstring-curl.json` | `media/exercises/plate-loaded-assisted-nordic-hamstring-curl.webp` | `14afbce3763f2e09dfdd484926ce04c04ea6d14feab9c511dfb3978002fe6471` |
 | Plate-Loaded Iso-Lateral D.Y. Row | `data/exercises/plate-loaded-iso-lateral-d-y-row.json` | `media/exercises/plate-loaded-iso-lateral-d-y-row.webp` | `c6f0be0bc5d3ce231f02409a81cbaf2d50828c31d81dd1fe90c99ebea5046a78` |
 | Plate-Loaded Iso-Lateral Super Incline Press | `data/exercises/plate-loaded-iso-lateral-super-incline-press.json` | `media/exercises/plate-loaded-iso-lateral-super-incline-press.webp` | `5462d4b3d9e999cc75692fb831ba0eacbf4f6a323d8d193e5ac2c43a0223dd01` |
@@ -116,4 +116,12 @@ All twenty-eight original illustrations show two movement phases in grayscale on
 ## Validation
 
 The ten-record follow-up and eighteen later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 398 records; automated tests were not run.
+
+## Plate-Loaded Super Squat Press illustration correction
+
+- **Asset:** `media/exercises/plate-loaded-super-squat-press.webp` (191,204 bytes; SHA-256 `1814d3b6717fefdf62634ed150f30c863dfc7a34ee5ec7dd712e7065f657ae4f`).
+- **Date and creator:** 2026-10-22; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Edited the existing original two-pose illustration, preserving the machine, pose, muscle highlights, grayscale style, and transparent background. The 1254 × 1254 RGBA PNG was resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained). Opaque black shorts now clearly cover both athletes' hips, buttocks, and groin; highlighted quadriceps remain visible below the shorts.
+- **Source and rights:** This is an edit of Atlas's existing original AI-assisted illustration; no third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
+- **Record:** [`plate-loaded-super-squat-press.json`](../data/exercises/plate-loaded-super-squat-press.json).
 
