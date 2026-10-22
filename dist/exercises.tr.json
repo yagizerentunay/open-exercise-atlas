@@ -17368,6 +17368,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "smith-machine-deadlift",
+    "slug": "smith-machine-deadlift",
+    "name": "Smith Makinesinde Deadlift",
+    "description": "Kılavuzlu Smith barıyla düşük başlangıçtan, diz ve kalçanın birlikte açıldığı deadlift.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "lower-back"
+    ],
+    "instructions": [
+      "Smith barını alt kaval kemiğine yakın en alçak kullanılabilir yüksekliğe al; güvenlik stoperlerini planlanan alt konumun hemen altına koy, iki yana eşit plaka takıp kancaları kontrol et.",
+      "Barı ayak ortanın üzerine getir; kalça ve dizlerini bükerek kavra, gövdeni sıkıp sırtını nötr tut. Bar bacaklarına yakınken yeri it ve dizlerinle kalçanı birlikte aç.",
+      "Geriye yaslanmadan dik dur; barı aynı yoldan kontrollü indir ve uzaklaşmadan önce kancalara güvenle geri oturt."
+    ],
+    "source": {
+      "type": "original",
+      "title": "ACE Deadlift technique and Life Fitness Smith Machine documentation",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/6/deadlift/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "conventional-deadlift",
+      "dumbbell-deadlift",
+      "smith-machine-romanian-deadlift",
+      "trap-bar-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/smith-machine-deadlift.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a low-start Smith Machine Deadlift; loose opaque shorts cover the hips and groin, with the hamstrings and lower back highlighted red.",
+          "tr": "Düşük başlangıçlı Smith Makinesinde Deadlift hareketinin iki gri aşaması; bol opak şort kalça ve kasığı örter, hamstringler ve alt sırt kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-deadlift.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "smith-machine-decline-bench-press",
     "slug": "smith-machine-decline-bench-press",
     "name": "Smith Makinesinde Decline Bench Press",

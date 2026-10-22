@@ -197,3 +197,13 @@ The new bilingual record includes bar-hook safety cues and an original two-phase
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Smith Machine Hip Thrust | `data/exercises/smith-machine-hip-thrust.json` | `media/exercises/smith-machine-hip-thrust.webp` | `831e817cf6ea5f73b467b7ee037605c69deace91bf0d2d5f097cbbc251932066` |
+
+## Smith Machine Deadlift — 22 October 2026
+
+The catalog had conventional and dumbbell floor-start deadlifts plus a Smith Romanian Deadlift, which starts standing and uses a hip hinge with softly bent knees. It lacked the low-start Smith version combining knee and hip extension. Cues combine ACE's conventional deadlift starting position and bar path with the Smith machine's guided bar apparatus. Sources: [ACE Deadlift](https://www.acefitness.org/resources/everyone/exercise-library/6/deadlift/) and [Life Fitness Smith Machine](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine).
+
+The new bilingual record specifies a low usable bar start and safety stops, with a separate original two-phase transparent illustration. It brings the catalog to 416 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Smith Machine Deadlift | `data/exercises/smith-machine-deadlift.json` | `media/exercises/smith-machine-deadlift.webp` | `f7146fe0ce5a707080d0b86799bdd0d9fa3cc9181a47c2335a3e2581f19c114b` |
