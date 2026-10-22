@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-reverse-curl",
+  "slug": "cable-reverse-curl",
+  "name": {
+    "en": "Cable Reverse Curl",
+    "tr": "Kabloyla Ters Curl"
+  },
+  "description": {
+    "en": "An overhand cable curl that trains the forearms and elbow flexors while the upper arms stay close to the torso.",
+    "tr": "Üst kollar gövde yanında kalırken avuçlar aşağı bakacak şekilde kabloyu kıvırarak ön kol ve dirsek bükücülerini çalıştıran hareket."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["cable"],
+  "primaryMuscles": ["forearms"],
+  "secondaryMuscles": ["biceps"],
+  "instructions": {
+    "en": [
+      "Attach a short straight bar to a low pulley. Stand facing the stack, hold the bar with a shoulder-width overhand grip, and keep your wrists straight.",
+      "Keeping your upper arms beside your torso, bend your elbows and curl the bar toward your lower chest without swinging your body.",
+      "Lower the bar slowly until your elbows are nearly straight, maintaining the overhand grip and steady cable tension."
+    ],
+    "tr": [
+      "Alt makaraya kısa düz bar tak. Ağırlık istifine dönük dur, barı omuz genişliğinde üstten kavra ve bileklerini düz tut.",
+      "Üst kollarını gövdenin yanında sabit tutup dirseklerini bükerek barı gövdenin alt kısmına doğru kıvır; vücudunu savurma.",
+      "Üstten tutuşu ve kablo gerginliğini koruyarak dirseklerin neredeyse düz olana kadar barı yavaşça indir."
+    ]
+  },
+  "source": {
+    "type": "adapted",
+    "title": "ACE Reverse Bicep Curl exercise guidance",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/310/reverse-bicep-curl/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["barbell-reverse-curl", "reverse-ez-bar-curl", "cable-rope-hammer-curl"],
+  "media": [
+    {
+      "path": "media/exercises/cable-reverse-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a low-cable reverse curl with a straight bar; forearms are highlighted red and loose opaque shorts cover the hips and groin.",
+        "tr": "Düz barla alçak makarada ters curl hareketinin iki gri aşaması; ön kollar kırmızıyla vurgulanmış, kalça ve kasık bol opak şortla örtülmüş."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-reverse-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

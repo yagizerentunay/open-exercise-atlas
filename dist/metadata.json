@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 420,
+  "count": 421,
   "translationCoverage": {
     "tr": {
-      "present": 1260,
-      "total": 1260,
+      "present": 1263,
+      "total": 1263,
       "percent": 100
     }
   },
@@ -83,6 +83,7 @@
     "cable-oblique-crunch",
     "cable-pull-through",
     "cable-rear-delt-fly",
+    "cable-reverse-curl",
     "cable-romanian-deadlift",
     "cable-rope-hammer-curl",
     "cable-shrug",

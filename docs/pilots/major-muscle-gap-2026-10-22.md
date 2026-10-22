@@ -247,3 +247,13 @@ The new bilingual record includes original two-phase transparent artwork and bri
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Standing Two-Arm Landmine Press | `data/exercises/standing-landmine-press.json` | `media/exercises/standing-landmine-press.webp` | `ae22266f930c3c87e305493bd9f6d0fc34abc49bbc1d1ed4691f98135c539a17` |
+
+## Cable Reverse Curl — 22 October 2026
+
+Atlas already had overhand reverse curls with a barbell, EZ bar, and dumbbells, but no low-cable version with the same pronated grip and a different resistance path. ACE's Reverse Bicep Curl guidance supports the overhand grip, shoulder-width hands, elbows near the sides, and controlled return; the new record adapts that form to a low cable and short bar. Source: [ACE Reverse Bicep Curl](https://www.acefitness.org/resources/everyone/exercise-library/310/reverse-bicep-curl/).
+
+The bilingual record includes original two-phase transparent artwork and brings the catalog to 421 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Cable Reverse Curl | `data/exercises/cable-reverse-curl.json` | `media/exercises/cable-reverse-curl.webp` | `597366dd9354289f6f90ab4d88b3cb348907cfbac66d4634ac49cbf84f5b6467` |
