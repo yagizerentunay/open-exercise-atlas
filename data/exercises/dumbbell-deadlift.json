@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-deadlift",
+  "slug": "dumbbell-deadlift",
+  "name": {
+    "en": "Dumbbell Deadlift",
+    "tr": "Dambıllı Deadlift"
+  },
+  "description": {
+    "en": "A conventional floor-start deadlift holding one dumbbell in each hand, using coordinated hip and knee extension to stand.",
+    "tr": "Her elde bir dambılla yerden başlayıp kalça ve dizleri birlikte açarak doğrulunan klasik deadlift."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "lower-back",
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Stand hip-width with one dumbbell outside each foot. Hinge and bend the knees to grasp the handles, brace your trunk, and keep your back neutral.",
+      "Push through the floor and extend your hips and knees together, keeping the dumbbells close to your legs as you stand.",
+      "Send your hips back and bend your knees to lower both dumbbells under control beside your feet; reset your brace before the next repetition."
+    ],
+    "tr": [
+      "Ayaklarını kalça genişliğinde aç; her ayağının dışında bir dambıl olsun. Kalçadan menteşelenip dizlerini bükerek tutacakları kavra, gövdeni sık ve sırtını nötr tut.",
+      "Yeri iterek kalça ve dizlerini birlikte aç; doğrulurken dambılları bacaklarına yakın taşı.",
+      "Kalçanı geriye gönderip dizlerini bükerek iki dambılı ayaklarının yanına kontrollü indir; sonraki tekrardan önce gövdeni yeniden sık."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "conventional-deadlift",
+    "dumbbell-romanian-deadlift",
+    "trap-bar-deadlift"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Floor-start and standing phases of a dumbbell deadlift with one dumbbell in each hand; glutes and hamstrings highlighted red, loose opaque shorts covering the hips and groin.",
+        "tr": "Her elde bir dambılla yerden başlanan ve doğrulunan dambıllı deadlift aşamaları; kalça ve hamstringler kırmızı vurgulu, kalça-kasık bol opak şortla örtülü."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-deadlift.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

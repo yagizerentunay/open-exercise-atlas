@@ -5592,6 +5592,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-deadlift",
+    "slug": "dumbbell-deadlift",
+    "name": "Dambıllı Deadlift",
+    "description": "Her elde bir dambılla yerden başlayıp kalça ve dizleri birlikte açarak doğrulunan klasik deadlift.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "lower-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Ayaklarını kalça genişliğinde aç; her ayağının dışında bir dambıl olsun. Kalçadan menteşelenip dizlerini bükerek tutacakları kavra, gövdeni sık ve sırtını nötr tut.",
+      "Yeri iterek kalça ve dizlerini birlikte aç; doğrulurken dambılları bacaklarına yakın taşı.",
+      "Kalçanı geriye gönderip dizlerini bükerek iki dambılı ayaklarının yanına kontrollü indir; sonraki tekrardan önce gövdeni yeniden sık."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "conventional-deadlift",
+      "dumbbell-romanian-deadlift",
+      "trap-bar-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-deadlift.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Floor-start and standing phases of a dumbbell deadlift with one dumbbell in each hand; glutes and hamstrings highlighted red, loose opaque shorts covering the hips and groin.",
+          "tr": "Her elde bir dambılla yerden başlanan ve doğrulunan dambıllı deadlift aşamaları; kalça ve hamstringler kırmızı vurgulu, kalça-kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-deadlift.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-floor-press",
     "slug": "dumbbell-floor-press",
     "name": "Yerde Dambıl Pres",
@@ -5779,6 +5832,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-front-raise.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-15.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-front-squat",
+    "slug": "dumbbell-front-squat",
+    "name": "Dambıllı Ön Squat",
+    "description": "Gövdeyi dik tutarak, her elde bir dambılı omuz hizasında taşıyıp yapılan ön yüklü squat.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "upper-back"
+    ],
+    "instructions": [
+      "Ayaklarını yaklaşık omuz genişliğinde açıp parmaklarını hafif dışa çevir. Avuç içleri birbirine bakacak şekilde her dambılı omuzda tut, dirseklerini kaldır ve gövdeni sık.",
+      "Dambılları omuzda sabit tutup göğsünü dikleştirerek, topuklarını yerde ve dizlerini ayak parmaklarınla aynı yönde tutarak kontrollü alçal.",
+      "Ayağının tamamından güç alıp doğrul; gövdeni dik, dirseklerini yukarıda tut."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "front-squat",
+      "goblet-squat",
+      "smith-machine-front-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-front-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Standing and squat phases of a dumbbell front squat with the weights held at shoulder height; quadriceps highlighted red and loose opaque shorts covering the hips and groin.",
+          "tr": "Dambılların omuz hizasında tutulduğu ön squatın ayakta ve alçalış aşamaları; quadriceps kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-front-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },
@@ -14641,6 +14746,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "seated-decline-cable-press",
+    "slug": "seated-decline-cable-press",
+    "name": "Oturarak Alçalan Kablo Göğüs Pressi",
+    "description": "İki bağımsız kablo kolunu alt göğüsten öne ve aşağı, uyluklara doğru iterek yapılan sırt destekli göğüs pressi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Sırtını desteğe dayayıp ayaklarını yere bas; her kolu göğsünün biraz altında tut, bileklerini düz ve kürek kemiklerini aşağı-geride tut.",
+      "Sırt ve kürek kemiklerin destekle temasını koruyarak kolları öne ve uyluklarına doğru aşağı it.",
+      "Dirseklerini kilitlemeden dur; omuzlarını öne yuvarlamadan kolları alt göğüs hizasına yavaşça geri getir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-cable-chest-press",
+      "seated-incline-cable-press",
+      "machine-decline-chest-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-decline-cable-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a supported seated decline cable press; handles move forward and down, chest highlighted red, loose opaque shorts covering hips and groin.",
+          "tr": "Sırt destekli oturarak alçalan kablo pressinin iki aşaması; kollar öne-aşağı hareket ediyor, göğüs kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-decline-cable-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "seated-dumbbell-calf-raise",
     "slug": "seated-dumbbell-calf-raise",
     "name": "Dambılla Oturarak Baldır Yükseltme",
@@ -14929,6 +15086,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-hip-flexion.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-incline-cable-press",
+    "slug": "seated-incline-cable-press",
+    "name": "Oturarak Eğimli Kablo Göğüs Pressi",
+    "description": "İki bağımsız kablo kolunu üst göğüs hizasından öne ve yukarı iterek yapılan, sırt destekli eğimli göğüs pressi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Sırtını eğimli desteğe dayayıp ayaklarını yere bas; her kolu üst göğsünün yanında tut, bileklerini düz ve kürek kemiklerini aşağı-geride tut.",
+      "Belini çukurlaştırmadan ve omuzlarını öne yuvarlamadan kolları öne ve alın hizasına doğru yukarı it.",
+      "Dirseklerini kilitlemeden kısa durakla; kolları üst göğüs hizasına yavaşça geri getir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-cable-chest-press",
+      "machine-incline-chest-press",
+      "incline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-incline-cable-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a back-supported seated incline cable press, chest highlighted red; loose opaque shorts cover the hips and groin.",
+          "tr": "Sırt desteğiyle oturarak eğimli kablo pressinin iki gri aşaması; göğüs kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-incline-cable-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },

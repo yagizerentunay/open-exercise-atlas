@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 404,
+  "count": 408,
   "translationCoverage": {
     "tr": {
-      "present": 1212,
-      "total": 1212,
+      "present": 1224,
+      "total": 1224,
       "percent": 100
     }
   },
@@ -123,10 +123,12 @@
     "dumbbell-bent-over-row",
     "dumbbell-biceps-curl",
     "dumbbell-bulgarian-split-squat",
+    "dumbbell-deadlift",
     "dumbbell-floor-press",
     "dumbbell-fly",
     "dumbbell-forearm-pronation-supination",
     "dumbbell-front-raise",
+    "dumbbell-front-squat",
     "dumbbell-kickstand-romanian-deadlift",
     "dumbbell-lateral-lunge",
     "dumbbell-lateral-raise",
@@ -307,12 +309,14 @@
     "seated-cable-row",
     "seated-calf-raise",
     "seated-close-grip-cable-row",
+    "seated-decline-cable-press",
     "seated-dumbbell-calf-raise",
     "seated-dumbbell-finger-curl",
     "seated-dumbbell-shoulder-press",
     "seated-dumbbell-wrist-curl",
     "seated-hip-adduction",
     "seated-hip-flexion",
+    "seated-incline-cable-press",
     "seated-leg-curl",
     "seated-machine-biceps-curl",
     "seated-machine-crunch",

@@ -137,7 +137,7 @@ The table covers thirty-four newly added exercise records and one updated illust
 
 ## Validation
 
-The ten-record follow-up and twenty-four later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 404 records; automated tests were not run.
+The ten-record follow-up and twenty-four later priority-movement records use Atlas's existing schema and ID registry. `npm run validate`, `npm run data:check`, and `npm run build` pass for all 408 records; automated tests were not run.
 
 ## Plate-Loaded Super Squat Press illustration correction
 
@@ -146,3 +146,15 @@ The ten-record follow-up and twenty-four later priority-movement records use Atl
 - **Method:** After Yağız reported that the previous shorts still read as nudity, edited the original two-pose illustration again while preserving the machine, poses, muscle highlights, grayscale style, and transparent background. Replaced the fitted shorts with loose, matte opaque black shorts, roomy through the seat and thighs, with straight mid-thigh hems and draped fabric that covers the buttocks and groin in both poses. The output is a 1254 × 1254 RGBA PNG resized to 1024 × 1024 and converted to WebP with Pillow/libwebp (quality 92, alpha retained; alpha extrema 0–255).
 - **Source and rights:** This is an edit of Atlas's existing original AI-assisted illustration; no third-party artwork was imported. The project dedicates any rights it holds in this original illustration under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). [OpenAI Terms of Use](https://openai.com/policies/terms-of-use/) assign output to the user to the extent permitted by applicable law; outputs may not be unique, and no exclusivity is claimed. Generated media is not expert technique approval.
 - **Record:** [`plate-loaded-super-squat-press.json`](../data/exercises/plate-loaded-super-squat-press.json).
+
+## Additional common chest and leg movements — 22 October 2026
+
+A new ACE/NASM/CrossFit comparison found four common movements missing from the 404-record Atlas:
+
+- **Seated Incline Cable Press:** ACE lists this supported cable press separately from its seated horizontal press. The back-supported seat, upper-chest start, and forward/upward handle path distinguish it from Atlas's Seated Cable Chest Press. The record follows ACE's neutral-wrist setup, back support, controlled press to forehead height, and unforced elbow finish.
+- **Dumbbell Front Squat:** NASM describes the two-dumbbell shoulder-rack position as distinct from Goblet Squat's single weight held at the chest and from Barbell Front Squat. Atlas already covered both alternatives but lacked the common dumbbell-rack variant.
+- **Dumbbell Deadlift:** CrossFit documents dumbbells as a practical deadlift loading option; Atlas already had Dumbbell Romanian Deadlift, whose controlled hip hinge does not use the same floor-start pull with coordinated knee and hip extension.
+
+The four bilingual records and original, two-phase transparent illustrations bring the catalog to 408 exercises. Validate, build, and data-check pass for 408 records/six exports; automated tests were not run. See the [Seated Incline Cable Press](https://www.acefitness.org/resources/everyone/exercise-library/167/seated-incline-cable-press/), [Seated Decline Cable Press](https://www.acefitness.org/resources/everyone/exercise-library/166/seated-decline-cable-press/), [NASM Dumbbell Front Squat](https://www.nasm.org/resource-center/exercise-library/dumbbell-front-squat), and [CrossFit Dumbbell Deadlift](https://www.crossfit.com/essentials/the-dumbbell-deadlift) technique sources.
+
+- **Seated Decline Cable Press:** ACE's exercise library includes this supported cable press with the handles moving forward and down toward the thighs. Atlas had horizontal and incline cable pressing but not this downward-forward seated path. The new record uses ACE's supported posture and controlled lower-chest return cues. Source: [ACE Seated Decline Cable Press](https://www.acefitness.org/resources/everyone/exercise-library/166/seated-decline-cable-press/).

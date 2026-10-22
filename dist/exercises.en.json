@@ -5592,6 +5592,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-deadlift",
+    "slug": "dumbbell-deadlift",
+    "name": "Dumbbell Deadlift",
+    "description": "A conventional floor-start deadlift holding one dumbbell in each hand, using coordinated hip and knee extension to stand.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "quadriceps",
+      "lower-back",
+      "forearms"
+    ],
+    "instructions": [
+      "Stand hip-width with one dumbbell outside each foot. Hinge and bend the knees to grasp the handles, brace your trunk, and keep your back neutral.",
+      "Push through the floor and extend your hips and knees together, keeping the dumbbells close to your legs as you stand.",
+      "Send your hips back and bend your knees to lower both dumbbells under control beside your feet; reset your brace before the next repetition."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "conventional-deadlift",
+      "dumbbell-romanian-deadlift",
+      "trap-bar-deadlift"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-deadlift.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Floor-start and standing phases of a dumbbell deadlift with one dumbbell in each hand; glutes and hamstrings highlighted red, loose opaque shorts covering the hips and groin.",
+          "tr": "Her elde bir dambılla yerden başlanan ve doğrulunan dambıllı deadlift aşamaları; kalça ve hamstringler kırmızı vurgulu, kalça-kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-deadlift.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-floor-press",
     "slug": "dumbbell-floor-press",
     "name": "Dumbbell Floor Press",
@@ -5779,6 +5832,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-front-raise.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-15.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dumbbell-front-squat",
+    "slug": "dumbbell-front-squat",
+    "name": "Dumbbell Front Squat",
+    "description": "A front-loaded squat holding one dumbbell at each shoulder, keeping the torso upright through the squat.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "upper-back"
+    ],
+    "instructions": [
+      "Stand about shoulder-width with toes slightly turned out. Hold a dumbbell at each shoulder, palms facing inward, elbows lifted, and brace your trunk.",
+      "Bend the hips and knees to lower under control, keeping the dumbbells at shoulder height, chest lifted, heels down, and knees tracking with the toes.",
+      "Press through the whole foot to stand tall; keep the torso upright and elbows lifted throughout."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "front-squat",
+      "goblet-squat",
+      "smith-machine-front-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-front-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Standing and squat phases of a dumbbell front squat with the weights held at shoulder height; quadriceps highlighted red and loose opaque shorts covering the hips and groin.",
+          "tr": "Dambılların omuz hizasında tutulduğu ön squatın ayakta ve alçalış aşamaları; quadriceps kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-front-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },
@@ -14641,6 +14746,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "seated-decline-cable-press",
+    "slug": "seated-decline-cable-press",
+    "name": "Seated Decline Cable Press",
+    "description": "A supported chest press that moves two independent cable handles forward and downward from the lower chest toward the thighs.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Sit with your back against the support, feet planted, and one handle just below each side of your chest; keep wrists neutral and shoulder blades down and back.",
+      "Press the handles forward and down toward your thighs while keeping your back and shoulder blades supported.",
+      "Stop before locking your elbows, then slowly return the handles toward your lower chest without rounding your shoulders."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-cable-chest-press",
+      "seated-incline-cable-press",
+      "machine-decline-chest-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-decline-cable-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a supported seated decline cable press; handles move forward and down, chest highlighted red, loose opaque shorts covering hips and groin.",
+          "tr": "Sırt destekli oturarak alçalan kablo pressinin iki aşaması; kollar öne-aşağı hareket ediyor, göğüs kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-decline-cable-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "seated-dumbbell-calf-raise",
     "slug": "seated-dumbbell-calf-raise",
     "name": "Seated Dumbbell Calf Raise",
@@ -14929,6 +15086,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-hip-flexion.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "seated-incline-cable-press",
+    "slug": "seated-incline-cable-press",
+    "name": "Seated Incline Cable Press",
+    "description": "A back-supported incline chest press using two independent cable handles that travel forward and upward from the upper chest.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "chest"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Sit with your back against the incline support, feet planted, and one handle beside each side of your upper chest; keep wrists neutral and shoulder blades down and back.",
+      "Press the handles forward and upward toward forehead height without arching your lower back or rounding your shoulders.",
+      "Stop just short of locking the elbows, pause briefly, then return the handles slowly to the upper chest."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle follow-up",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-cable-chest-press",
+      "machine-incline-chest-press",
+      "incline-dumbbell-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/seated-incline-cable-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a back-supported seated incline cable press, chest highlighted red; loose opaque shorts cover the hips and groin.",
+          "tr": "Sırt desteğiyle oturarak eğimli kablo pressinin iki gri aşaması; göğüs kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-incline-cable-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
     ]
   },

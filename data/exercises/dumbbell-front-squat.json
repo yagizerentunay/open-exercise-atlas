@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-front-squat",
+  "slug": "dumbbell-front-squat",
+  "name": {
+    "en": "Dumbbell Front Squat",
+    "tr": "Dambıllı Ön Squat"
+  },
+  "description": {
+    "en": "A front-loaded squat holding one dumbbell at each shoulder, keeping the torso upright through the squat.",
+    "tr": "Gövdeyi dik tutarak, her elde bir dambılı omuz hizasında taşıyıp yapılan ön yüklü squat."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand about shoulder-width with toes slightly turned out. Hold a dumbbell at each shoulder, palms facing inward, elbows lifted, and brace your trunk.",
+      "Bend the hips and knees to lower under control, keeping the dumbbells at shoulder height, chest lifted, heels down, and knees tracking with the toes.",
+      "Press through the whole foot to stand tall; keep the torso upright and elbows lifted throughout."
+    ],
+    "tr": [
+      "Ayaklarını yaklaşık omuz genişliğinde açıp parmaklarını hafif dışa çevir. Avuç içleri birbirine bakacak şekilde her dambılı omuzda tut, dirseklerini kaldır ve gövdeni sık.",
+      "Dambılları omuzda sabit tutup göğsünü dikleştirerek, topuklarını yerde ve dizlerini ayak parmaklarınla aynı yönde tutarak kontrollü alçal.",
+      "Ayağının tamamından güç alıp doğrul; gövdeni dik, dirseklerini yukarıda tut."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "front-squat",
+    "goblet-squat",
+    "smith-machine-front-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-front-squat.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Standing and squat phases of a dumbbell front squat with the weights held at shoulder height; quadriceps highlighted red and loose opaque shorts covering the hips and groin.",
+        "tr": "Dambılların omuz hizasında tutulduğu ön squatın ayakta ve alçalış aşamaları; quadriceps kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-front-squat.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}

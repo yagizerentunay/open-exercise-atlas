@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-decline-cable-press",
+  "slug": "seated-decline-cable-press",
+  "name": {
+    "en": "Seated Decline Cable Press",
+    "tr": "Oturarak Alçalan Kablo Göğüs Pressi"
+  },
+  "description": {
+    "en": "A supported chest press that moves two independent cable handles forward and downward from the lower chest toward the thighs.",
+    "tr": "İki bağımsız kablo kolunu alt göğüsten öne ve aşağı, uyluklara doğru iterek yapılan sırt destekli göğüs pressi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Sit with your back against the support, feet planted, and one handle just below each side of your chest; keep wrists neutral and shoulder blades down and back.",
+      "Press the handles forward and down toward your thighs while keeping your back and shoulder blades supported.",
+      "Stop before locking your elbows, then slowly return the handles toward your lower chest without rounding your shoulders."
+    ],
+    "tr": [
+      "Sırtını desteğe dayayıp ayaklarını yere bas; her kolu göğsünün biraz altında tut, bileklerini düz ve kürek kemiklerini aşağı-geride tut.",
+      "Sırt ve kürek kemiklerin destekle temasını koruyarak kolları öne ve uyluklarına doğru aşağı it.",
+      "Dirseklerini kilitlemeden dur; omuzlarını öne yuvarlamadan kolları alt göğüs hizasına yavaşça geri getir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas major-muscle follow-up",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "seated-cable-chest-press",
+    "seated-incline-cable-press",
+    "machine-decline-chest-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-decline-cable-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two phases of a supported seated decline cable press; handles move forward and down, chest highlighted red, loose opaque shorts covering hips and groin.",
+        "tr": "Sırt destekli oturarak alçalan kablo pressinin iki aşaması; kollar öne-aşağı hareket ediyor, göğüs kırmızı vurgulu, kalça ve kasık bol opak şortla örtülü."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-decline-cable-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+    }
+  ]
+}
