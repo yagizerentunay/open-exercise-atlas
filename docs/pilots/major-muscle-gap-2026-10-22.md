@@ -207,3 +207,13 @@ The new bilingual record specifies a low usable bar start and safety stops, with
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Smith Machine Deadlift | `data/exercises/smith-machine-deadlift.json` | `media/exercises/smith-machine-deadlift.webp` | `f7146fe0ce5a707080d0b86799bdd0d9fa3cc9181a47c2335a3e2581f19c114b` |
+
+## Smith Machine Bent-Over Row — 22 October 2026
+
+Atlas already had a free-bar bent-over row, an underhand Yates Row, and supported row machines, but not the bent-over row performed with a guided Smith bar. ACE documents the hip hinge, soft knee bend, overhand grip, and pull; Life Fitness documents the Smith bar's guided path. The movement remains an unsupported hip-hinged row, distinct from the chest-supported machine rows. Sources: [ACE Bent-Over Row](https://www.acefitness.org/resources/everyone/exercise-library/12/bent-over-row/) and [Life Fitness Smith Machine](https://www.lifefitness.com/en-us/catalog/strength-training/benches/life-fitness-smith-machine).
+
+The new bilingual record has an original two-phase transparent illustration, with loose opaque shorts over hips and groin. It brings the catalog to 417 exercises.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Smith Machine Bent-Over Row | `data/exercises/smith-machine-bent-over-row.json` | `media/exercises/smith-machine-bent-over-row.webp` | `ee0e7b1a8d224b19fe425b901d2bc9b92108943b462cd6135e2896687777e961` |

@@ -17261,6 +17261,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "smith-machine-bent-over-row",
+    "slug": "smith-machine-bent-over-row",
+    "name": "Smith Machine Bent-Over Row",
+    "description": "A hinged barbell row performed on a guided Smith bar, pulling the bar toward the lower ribs.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "machine"
+    ],
+    "primaryMuscles": [
+      "upper-back",
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "traps"
+    ],
+    "instructions": [
+      "Set the Smith bar just below knee height and load both sides evenly; stand close, grip the bar overhand, and hinge at the hips with softly bent knees and a neutral back.",
+      "Brace your torso and pull the bar toward your lower ribs, leading with your elbows while keeping your torso angle steady.",
+      "Lower the bar under control until your arms extend; keep the back neutral and re-hook the bar before changing position."
+    ],
+    "source": {
+      "type": "original",
+      "title": "ACE Bent-Over Row technique and Life Fitness Smith Machine documentation",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/12/bent-over-row/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "bent-over-row",
+      "yates-row",
+      "machine-high-row",
+      "plate-loaded-iso-lateral-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/smith-machine-bent-over-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a hinged Smith Machine Bent-Over Row; loose opaque shorts cover the hips and groin, and the upper back and lats are highlighted red.",
+          "tr": "Smith Makinesinde Eğilerek Row hareketinin iki gri aşaması; bol ve opak şort kalça ve kasığı örter, üst sırt ve latlar kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/smith-machine-bent-over-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "smith-machine-bulgarian-split-squat",
     "slug": "smith-machine-bulgarian-split-squat",
     "name": "Smith Machine Bulgarian Split Squat",

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 416,
+  "count": 417,
   "translationCoverage": {
     "tr": {
-      "present": 1248,
-      "total": 1248,
+      "present": 1251,
+      "total": 1251,
       "percent": 100
     }
   },
@@ -361,6 +361,7 @@
     "slider-leg-curl",
     "sliding-lateral-lunge",
     "smith-machine-bench-press",
+    "smith-machine-bent-over-row",
     "smith-machine-bulgarian-split-squat",
     "smith-machine-close-grip-bench-press",
     "smith-machine-deadlift",
