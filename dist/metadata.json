@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 399,
+  "count": 400,
   "translationCoverage": {
     "tr": {
-      "present": 1197,
-      "total": 1197,
+      "present": 1200,
+      "total": 1200,
       "percent": 100
     }
   },
@@ -351,6 +351,7 @@
     "sliding-lateral-lunge",
     "smith-machine-bench-press",
     "smith-machine-bulgarian-split-squat",
+    "smith-machine-decline-bench-press",
     "smith-machine-incline-bench-press",
     "smith-machine-romanian-deadlift",
     "smith-machine-shoulder-press",
