@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 431,
+  "count": 432,
   "translationCoverage": {
     "tr": {
-      "present": 1293,
-      "total": 1293,
+      "present": 1296,
+      "total": 1296,
       "percent": 100
     }
   },
@@ -27,6 +27,7 @@
     "banded-monster-walk",
     "barbell-back-squat",
     "barbell-bench-press",
+    "barbell-box-squat",
     "barbell-bulgarian-split-squat",
     "barbell-curl",
     "barbell-decline-bench-press",

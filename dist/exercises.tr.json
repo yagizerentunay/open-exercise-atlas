@@ -922,6 +922,56 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-box-squat",
+    "slug": "barbell-box-squat",
+    "name": "Halterle Box Squat",
+    "description": "Kısa ve kontrollü temas için sabit bir kutuya alçalıp yeniden ayağa kalkılan halterli squat varyasyonu.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "other"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "instructions": [
+      "Rafa uygun yükseklikteki barı üst sırtına yerleştir, arkana kontrol edebileceğin derinlikte sağlam bir kutu koy ve gövdeni sık.",
+      "Kalçanı geriye gönderip dizlerini bükerek kontrollü alçal; ayak tabanlarını yerde tutarak kalçanla kutuya hafifçe dokun.",
+      "Kutuda sallanmadan veya gevşemeden gerginliği koru, ardından ayak tabanından güç alarak ayağa kalk."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas major-muscle expansion editorial draft",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "barbell-back-squat"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-box-squat.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a barbell box squat; the athlete wears loose opaque black shorts that cover the hips and glutes, with the quadriceps highlighted in red.",
+          "tr": "Halterle Box Squat hareketinin iki gri aşaması; sporcu kalça ve kasığı örten bol, opak siyah şort giyiyor, ön bacak kasları kırmızıyla vurgulanıyor."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-box-squat.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-bulgarian-split-squat",
     "slug": "barbell-bulgarian-split-squat",
     "name": "Halterle Bulgarian Split Squat",

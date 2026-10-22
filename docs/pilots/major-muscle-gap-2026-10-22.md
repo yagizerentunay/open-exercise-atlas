@@ -372,3 +372,13 @@ Atlas already had a `good-morning` record for the barbell hip hinge, so a second
 | Exercise | Record | Illustration | SHA-256 |
 | --- | --- | --- | --- |
 | Barbell Good Morning | `data/exercises/good-morning.json` | `media/exercises/good-morning-atlas.webp` | `7f9f22cde84867087f7e166508ee078507654fcedad444c6d13c03677dcffb2d` |
+
+## Barbell Box Squat — 22 October 2026
+
+Atlas already contained the free Barbell Back Squat and a single-leg box squat, but not a bilateral barbell squat using a box as a depth reference. NSCA includes the touch-and-go box squat in its fundamental squat progression; CrossFit describes the loaded box squat as a back-squat variation that reaches the box and pauses before standing. Sources: [NSCA, Progressive Strategies for Teaching Fundamental Resistance Training Movement Patterns](https://www.nsca.com/contentassets/3d09f06f0b4c4f6fbd8cc382ed1f3d4a/ptq-10.2.1-progressive-strategies-for-teaching-fundamental-resistance-training-movement-patterns.pdf) and [CrossFit, The Back Squat](https://www.crossfit.com/essentials/the-back-squat).
+
+The bilingual record and original two-phase transparent illustration bring the catalog to 432 exercises. The cues specify a light box touch while maintaining tension; loose opaque shorts cover the hips, buttocks, and groin.
+
+| Exercise | Record | Illustration | SHA-256 |
+| --- | --- | --- | --- |
+| Barbell Box Squat | `data/exercises/barbell-box-squat.json` | `media/exercises/barbell-box-squat.webp` | `5239287f95ee8c2e3c82231dedf32a1607d5ede529869dd25c3849e4cfb183bc` |
