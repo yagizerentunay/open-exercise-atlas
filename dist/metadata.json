@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 488,
+  "count": 489,
   "translationCoverage": {
     "tr": {
-      "present": 1464,
-      "total": 1464,
+      "present": 1467,
+      "total": 1467,
       "percent": 100
     }
   },
@@ -52,6 +52,7 @@
     "barbell-reverse-lunge",
     "barbell-reverse-wrist-curl",
     "barbell-seated-calf-raise",
+    "barbell-seated-shoulder-press",
     "barbell-shrug",
     "barbell-shrug-behind-the-back",
     "barbell-snatch",

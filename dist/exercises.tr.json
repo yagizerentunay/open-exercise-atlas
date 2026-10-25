@@ -2254,6 +2254,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-seated-shoulder-press",
+    "slug": "barbell-seated-shoulder-press",
+    "name": "Oturarak Barbell Omuz Press",
+    "description": "Sırtın dik bir sehpayla desteklendiği oturuşta barbell’i yukarı iterek yapılan omuz press hareketi.",
+    "category": "strength",
+    "movementPattern": "push",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "triceps"
+    ],
+    "instructions": [
+      "Rafı bar omuz hizasının biraz altında başlayacak şekilde ayarla. Sırtın dik sehpaya dayalı, ayakların yerde otur; barı omuz genişliğinden biraz açık kavra ve rafından çıkarıp omuzlarının önüne al.",
+      "Gövdeni sıkıp sırtını pede dayalı tutarak barı dikey biçimde başının üzerine it; dirseklerin hafif önde kalsın.",
+      "Barı kontrollü biçimde önünden çene hizasına indir; ayarı değiştirmeden önce rafa geri yerleştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Seated Shoulder Press",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/43/seated-shoulder-press/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "overhead-press",
+      "seated-dumbbell-shoulder-press",
+      "smith-machine-shoulder-press",
+      "machine-shoulder-press"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-seated-shoulder-press.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a seated barbell shoulder press on an upright bench: the bar starts in front at chin height and is pressed overhead; shoulder and triceps highlights are red on exposed skin, and loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Dik sehpada oturarak barbell omuz pressinin iki gri aşaması: bar önde çene hizasında başlar ve baş üzerine itilir; omuz ve triceps vurguları çıplak tende kırmızıdır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-seated-shoulder-press.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/43/seated-shoulder-press/"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-shrug",
     "slug": "barbell-shrug",
     "name": "Halterle Omuz Silkme",

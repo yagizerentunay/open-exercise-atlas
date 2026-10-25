@@ -1,5 +1,15 @@
 # Media provenance
 
+## Seated Barbell Shoulder Press illustration — 25 October 2026
+
+- **Asset:** [`barbell-seated-shoulder-press.webp`](../media/exercises/barbell-seated-shoulder-press.webp) (173,096 bytes; SHA-256 `7d4fdd30f08b4e5cc1ffb7881c257c1da877be16a8ebfb6e44c4c026e12dc828`).
+- **Date and creator:** 2026-10-25; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, resized proportionally to fit 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a back-supported seated barbell press from chin height to overhead. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red shoulder and triceps highlights stay on exposed skin. Master: [`barbell-seated-shoulder-press-source.png`](pilots/barbell-seated-shoulder-press-source.png) (SHA-256 `e20e279aa0821aa025367273338295d6bf549a00e0fc897a8e88006ff073932e`).
+- **Prompt:** Original transparent two-phase seated barbell shoulder press illustration on an upright bench, feet flat, bar lowered in front to chin height and pressed overhead, red highlights only on exposed shoulders/triceps, and loose opaque shorts covering hips, groin and upper-thigh crease. No existing artwork was used as a reference.
+- **Movement source:** [ACE Seated Shoulder Press](https://www.acefitness.org/resources/everyone/exercise-library/43/seated-shoulder-press/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-seated-shoulder-press.json`](../data/exercises/barbell-seated-shoulder-press.json).
+
 ## Kneeling Cable Lat Pulldown illustration — 25 October 2026
 
 - **Asset:** [`kneeling-cable-lat-pulldown.webp`](../media/exercises/kneeling-cable-lat-pulldown.webp) (201,834 bytes; SHA-256 `37799d3b3bf537764ad60047937c68b5f5d5a2977dd4b0dbdbd99e1eaf04f4fc2`).
