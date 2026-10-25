@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 480,
+  "count": 481,
   "translationCoverage": {
     "tr": {
-      "present": 1440,
-      "total": 1440,
+      "present": 1443,
+      "total": 1443,
       "percent": 100
     }
   },
@@ -448,6 +448,7 @@
     "standing-dumbbell-reverse-curl",
     "standing-landmine-press",
     "standing-machine-calf-raise",
+    "standing-machine-hip-abduction",
     "standing-machine-hip-thrust",
     "standing-machine-leg-curl",
     "standing-wall-calf-stretch",
