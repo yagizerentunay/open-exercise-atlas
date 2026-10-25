@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "lying-cable-leg-curl",
+  "slug": "lying-cable-leg-curl",
+  "name": {
+    "en": "Lying Cable Leg Curl",
+    "tr": "Yatarak Kablo Bacak Curl"
+  },
+  "description": {
+    "en": "A prone single-leg hamstring curl performed on a bench with an ankle cuff attached to a low cable pulley.",
+    "tr": "Alçak makaraya bağlı bilek manşetiyle sehpada yüzüstü yatarken tek bacakla yapılan arka uyluk curl hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["cable", "bench"],
+  "primaryMuscles": ["hamstrings"],
+  "secondaryMuscles": ["calves"],
+  "instructions": {
+    "en": [
+      "Place a bench in front of a low pulley, attach an ankle cuff, and lie face down with the cuff on one ankle and both hips supported on the bench.",
+      "Keeping your thigh against the bench, bend the working knee and draw your heel toward your buttock without lifting your hip.",
+      "Straighten the knee slowly against the cable, then repeat on the other leg."
+    ],
+    "tr": [
+      "Sehpaya alçak makaranın önünde yer ver, makaraya bilek manşetini tak ve manşeti bir ayak bileğine geçirerek yüzüstü uzan; iki kalçan sehpada desteklensin.",
+      "Uyluğunu sehpada tutarak çalışan dizini bük ve kalçanı kaldırmadan topuğunu kalçana yaklaştır.",
+      "Kabloya karşı dizini yavaşça düzleştir; ardından diğer bacakla tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas guide informed by ACE Prone (Lying) Hamstrings Curl",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/equipment/resistance-bands-cables/?page=2",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["lying-leg-curls", "seated-leg-curl", "slider-leg-curl"],
+  "media": [
+    {
+      "path": "media/exercises/lying-cable-leg-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a prone single-leg cable curl on a bench; the working hamstring is highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+        "tr": "Sehpada yüzüstü tek bacaklı kablo curl hareketinin iki gri aşaması; çalışan arka uyluk kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lying-cable-leg-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/equipment/resistance-bands-cables/?page=2"
+    }
+  ]
+}

@@ -1823,6 +1823,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-lying-triceps-extension",
+    "slug": "barbell-lying-triceps-extension",
+    "name": "Lying Barbell Triceps Extension",
+    "aliases": [
+      "Lying Barbell Triceps Extension",
+      "Skull Crusher"
+    ],
+    "description": "A lying elbow-extension exercise performed with a barbell while the upper arms stay angled above the chest.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Lie on a flat bench with your feet planted. Hold a manageable barbell with a narrow overhand grip above your shoulders and angle your upper arms slightly back.",
+      "Keeping your upper arms mostly still, bend your elbows to lower the bar slowly toward your forehead without touching it; keep your wrists straight.",
+      "Extend your elbows to raise the bar to the start position without flaring your elbows or letting them drift apart."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Mastering the Art of the Split Routine",
+      "url": "https://www.acefitness.org/continuing-education/certified/may-2024/8630/mastering-the-art-of-the-split-routine/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-skull-crusher",
+      "jm-press",
+      "lying-cable-triceps-extension"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-lying-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a lying barbell triceps extension on a flat bench; the triceps are highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Düz sehpada yatarak halterle arka kol açışının iki gri aşaması; triceps kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-lying-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/continuing-education/certified/may-2024/8630/mastering-the-art-of-the-split-routine/"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-overhead-squat",
     "slug": "barbell-overhead-squat",
     "name": "Barbell Overhead Squat",
@@ -12603,6 +12657,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/low-to-high-cable-fly.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "lying-cable-leg-curl",
+    "slug": "lying-cable-leg-curl",
+    "name": "Lying Cable Leg Curl",
+    "description": "A prone single-leg hamstring curl performed on a bench with an ankle cuff attached to a low cable pulley.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "instructions": [
+      "Place a bench in front of a low pulley, attach an ankle cuff, and lie face down with the cuff on one ankle and both hips supported on the bench.",
+      "Keeping your thigh against the bench, bend the working knee and draw your heel toward your buttock without lifting your hip.",
+      "Straighten the knee slowly against the cable, then repeat on the other leg."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Prone (Lying) Hamstrings Curl",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/equipment/resistance-bands-cables/?page=2",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "lying-leg-curls",
+      "seated-leg-curl",
+      "slider-leg-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/lying-cable-leg-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a prone single-leg cable curl on a bench; the working hamstring is highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Sehpada yüzüstü tek bacaklı kablo curl hareketinin iki gri aşaması; çalışan arka uyluk kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lying-cable-leg-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/equipment/resistance-bands-cables/?page=2"
       }
     ]
   },

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 481,
+  "count": 483,
   "translationCoverage": {
     "tr": {
-      "present": 1443,
-      "total": 1443,
+      "present": 1449,
+      "total": 1449,
       "percent": 100
     }
   },
@@ -44,6 +44,7 @@
     "barbell-hang-clean",
     "barbell-hip-thrust",
     "barbell-lateral-lunge",
+    "barbell-lying-triceps-extension",
     "barbell-overhead-squat",
     "barbell-power-clean",
     "barbell-push-press",
@@ -262,6 +263,7 @@
     "leg-press-calf-raise",
     "lever-deadlift",
     "low-to-high-cable-fly",
+    "lying-cable-leg-curl",
     "lying-cable-triceps-extension",
     "lying-leg-curls",
     "lying-overhead-dumbbell-triceps-extension",

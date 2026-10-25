@@ -1,5 +1,25 @@
 # Media provenance
 
+## Lying Barbell Triceps Extension illustration — 25 October 2026
+
+- **Asset:** [`barbell-lying-triceps-extension.webp`](../media/exercises/barbell-lying-triceps-extension.webp) (128,438 bytes; SHA-256 `a264e1a43c384a21698f55354699aa124d661541da4585ad7fa7a572b77cf5b5`).
+- **Date and creator:** 2026-10-25; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 PNG generated in two phases, resized proportionally to fit 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a narrow-grip barbell moving toward the forehead on a flat bench. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red triceps highlights stay on exposed skin. Master: [`barbell-lying-triceps-extension-source.png`](pilots/barbell-lying-triceps-extension-source.png) (SHA-256 `2d39fbcca7a22cc92bf7d9b1b99bd2ee45b314f98e6cc4d44c1765642148415b`).
+- **Prompt:** Original transparent two-phase exercise illustration of a lying barbell triceps extension. The prompt required the same adult male athlete on a flat bench holding a straight barbell, almost-straight and flexed-elbow phases, red highlights only on exposed triceps, grayscale rendering, and loose opaque shorts covering hips, groin and upper-thigh crease. No existing illustration was used as an image reference.
+- **Movement source:** [ACE Mastering the Art of the Split Routine](https://www.acefitness.org/continuing-education/certified/may-2024/8630/mastering-the-art-of-the-split-routine/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-lying-triceps-extension.json`](../data/exercises/barbell-lying-triceps-extension.json).
+
+## Lying Cable Leg Curl illustration — 25 October 2026
+
+- **Asset:** [`lying-cable-leg-curl.webp`](../media/exercises/lying-cable-leg-curl.webp) (142,768 bytes; SHA-256 `80ddf7f7f0bf11144800caf92abda51c504285fc1c1ff5fe0be1e4c481c7be90`).
+- **Date and creator:** 2026-10-25; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 PNG generated in two phases, resized proportionally to fit 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the athlete lying prone on a bench, using an ankle cuff attached to a low pulley for a single-leg curl. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red hamstring highlights stay on exposed skin. Master: [`lying-cable-leg-curl-source.png`](pilots/lying-cable-leg-curl-source.png) (SHA-256 `451ce72121b5ecc9848f64ff6feac8ebebbcba715767c3b5dd1c29e85f3c69a0`).
+- **Prompt:** Original transparent two-phase exercise illustration of a prone single-leg cable hamstring curl. The prompt required the same adult male athlete in the straight-knee and flexed-knee phases on one bench, a low cable pulley and ankle cuff, loose opaque shorts fully covering hips, groin and upper-thigh crease, grayscale rendering, and red highlight only on exposed hamstrings. No existing illustration was used as an image reference.
+- **Movement source:** [ACE Resistance Bands/Cables exercise library, page 2](https://www.acefitness.org/resources/everyone/exercise-library/equipment/resistance-bands-cables/?page=2); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`lying-cable-leg-curl.json`](../data/exercises/lying-cable-leg-curl.json).
+
 ## Standing Machine Hip Abduction illustration — 25 October 2026
 
 - **Asset:** [`standing-machine-hip-abduction.webp`](../media/exercises/standing-machine-hip-abduction.webp) (173,750 bytes; SHA-256 `c0ec1677c860317c17d3c703444584bc67ff9d63247ea1300e847af988b9d6d9`).

@@ -1823,6 +1823,60 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-lying-triceps-extension",
+    "slug": "barbell-lying-triceps-extension",
+    "name": "Yatarak Halterle Arka Kol Açışı",
+    "aliases": [
+      "Lying Barbell Triceps Extension",
+      "Skull Crusher"
+    ],
+    "description": "Üst kollar göğsün üzerinde açılı dururken halterle yatarak yapılan dirsek açışı hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Ayakların yere basacak şekilde düz sehpaya uzan. Halteri omuzlarının üzerinde dar üstten tutuşla ve kontrol edebileceğin bir yükle tut; üst kollarını hafifçe geriye aç.",
+      "Üst kollarını büyük ölçüde sabit tutarak dirseklerini bük ve halteri alnına değdirmeden yavaşça yaklaştır; bileklerini düz tut.",
+      "Dirseklerini açarak halteri başlangıç konumuna kaldır; dirseklerini yana açma veya birbirinden uzaklaştırma."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Mastering the Art of the Split Routine",
+      "url": "https://www.acefitness.org/continuing-education/certified/may-2024/8630/mastering-the-art-of-the-split-routine/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "dumbbell-skull-crusher",
+      "jm-press",
+      "lying-cable-triceps-extension"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-lying-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a lying barbell triceps extension on a flat bench; the triceps are highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Düz sehpada yatarak halterle arka kol açışının iki gri aşaması; triceps kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-lying-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/continuing-education/certified/may-2024/8630/mastering-the-art-of-the-split-routine/"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-overhead-squat",
     "slug": "barbell-overhead-squat",
     "name": "Halterle Baş Üstü Squat",
@@ -12603,6 +12657,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/low-to-high-cable-fly.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "lying-cable-leg-curl",
+    "slug": "lying-cable-leg-curl",
+    "name": "Yatarak Kablo Bacak Curl",
+    "description": "Alçak makaraya bağlı bilek manşetiyle sehpada yüzüstü yatarken tek bacakla yapılan arka uyluk curl hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "hamstrings"
+    ],
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "instructions": [
+      "Sehpaya alçak makaranın önünde yer ver, makaraya bilek manşetini tak ve manşeti bir ayak bileğine geçirerek yüzüstü uzan; iki kalçan sehpada desteklensin.",
+      "Uyluğunu sehpada tutarak çalışan dizini bük ve kalçanı kaldırmadan topuğunu kalçana yaklaştır.",
+      "Kabloya karşı dizini yavaşça düzleştir; ardından diğer bacakla tekrarla."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Prone (Lying) Hamstrings Curl",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/equipment/resistance-bands-cables/?page=2",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "lying-leg-curls",
+      "seated-leg-curl",
+      "slider-leg-curl"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/lying-cable-leg-curl.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a prone single-leg cable curl on a bench; the working hamstring is highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Sehpada yüzüstü tek bacaklı kablo curl hareketinin iki gri aşaması; çalışan arka uyluk kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lying-cable-leg-curl.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/equipment/resistance-bands-cables/?page=2"
       }
     ]
   },
