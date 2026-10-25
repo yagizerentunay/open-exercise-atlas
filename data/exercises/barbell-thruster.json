@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-thruster",
+  "slug": "barbell-thruster",
+  "name": {
+    "en": "Barbell Thruster",
+    "tr": "Halter Thruster"
+  },
+  "aliases": ["Front Squat to Overhead Press", "Front Squat to Overhead Press (Thruster)"],
+  "description": {
+    "en": "A barbell front squat that flows directly into an overhead press as the athlete stands.",
+    "tr": "Ayağa kalkışın kesintisiz biçimde baş üstü press'e bağlandığı halterli ön squat."
+  },
+  "category": "strength",
+  "movementPattern": "squat",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": ["barbell"],
+  "primaryMuscles": ["quadriceps", "glutes"],
+  "secondaryMuscles": ["shoulders", "triceps"],
+  "instructions": {
+    "en": [
+      "Set a manageable barbell in a front-rack position across your shoulders, hands just outside shoulder width, and elbows pointing forward. Stand with feet about shoulder-width apart.",
+      "Keep your torso upright as you squat to a controlled depth, with the bar supported across your shoulders.",
+      "Drive through your feet to stand and continue the motion into a barbell press overhead. Lower the bar to the shoulders under control before the next squat."
+    ],
+    "tr": [
+      "Kontrol edebileceğin halteri omuzlarının önünde, ellerin omuz genişliğinin biraz dışında ve dirseklerin öne bakacak şekilde ön raf konumunda tut. Ayaklarını yaklaşık omuz genişliğinde aç.",
+      "Halter omuzlarında destekli kalırken gövdeni dik tutup kontrollü derinlikte squat yap.",
+      "Ayaklarından güç alarak doğrul ve hareketi halteri baş üstüne press ederek sürdür. Sonraki squattan önce halteri omuzlarına kontrollü indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas guide informed by ACE Front Squat to Overhead Press",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/315/front-squat-to-overhead-press/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["front-squat", "barbell-push-press", "dumbbell-thruster"],
+  "media": [
+    {
+      "path": "media/exercises/barbell-thruster.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two phases of a barbell thruster: a deep front squat with the bar at the shoulders and a standing overhead press; quadriceps and shoulders highlighted red, loose opaque shorts cover the hips and upper-thigh crease.",
+        "tr": "Halter thruster hareketinin iki aşaması: halter omuzlardayken derin ön squat ve ayakta baş üstü press; ön bacak ve omuzlar kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-thruster.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/315/front-squat-to-overhead-press/"
+    }
+  ]
+}

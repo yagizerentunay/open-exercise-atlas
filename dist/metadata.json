@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 483,
+  "count": 488,
   "translationCoverage": {
     "tr": {
-      "present": 1449,
-      "total": 1449,
+      "present": 1464,
+      "total": 1464,
       "percent": 100
     }
   },
@@ -55,7 +55,9 @@
     "barbell-shrug",
     "barbell-shrug-behind-the-back",
     "barbell-snatch",
+    "barbell-standing-calf-raise",
     "barbell-step-up",
+    "barbell-thruster",
     "barbell-walking-lunge",
     "barbell-wrist-curl",
     "battle-rope-alternating-waves",
@@ -185,6 +187,7 @@
     "dumbbell-split-squat",
     "dumbbell-squat",
     "dumbbell-squeeze-press",
+    "dumbbell-standing-calf-raise",
     "dumbbell-step-up",
     "dumbbell-sumo-squat",
     "dumbbell-tate-press",
@@ -247,6 +250,7 @@
     "kettlebell-swing",
     "kettlebell-windmill",
     "knee-supported-copenhagen-plank",
+    "kneeling-cable-lat-pulldown",
     "kneeling-hip-flexor-stretch",
     "kneeling-machine-glute-press",
     "l-sit-hold",
@@ -447,6 +451,7 @@
     "standing-bent-knee-calf-raise",
     "standing-cable-chest-press",
     "standing-cable-hip-flexion",
+    "standing-cable-row",
     "standing-dumbbell-reverse-curl",
     "standing-landmine-press",
     "standing-machine-calf-raise",

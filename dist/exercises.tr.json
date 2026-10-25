@@ -2413,6 +2413,55 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-standing-calf-raise",
+    "slug": "barbell-standing-calf-raise",
+    "name": "Halterle Ayakta Baldır Yükseltme",
+    "description": "Halter üst sırtta ve iki ayak yerdeyken ayakta yapılan baldır yükseltme hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Halteri rafta omuz hizasına yakın ve kontrol edebileceğin bir ağırlığa ayarla. Boynuna değil üst sırtına yerleştir, ellerini omuzlarının hemen dışından kavra; ayağa kalkıp geriye doğru ayakların kalça genişliğinde olacak şekilde adım at.",
+      "Gövdeni sabit, dizlerini hafif yumuşak tutarak iki ayağının ucundan it ve topuklarını rahat edebildiğin kadar yükselt.",
+      "Kısa süre durakla; zıplamadan topuklarını yavaşça yere indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Calf Raises",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/51/calf-raises/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "barbell-seated-calf-raise",
+      "standing-machine-calf-raise",
+      "smith-machine-standing-calf-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-standing-calf-raise.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Rear view of two phases of a standing barbell calf raise, heels lowered and raised under a bar across the upper back; calves highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Üst sırtta halter taşınırken ayakta barbell calf raise hareketinin arkadan iki aşaması, topuklar aşağıda ve yukarıda; baldırlar kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-standing-calf-raise.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/51/calf-raises/"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-step-up",
     "slug": "barbell-step-up",
     "name": "Halterle Yükseltiye Adım",
@@ -2465,6 +2514,63 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-step-up.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-thruster",
+    "slug": "barbell-thruster",
+    "name": "Halter Thruster",
+    "aliases": [
+      "Front Squat to Overhead Press",
+      "Front Squat to Overhead Press (Thruster)"
+    ],
+    "description": "Ayağa kalkışın kesintisiz biçimde baş üstü press'e bağlandığı halterli ön squat.",
+    "category": "strength",
+    "movementPattern": "squat",
+    "force": "push",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "quadriceps",
+      "glutes"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Kontrol edebileceğin halteri omuzlarının önünde, ellerin omuz genişliğinin biraz dışında ve dirseklerin öne bakacak şekilde ön raf konumunda tut. Ayaklarını yaklaşık omuz genişliğinde aç.",
+      "Halter omuzlarında destekli kalırken gövdeni dik tutup kontrollü derinlikte squat yap.",
+      "Ayaklarından güç alarak doğrul ve hareketi halteri baş üstüne press ederek sürdür. Sonraki squattan önce halteri omuzlarına kontrollü indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Front Squat to Overhead Press",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/315/front-squat-to-overhead-press/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "front-squat",
+      "barbell-push-press",
+      "dumbbell-thruster"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-thruster.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a barbell thruster: a deep front squat with the bar at the shoulders and a standing overhead press; quadriceps and shoulders highlighted red, loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Halter thruster hareketinin iki aşaması: halter omuzlardayken derin ön squat ve ayakta baş üstü press; ön bacak ve omuzlar kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-thruster.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/315/front-squat-to-overhead-press/"
       }
     ]
   },
@@ -8836,6 +8942,56 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-standing-calf-raise",
+    "slug": "dumbbell-standing-calf-raise",
+    "name": "Dambılla Ayakta Baldır Yükseltme",
+    "description": "Her iki elde birer dambıl tutularak ayakta ve iki bacakla yapılan baldır yükseltme hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell"
+    ],
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Ayaklarını kalça genişliğinde açıp dik dur; kontrol edebileceğin birer dambılı iki yanında tut.",
+      "Dizlerini neredeyse düz, gövdeni sabit tutarak iki ayağının ucundan it ve topuklarını rahat edebildiğin kadar yükselt.",
+      "Kısa süre durakla; zıplamadan topuklarını yavaşça yere indir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by NASM Calf Training exercise menu",
+      "url": "https://www.nasm.org/resource-center/blog/training/calf-training-how-to-program-this-stubborn-muscle-group-for-clients",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "single-leg-dumbbell-calf-raise",
+      "seated-dumbbell-calf-raise",
+      "barbell-standing-calf-raise",
+      "standing-machine-calf-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-standing-calf-raise.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a bilateral standing dumbbell calf raise, heels down and raised while holding a dumbbell in each hand; calves highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "İki elde dambıl tutulurken ayakta iki bacakla baldır yükseltmenin iki gri aşaması, topuklar aşağıda ve yukarıda; baldırlar kırmızı vurguludur, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-standing-calf-raise.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.nasm.org/resource-center/blog/training/calf-training-how-to-program-this-stubborn-muscle-group-for-clients"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-step-up",
     "slug": "dumbbell-step-up",
     "name": "Dambıllı Step-Up",
@@ -11877,6 +12033,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/public/exercises/adductors-copenhagen-plank.webp",
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "kneeling-cable-lat-pulldown",
+    "slug": "kneeling-cable-lat-pulldown",
+    "name": "Diz Çökerek Kablo Lat Pulldown",
+    "description": "Dizler üzerinde dik duruşta, kabloya karşı iki kolla yapılan dikey çekiş.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "biceps",
+      "upper-back"
+    ],
+    "instructions": [
+      "Yüksek makaraya düz bar tak. İstasyona dönük, dizlerin kalça genişliğinde ve kalçan açık biçimde diz çök; barı omuz genişliğinden biraz açık tutuşla başının üzerinde kavra.",
+      "Gövdeni dik tutup dirseklerini yanlarından aşağı sürerek barı üst göğsüne doğru çek.",
+      "Kollarını yavaşça düzleştir ve barı kontrollü biçimde başının üzerine geri bırak."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Kneeling Lat Pulldown",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/35/kneeling-lat-pulldown/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "lat-pulldown",
+      "single-arm-kneeling-lat-pulldown",
+      "close-grip-front-lat-pulldown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/kneeling-cable-lat-pulldown.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a tall-kneeling cable lat pulldown: the athlete starts with a wide-grip bar overhead and pulls it toward the upper chest; lats are highlighted red, and loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Diz çökerek kablo lat pulldown hareketinin iki aşaması: sporcu geniş tuttuğu bar başının üzerinde başlar ve üst göğsüne çeker; lat kasları kırmızı vurguludur, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kneeling-cable-lat-pulldown.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/35/kneeling-lat-pulldown/"
       }
     ]
   },
@@ -21807,6 +22015,59 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-cable-hip-flexion.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "standing-cable-row",
+    "slug": "standing-cable-row",
+    "name": "Ayakta Kablo Row",
+    "description": "Gövde dik tutulurken göğüs hizasındaki kablo makarasına karşı ayakta yapılan yatay çekiş hareketi.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "beginner",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "upper-back"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "biceps",
+      "shoulders"
+    ],
+    "instructions": [
+      "Kablo makarasını göğüs hizasına ayarlayıp nötr tutuşlu bir tutacak tak. Makara karşısında ayaklarını kalça genişliğinde aç, dizlerini hafif yumuşat ve kolun uzanmışken tutacağı kavra.",
+      "Gövdeni dik tutup geriye sallanmadan tutacağı alt kaburgana doğru çek; dirseğini yanına yakın götür.",
+      "Sonraki tekrardan önce kolunu yavaşça uzatıp kürek kemiğinin kontrollü biçimde öne gelmesine izin ver."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas guide informed by ACE Standing Row",
+      "url": "https://www.acefitness.org/resources/everyone/exercise-library/335/standing-row/",
+      "license": "CC0-1.0"
+    },
+    "alternatives": [
+      "seated-cable-row",
+      "single-arm-cable-row",
+      "machine-low-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/standing-cable-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases of a standing cable row at chest-height pulley: the athlete starts with arms extended and pulls the handle toward the lower ribs; upper back highlighted red, loose opaque shorts cover the hips and upper-thigh crease.",
+          "tr": "Göğüs hizasındaki makarada ayakta kablo row hareketinin iki gri aşaması: sporcu kolları uzanmış başlar ve tutacağı alt kaburgaya çeker; üst sırt kırmızı vurguludur, bol opak şort kalçayı ve üst bacak birleşimini örter."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-cable-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/335/standing-row/"
       }
     ]
   },

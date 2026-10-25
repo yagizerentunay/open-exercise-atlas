@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "kneeling-cable-lat-pulldown",
+  "slug": "kneeling-cable-lat-pulldown",
+  "name": {
+    "en": "Kneeling Cable Lat Pulldown",
+    "tr": "Diz Çökerek Kablo Lat Pulldown"
+  },
+  "description": {
+    "en": "A bilateral vertical cable pull performed from a tall-kneeling position.",
+    "tr": "Dizler üzerinde dik duruşta, kabloya karşı iki kolla yapılan dikey çekiş."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a straight bar to a high pulley. Kneel facing the station with your knees about hip-width apart, hips extended, and arms overhead holding the bar wider than shoulder-width.",
+      "Keep your torso tall and pull the bar toward your upper chest by driving your elbows down beside your body.",
+      "Straighten your arms slowly and return the bar overhead under control."
+    ],
+    "tr": [
+      "Yüksek makaraya düz bar tak. İstasyona dönük, dizlerin kalça genişliğinde ve kalçan açık biçimde diz çök; barı omuz genişliğinden biraz açık tutuşla başının üzerinde kavra.",
+      "Gövdeni dik tutup dirseklerini yanlarından aşağı sürerek barı üst göğsüne doğru çek.",
+      "Kollarını yavaşça düzleştir ve barı kontrollü biçimde başının üzerine geri bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas guide informed by ACE Kneeling Lat Pulldown",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/35/kneeling-lat-pulldown/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "lat-pulldown",
+    "single-arm-kneeling-lat-pulldown",
+    "close-grip-front-lat-pulldown"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/kneeling-cable-lat-pulldown.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two phases of a tall-kneeling cable lat pulldown: the athlete starts with a wide-grip bar overhead and pulls it toward the upper chest; lats are highlighted red, and loose opaque shorts cover the hips and upper-thigh crease.",
+        "tr": "Diz çökerek kablo lat pulldown hareketinin iki aşaması: sporcu geniş tuttuğu bar başının üzerinde başlar ve üst göğsüne çeker; lat kasları kırmızı vurguludur, bol opak şort kalçayı ve üst bacak birleşimini örter."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kneeling-cable-lat-pulldown.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/35/kneeling-lat-pulldown/"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-standing-calf-raise",
+  "slug": "barbell-standing-calf-raise",
+  "name": {
+    "en": "Barbell Standing Calf Raise",
+    "tr": "Halterle Ayakta Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A standing calf raise performed with a barbell across the upper back and both feet planted on the floor.",
+    "tr": "Halter üst sırtta ve iki ayak yerdeyken ayakta yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": ["barbell"],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Set a manageable barbell in a rack around shoulder height. Place it across your upper back, not your neck, grip just outside your shoulders, then stand and step back with feet about hip-width apart.",
+      "Keeping your torso steady and knees slightly soft, press through the balls of both feet to raise your heels as high as comfortable.",
+      "Pause briefly, then lower your heels slowly to the floor without bouncing."
+    ],
+    "tr": [
+      "Halteri rafta omuz hizasına yakın ve kontrol edebileceğin bir ağırlığa ayarla. Boynuna değil üst sırtına yerleştir, ellerini omuzlarının hemen dışından kavra; ayağa kalkıp geriye doğru ayakların kalça genişliğinde olacak şekilde adım at.",
+      "Gövdeni sabit, dizlerini hafif yumuşak tutarak iki ayağının ucundan it ve topuklarını rahat edebildiğin kadar yükselt.",
+      "Kısa süre durakla; zıplamadan topuklarını yavaşça yere indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas guide informed by ACE Calf Raises",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/51/calf-raises/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["barbell-seated-calf-raise", "standing-machine-calf-raise", "smith-machine-standing-calf-raise"],
+  "media": [
+    {
+      "path": "media/exercises/barbell-standing-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Rear view of two phases of a standing barbell calf raise, heels lowered and raised under a bar across the upper back; calves highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+        "tr": "Üst sırtta halter taşınırken ayakta barbell calf raise hareketinin arkadan iki aşaması, topuklar aşağıda ve yukarıda; baldırlar kırmızıyla vurgulanır, bol opak şort kalçayı ve üst bacak birleşimini örter."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-standing-calf-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/51/calf-raises/"
+    }
+  ]
+}

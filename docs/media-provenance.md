@@ -1,5 +1,55 @@
 # Media provenance
 
+## Kneeling Cable Lat Pulldown illustration — 25 October 2026
+
+- **Asset:** [`kneeling-cable-lat-pulldown.webp`](../media/exercises/kneeling-cable-lat-pulldown.webp) (201,834 bytes; SHA-256 `37799d3b3bf537764ad60047937c68b5f5d5a2977dd4b0dbdbd99e1eaf04f4fc2`).
+- **Date and creator:** 2026-10-25; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent PNG generated in two phases, resized proportionally to fit 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the bar overhead and pulled to the upper chest from a tall-kneeling position. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red lat highlights stay on exposed skin. Master: [`kneeling-cable-lat-pulldown-source.png`](pilots/kneeling-cable-lat-pulldown-source.png) (SHA-256 `eade2585cefdef387369698e6031af92199eff6c57d5717fc74dc6759794845b`).
+- **Prompt:** Original transparent two-phase kneeling cable lat pulldown illustration with a wide-grip bar on a high pulley, tall torso and hips extended while kneeling, red highlights only on exposed lats, and loose opaque shorts covering hips, groin and upper-thigh crease. No existing artwork was used as a reference.
+- **Movement source:** [ACE Kneeling Lat Pulldown](https://www.acefitness.org/resources/everyone/exercise-library/35/kneeling-lat-pulldown/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`kneeling-cable-lat-pulldown.json`](../data/exercises/kneeling-cable-lat-pulldown.json).
+
+## Dumbbell Standing Calf Raise illustration — 25 October 2026
+
+- **Asset:** [`dumbbell-standing-calf-raise.webp`](../media/exercises/dumbbell-standing-calf-raise.webp) (124,584 bytes; SHA-256 `58a39f30947accf09703cbb8a6615d9eec1ad2a95712a7af2185a6b6dc52ff48`).
+- **Date and creator:** 2026-10-25; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 PNG generated in two phases, resized proportionally to fit 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a two-leg standing raise while holding dumbbells at the sides, with heels down and raised. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red calf highlights stay on exposed skin. Master: [`dumbbell-standing-calf-raise-source.png`](pilots/dumbbell-standing-calf-raise-source.png) (SHA-256 `6c965c3675d8249c2a046e7abefd92c8f514ce06d66992a1db36cc3aad2e4863`).
+- **Prompt:** Original transparent two-phase illustration of a bilateral standing dumbbell calf raise, one dumbbell in each hand, heels down and raised, red highlights only on bare calves, and loose opaque shorts covering hips, groin and upper-thigh crease. No existing artwork was used as a reference.
+- **Movement source:** [NASM Calf Training: How to Program This Stubborn Muscle Group for Clients](https://www.nasm.org/resource-center/blog/training/calf-training-how-to-program-this-stubborn-muscle-group-for-clients); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`dumbbell-standing-calf-raise.json`](../data/exercises/dumbbell-standing-calf-raise.json).
+
+## Barbell Standing Calf Raise illustration — 25 October 2026
+
+- **Asset:** [`barbell-standing-calf-raise.webp`](../media/exercises/barbell-standing-calf-raise.webp) (124,316 bytes; SHA-256 `1a432c4e38761f73787f43ccde8d0ad0ff59db1e22e6e7c4cb9a797880d7fbea`).
+- **Date and creator:** 2026-10-25; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 PNG generated in two phases, resized proportionally to fit 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. Rear-view start and finish show heels down and raised beneath a barbell across the upper back. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red calf highlights stay on exposed skin. Master: [`barbell-standing-calf-raise-source.png`](pilots/barbell-standing-calf-raise-source.png) (SHA-256 `9cc0f46d3352a19236cab41a74b5147a2bb3642a06c6876dcfc842bb2044fcd7`).
+- **Prompt:** Original transparent two-phase rear-view illustration of a standing barbell calf raise, with the bar resting across the upper back, heels down and raised, and red highlights on bare calves only. Loose opaque shorts cover hips, groin and upper-thigh crease. No existing artwork was used as a reference.
+- **Movement source:** [ACE Calf Raises](https://www.acefitness.org/resources/everyone/exercise-library/51/calf-raises/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-standing-calf-raise.json`](../data/exercises/barbell-standing-calf-raise.json).
+
+## Barbell Thruster illustration — 25 October 2026
+
+- **Asset:** [`barbell-thruster.webp`](../media/exercises/barbell-thruster.webp) (134,608 bytes; SHA-256 `66e303962d217bc8e26a90511bdacd9dd3bdbb670a79e5514a0b8bce1b793b5c`).
+- **Date and creator:** 2026-10-25; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 PNG generated in two phases, resized proportionally to fit 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a deep barbell front squat flowing to an overhead press. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red quadriceps and shoulder highlights stay on exposed skin. Master: [`barbell-thruster-source.png`](pilots/barbell-thruster-source.png) (SHA-256 `7120ca9df1aac568470b4b16da9b95d8ed89019eead8b79a9cd85658760c8cf7`).
+- **Prompt:** Original transparent two-phase barbell thruster illustration, with front-rack squat and overhead lockout poses, red quadriceps/shoulder highlights on exposed skin only, and loose opaque shorts covering hips, groin and upper-thigh crease. No existing artwork was used as a reference.
+- **Movement source:** [ACE Front Squat to Overhead Press](https://www.acefitness.org/resources/everyone/exercise-library/315/front-squat-to-overhead-press/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-thruster.json`](../data/exercises/barbell-thruster.json).
+
+## Standing Cable Row illustration — 25 October 2026
+
+- **Asset:** [`standing-cable-row.webp`](../media/exercises/standing-cable-row.webp) (161,462 bytes; SHA-256 `cc38c270d4003904c57e1019623ef898230045e6f0e8990d7cf66a08828f6794`).
+- **Date and creator:** 2026-10-25; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent 1254 × 1254 PNG generated in two phases, resized proportionally to fit 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the upright standing row at a chest-height pulley. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red upper-back highlights stay on exposed skin. Master: [`standing-cable-row-source.png`](pilots/standing-cable-row-source.png) (SHA-256 `94c7505dd0caa7278fa435c73d7cb94be8f2ca6bba0ce11de2cc9302d3cdb5b5`).
+- **Prompt:** Original transparent two-phase standing cable row illustration with a chest-height pulley, neutral handle, upright torso, and close elbow pull. Red highlights only exposed upper-back skin; loose opaque shorts cover hips, groin and upper-thigh crease. No existing artwork was used as a reference.
+- **Movement source:** [ACE Standing Row](https://www.acefitness.org/resources/everyone/exercise-library/335/standing-row/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`standing-cable-row.json`](../data/exercises/standing-cable-row.json).
+
 ## Lying Barbell Triceps Extension illustration — 25 October 2026
 
 - **Asset:** [`barbell-lying-triceps-extension.webp`](../media/exercises/barbell-lying-triceps-extension.webp) (128,438 bytes; SHA-256 `a264e1a43c384a21698f55354699aa124d661541da4585ad7fa7a572b77cf5b5`).
