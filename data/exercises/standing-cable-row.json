@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "standing-cable-row",
+  "slug": "standing-cable-row",
+  "name": {
+    "en": "Standing Cable Row",
+    "tr": "Ayakta Kablo Row"
+  },
+  "description": {
+    "en": "A standing horizontal pull performed against a chest-height cable pulley with the torso held upright.",
+    "tr": "Gövde dik tutulurken göğüs hizasındaki kablo makarasına karşı ayakta yapılan yatay çekiş hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": ["cable"],
+  "primaryMuscles": ["upper-back"],
+  "secondaryMuscles": ["lats", "biceps", "shoulders"],
+  "instructions": {
+    "en": [
+      "Set a cable pulley at chest height and attach a neutral-grip handle. Stand facing the pulley with feet hip-width apart, knees soft, and arms extended to hold the handle.",
+      "Keep your torso upright and pull the handle toward your lower ribs, drawing your elbow close to your side without rocking backward.",
+      "Straighten your arm slowly and let the shoulder blade move forward under control before the next repetition."
+    ],
+    "tr": [
+      "Kablo makarasını göğüs hizasına ayarlayıp nötr tutuşlu bir tutacak tak. Makara karşısında ayaklarını kalça genişliğinde aç, dizlerini hafif yumuşat ve kolun uzanmışken tutacağı kavra.",
+      "Gövdeni dik tutup geriye sallanmadan tutacağı alt kaburgana doğru çek; dirseğini yanına yakın götür.",
+      "Sonraki tekrardan önce kolunu yavaşça uzatıp kürek kemiğinin kontrollü biçimde öne gelmesine izin ver."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas guide informed by ACE Standing Row",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/335/standing-row/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["seated-cable-row", "single-arm-cable-row", "machine-low-row"],
+  "media": [
+    {
+      "path": "media/exercises/standing-cable-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a standing cable row at chest-height pulley: the athlete starts with arms extended and pulls the handle toward the lower ribs; upper back highlighted red, loose opaque shorts cover the hips and upper-thigh crease.",
+        "tr": "Göğüs hizasındaki makarada ayakta kablo row hareketinin iki gri aşaması: sporcu kolları uzanmış başlar ve tutacağı alt kaburgaya çeker; üst sırt kırmızı vurguludur, bol opak şort kalçayı ve üst bacak birleşimini örter."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-cable-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.acefitness.org/resources/everyone/exercise-library/335/standing-row/"
+    }
+  ]
+}

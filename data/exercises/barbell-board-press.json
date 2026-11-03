@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-board-press",
+  "slug": "barbell-board-press",
+  "name": {
+    "en": "Barbell Board Press",
+    "tr": "Halterle Board Press"
+  },
+  "description": {
+    "en": "A partial-range bench press in which the bar is lowered to a board held on the chest before pressing back up.",
+    "tr": "Barın göğüsteki tahtaya kadar indirilip yeniden itildiği kısmi hareket aralıklı bench press."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell",
+    "bench",
+    "other"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Set the bar in a rack with safeties, lie on a flat bench, and have a spotter hold a stable board on your mid-chest; use a load you can control.",
+      "Grip the bar around shoulder width and lower it slowly until it gently touches the board; keep your wrists above your elbows and do not bounce.",
+      "Press the bar to near-straight arms, then have the spotter help return it to the rack."
+    ],
+    "tr": [
+      "Barı emniyet kolları ayarlı bir rack’e yerleştirip düz sehpaya uzan; bir gözcüden göğsünün ortasında sağlam bir tahtayı tutmasını iste ve kontrol edebileceğin bir yük seç.",
+      "Barı yaklaşık omuz genişliğinde kavra; bileklerini dirseklerinin üzerinde tutarak tahtaya hafifçe değene kadar yavaşça indir, sektirme.",
+      "Barı kolların neredeyse düz olana kadar it; ardından gözcünün yardımıyla rack’e geri yerleştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Muscle & Fitness Board Press guide; original Atlas adaptation",
+    "url": "https://www.muscleandfitness.com/workouts/chest-exercises/6-bench-press-variations-more-mass-0/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Board_Press"
+  ],
+  "alternatives": [
+    "barbell-floor-press",
+    "close-grip-bench-press",
+    "barbell-bench-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-board-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete bench pressing a bar to a board held on the chest by a spotter, then pressing it up; triceps are highlighted red.",
+        "tr": "Gözcünün göğüste tuttuğu tahtaya kadar barı indirip yeniden iten, opak kıyafetli sporcunun iki gri aşaması; arka kol kasları kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-board-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

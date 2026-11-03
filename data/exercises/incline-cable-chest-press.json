@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "incline-cable-chest-press",
+  "slug": "incline-cable-chest-press",
+  "name": {
+    "en": "Incline Cable Chest Press",
+    "tr": "Eğimli Sehpada Kablo Göğüs Presi"
+  },
+  "description": {
+    "en": "A compound chest press performed lying on an incline bench between two low cable pulleys.",
+    "tr": "İki alçak kablo makarası arasında eğimli sehpaya uzanarak yapılan bileşik göğüs presi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": {
+    "en": [
+      "Set an incline bench between two cable stacks with both pulleys low. Sit down, take a handle in each hand, then lie back with the handles beside your upper chest.",
+      "Press the handles upward and slightly inward until your arms are nearly straight; keep your shoulders supported and avoid arching your lower back.",
+      "Pause before locking your elbows, then lower the handles slowly to the upper chest while keeping control of the cables."
+    ],
+    "tr": [
+      "İki kablo makarasını alçağa ayarlayıp aralarına eğimli sehpa yerleştir. Her elinle bir tutacak kavra ve tutacaklar üst göğsünün yanında kalacak şekilde sehpaya uzan.",
+      "Omuzların sehpada destekli kalırken tutacakları kolların neredeyse düz olana kadar yukarı ve hafifçe içe doğru it; belini aşırı kavislendirme.",
+      "Dirseklerini kilitlemeden kısa durakla; kabloların kontrolünü koruyarak tutacakları yavaşça üst göğüs hizasına indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Legacy Incline_Cable_Chest_Press record; Muscle & Strength exercise guide; original Atlas editorial record",
+    "url": "https://cdn.muscleandstrength.com/exercises/incline-cable-chest-press",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Incline_Cable_Chest_Press"
+  ],
+  "alternatives": [
+    "seated-incline-cable-press",
+    "machine-incline-chest-press",
+    "incline-dumbbell-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/incline-cable-chest-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete lying on an incline bench between low cable pulleys, pressing the handles up from the upper chest; opaque top and shorts cover the torso and hips, with the chest highlighted red on the fabric.",
+        "tr": "Alçak kablo makaraları arasında eğimli sehpaya uzanıp tutacakları üst göğüsten yukarı iten spor kıyafetli sporcunun iki gri aşaması; üst ve şort gövdeyle kalçayı örter, göğüs kumaş üzerinde kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-cable-chest-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

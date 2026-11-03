@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-shotgun-row",
+  "slug": "cable-shotgun-row",
+  "name": {
+    "en": "Shotgun Cable Row",
+    "tr": "Shotgun Kablo Row"
+  },
+  "description": {
+    "en": "A unilateral low-cable row performed in a split stance with the torso hinged and the free hand braced on the forward thigh.",
+    "tr": "Gövde öne eğik, boş el öndeki bacağa destekli ve ayaklar ayrık duruşta alçak makaradan tek kolla çekiş yapılan row hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["cable"],
+  "primaryMuscles": ["lats"],
+  "secondaryMuscles": ["upper-back", "biceps", "shoulders", "traps", "abdominals"],
+  "instructions": {
+    "en": [
+      "Attach a single handle to a low pulley. Face the stack in a split stance with the working-side foot forward, hinge slightly, and brace your free hand on the forward thigh; let the working arm reach toward the pulley.",
+      "Keep your hips and torso steady as you draw the shoulder blade back and row the handle toward your lower ribs, driving the elbow close behind you.",
+      "Extend your arm forward slowly to return to the start without twisting your torso, then repeat on the other side."
+    ],
+    "tr": [
+      "Alçak makaraya tek tutacak tak. Çalışan kolun tarafındaki ayak önde olacak şekilde makaraya dönük ayrık duruş al, gövdeni hafifçe öne eğ ve boş elini öndeki uyluğuna dayayıp çalışan kolunu makaraya doğru uzat.",
+      "Kalçanı ve gövdeni sabit tutarken kürek kemiğini geriye al; dirseğini gövdene yakın biçimde geriye sürüp tutacağı alt kaburgalarına doğru çek.",
+      "Gövdeni döndürmeden kolunu yavaşça öne uzatıp başlangıca dön; diğer tarafla tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Muscle & Strength Shotgun Row guide; legacy Shotgun_Row record; original Atlas editorial record",
+    "url": "https://www.muscleandstrength.com/node/3672",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": ["Shotgun_Row"],
+  "alternatives": ["single-arm-cable-row", "seated-cable-row", "single-arm-high-cable-row"],
+  "media": [
+    {
+      "path": "media/exercises/cable-shotgun-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale rear three-quarter phases show a fully clothed athlete in a split stance performing a one-arm low-cable row, with a free hand braced on the forward thigh. Lats are highlighted red on the textured opaque top; shorts cover the hips and buttocks.",
+        "tr": "Ayrık duruşta, boş eli öndeki uyluğunda destekli sporcunun tek kollu alçak kablo row hareketinin iki gri aşaması; latlar dokulu opak atlet üzerinde kırmızı vurgulu, şort kalçayı örter."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-shotgun-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

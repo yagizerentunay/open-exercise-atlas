@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-hip-thrust",
+  "slug": "dumbbell-hip-thrust",
+  "name": {
+    "en": "Dumbbell Hip Thrust",
+    "tr": "Dambılla Hip Thrust"
+  },
+  "description": {
+    "en": "A bench-supported hip extension performed with one dumbbell held across the hip crease.",
+    "tr": "Üst sırt sehpaya dayanırken kalça kıvrımında tutulan tek dambılla yapılan kalça ekstansiyonu."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["dumbbell", "bench"],
+  "primaryMuscles": ["glutes"],
+  "secondaryMuscles": ["hamstrings", "abdominals"],
+  "instructions": {
+    "en": [
+      "Sit with your upper back against the edge of a stable bench, knees bent and feet planted about hip-width apart. Hold one dumbbell securely across your hip crease; use a pad if needed.",
+      "Brace your trunk and press through your feet to lift your hips until your torso and thighs form a straight line. Keep your ribs down and avoid arching your lower back.",
+      "Lower your hips under control without letting the dumbbell roll, then repeat."
+    ],
+    "tr": [
+      "Üst sırtını sabit bir sehpanın kenarına dayayarak otur; dizlerini büküp ayaklarını yaklaşık kalça genişliğinde yere bas. Tek dambılı kalça kıvrımında güvenle tut; gerekirse araya ped koy.",
+      "Gövdeni sıkıp ayaklarından kuvvet alarak kalçanı, gövdenle uylukların aynı hizaya gelene kadar kaldır. Kaburgalarını aşağıda tut ve belini çukurlaştırma.",
+      "Dambılın kaymasına izin vermeden kalçanı kontrollü indir ve tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "PureGym Dumbbell Hip Thrust guide; original Atlas editorial record",
+    "url": "https://www.puregym.com/exercises/glutes/hip-thrusts/dumbbell-hip-thrust/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["barbell-hip-thrust", "machine-hip-thrust", "single-leg-hip-thrust"],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-hip-thrust.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two side-by-side grayscale phases show a fully clothed athlete performing a dumbbell hip thrust against a bench. The glutes are highlighted red over opaque, textured shorts that fully cover the hips and buttocks.",
+        "tr": "Sehpaya dayanarak dambılla hip thrust yapan, tamamen spor kıyafetli sporcunun yan yana iki gri aşaması; kalçalar, kalçayı tamamen örten opak ve dokulu şortun üzerinde kırmızıyla vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-hip-thrust.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

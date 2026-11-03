@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "rowing-machine",
+  "slug": "rowing-machine",
+  "name": {
+    "en": "Indoor Rowing",
+    "tr": "Kürek Ergometresiyle Kürek Çekiş"
+  },
+  "description": {
+    "en": "A cyclical cardio stroke on a stationary rowing ergometer, combining leg drive, a hip hinge, and an arm pull.",
+    "tr": "Sabit kürek ergometresinde bacak itişini, kalçadan gövde açılışını ve kol çekişini birleştiren döngüsel kardiyo hareketi."
+  },
+  "category": "cardio",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "upper-back",
+    "abdominals",
+    "shoulders",
+    "biceps",
+    "forearms",
+    "triceps",
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Adjust the foot straps over the widest part of your feet and sit on the sliding seat. Reach to the catch with arms straight, shins near vertical, and a comfortable hip hinge; keep your back neutral.",
+      "Drive by pressing through the footplates with your legs first. As the legs extend, swing your torso open from the hips, then draw the handle to your lower ribs with relaxed shoulders and flat wrists.",
+      "For recovery, extend your arms first, hinge your torso forward, then bend your knees and slide toward the flywheel smoothly. Keep the return controlled and begin at an easy pace."
+    ],
+    "tr": [
+      "Ayak kayışlarını ayaklarının en geniş bölümünün üzerinden ayarla ve kayan koltuğa otur. Kolların düz, kaval kemiklerin olabildiğince dik ve gövden kalçadan rahatça öne eğilmiş biçimde başlangıç konumunu al; sırtını nötr tut.",
+      "İtişe önce ayak platformunu bacaklarınla iterek başla. Bacakların açılırken kalçadan gövdeni geriye getir; ardından omuzlarını rahat ve bileklerini düz tutarak sapı alt kaburgalarına çek.",
+      "Geri dönüşte önce kollarını uzat, gövdeni kalçadan öne getir; sonra dizlerini büküp koltuğu makara yönüne kontrollü biçimde kaydır. Rahat bir tempoyla başla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Concept2 Indoor Rowing Technique; legacy Rowing_Stationary record",
+    "url": "https://www.concept2.com/training/rowing-technique",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "jump-rope",
+    "sled-push",
+    "battle-rope-alternating-waves"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/rowing-machine.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete rowing on an indoor ergometer, from the bent-knee catch to the legs-extended finish; quadriceps are highlighted red and opaque shorts cover the hips and buttocks.",
+        "tr": "Kapalı spor kıyafetli sporcunun kürek ergometresinde bükülü dizlerle başlangıçtan bacaklar açık bitişe geçtiği iki gri aşama; kuadrisepsler kırmızı vurgulu, kalça opak şortla örtülüdür."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/rowing-machine.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ],
+  "legacyIds": [
+    "Rowing_Stationary"
+  ]
+}

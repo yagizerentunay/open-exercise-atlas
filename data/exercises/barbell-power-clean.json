@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-power-clean",
+  "slug": "barbell-power-clean",
+  "name": {
+    "en": "Power Clean",
+    "tr": "Halterle Power Clean"
+  },
+  "description": {
+    "en": "An explosive barbell lift that brings the bar from the floor to the shoulders, caught above a parallel squat before standing tall.",
+    "tr": "Halteri yerden omuzlara patlayıcı biçimde çekip paralelin üzerinde karşılayarak ayağa kalkılan güç kaldırışı."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "shoulders",
+    "abdominals",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with the bar over mid-foot and take a closed overhand grip just outside your legs; brace your trunk with shoulders slightly ahead of the bar.",
+      "Push through the floor and extend your hips and knees, keeping the bar close; then pull under and receive it on your shoulders with elbows forward, catching above a parallel squat.",
+      "Stand to full hip and knee extension with the bar secure in front rack, then lower it safely to the floor."
+    ],
+    "tr": [
+      "Bar orta ayak hizasındayken ayakta durup bacaklarının hemen dışından üstten kapalı tutuş al; gövdeni sabitle ve omuzlarını barın biraz önünde tut.",
+      "Yeri itip kalça ve dizlerini açarken barı yakında tut; ardından altına girip dirseklerin önde, bar omuzlarında olacak şekilde paralelin üzerinde karşıla.",
+      "Barı ön omuz konumunda sabit tutarak kalça ve dizlerini tamamen aç; ardından kontrollü biçimde yere indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "CrossFit Open 11.5 Power Clean movement standards; original Atlas editorial record",
+    "url": "https://games-assets.crossfit.com/11.5_pdf.pdf",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Power_Clean"
+  ],
+  "alternatives": [
+    "barbell-snatch",
+    "two-dumbbell-hang-clean",
+    "barbell-clean-and-jerk"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-power-clean.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete lifting a barbell from the floor and receiving it at the shoulders in a power clean; an opaque top and shorts cover the torso and buttocks, with shoulders and quadriceps highlighted red.",
+        "tr": "Halteri yerden çekip omuzlarında power clean karşılaması yapan, spor kıyafetli sporcunun iki gri aşaması; opak üst ve şort gövdeyle kalçayı örter, omuz ve ön bacak kasları kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-power-clean.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

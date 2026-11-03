@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-deadlift",
+  "slug": "cable-deadlift",
+  "name": {
+    "en": "Cable Deadlift",
+    "tr": "Kablo Deadlift"
+  },
+  "description": {
+    "en": "A floor-start hip-hinge deadlift performed with a straight bar attached to a low cable pulley.",
+    "tr": "Düşük kablo makarasına bağlı düz barla yerden başlayarak yapılan kalça menteşesi temelli deadlift."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "lower-back",
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a straight bar to the lowest pulley and stand over the cable with your feet about hip-width apart; hinge at the hips and bend your knees enough to grip the bar with straight arms and a neutral spine.",
+      "Brace your trunk and push through the floor, extending your hips and knees together while keeping the bar close to your legs.",
+      "Stand tall without leaning back, then hinge and bend your knees to lower the bar under control until you reach the start position."
+    ],
+    "tr": [
+      "Düz barı en alçak makaraya takıp kablonun üzerine ayaklarını yaklaşık kalça genişliğinde açarak yerleş; kalçanı geriye gönderip dizlerini gerektiği kadar bük, omurganı nötr tutarak kolların düz biçimde barı kavra.",
+      "Gövdeni sıkıp zemini it; barı bacaklarına yakın tutarken kalçanı ve dizlerini birlikte aç.",
+      "Geriye yaslanmadan dik dur; ardından kalçanı büküp dizlerini kontrollü şekilde kırarak barı başlangıç konumuna indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Kysero Cable Deadlift guide; legacy Cable Deadlifts record; original Atlas editorial record",
+    "url": "https://kysero.io/exercise-library/cable-deadlift/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Cable_Deadlifts"
+  ],
+  "alternatives": [
+    "conventional-deadlift",
+    "cable-romanian-deadlift"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-deadlift.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete performing a low-pulley cable deadlift, lowering to grip a straight bar and then standing tall with it; opaque shorts cover the buttocks and only exposed hamstrings are highlighted red.",
+        "tr": "Alçak makaralı kablo deadlift yapan, düz barı kavramak için eğilen ve ardından dik duran spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, yalnızca açık hamstringler kırmızıyla vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-deadlift.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

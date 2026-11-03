@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-lateral-lunge",
+  "slug": "barbell-lateral-lunge",
+  "name": {
+    "en": "Barbell Lateral Lunge",
+    "tr": "Halterle Yan Lunge"
+  },
+  "description": {
+    "en": "A loaded lateral lunge with a barbell across the upper back as the hips shift toward one bent leg.",
+    "tr": "Halter üst sırttayken kalçanın bükülü bacağa doğru kaydırıldığı yüklü yan lunge hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "quadriceps",
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Secure the bar across your upper back, not your neck, and stand in a wide stance with your feet flat and toes slightly turned out.",
+      "Send your hips toward one side as you bend that knee and keep the opposite leg long; keep your chest open and let the bent knee track in the same direction as the toes.",
+      "Press through the bent leg to return to the wide stance, then repeat to the other side."
+    ],
+    "tr": [
+      "Halteri boynuna değil üst sırtına güvenli biçimde yerleştir; ayakların yerde ve parmak uçların hafif dışa dönük olacak şekilde geniş dur.",
+      "Bir dizini bükerken kalçanı o tarafa gönder ve karşı bacağını uzun tut; göğsünü açık tut, bükülü dizini ayak parmaklarınla aynı yönde ilerlet.",
+      "Bükülü bacağından iterek geniş duruşa dön ve diğer tarafa tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "U.S. Marine Corps Force Fitness Exercise Guidebook; original Atlas adaptation",
+    "url": "https://www.tbs.marines.mil/Portals/230/Force%20Fitness%20Exercise%20Guidebook.pdf?ver=eGNb828lVw2cF1Ji_XVUsg%3D%3D",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Barbell_Side_Split_Squat"
+  ],
+  "alternatives": [
+    "lateral-lunge",
+    "dumbbell-lateral-lunge",
+    "cossack-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-lateral-lunge.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete holding a barbell across the upper back, first standing wide and then bending one knee into a lateral lunge; the exposed quadriceps are highlighted red.",
+        "tr": "Halteri üst sırtında taşıyan opak kıyafetli sporcunun önce geniş durduğu, sonra bir dizini bükerek yana lunge yaptığı iki gri aşama; açıkta kalan ön bacak kasları kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-lateral-lunge.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

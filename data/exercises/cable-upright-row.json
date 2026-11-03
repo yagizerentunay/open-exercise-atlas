@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-upright-row",
+  "slug": "cable-upright-row",
+  "name": {
+    "en": "Cable Upright Row",
+    "tr": "Kabloda Dik Kürek"
+  },
+  "description": {
+    "en": "An upright row using a straight bar on a low cable pulley, pulled from the thighs toward the lower chest.",
+    "tr": "Alçak kablo makarasındaki düz barın uyluklardan alt göğse doğru çekildiği dik kürek hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Attach a straight bar to the lowest pulley and stand close to the stack with an overhand grip; begin with the bar in front of your thighs, feet about shoulder-width apart.",
+      "Keep your torso upright and pull the bar close to your body, leading with your elbows; stop around mid-chest or shoulder height, whichever feels comfortable.",
+      "Lower the bar slowly to the start. Keep your elbows at or below shoulder level, and stop if the movement causes shoulder pinching or pain."
+    ],
+    "tr": [
+      "Düz barı en alçak makaraya takıp makaranın yakınında, üstten tutuşla dik dur; bar uyluklarının önünde, ayakların yaklaşık omuz genişliğinde olsun.",
+      "Gövdeni dik tutup dirseklerini öne alarak barı vücuduna yakın biçimde çek; rahat hissettiğin göğüs veya omuz hizasında dur.",
+      "Barı yavaşça başlangıca indir. Dirseklerini omuz hizasında veya altında tut; omuzda sıkışma ya da ağrı olursa hareketi bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "PureGym Cable Upright Row guide; legacy Upright Cable Row record; original Atlas editorial record",
+    "url": "https://www.puregym.com/exercises/arms-and-shoulders/upright-rows/cable-upright-row/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Upright_Cable_Row"
+  ],
+  "alternatives": [
+    "upright-row",
+    "cable-shrug"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-upright-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete pulling a low-cable straight bar from the thighs to mid-chest with elbows flared; deltoid and trapezius targets are printed red on the shirt fabric.",
+        "tr": "Alçak kablodaki düz barı uyluklardan alt göğse dirseklerini yana açarak çeken spor kıyafetli sporcunun iki gri aşaması; omuz ve trapez hedefleri tişört kumaşında kırmızıyla gösterilir."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-upright-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

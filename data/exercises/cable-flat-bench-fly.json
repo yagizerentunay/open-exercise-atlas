@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-flat-bench-fly",
+  "slug": "cable-flat-bench-fly",
+  "name": {
+    "en": "Flat Bench Cable Fly",
+    "tr": "Düz Sehpada Kablo Fly"
+  },
+  "description": {
+    "en": "A chest isolation fly performed supine on a flat bench between two low cable pulleys.",
+    "tr": "İki alçak kablo makarası arasında düz sehpaya uzanarak yapılan göğüs izolasyon açışı."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Place a flat bench between two cable stacks, set both pulleys low, and lie back with one handle in each hand; keep a slight bend in your elbows.",
+      "Open your arms out to the sides in a controlled arc until you feel a comfortable chest stretch, keeping your shoulders supported on the bench.",
+      "Bring the handles together above your mid-chest without changing the elbow bend, then return slowly and avoid forcing your shoulders behind your torso."
+    ],
+    "tr": [
+      "Düz sehpaya iki kablo istifinin arasına yerleştirip makaraları alçağa ayarla; her elinle bir tutacak kavrayarak uzan ve dirseklerini hafif bükülü tut.",
+      "Omuzların sehpada destekli kalırken kollarını kontrollü bir yayla yana aç; göğsünde rahat bir esneme hissedince dur.",
+      "Dirsek açını değiştirmeden tutacakları göğsünün üzerinde birleştir; yavaşça geri dön ve omuzlarını gövdenin gerisine zorlamamaya dikkat et."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Inspire FT2 Exercise Manual; legacy Flat_Bench_Cable_Flyes record; original Atlas editorial record",
+    "url": "https://inspirefitnesssolutions.co.uk/wp-content/uploads/2015/10/Inspire-FT2-Exercise-Manual.pdf",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Flat_Bench_Cable_Flyes"
+  ],
+  "alternatives": [
+    "cable-crossover",
+    "incline-cable-fly",
+    "dumbbell-fly"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-flat-bench-fly.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete lying on a flat bench between low cable pulleys and opening then bringing the handles together in a fly arc; opaque shorts cover the hips and buttocks, while the chest is highlighted red on clearly textured tank fabric.",
+        "tr": "Alçak kablo makaraları arasında düz sehpaya uzanıp tutacakları fly yayıyla açıp birleştiren, spor kıyafetli sporcunun iki gri aşaması; opak şort kalçayı örter, göğüs dokulu atlet kumaşı üzerinde kırmızı vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-flat-bench-fly.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-step-up",
+  "slug": "barbell-step-up",
+  "name": {"en": "Barbell Step-Up", "tr": "Halterle Yükseltiye Adım"},
+  "description": {
+    "en": "A loaded unilateral leg exercise in which one foot drives the body onto a stable raised platform while a barbell rests across the upper back.",
+    "tr": "Halter üst sırtta dururken bir ayağın itişiyle vücudun sabit bir yükseltiye çıkarıldığı yüklü tek bacak egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "lunge",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["barbell", "bench"],
+  "primaryMuscles": ["quadriceps", "glutes"],
+  "secondaryMuscles": ["hamstrings", "calves"],
+  "instructions": {
+    "en": [
+      "Set a stable platform in front of you and position the bar securely across your upper back, not on your neck; stand tall and brace.",
+      "Place one whole foot on the platform, keep the knee tracking over the toes, and press through that foot to rise without pushing off strongly with the trailing leg.",
+      "Stand balanced on the platform, then step down slowly under control and repeat on the other side."
+    ],
+    "tr": [
+      "Önüne sağlam bir yükselti koy; barı boynuna değil üst sırtına güvenli biçimde yerleştir, dik durup gövdeni sabitle.",
+      "Bir ayağını tamamen yükseltiye bas, dizini ayak parmaklarınla aynı yönde tut ve arkadaki ayaktan güçlü itiş almadan öndeki ayağınla yüksel.",
+      "Yükseltide dengeni bul; sonra kontrollü biçimde aşağı in ve diğer tarafla tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "ACE Step-Up exercise guide and barbell training article; original Atlas editorial record",
+    "url": "https://www.acefitness.org/resources/everyone/exercise-library/28/step-up/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": ["Barbell_Step_Ups"],
+  "alternatives": ["step-up", "barbell-forward-lunge", "barbell-walking-lunge"],
+  "media": [{
+    "path": "media/exercises/barbell-step-up.webp",
+    "role": "reference",
+    "alt": {
+      "en": "Two grayscale phases show a fully clothed athlete with a barbell across the upper back beginning on the floor and stepping onto a stable box; shorts cover the buttocks and the quadriceps are highlighted red.",
+      "tr": "Halteri üst sırtında taşıyarak yerden sağlam bir kutuya çıkan, opak spor kıyafetli sporcunun iki gri aşaması; şort kalçayı örter, ön bacak kasları kırmızı vurguludur."
+    },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-step-up.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+  }]
+}

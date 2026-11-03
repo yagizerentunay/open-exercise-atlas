@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-clean",
+  "slug": "barbell-clean",
+  "name": {
+    "en": "Barbell Clean",
+    "tr": "Halter Clean"
+  },
+  "description": {
+    "en": "An Olympic lift that brings a barbell from the floor to the front rack, received in a full squat before standing.",
+    "tr": "Halterin yerden ön omuz konumuna çekilip tam squat altında karşılandıktan sonra ayağa kalkılarak tamamlandığı olimpik kaldırış."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "shoulders",
+    "abdominals",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with the bar over mid-foot, grip just outside your legs, and brace with your shoulders slightly ahead of the bar and your back neutral.",
+      "Push through the floor and extend your hips and knees while keeping the bar close; pull under it and receive it on your shoulders in a full squat with elbows forward.",
+      "Keep the bar secure in the front rack and stand by extending your hips and knees; lower the bar safely before resetting."
+    ],
+    "tr": [
+      "Bar orta ayak hizasındayken ayakta dur; bacaklarının hemen dışından kavra, omuzlarını barın biraz önünde tutarak gövdeni sabitle ve sırtını nötr konumda koru.",
+      "Yeri itip barı vücuduna yakın tutarak kalça ve dizlerini aç; ardından barın altına girip dirseklerin önde, tam squat pozisyonunda omuzlarında karşıla.",
+      "Barı ön omuz konumunda sabit tutup kalça ve dizlerini açarak ayağa kalk; yeniden başlamadan önce barı güvenli şekilde indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "CrossFit How to Do a Clean; Squat Clean Progression; original Atlas editorial record",
+    "url": "https://www.crossfit.com/essentials/foundational-movement-clean-what-is-a-clean",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Clean"
+  ],
+  "alternatives": [
+    "barbell-power-clean",
+    "barbell-clean-and-jerk",
+    "front-squat"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-clean.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show an athlete moving a barbell from floor setup to a full-squat front-rack catch; opaque tank and full-length compression leggings cover the torso, hips and buttocks, with only the exposed shoulders highlighted red.",
+        "tr": "Halteri yerden çekip tam squat altında ön omuz konumunda karşılayan sporcunun iki gri aşaması; opak atlet ve uzun kompresyon taytı gövdeyi, kalçayı ve kalçanın arka kısmını örter, yalnızca açık omuzlar kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

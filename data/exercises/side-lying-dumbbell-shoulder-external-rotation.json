@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "side-lying-dumbbell-shoulder-external-rotation",
+  "slug": "side-lying-dumbbell-shoulder-external-rotation",
+  "name": {
+    "en": "Side-Lying Dumbbell Shoulder External Rotation",
+    "tr": "Yan Yatarak Dambılla Omuz Dış Rotasyonu"
+  },
+  "description": {
+    "en": "A light side-lying shoulder exercise that rotates the forearm upward while the elbow stays tucked beside the torso.",
+    "tr": "Dirsek gövdenin yanında sabitken ön kolun yukarı döndürüldüğü, hafif yükle yapılan yan yatış omuz hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["dumbbell"],
+  "primaryMuscles": ["shoulders"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Lie on your side with your working elbow bent about 90 degrees and tucked against your ribs; place a small folded towel between the elbow and torso and hold a very light dumbbell.",
+      "Keeping your elbow and upper arm still, rotate your forearm upward away from your abdomen through a comfortable range; do not roll your torso backward.",
+      "Lower the dumbbell slowly to the start position. Use a light load and stop if the movement causes pain."
+    ],
+    "tr": [
+      "Yan yatıp çalışacak dirseğini yaklaşık 90 derece bükerek gövdene yakın tut; dirseğinle gövden arasına küçük katlı bir havlu yerleştir ve çok hafif bir dambıl kavra.",
+      "Dirseğini ve üst kolunu sabit tutarak ön kolunu karnından uzağa, rahat bir aralıkta yukarı döndür; gövdeni geriye yuvarlama.",
+      "Dambılı başlangıca yavaşça indir. Hafif yük kullan ve hareket ağrıya yol açarsa bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Aurora Health Care Upper Extremity Dumbbell Home Exercise Program; original Atlas editorial record",
+    "url": "https://ahc.aurorahealthcare.org/fywb/x11240.pdf",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "standing-band-shoulder-external-rotation"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/side-lying-dumbbell-shoulder-external-rotation.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete lying on the side with a light dumbbell; the elbow stays tucked against the torso as the forearm rotates upward, with the posterior shoulder highlighted red.",
+        "tr": "Yan yatarak hafif dambılla hareket yapan, spor kıyafeti ve kalçayı örten opak şort giyen sporcunun iki gri aşaması; dirsek gövdeye yakınken ön kol yukarı döner ve omuz arkası kırmızıyla vurgulanır."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/side-lying-dumbbell-shoulder-external-rotation.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

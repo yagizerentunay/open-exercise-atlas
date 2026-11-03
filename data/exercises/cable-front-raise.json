@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "cable-front-raise",
+  "slug": "cable-front-raise",
+  "name": {
+    "en": "Cable Front Raise",
+    "tr": "Kabloda Öne Kaldırış"
+  },
+  "description": {
+    "en": "A shoulder-isolation exercise that raises a low cable handle in front of the body to shoulder height.",
+    "tr": "Alçak makara tutacağının gövde önünde omuz hizasına kaldırıldığı omuz izolasyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "abdominals"
+  ],
+  "instructions": {
+    "en": [
+      "Set a single handle at the lowest pulley and stand facing away from the cable tower with the handle beside the front of one thigh.",
+      "Brace your torso and raise the handle forward in a smooth arc to about shoulder height, keeping a soft bend in the elbow and avoiding a shrug.",
+      "Lower the handle slowly to the start position; complete the set, then switch arms."
+    ],
+    "tr": [
+      "Tek tutacağı en alçak makaraya tak ve kablo kulesine sırtını dön; tutacağı bir uyluğunun ön yanında tut.",
+      "Gövdeni sabitleyip dirseğini hafif bükülü tutarak tutacağı öne doğru akıcı bir yayla yaklaşık omuz hizasına kaldır; omzunu yukarı çekme.",
+      "Tutacağı yavaşça başlangıç konumuna indir; seti bitirince kol değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "PureGym Cable Front Raise exercise guide; original Atlas editorial record",
+    "url": "https://www.puregym.com/exercises/arms-and-shoulders/front-raises/cable-front-raise/",
+    "license": "CC0-1.0"
+  },
+  "alternatives": [
+    "dumbbell-front-raise",
+    "cable-y-raise",
+    "single-arm-cable-lateral-raise"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/cable-front-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a single-arm low-cable front raise, with a taut cable leading to the lowest pulley and the front deltoid highlighted red.",
+        "tr": "Tek kol alçak makara kablo öne kaldırışının iki gri aşaması; gergin kablo en alçak makaraya uzanıyor ve ön omuz kası kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-front-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

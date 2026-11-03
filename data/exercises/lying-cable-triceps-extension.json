@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "lying-cable-triceps-extension",
+  "slug": "lying-cable-triceps-extension",
+  "name": {
+    "en": "Lying Cable Triceps Extension",
+    "tr": "Yatarak Kabloda Triseps Ekstansiyonu"
+  },
+  "description": {
+    "en": "An elbow-extension exercise performed lying on a flat bench with a straight bar attached to a low cable pulley.",
+    "tr": "Alçak kablo makarasına bağlı düz barla düz sehpada yatarak yapılan dirsek açma hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["cable", "bench"],
+  "primaryMuscles": ["triceps"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Place a flat bench in front of a low pulley, attach a straight bar, and lie face up with your head nearest the stack; plant your feet and hold the bar over your upper chest with elbows bent.",
+      "Keep your upper arms steady and extend your elbows to raise the bar above your chest; avoid swinging your shoulders or forcefully locking your elbows.",
+      "Bend your elbows slowly to return the bar toward your forehead while keeping your upper arms in place and the cable under control."
+    ],
+    "tr": [
+      "Düz sehpaya alçak makaranın önünde yer verip makaraya düz bar tak; başın ağırlık bloğuna yakın olacak şekilde sırtüstü yat, ayaklarını yere bas ve dirseklerin bükülüyken barı üst göğsünün üzerinde tut.",
+      "Üst kollarını sabit tutup dirseklerini açarak barı göğsünün üzerine kaldır; omuzlarını sallama ve dirseklerini sertçe kilitleme.",
+      "Üst kollarını yerinde tutarak dirseklerini yavaşça bük, kabloyu kontrol altında tutup barı alnına doğru geri indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Lying Cable Tricep Extension guide; legacy Cable_Lying_Triceps_Extension record; original Atlas editorial record",
+    "url": "https://www.muscleandstrength.com/exercises/lying-cable-tricep-extension.html",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": ["Cable_Lying_Triceps_Extension"],
+  "alternatives": ["overhead-cable-triceps-extension", "lying-overhead-dumbbell-triceps-extension", "cable-rope-triceps-pushdown"],
+  "media": [
+    {
+      "path": "media/exercises/lying-cable-triceps-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show an athlete lying on a flat bench with a straight bar on a low cable, bending and extending the elbows. The opaque top and shorts cover the torso and hips; triceps on the exposed upper arms are highlighted red.",
+        "tr": "Alçak kabloya bağlı düz barla sehpada yatan sporcunun dirseklerini büküp açtığı iki gri aşama. Opak atlet ve şort gövdeyle kalçayı örter; açıkta kalan üst koldaki triseps kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/lying-cable-triceps-extension.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

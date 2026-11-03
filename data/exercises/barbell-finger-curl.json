@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-finger-curl",
+  "slug": "barbell-finger-curl",
+  "name": {
+    "en": "Barbell Finger Curl",
+    "tr": "Halterle Parmak Curl"
+  },
+  "description": {
+    "en": "A forearm exercise in which the fingers open to let a light barbell roll toward the fingertips, then close to bring it back into the palms.",
+    "tr": "Hafif halterin parmak uçlarına doğru yuvarlanmasına izin verip parmakları kapatarak avuçlara geri aldığın ön kol egzersizi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "pull",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Sit on a bench and rest your forearms on your thighs, palms up, with your wrists just beyond your knees; hold a very light barbell securely.",
+      "Keeping your forearms supported and wrists nearly still, open your fingers so the bar rolls toward the last finger joints without slipping free.",
+      "Close your fingers to curl the bar back into your palms, then repeat with control."
+    ],
+    "tr": [
+      "Bir sehpaya otur; avuçların yukarı bakarken ön kollarını uyluklarına dayayıp bileklerini dizlerinin biraz önünde tut. Çok hafif bir halteri güvenli biçimde kavra.",
+      "Ön kollarını destekli ve bileklerini olabildiğince sabit tutarak parmaklarını aç; halter kayıp düşmeden parmak eklemlerine doğru yuvarlansın.",
+      "Parmaklarını kapatıp halteri avuçlarına geri al ve kontrollü biçimde tekrarla."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Finger Curls exercise guide; original Atlas adaptation",
+    "url": "https://fitnesstracker.ca/resources/exercises/finger-curls/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Finger_Curls"
+  ],
+  "alternatives": [
+    "barbell-wrist-curl",
+    "behind-the-back-barbell-wrist-curl",
+    "dumbbell-reverse-wrist-curl"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-finger-curl.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete seated with forearms supported and palms up, opening the fingers to lower a light barbell toward the fingertips and closing them to return it to the palms; forearms are highlighted red.",
+        "tr": "Ön kolları destekli, avuçları yukarı bakan ve hafif halteri parmaklarına indirip parmaklarını kapatarak geri alan opak kıyafetli sporcunun iki gri aşaması; ön kollar kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-finger-curl.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

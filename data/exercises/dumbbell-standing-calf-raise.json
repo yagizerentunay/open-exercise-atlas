@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-standing-calf-raise",
+  "slug": "dumbbell-standing-calf-raise",
+  "name": {
+    "en": "Dumbbell Standing Calf Raise",
+    "tr": "Dambılla Ayakta Baldır Yükseltme"
+  },
+  "description": {
+    "en": "A bilateral standing calf raise performed while holding a dumbbell at each side.",
+    "tr": "Her iki elde birer dambıl tutularak ayakta ve iki bacakla yapılan baldır yükseltme hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "beginner",
+  "equipment": ["dumbbell"],
+  "primaryMuscles": ["calves"],
+  "secondaryMuscles": [],
+  "instructions": {
+    "en": [
+      "Stand tall with feet hip-width apart and hold a manageable dumbbell in each hand at your sides.",
+      "Keeping your knees nearly straight and torso steady, press through the balls of both feet to raise your heels as high as comfortable.",
+      "Pause briefly, then lower your heels slowly to the floor without bouncing."
+    ],
+    "tr": [
+      "Ayaklarını kalça genişliğinde açıp dik dur; kontrol edebileceğin birer dambılı iki yanında tut.",
+      "Dizlerini neredeyse düz, gövdeni sabit tutarak iki ayağının ucundan it ve topuklarını rahat edebildiğin kadar yükselt.",
+      "Kısa süre durakla; zıplamadan topuklarını yavaşça yere indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas guide informed by NASM Calf Training exercise menu",
+    "url": "https://www.nasm.org/resource-center/blog/training/calf-training-how-to-program-this-stubborn-muscle-group-for-clients",
+    "license": "CC0-1.0"
+  },
+  "alternatives": ["single-leg-dumbbell-calf-raise", "seated-dumbbell-calf-raise", "barbell-standing-calf-raise", "standing-machine-calf-raise"],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-standing-calf-raise.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases of a bilateral standing dumbbell calf raise, heels down and raised while holding a dumbbell in each hand; calves highlighted red and loose opaque shorts cover the hips and upper-thigh crease.",
+        "tr": "İki elde dambıl tutulurken ayakta iki bacakla baldır yükseltmenin iki gri aşaması, topuklar aşağıda ve yukarıda; baldırlar kırmızı vurguludur, bol opak şort kalçayı ve üst bacak birleşimini örter."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-standing-calf-raise.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://www.nasm.org/resource-center/blog/training/calf-training-how-to-program-this-stubborn-muscle-group-for-clients"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-power-clean",
+  "slug": "dumbbell-power-clean",
+  "name": {"en": "Dumbbell Power Clean", "tr": "İki Dambılla Power Clean"},
+  "description": {
+    "en": "An explosive lift that brings a pair of dumbbells from the floor to the shoulders, caught in a partial squat before standing tall.",
+    "tr": "Bir çift dambılın yerden omuzlara patlayıcı biçimde çekilip kısmi squat pozisyonunda karşılanarak ayağa kalkıldığı güç kaldırışı."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": ["dumbbell"],
+  "primaryMuscles": ["glutes", "quadriceps", "traps"],
+  "secondaryMuscles": ["hamstrings", "shoulders", "abdominals"],
+  "instructions": {
+    "en": [
+      "Stand with your feet about hip-width apart and the dumbbells just outside your feet; bend at the hips and knees, keep your back neutral, and grip both weights.",
+      "Push through the floor and extend your hips and knees quickly while keeping the dumbbells close; pull under and catch them at your shoulders in a partial squat with elbows forward.",
+      "Stand tall with the dumbbells secure at the shoulders, then lower them to the floor under control."
+    ],
+    "tr": [
+      "Ayaklarını yaklaşık kalça genişliğinde açıp dambılları ayaklarının hemen dışına koy; kalçanı ve dizlerini bük, sırtını nötr tutup iki ağırlığı kavra.",
+      "Dambılları yakında tutarak yeri it ve kalça ile dizlerini hızla aç; altlarına girip dirseklerin önde olacak şekilde omuzlarında kısmi squat pozisyonunda karşıla.",
+      "Dambılları omuzlarında sabitleyip dik dur; ardından kontrollü biçimde yere indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "CrossFit Dumbbell Power Clean guide; original Atlas editorial record",
+    "url": "https://www.crossfit.com/essentials/the-dumbbell-power-clean",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": ["Dumbbell_Clean"],
+  "alternatives": ["two-dumbbell-hang-clean", "single-arm-dumbbell-clean", "dumbbell-snatch"],
+  "media": [{
+    "path": "media/exercises/dumbbell-power-clean.webp",
+    "role": "reference",
+    "alt": {
+      "en": "Two grayscale phases show a fully clothed athlete lifting two dumbbells from the floor and catching them at the shoulders; opaque top and shorts cover the torso and buttocks, with shoulders and quadriceps highlighted red.",
+      "tr": "İki dambılı yerden çekip omuzlarında karşılayan, spor kıyafetli sporcunun iki gri aşaması; opak üst ve şort gövdeyle kalçayı örter, omuz ve ön bacak kasları kırmızı vurguludur."
+    },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-power-clean.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+  }]
+}

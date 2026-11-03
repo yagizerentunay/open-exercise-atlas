@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-clean-and-jerk",
+  "slug": "barbell-clean-and-jerk",
+  "name": {"en": "Clean and Jerk", "tr": "Halterle Silkme"},
+  "description": {
+    "en": "An Olympic barbell lift that takes the bar from the floor to the shoulders in a clean, then drives it overhead in a jerk.",
+    "tr": "Halterin clean ile yerden omuzlara alındığı, ardından jerk ile baş üstüne itildiği olimpik kaldırış."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": ["barbell"],
+  "primaryMuscles": ["glutes", "quadriceps", "shoulders"],
+  "secondaryMuscles": ["hamstrings", "traps", "triceps", "abdominals"],
+  "instructions": {
+    "en": [
+      "Stand with the bar over mid-foot, grip just outside your legs, and brace with your shoulders slightly ahead of the bar.",
+      "Lift the bar close to your body and receive it on your shoulders in a stable front-rack position.",
+      "Dip slightly through the knees, drive the bar overhead, and split or push under it; recover your feet under your hips, lock out, then lower the bar with control."
+    ],
+    "tr": [
+      "Bar orta ayak hizasındayken ayakta dur, bacaklarının hemen dışından kavra ve omuzların barın biraz önündeyken gövdeni sabitle.",
+      "Barı vücuduna yakın çekip omuzlarında dengeli bir ön omuz pozisyonunda karşıla.",
+      "Dizlerini hafifçe büküp itiş yaparak barı baş üstüne çıkar; split veya push jerk ile altına gir, ayaklarını kalçalarının altına toplayıp kollarını kilitle ve barı kontrollü indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "CrossFit Clean and Jerk guide and movement standards; original Atlas editorial record",
+    "url": "https://www.crossfit.com/essentials/the-clean-and-jerk",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": ["Clean_and_Jerk"],
+  "alternatives": ["barbell-power-clean", "barbell-snatch", "barbell-push-press"],
+  "media": [{
+    "path": "media/exercises/barbell-clean-and-jerk.webp",
+    "role": "reference",
+    "alt": {
+      "en": "Three grayscale phases show an athlete in an opaque top and full-length leggings moving a barbell from floor setup to front rack and overhead split jerk; buttocks are covered and no red highlight appears on the leggings.",
+      "tr": "Spor üstü ve kalçayı örten uzun tayt giyen sporcunun halteri yerden ön omuz konumuna, ardından split jerk ile baş üstüne taşıdığı üç gri aşama; taytta kırmızı vurgu yoktur."
+    },
+    "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+    "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean-and-jerk.webp",
+    "license": "CC0-1.0",
+    "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+  }]
+}
