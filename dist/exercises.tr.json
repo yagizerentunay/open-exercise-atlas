@@ -2051,6 +2051,63 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-pullover",
+    "slug": "barbell-pullover",
+    "name": "Halterle Pullover",
+    "description": "Dambıl yerine halterle, bükülü kolları göğüs üzerinden başın arkasına yay çizerek götüren sırtüstü pullover hareketi.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Ayakların yere basacak şekilde düz sehpaya sırtüstü uzan; hafif yüklü halteri dar üstten tutuşla göğsünün üzerinde tut. Dirseklerini hafif bükülü ve sabit bırak; gerekirse gözcü kullan.",
+      "Üst sırtını sehpada ve kaburgalarını kontrollü tutarak barı yumuşak bir yayla başının gerisine indir; yalnız omuzlarının rahat ettiği noktaya kadar git, esnemeyi zorlama.",
+      "Üst kollarını öne getirerek barı göğsünün üzerine geri çek; dirsek açını koru ve belini aşırı kavislendirme."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Tiger Fitness Barbell Pullover; Muscle & Strength Barbell Pullover; original Atlas adaptation",
+      "url": "https://tigerfitness.com/blogs/exercise-database/barbell-pullover",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Bent-Arm_Barbell_Pullover"
+    ],
+    "alternatives": [
+      "dumbbell-pullover",
+      "machine-pullover",
+      "straight-arm-cable-pulldown"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-pullover.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a fully clothed athlete lying on a flat bench, holding a barbell above the chest and then lowering it in an arc behind the head; lats are highlighted red on the shirt.",
+          "tr": "İki gri aşamada opak spor kıyafetli sporcu düz sehpada sırtüstü yatıyor; halteri göğsünün üzerinde tutup ardından yay çizerek başının gerisine indiriyor. Kanat kasları tişört üzerinde kırmızı vurgulu."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-pullover.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-push-press",
     "slug": "barbell-push-press",
     "name": "Halterle Push Press",

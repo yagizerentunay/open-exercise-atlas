@@ -1262,3 +1262,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [StrengthLog Barbell Rear Delt Row](https://www.strengthlog.com/barbell-rear-delt-row/) and [GYMKC Barbell Rear Delt Row](https://gymkc.org/en/exercise/barbell-rear-delt-row/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`barbell-rear-delt-row.json`](../data/exercises/barbell-rear-delt-row.json); legacy ID `Barbell_Rear_Delt_Row`.
+
+
+## Barbell Pullover illustration — 4 November 2026
+
+- **Asset:** `media/exercises/barbell-pullover.webp` (1024 × 409 transparent WebP; SHA-256 `26c2ffa3883bb043d6a5e99f93f14ab5807bb3914a3e54fcb3535fe3be23a359`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase bent-arm barbell pullover. Transparent RGBA master: [`barbell-pullover-source.png`](pilots/barbell-pullover-source.png), SHA-256 `2387fcdac89dd8b23e0d5bbdde7d3723645e401c6de9de635ebfaa178a3611a9`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [Tiger Fitness Barbell Pullover](https://tigerfitness.com/blogs/exercise-database/barbell-pullover) and [Muscle & Strength Barbell Pullover](https://www.muscleandstrength.com/exercises/barbell-pullover.html); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-pullover.json`](../data/exercises/barbell-pullover.json); legacy ID `Bent-Arm_Barbell_Pullover`.
