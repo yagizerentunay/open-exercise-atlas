@@ -15570,6 +15570,78 @@
   },
   {
     "schemaVersion": 1,
+    "id": "kneeling-high-pulley-row",
+    "slug": "kneeling-high-pulley-row",
+    "name": {
+      "en": "Kneeling High Pulley Row",
+      "tr": "Diz Çökerek Yüksek Makarada Kablo Küreği"
+    },
+    "aliases": [
+      "Kneeling Cable High Row"
+    ],
+    "description": {
+      "en": "A high-pulley cable row performed from a tall-kneeling position, pulling a rope toward the upper chest with the elbows flared.",
+      "tr": "Dizler üzerinde dik duruşta, dirsekler yana açılarak halatın üst göğse çekildiği yüksek makaralı kablo küreği."
+    },
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable"
+    ],
+    "primaryMuscles": [
+      "upper-back"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "biceps",
+      "shoulders"
+    ],
+    "instructions": {
+      "en": [
+        "Attach a rope to a high pulley and kneel facing the station a short distance back, with your torso upright and arms extended toward the pulley.",
+        "Pull both rope ends toward your upper chest, leading with the elbows out to the sides and drawing the shoulder blades together; keep the trunk steady.",
+        "Extend your arms slowly to return under control without rounding your back or shrugging."
+      ],
+      "tr": [
+        "Yüksek makaraya halat takıp istasyona dönük, kısa bir mesafe geride diz çök; gövdeni dik ve kollarını makaraya doğru uzat.",
+        "Gövden sabitken dirseklerini yana açarak halatın iki ucunu üst göğsüne çek ve kürek kemiklerini birbirine yaklaştır.",
+        "Sırtını yuvarlamadan ve omuzlarını silkmeden kollarını yavaşça uzatıp kontrollü biçimde başlangıca dön."
+      ]
+    },
+    "source": {
+      "type": "original",
+      "title": "Skimble Kneeling High Pulley Row guide; original Atlas editorial record",
+      "url": "https://www.skimble.com/exercises/12911-kneeling-high-pulley-row-how-to-do-exercise",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Kneeling_High_Pulley_Row"
+    ],
+    "alternatives": [
+      "seated-high-back-row",
+      "kneeling-cable-lat-pulldown",
+      "seated-cable-row"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/kneeling-high-pulley-row.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase rear-view grayscale illustration of a kneeling high-pulley rope row, arms extended then elbows flared as the rope is pulled to the chest; upper back highlighted red.",
+          "tr": "Diz çökerek yüksek makarada halatlı küreğin iki aşamalı arkadan gri tonlu çizimi; kollar uzatılmışken halat üst göğse çekilir, üst sırt kırmızıyla vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kneeling-high-pulley-row.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/kneeling-high-pulley-row-2026-11-04.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "kneeling-hip-flexor-stretch",
     "slug": "kneeling-hip-flexor-stretch",
     "name": {

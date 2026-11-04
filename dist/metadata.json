@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 495,
+  "count": 496,
   "translationCoverage": {
     "tr": {
-      "present": 1485,
-      "total": 1485,
+      "present": 1488,
+      "total": 1488,
       "percent": 100
     }
   },
@@ -256,6 +256,7 @@
     "kettlebell-windmill",
     "knee-supported-copenhagen-plank",
     "kneeling-cable-lat-pulldown",
+    "kneeling-high-pulley-row",
     "kneeling-hip-flexor-stretch",
     "kneeling-machine-glute-press",
     "l-sit-hold",

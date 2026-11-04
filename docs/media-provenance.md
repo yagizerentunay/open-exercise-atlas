@@ -1233,3 +1233,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [Muscle & Strength One-Leg Seated Dumbbell Calf Raise](https://www.muscleandstrength.com/exercises/one-leg-seated-dumbbell-calf-raise.html); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`dumbbell-seated-one-leg-calf-raise.json`](../data/exercises/dumbbell-seated-one-leg-calf-raise.json); legacy ID `Dumbbell_Seated_One-Leg_Calf_Raise`.
+
+## Kneeling High Pulley Row illustration — 4 November 2026
+
+- **Asset:** `media/exercises/kneeling-high-pulley-row.webp` (1024 × 683 transparent WebP; SHA-256 `f0052437675bcb657681927131425e16adbc93c111ef1abb875a644208410b3f`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase kneeling rope row. Transparent RGBA master: [`kneeling-high-pulley-row-source.png`](pilots/kneeling-high-pulley-row-source.png), SHA-256 `a2435039d856e39be13f1c1345467e7e15429894b84d57f3283ee4a8b7b30cd1`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [Skimble Kneeling High Pulley Row](https://www.skimble.com/exercises/12911-kneeling-high-pulley-row-how-to-do-exercise); anatomy cross-reference: [BodyCraft PFT exercise manual](https://www.bodycraft.com/pdfs/exercise/PFTBook.pdf). Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`kneeling-high-pulley-row.json`](../data/exercises/kneeling-high-pulley-row.json); legacy ID `Kneeling_High_Pulley_Row`.
