@@ -1200,6 +1200,66 @@
   },
   {
     "schemaVersion": 1,
+    "id": "barbell-clean-from-blocks",
+    "slug": "barbell-clean-from-blocks",
+    "name": "Barbell Clean from Blocks",
+    "description": "A clean variation that starts with the bar motionless on blocks, usually around knee height, and receives it on the shoulders in a squat.",
+    "category": "strength",
+    "movementPattern": "hinge",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell",
+      "other"
+    ],
+    "primaryMuscles": [
+      "glutes",
+      "quadriceps",
+      "traps"
+    ],
+    "secondaryMuscles": [
+      "hamstrings",
+      "shoulders",
+      "abdominals",
+      "lower-back"
+    ],
+    "instructions": [
+      "Set stable lifting blocks so the bar rests motionless around knee height; stand close with a clean-width grip, neutral back and shoulders slightly ahead of the bar.",
+      "Push through the floor and extend your knees while keeping the bar close; finish the hip drive, pull under, and receive the bar on your shoulders in a balanced squat with elbows forward.",
+      "Stand with the bar secure in the front rack, then return it under control to the blocks before resetting."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Catalyst Athletics Block Clean exercise guide; original Atlas editorial record",
+      "url": "https://catalystathletics.com/exercise/379/Block-Clean/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Clean_from_Blocks"
+    ],
+    "alternatives": [
+      "barbell-clean",
+      "barbell-power-clean",
+      "barbell-hang-clean"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-clean-from-blocks.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show a clothed athlete starting a barbell clean with the motionless bar on knee-height blocks, then receiving it at the shoulders in a deep squat; opaque shirt and loose shorts cover the torso and hips, with exposed quadriceps and trapezius highlighted red.",
+          "tr": "Spor kıyafetli sporcunun halteri diz hizasındaki bloklarda hareketsiz başlattığı ve ardından derin squat altında omuzlarında karşıladığı iki gri aşama; opak üst ve bol şort gövdeyle kalçayı örter, açık ön bacak ve trapez kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean-from-blocks.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "barbell-clean-pull",
     "slug": "barbell-clean-pull",
     "name": "Barbell Clean Pull",

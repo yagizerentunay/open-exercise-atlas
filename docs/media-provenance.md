@@ -1,5 +1,15 @@
 # Media provenance
 
+## Barbell Clean from Blocks illustration — 4 November 2026
+
+- **Asset:** [`barbell-clean-from-blocks.webp`](../media/exercises/barbell-clean-from-blocks.webp) (93,248 bytes; SHA-256 `4068dc24197a2b2e8bb24ddab9b129d27341b1b02272026924e4fd596facecc3`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a motionless bar at knee height on blocks and a deep-squat clean catch. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red quadriceps, glute and trapezius highlights stay on exposed skin. Master: [`barbell-clean-from-blocks-source.png`](pilots/barbell-clean-from-blocks-source.png) (SHA-256 `9033ac856242d56e9e167953ecb2997be4c5e5fa76c6c8c493b25057bc1d045b`).
+- **Prompt:** Original transparent two-phase block clean; start with the barbell at knee height on stable blocks under a fully clothed athlete, finish with the bar received on the shoulders in a deep squat. Blocks are under the bar, never the athlete's feet. Grayscale Atlas-style anatomy art, red highlights only on exposed quadriceps, glutes and trapezius, opaque shirt and loose shorts, no labels or scenery.
+- **Movement source:** [Catalyst Athletics Block Clean](https://catalystathletics.com/exercise/379/Block-Clean/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-clean-from-blocks.json`](../data/exercises/barbell-clean-from-blocks.json).
+
 ## Incline Cable Lat Pulldown illustration — 4 November 2026
 
 - **Asset:** [`incline-cable-lat-pulldown.webp`](../media/exercises/incline-cable-lat-pulldown.webp) (200,786 bytes; SHA-256 `1b25d9a3f0f2d5e0d6a6a9709fc90bbdc2a3349e98a5aeb23f8d6a733e7d7a89`).
