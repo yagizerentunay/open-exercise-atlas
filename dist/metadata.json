@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 514,
+  "count": 515,
   "translationCoverage": {
     "tr": {
-      "present": 1542,
-      "total": 1542,
+      "present": 1545,
+      "total": 1545,
       "percent": 100
     }
   },
@@ -32,6 +32,7 @@
     "barbell-bulgarian-split-squat",
     "barbell-clean",
     "barbell-clean-and-jerk",
+    "barbell-clean-and-press",
     "barbell-clean-from-blocks",
     "barbell-clean-pull",
     "barbell-curl",

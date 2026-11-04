@@ -1,5 +1,15 @@
 # Media provenance
 
+## Barbell Clean and Press illustration — 4 November 2026
+
+- **Asset:** [`barbell-clean-and-press.webp`](../media/exercises/barbell-clean-and-press.webp) (64,508 bytes; SHA-256 `e99bd60e4ac39b4e77e4970d54b7f874907c8582f97968b0cc0ef16958519584`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in three phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a barbell clean from the floor to a front-rack catch followed by a strict overhead press with legs straight. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red shoulder, triceps, quadriceps and trapezius highlights stay on exposed skin. Master: [`barbell-clean-and-press-source.png`](pilots/barbell-clean-and-press-source.png) (SHA-256 `ddf882b67a209b8d5a5fe3561a8374246c1f2eb0819f84a21061fdb44c317b28`).
+- **Prompt:** Original transparent three-phase barbell clean and strict press: floor setup, front-rack catch in shallow squat, overhead lockout without a leg drive. Grayscale Atlas-style anatomy art; red shoulder/arm and leg highlights on exposed skin only; opaque shirt and loose shorts, no labels or scenery.
+- **Movement sources:** [FitnessTracker Clean and Press](https://fitnesstracker.ca/resources/exercises/clean-and-press/) and [Muscle & Fitness Barbell Clean and Press](https://www.muscleandfitness.com/exercise/workouts/full-body-exercises/barbell-clean-and-press/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-clean-and-press.json`](../data/exercises/barbell-clean-and-press.json).
+
 ## Standing Barbell Ab Rollout illustration — 4 November 2026
 
 - **Asset:** [`standing-barbell-ab-rollout.webp`](../media/exercises/standing-barbell-ab-rollout.webp) (67,964 bytes; SHA-256 `04d573028e6cffc4502cf98ab02c40e07e4c6d56ca21243c22bad99c10d6fcb6`).

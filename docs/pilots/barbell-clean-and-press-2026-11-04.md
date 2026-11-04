@@ -1,0 +1,9 @@
+# Barbell Clean and Press — pilot and provenance (4 November 2026)
+
+Legacy `Clean_and_Press` was absent from Atlas. It combines a floor-to-front-rack clean with a strict overhead press; existing Clean and Jerk finishes with a jerk, while Push Press uses a leg dip and drive, and Thruster starts with a front-rack squat.
+
+- **Movement sources:** [FitnessTracker Clean and Press](https://fitnesstracker.ca/resources/exercises/clean-and-press/) describes the floor clean, front-rack catch and overhead press; [Muscle & Fitness Barbell Clean and Press](https://www.muscleandfitness.com/exercise/workouts/full-body-exercises/barbell-clean-and-press/) confirms the three-stage sequence. Atlas cues are independently worded.
+- **Image prompt:** Original transparent three-phase illustration: same fully clothed athlete moves from barbell setup at the floor, to a shallow-squat front-rack clean catch, to a strict overhead press with straight legs. Red shoulders, triceps, quadriceps and traps on exposed skin; opaque shirt and loose shorts cover hips and groin; no labels or background.
+- **Method:** Generated with the built-in OpenAI image generator. Original RGBA PNG master: [`barbell-clean-and-press-source.png`](barbell-clean-and-press-source.png), SHA-256 `ddf882b67a209b8d5a5fe3561a8374246c1f2eb0819f84a21061fdb44c317b28`. Publication image: [`barbell-clean-and-press.webp`](../../media/exercises/barbell-clean-and-press.webp) (1024 × 437, transparent WebP quality 85), SHA-256 `e99bd60e4ac39b4e77e4970d54b7f874907c8582f97968b0cc0ef16958519584`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`barbell-clean-and-press.json`](../../data/exercises/barbell-clean-and-press.json); legacy ID `Clean_and_Press`.
