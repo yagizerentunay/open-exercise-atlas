@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 510,
+  "count": 511,
   "translationCoverage": {
     "tr": {
-      "present": 1530,
-      "total": 1530,
+      "present": 1533,
+      "total": 1533,
       "percent": 100
     }
   },
@@ -156,6 +156,7 @@
     "decline-dumbbell-fly",
     "decline-dumbbell-press",
     "decline-dumbbell-triceps-extension",
+    "decline-ez-bar-triceps-extension",
     "decline-push-up",
     "decline-sit-up",
     "deficit-deadlift",

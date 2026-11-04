@@ -1,5 +1,15 @@
 # Media provenance
 
+## Decline EZ-Bar Triceps Extension illustration — 4 November 2026
+
+- **Asset:** [`decline-ez-bar-triceps-extension.webp`](../media/exercises/decline-ez-bar-triceps-extension.webp) (93,094 bytes; SHA-256 `e29a28c59e64b850b20ba723e23dd87dc76628b00e85f92736805541e907a18c`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a decline-bench setup and the EZ bar lowered toward, but not touching, the forehead. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red triceps highlights stay on exposed skin. Master: [`decline-ez-bar-triceps-extension-source.png`](pilots/decline-ez-bar-triceps-extension-source.png) (SHA-256 `587063a399dadd892ed6cdbe6bd5ddfec0e2d674903f42c113ec3db8ee846364`).
+- **Prompt:** Original transparent two-phase decline EZ-bar triceps extension with feet secured under the decline bench rollers. Start with the bar over the chest; finish with elbows bent and bar near the forehead. Red triceps only, opaque shirt and loose shorts, no labels or scenery.
+- **Movement source:** [FitnessTracker Decline EZ Bar Triceps Extension](https://fitnesstracker.ca/resources/exercises/decline-ez-bar-triceps-extension/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`decline-ez-bar-triceps-extension.json`](../data/exercises/decline-ez-bar-triceps-extension.json).
+
 ## Incline Barbell Triceps Extension illustration — 4 November 2026
 
 - **Asset:** [`incline-barbell-triceps-extension.webp`](../media/exercises/incline-barbell-triceps-extension.webp) (86,106 bytes; SHA-256 `feef4f7d952329b255d6551b2efaf18208fbb2f61d940eb95b0e6d3927c9274a`).

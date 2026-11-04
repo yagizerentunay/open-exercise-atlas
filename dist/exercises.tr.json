@@ -7449,6 +7449,61 @@
   },
   {
     "schemaVersion": 1,
+    "id": "decline-ez-bar-triceps-extension",
+    "slug": "decline-ez-bar-triceps-extension",
+    "name": "Decline Sehpada EZ Bar Arka Kol Ekstansiyonu",
+    "description": "Üst kollar sabit tutulurken EZ barın alına doğru indirildiği, decline sehpada yapılan arka kol izolasyon hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "ez-bar",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Ayakların sabitlenmiş şekilde decline sehpaya uzan ve kontrol edebileceğin bir EZ barı dar üstten tutuşla göğsünün üzerinde tut.",
+      "Üst kollarını sabit bırakıp dirseklerini bükerek barı alnına doğru indir; başına değmeden dur.",
+      "Dirseklerini açıp barı göğsünün üzerine geri kaldır. Hareketi kontrollü yap ve dirseklerini yana açma."
+    ],
+    "source": {
+      "type": "original",
+      "title": "FitnessTracker Decline EZ Bar Triceps Extension; original Atlas editorial record",
+      "url": "https://fitnesstracker.ca/resources/exercises/decline-ez-bar-triceps-extension/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Decline_EZ_Bar_Triceps_Extension"
+    ],
+    "alternatives": [
+      "decline-dumbbell-triceps-extension",
+      "incline-barbell-triceps-extension",
+      "ez-bar-skull-crusher"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/decline-ez-bar-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete secured on a decline bench, holding an EZ bar above the chest and bending the elbows to lower it toward the forehead; opaque shirt and loose shorts cover the torso and hips, while the exposed triceps are highlighted red.",
+          "tr": "Decline sehpada ayakları sabitlenmiş sporcunun EZ barı göğsünün üzerinde tuttuğu ve dirseklerini bükerek alına doğru indirdiği iki gri aşama; opak üst ve bol şort gövdeyle kalçayı örter, açık arka kol kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/decline-ez-bar-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "decline-push-up",
     "slug": "decline-push-up",
     "name": "Ayakları Yükseltilmiş Şınav",
