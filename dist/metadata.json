@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 504,
+  "count": 505,
   "translationCoverage": {
     "tr": {
-      "present": 1512,
-      "total": 1512,
+      "present": 1515,
+      "total": 1515,
       "percent": 100
     }
   },
@@ -412,6 +412,7 @@
     "side-plank-reach-through",
     "side-plank-star",
     "side-v-up",
+    "single-arm-cable-crossover",
     "single-arm-cable-lateral-raise",
     "single-arm-cable-pushdown",
     "single-arm-cable-row",

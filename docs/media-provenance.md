@@ -1322,3 +1322,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [FitnessTracker Dumbbell Seated Box Jump](https://fitnesstracker.ca/resources/exercises/dumbbell-seated-box-jump/) and [Catalyst Athletics Seated Box Jump](https://catalystathletics.com/exercise/552/Seated-Box-Jump/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`dumbbell-seated-box-jump.json`](../data/exercises/dumbbell-seated-box-jump.json); legacy ID `Dumbbell_Seated_Box_Jump`.
+
+
+## Single-Arm Cable Crossover illustration — 4 November 2026
+
+- **Asset:** `media/exercises/single-arm-cable-crossover.webp` (1024 × 512 transparent WebP; SHA-256 `1d9d4adf59083f15ce432f9525abc2548a0784679bc7336e204d845e22bd9d92`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase single-arm cable crossover. Transparent RGBA master: [`single-arm-cable-crossover-source.png`](pilots/single-arm-cable-crossover-source.png), SHA-256 `a200d065e515c7940616f2efa1a4daaf61e70e8d92161d0ca9b0cf582c109a0e`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [FitnessTracker Single-Arm Cable Crossover](https://fitnesstracker.ca/resources/exercises/single-arm-cable-crossover/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`single-arm-cable-crossover.json`](../data/exercises/single-arm-cable-crossover.json); legacy ID `Single-Arm_Cable_Crossover`.
