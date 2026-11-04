@@ -1,0 +1,9 @@
+# Incline Cable Lat Pulldown — pilot and provenance (4 November 2026)
+
+The legacy list calls this `Cable_Incline_Pushdown`; Atlas has a standing straight-arm cable pulldown, but no version with the upper back supported on an incline bench. The bench-supported setup reduces the need to hold a standing torso angle while the nearly straight arms sweep from overhead toward the thighs. Atlas names it by the primary target and uses the legacy term as an alias.
+
+- **Movement reference:** [Fitness Volt — Cable Incline Pushdown](https://fitnessvolt.com/CABLE-INCLINE-PUSHDOWN/) (ACE-certified author); it describes the incline bench support, overhead start, nearly straight elbows, and lat-focused downward arc. Atlas cues are independently worded.
+- **Image prompt:** Original transparent two-phase bench-supported incline cable lat pulldown. START: seated against a 45-degree incline pad, back supported, arms nearly straight overhead holding a bar attached to the cable station behind the head. FINISH: same posture, bar swept down toward upper thighs, elbows still softly bent. Grayscale Atlas-style anatomy art, red lat highlights on exposed skin, loose opaque shorts, no labels.
+- **Method:** Generated with the built-in OpenAI image generator using Atlas art only as a style reference. Original RGBA PNG master is [`incline-cable-lat-pulldown-source.png`](incline-cable-lat-pulldown-source.png); publication image is [`incline-cable-lat-pulldown.webp`](../../media/exercises/incline-cable-lat-pulldown.webp), proportionally fit into 1024 × 1024 and encoded as WebP quality 85 with alpha retained.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`incline-cable-lat-pulldown.json`](../../data/exercises/incline-cable-lat-pulldown.json).

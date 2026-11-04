@@ -1,0 +1,9 @@
+# Barbell Rear-Delt Row — pilot and provenance (4 November 2026)
+
+The legacy `Barbell_Rear_Delt_Row` is distinct from Atlas's `bent-over-row`: the standard row keeps elbows nearer the torso and rows toward the lower ribs, while this wide-grip variation flares the elbows and rows toward the upper chest, emphasizing the rear deltoids and upper back. Atlas already includes a cable rope rear-delt row; this record adds the barbell implementation.
+
+- **Movement sources:** [StrengthLog Barbell Rear Delt Row](https://www.strengthlog.com/barbell-rear-delt-row/) and [GYMKC Barbell Rear Delt Row](https://gymkc.org/en/exercise/barbell-rear-delt-row/); Atlas cues independently written.
+- **Image prompt:** Original transparent two-phase wide-grip bent-over barbell rear-delt row. Left: stable hip hinge, neutral back, bar hanging below chest. Right: same hinge, bar rowed toward upper chest, elbows flared outward. Fully clothed athlete in opaque shirt and loose shorts; red rear-deltoid highlight on shirt, grayscale anatomy, full bar/plates visible, no text or arrows.
+- **Method:** Generated with the built-in OpenAI image generator. Original RGBA PNG master: [`barbell-rear-delt-row-source.png`](barbell-rear-delt-row-source.png), SHA-256 `cf2e84a7687fc94ce31a0508dbc9d7903c97699cdcaff6ccdd07b9f9c771ebc3`. Publication image: [`barbell-rear-delt-row.webp`](../../media/exercises/barbell-rear-delt-row.webp) (1024 × 512, transparent WebP quality 85), SHA-256 `2827df6fe226d80f156bd397ad9170c53d7bf4a4d37d58bf6d7bf4036072e654`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`barbell-rear-delt-row.json`](../../data/exercises/barbell-rear-delt-row.json); legacy ID `Barbell_Rear_Delt_Row`.

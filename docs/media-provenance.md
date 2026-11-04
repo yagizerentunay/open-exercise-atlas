@@ -1,4 +1,92 @@
-# Media provenance
+## Barbell Clean and Press illustration — 4 November 2026
+
+- **Asset:** [`barbell-clean-and-press.webp`](../media/exercises/barbell-clean-and-press.webp) (64,508 bytes; SHA-256 `e99bd60e4ac39b4e77e4970d54b7f874907c8582f97968b0cc0ef16958519584`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in three phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a barbell clean from the floor to a front-rack catch followed by a strict overhead press with legs straight. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red shoulder, triceps, quadriceps and trapezius highlights stay on exposed skin. Master: [`barbell-clean-and-press-source.png`](pilots/barbell-clean-and-press-source.png) (SHA-256 `ddf882b67a209b8d5a5fe3561a8374246c1f2eb0819f84a21061fdb44c317b28`).
+- **Prompt:** Original transparent three-phase barbell clean and strict press: floor setup, front-rack catch in shallow squat, overhead lockout without a leg drive. Grayscale Atlas-style anatomy art; red shoulder/arm and leg highlights on exposed skin only; opaque shirt and loose shorts, no labels or scenery.
+- **Movement sources:** [FitnessTracker Clean and Press](https://fitnesstracker.ca/resources/exercises/clean-and-press/) and [Muscle & Fitness Barbell Clean and Press](https://www.muscleandfitness.com/exercise/workouts/full-body-exercises/barbell-clean-and-press/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-clean-and-press.json`](../data/exercises/barbell-clean-and-press.json).
+
+## Standing Barbell Ab Rollout illustration — 4 November 2026
+
+- **Asset:** [`standing-barbell-ab-rollout.webp`](../media/exercises/standing-barbell-ab-rollout.webp) (67,964 bytes; SHA-256 `04d573028e6cffc4502cf98ab02c40e07e4c6d56ca21243c22bad99c10d6fcb6`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the advanced rollout from a standing hip hinge to a long near-horizontal extension with the feet planted. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red abdominal and oblique highlights stay on exposed skin. Master: [`standing-barbell-ab-rollout-source.png`](pilots/standing-barbell-ab-rollout-source.png) (SHA-256 `bf0142281d99637ef4317985b23af05a334cbe37d91ac12c38a55f2925f0e59e`).
+- **Prompt:** Original transparent two-phase standing barbell rollout; feet stay planted as the lightly loaded bar rolls from a hip hinge to full controlled extension. Red abs and obliques, modest lat/shoulder contribution, opaque shirt and loose shorts, no labels or scenery.
+- **Movement sources:** [RossTraining standing barbell rollout variations](https://rosstraining.com/blog/2013/03/barbell-rollout-variations-new-video-tutorial/) and [T-Nation difficulty note](https://archive.t-nation.com/training/tip-the-barbell-ab-rollout/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`standing-barbell-ab-rollout.json`](../data/exercises/standing-barbell-ab-rollout.json).
+
+## Kneeling Barbell Ab Rollout illustration — 4 November 2026
+
+- **Asset:** [`kneeling-barbell-ab-rollout.webp`](../media/exercises/kneeling-barbell-ab-rollout.webp) (60,876 bytes; SHA-256 `93361505c738252cf7c5a5d479bc4cf300c0f03e6787e414039668a8b8f55d70`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the kneeling rollout from bar-under-shoulders to a long braced position with knees on the mat. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red abdominal and oblique highlights stay on exposed skin. Master: [`kneeling-barbell-ab-rollout-source.png`](pilots/kneeling-barbell-ab-rollout-source.png) (SHA-256 `857cc8997175d02e70a734454ccb672ea99ad465f9d1e16c8ec3f6949ad3acf5`).
+- **Prompt:** Original transparent two-phase kneeling barbell rollout on a mat; knees remain planted, hands grip the bar at shoulder width, trunk stays braced and hips aligned as the bar rolls forward. Red abdominal and oblique highlights, opaque shirt and loose shorts, no labels or scenery.
+- **Movement source:** [Muscle & Fitness Barbell Rollout](https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/barbell-rollout/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`kneeling-barbell-ab-rollout.json`](../data/exercises/kneeling-barbell-ab-rollout.json).
+
+## Decline EZ-Bar Triceps Extension illustration — 4 November 2026
+
+- **Asset:** [`decline-ez-bar-triceps-extension.webp`](../media/exercises/decline-ez-bar-triceps-extension.webp) (93,094 bytes; SHA-256 `e29a28c59e64b850b20ba723e23dd87dc76628b00e85f92736805541e907a18c`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a decline-bench setup and the EZ bar lowered toward, but not touching, the forehead. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red triceps highlights stay on exposed skin. Master: [`decline-ez-bar-triceps-extension-source.png`](pilots/decline-ez-bar-triceps-extension-source.png) (SHA-256 `587063a399dadd892ed6cdbe6bd5ddfec0e2d674903f42c113ec3db8ee846364`).
+- **Prompt:** Original transparent two-phase decline EZ-bar triceps extension with feet secured under the decline bench rollers. Start with the bar over the chest; finish with elbows bent and bar near the forehead. Red triceps only, opaque shirt and loose shorts, no labels or scenery.
+- **Movement source:** [FitnessTracker Decline EZ Bar Triceps Extension](https://fitnesstracker.ca/resources/exercises/decline-ez-bar-triceps-extension/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`decline-ez-bar-triceps-extension.json`](../data/exercises/decline-ez-bar-triceps-extension.json).
+
+## Incline Barbell Triceps Extension illustration — 4 November 2026
+
+- **Asset:** [`incline-barbell-triceps-extension.webp`](../media/exercises/incline-barbell-triceps-extension.webp) (86,106 bytes; SHA-256 `feef4f7d952329b255d6551b2efaf18208fbb2f61d940eb95b0e6d3927c9274a`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. The two poses show a controlled elbow extension on an incline bench with the bar moving behind the head; upper arms stay angled and stable. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red triceps highlights stay on exposed skin. Master: [`incline-barbell-triceps-extension-source.png`](pilots/incline-barbell-triceps-extension-source.png) (SHA-256 `cffa4e02705298bcd7ea52ff490ef4a6b3740d34725295f2d8f403a88ec0da00`).
+- **Prompt:** Original transparent two-phase incline barbell triceps extension on a 35-degree bench, straight bar with narrow overhand grip. Start over shoulders, then lower behind head with elbows bent and upper arms steady; red triceps only, opaque shirt and loose shorts, no rack or labels.
+- **Movement source:** [StrengthLog Barbell Incline Triceps Extension](https://www.strengthlog.com/barbell-incline-triceps-extension/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`incline-barbell-triceps-extension.json`](../data/exercises/incline-barbell-triceps-extension.json).
+
+## Barbell Clean from Blocks illustration — 4 November 2026
+
+- **Asset:** [`barbell-clean-from-blocks.webp`](../media/exercises/barbell-clean-from-blocks.webp) (93,248 bytes; SHA-256 `4068dc24197a2b2e8bb24ddab9b129d27341b1b02272026924e4fd596facecc3`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a motionless bar at knee height on blocks and a deep-squat clean catch. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red quadriceps, glute and trapezius highlights stay on exposed skin. Master: [`barbell-clean-from-blocks-source.png`](pilots/barbell-clean-from-blocks-source.png) (SHA-256 `9033ac856242d56e9e167953ecb2997be4c5e5fa76c6c8c493b25057bc1d045b`).
+- **Prompt:** Original transparent two-phase block clean; start with the barbell at knee height on stable blocks under a fully clothed athlete, finish with the bar received on the shoulders in a deep squat. Blocks are under the bar, never the athlete's feet. Grayscale Atlas-style anatomy art, red highlights only on exposed quadriceps, glutes and trapezius, opaque shirt and loose shorts, no labels or scenery.
+- **Movement source:** [Catalyst Athletics Block Clean](https://catalystathletics.com/exercise/379/Block-Clean/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-clean-from-blocks.json`](../data/exercises/barbell-clean-from-blocks.json).
+
+## Incline Cable Lat Pulldown illustration — 4 November 2026
+
+- **Asset:** [`incline-cable-lat-pulldown.webp`](../media/exercises/incline-cable-lat-pulldown.webp) (200,786 bytes; SHA-256 `1b25d9a3f0f2d5e0d6a6a9709fc90bbdc2a3349e98a5aeb23f8d6a733e7d7a89`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a seated, back-supported incline pulldown from overhead toward the upper thighs, with a cable path to the station behind the head. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red lat highlights stay on exposed skin. Master: [`incline-cable-lat-pulldown-source.png`](pilots/incline-cable-lat-pulldown-source.png) (SHA-256 `e126947975ee25c1d34f58e6baf8e76c809f837603421ef0dae3f3b086879149`).
+- **Prompt:** Original transparent two-phase incline-bench cable lat pulldown, seated with upper back supported, bar overhead then swept toward the thighs, nearly straight arms. Grayscale Atlas-style anatomy art, red lat highlights only on exposed skin, loose opaque shorts, no labels or background. Existing Atlas art was used only as a style reference.
+- **Movement source:** [Fitness Volt Cable Incline Pushdown](https://fitnessvolt.com/CABLE-INCLINE-PUSHDOWN/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`incline-cable-lat-pulldown.json`](../data/exercises/incline-cable-lat-pulldown.json).
+
+## Wide-Grip Barbell Bench Press illustration — 4 November 2026
+
+- **Asset:** [`wide-grip-barbell-bench-press.webp`](../media/exercises/wide-grip-barbell-bench-press.webp) (161,004 bytes; SHA-256 `a80df3660fe9bc039271854fbe5f772f1aa12e9d015c8aff64fa4d18bbdc407d`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a moderate wide grip, controlled bar path to the mid-to-lower chest, and a rack with safety arms. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red chest highlights stay on exposed skin. Master: [`wide-grip-barbell-bench-press-source.png`](pilots/wide-grip-barbell-bench-press-source.png) (SHA-256 `80afe03dc3f6b9286fd474ebd4da6a22ad75333f31d2143acebc8ed0a2e98b2c`).
+- **Prompt:** Original transparent two-phase flat-bench wide-grip barbell press in a rack; START at the mid-to-lower chest with a moderate grip and near-vertical forearms, FINISH pressed above the chest. Grayscale Atlas-style anatomical fitness art, red pectoral highlights only on exposed skin, loose opaque shorts, safety arms, no spotter or labels. Existing Atlas art was used only as a style reference.
+- **Movement source:** [Cleveland Clinic bench press form](https://health.clevelandclinic.org/bench-press-form) and [Barbell Medicine bench press guide](https://www.barbellmedicine.com/blog/how-to-bench-press/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`wide-grip-barbell-bench-press.json`](../data/exercises/wide-grip-barbell-bench-press.json).
+
+## Dumbbell Neutral-Grip Bench Press illustration — 4 November 2026
+
+- **Asset:** [`dumbbell-neutral-grip-bench-press.webp`](../media/exercises/dumbbell-neutral-grip-bench-press.webp) (133,410 bytes; SHA-256 `7e4b99e41922aea29a4d9ac8ec3713202dacac8844b6b6ed8bfc1e6376e21fd2`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. The left phase shows the dumbbells lowered beside the chest; the right phase shows the press over mid-chest, with palms facing each other throughout. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red pectoral highlights stay on exposed skin. Master: [`dumbbell-neutral-grip-bench-press-source.png`](pilots/dumbbell-neutral-grip-bench-press-source.png) (SHA-256 `e3b68fb65ff8767bbe754602a3bbbcc07d8a50077e660929d5cbe24b064fc8e5`).
+- **Prompt:** Original transparent two-phase flat-bench neutral-grip dumbbell press illustration, matching the Atlas reference style. START at the left with dumbbells lowered beside the chest and elbows moderately tucked; FINISH at the right with the weights over mid-chest, elbows nearly extended, and palms still facing each other. Grayscale anatomical fitness art, red chest highlights only on exposed skin, loose opaque shorts, no labels or background. The existing `dumbbell-bench-press.webp` was used only as a style reference.
+- **Movement source:** [Baylor Dumbbell Bench Press / Dumbbell Neutral Grip Bench Press](https://www.baylor.edu/content/services/document.php/86939.pdf) and [Human Kinetics Neutral-Grip Dumbbell Bench Press](https://us.humankinetics.com/blogs/excerpt/how-to-perform-a-dumbbell-bench-press); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`dumbbell-neutral-grip-bench-press.json`](../data/exercises/dumbbell-neutral-grip-bench-press.json).
 
 ## Seated Barbell Shoulder Press illustration — 25 October 2026
 
@@ -1185,3 +1273,150 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [Life Fitness PowerMill Climber specifications and product guide; legacy Stairmaster and Step_Mill records](https://www.lifefitness.com/en-us/catalog/cardio/stair-climbers-stepper-machines/powermill-climber); Atlas cues are independently worded.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed.
 - **Record:** [`stair-climber.json`](../data/exercises/stair-climber.json); legacy IDs `Stairmaster, Step_Mill`.
+
+## One-Arm Flat Bench Dumbbell Flye illustration — 4 November 2026
+
+- **Asset:** `media/exercises/one-arm-flat-bench-dumbbell-flye.webp` (1024 × 683 transparent WebP; SHA-256 `3bf47fdd6993c03440acfc6e127f2891be58dd86c40bc0ba97233f7cb9344617`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase unilateral flat-bench fly illustration. Transparent RGBA master: [`one-arm-flat-bench-dumbbell-flye-source.png`](pilots/one-arm-flat-bench-dumbbell-flye-source.png), SHA-256 `76e0670456e36eda4259c3665c296110a16ccf265073fc2112f3a529ef0ed1ea`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [PureGym Single-Arm Fly](https://www.puregym.com/exercises/chest/chest-fly/single-arm-fly/); cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`one-arm-flat-bench-dumbbell-flye.json`](../data/exercises/one-arm-flat-bench-dumbbell-flye.json); legacy ID `One-Arm_Flat_Bench_Dumbbell_Flye`.
+
+## Dumbbell Seated One-Leg Calf Raise illustration — 4 November 2026
+
+- **Asset:** `media/exercises/dumbbell-seated-one-leg-calf-raise.webp` (1024 × 683 transparent WebP; SHA-256 `17cdccbbecc2ba7bed1d924c6b1b797eee89d301f989d6352852ae439ddaf5a2`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase seated unilateral calf raise. Transparent RGBA master: [`dumbbell-seated-one-leg-calf-raise-source.png`](pilots/dumbbell-seated-one-leg-calf-raise-source.png), SHA-256 `319249f9ac79a1bbfdc9f8a0e7b00584e76c523698fb151abda008bb92c9105d`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [Muscle & Strength One-Leg Seated Dumbbell Calf Raise](https://www.muscleandstrength.com/exercises/one-leg-seated-dumbbell-calf-raise.html); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`dumbbell-seated-one-leg-calf-raise.json`](../data/exercises/dumbbell-seated-one-leg-calf-raise.json); legacy ID `Dumbbell_Seated_One-Leg_Calf_Raise`.
+
+## Kneeling High Pulley Row illustration — 4 November 2026
+
+- **Asset:** `media/exercises/kneeling-high-pulley-row.webp` (1024 × 683 transparent WebP; SHA-256 `f0052437675bcb657681927131425e16adbc93c111ef1abb875a644208410b3f`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase kneeling rope row. Transparent RGBA master: [`kneeling-high-pulley-row-source.png`](pilots/kneeling-high-pulley-row-source.png), SHA-256 `a2435039d856e39be13f1c1345467e7e15429894b84d57f3283ee4a8b7b30cd1`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [Skimble Kneeling High Pulley Row](https://www.skimble.com/exercises/12911-kneeling-high-pulley-row-how-to-do-exercise); anatomy cross-reference: [BodyCraft PFT exercise manual](https://www.bodycraft.com/pdfs/exercise/PFTBook.pdf). Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`kneeling-high-pulley-row.json`](../data/exercises/kneeling-high-pulley-row.json); legacy ID `Kneeling_High_Pulley_Row`.
+
+
+## Barbell Pin Press illustration — 4 November 2026
+
+- **Asset:** `media/exercises/barbell-pin-press.webp` (1024 × 683 transparent WebP; SHA-256 `2fc4032e70a3a16b93d942adbb4bf6caad53aeb44a909cb2d0ae7fd6dff4792f`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase barbell pin press. Transparent RGBA master: [`barbell-pin-press-source.png`](pilots/barbell-pin-press-source.png), SHA-256 `220468db7dc6de3976d0f782f6b62f7219a78bb2b0231c47fc4cca6d13f2aeaa`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [BarBend Pin Press Guide](https://barbend.com/news/pin-press-guide/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-pin-press.json`](../data/exercises/barbell-pin-press.json); legacy ID `Pin_Presses`.
+
+
+## Barbell Rear-Delt Row illustration — 4 November 2026
+
+- **Asset:** `media/exercises/barbell-rear-delt-row.webp` (1024 × 512 transparent WebP; SHA-256 `2827df6fe226d80f156bd397ad9170c53d7bf4a4d37d58bf6d7bf4036072e654`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase wide-grip bent-over row with elbows flared toward the upper chest. Transparent RGBA master: [`barbell-rear-delt-row-source.png`](pilots/barbell-rear-delt-row-source.png), SHA-256 `cf2e84a7687fc94ce31a0508dbc9d7903c97699cdcaff6ccdd07b9f9c771ebc3`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [StrengthLog Barbell Rear Delt Row](https://www.strengthlog.com/barbell-rear-delt-row/) and [GYMKC Barbell Rear Delt Row](https://gymkc.org/en/exercise/barbell-rear-delt-row/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-rear-delt-row.json`](../data/exercises/barbell-rear-delt-row.json); legacy ID `Barbell_Rear_Delt_Row`.
+
+
+## Barbell Pullover illustration — 4 November 2026
+
+- **Asset:** `media/exercises/barbell-pullover.webp` (1024 × 409 transparent WebP; SHA-256 `26c2ffa3883bb043d6a5e99f93f14ab5807bb3914a3e54fcb3535fe3be23a359`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase bent-arm barbell pullover. Transparent RGBA master: [`barbell-pullover-source.png`](pilots/barbell-pullover-source.png), SHA-256 `2387fcdac89dd8b23e0d5bbdde7d3723645e401c6de9de635ebfaa178a3611a9`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [Tiger Fitness Barbell Pullover](https://tigerfitness.com/blogs/exercise-database/barbell-pullover) and [Muscle & Strength Barbell Pullover](https://www.muscleandstrength.com/exercises/barbell-pullover.html); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-pullover.json`](../data/exercises/barbell-pullover.json); legacy ID `Bent-Arm_Barbell_Pullover`.
+
+
+## Bent-Over One-Arm Landmine Row illustration — 4 November 2026
+
+- **Asset:** `media/exercises/bent-over-one-arm-landmine-row.webp` (1024 × 437 transparent WebP; SHA-256 `4abc39c0404429c8b001aef1df7cb5d1e45902dc8d73d36a7df7317d8fe28394`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase unilateral bent-over long-bar row with free hand braced on knee. Transparent RGBA master: [`bent-over-one-arm-landmine-row-source.png`](pilots/bent-over-one-arm-landmine-row-source.png), SHA-256 `4e3959dfbb1f69f9d8f73e3bad91f98ffd893e87a9125e12f0da6f1e8cb1b82b`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [FitnessTracker Bent Over One-Arm Long Bar Row](https://fitnesstracker.ca/resources/exercises/bent-over-one-arm-long-bar-row/) and [One-Arm Long Bar Row](https://fitnesstracker.ca/resources/exercises/one-arm-long-bar-row/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`bent-over-one-arm-landmine-row.json`](../data/exercises/bent-over-one-arm-landmine-row.json); legacy IDs `Bent_Over_One-Arm_Long_Bar_Row`, `One-Arm_Long_Bar_Row`.
+
+
+## Romanian Deadlift from Deficit illustration — 4 November 2026
+
+- **Asset:** `media/exercises/romanian-deadlift-from-deficit.webp` (1024 × 683 transparent WebP; SHA-256 `e6a0bd75bfa5aca8ba980c9493a4ff63eb2b71324308fd18862b69ebedcf56aa`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase barbell Romanian deadlift from a raised platform. Transparent RGBA master: [`deficit-romanian-deadlift-source.png`](pilots/deficit-romanian-deadlift-source.png), SHA-256 `34e5b438a82620affe0fa6f5f197554d6ee1a8ca6cfa17b70f8facdf3fcbd9ff`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [FitnessTracker Romanian Deadlift from Deficit](https://fitnesstracker.ca/resources/exercises/romanian-deadlift-from-deficit/) and [StrengthLog Romanian Deadlift](https://www.strengthlog.com/romanian-deadlift/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`romanian-deadlift-from-deficit.json`](../data/exercises/romanian-deadlift-from-deficit.json); legacy ID `Romanian_Deadlift_from_Deficit`.
+
+
+## Close-Grip Dumbbell Press illustration — 4 November 2026
+
+- **Asset:** `media/exercises/close-grip-dumbbell-press.webp` (1024 × 419 transparent WebP; SHA-256 `52b634badb0921fb7e368054962ebaa5735eb2d3da2f55f68d5e8ffd4146ffca`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase flat-bench close-grip crush press with dumbbells held together. Transparent RGBA master: [`close-grip-dumbbell-press-source.png`](pilots/close-grip-dumbbell-press-source.png), SHA-256 `9d5f52078f8656dcf0cfd4c282b1f6cf256adb08eee1b727cc3f028a0a2c80ec`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [Muscle & Strength Close Grip Dumbbell Press](https://www.muscleandstrength.com/node/4096) and [NASM Close Grip Bench Press](https://www.nasm.org/resource-center/exercise-library/close-grip-bench-press); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`close-grip-dumbbell-press.json`](../data/exercises/close-grip-dumbbell-press.json); legacy ID `Close-Grip_Dumbbell_Press`.
+
+
+## Decline Dumbbell Triceps Extension illustration — 4 November 2026
+
+- **Asset:** `media/exercises/decline-dumbbell-triceps-extension.webp` (1024 × 437 transparent WebP; SHA-256 `ee19b5ac19366daddda85486754a009dd27fe16d50c30afc1cf9755aa4105022`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase decline-bench dumbbell triceps extension. Transparent RGBA master: [`decline-dumbbell-triceps-extension-source.png`](pilots/decline-dumbbell-triceps-extension-source.png), SHA-256 `7b1a992d552a4b540f017addb1df5bbbb036bb9f91c436bf51818ca565e10a24`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [WeightTraining.guide Decline Dumbbell Triceps Extension](https://weighttraining.guide/exercises/decline-dumbbell-triceps-extension/) and [FitnessTracker Decline Dumbbell Triceps Extension](https://fitnesstracker.ca/resources/exercises/decline-dumbbell-triceps-extension/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`decline-dumbbell-triceps-extension.json`](../data/exercises/decline-dumbbell-triceps-extension.json); legacy ID `Decline_Dumbbell_Triceps_Extension`.
+
+
+## Dumbbell Seated Box Jump illustration — 4 November 2026
+
+- **Asset:** `media/exercises/dumbbell-seated-box-jump.webp` (1024 × 683 transparent WebP; SHA-256 `02146e4b510619dc0d8eb151264b6f9328a7bcdb05b7d8d79af1574cc63fb16e`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase dumbbell seated box jump. Transparent RGBA master: [`dumbbell-seated-box-jump-source.png`](pilots/dumbbell-seated-box-jump-source.png), SHA-256 `3c5c558c8c33d936ceae69f04c8659fdc4ccb91405d556224c82f62a6dcdf771`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [FitnessTracker Dumbbell Seated Box Jump](https://fitnesstracker.ca/resources/exercises/dumbbell-seated-box-jump/) and [Catalyst Athletics Seated Box Jump](https://catalystathletics.com/exercise/552/Seated-Box-Jump/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`dumbbell-seated-box-jump.json`](../data/exercises/dumbbell-seated-box-jump.json); legacy ID `Dumbbell_Seated_Box_Jump`.
+
+
+## Single-Arm Cable Crossover illustration — 4 November 2026
+
+- **Asset:** `media/exercises/single-arm-cable-crossover.webp` (1024 × 512 transparent WebP; SHA-256 `1d9d4adf59083f15ce432f9525abc2548a0784679bc7336e204d845e22bd9d92`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase single-arm cable crossover. Transparent RGBA master: [`single-arm-cable-crossover-source.png`](pilots/single-arm-cable-crossover-source.png), SHA-256 `a200d065e515c7940616f2efa1a4daaf61e70e8d92161d0ca9b0cf582c109a0e`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [FitnessTracker Single-Arm Cable Crossover](https://fitnesstracker.ca/resources/exercises/single-arm-cable-crossover/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`single-arm-cable-crossover.json`](../data/exercises/single-arm-cable-crossover.json); legacy ID `Single-Arm_Cable_Crossover`.
+
+
+## Seated One-Arm Cable Row illustration — 4 November 2026
+
+- **Asset:** `media/exercises/seated-one-arm-cable-row.webp` (1024 × 683 transparent WebP; SHA-256 `1676ae191292a0ff412fcad691ea37920f2f7f6126b43745d72898f9534d4e0d`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase seated one-arm cable row. Transparent RGBA master: [`seated-one-arm-cable-row-source.png`](pilots/seated-one-arm-cable-row-source.png), SHA-256 `7bb4b2abc9f739882445a8c7b93270ddaaf0bb5c866926da764c42765d7929b4`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [WeightTraining.guide Seated One-Arm Cable Row](https://weighttraining.guide/exercises/seated-one-arm-cable-row/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`seated-one-arm-cable-row.json`](../data/exercises/seated-one-arm-cable-row.json); legacy ID `Seated_One-arm_Cable_Pulley_Rows`.
+
+
+## Incline Bench Pull illustration — 4 November 2026
+
+- **Asset:** `media/exercises/incline-bench-pull.webp` (1024 × 512 transparent WebP; SHA-256 `9c1159b08adc5b74c2aadf431d2ae0ef814b275ac1975b1d1c7a53d9f01bd602`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase incline bench pull. Transparent RGBA master: [`incline-bench-pull-source.png`](pilots/incline-bench-pull-source.png), SHA-256 `2ebb1d023bda86fc7c83f703a0f956ed1145d12981aff561431f2505e685130a`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [Catalyst Athletics Bench Row](https://www.catalystathletics.com/exercise/807/Bench-Row/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`incline-bench-pull.json`](../data/exercises/incline-bench-pull.json); legacy ID `Incline_Bench_Pull`.
+
+
+## Barbell Front-Foot-Elevated Reverse Lunge illustration — 4 November 2026
+
+- **Asset:** `media/exercises/barbell-front-foot-elevated-reverse-lunge.webp` (1024 × 683 transparent WebP; SHA-256 `3afeb0182c943955da4593e1a8a15a94e4413e8004d7c3b131bc654c8003b06c`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase barbell front-foot-elevated reverse lunge. Transparent RGBA master: [`barbell-front-foot-elevated-reverse-lunge-source.png`](pilots/barbell-front-foot-elevated-reverse-lunge-source.png), SHA-256 `7678505a24b8d99cb9a3d05b8fefa5a21e73ca9455af3337c45eba391d7698ca`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [FitnessTracker Elevated Back Lunge](https://fitnesstracker.ca/resources/exercises/elevated-back-lunge/) and [Men's Health Deficit Reverse Lunge](https://www.menshealth.com/fitness/a42882336/deficit-reverse-lunge/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-front-foot-elevated-reverse-lunge.json`](../data/exercises/barbell-front-foot-elevated-reverse-lunge.json); legacy ID `Elevated_Back_Lunge`.

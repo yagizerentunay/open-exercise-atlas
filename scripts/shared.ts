@@ -49,11 +49,15 @@ export function loadAndValidate(base = root): Exercise[] {
   for (const ex of records) for (const related of [...(ex.alternatives ?? []), ...(ex.variations ?? [])]) {
     if (related === ex.id || !ids.has(related)) throw new Error(`${ex.id}: broken relationship ${related}`)
   }
-  const registry = read('data/id-registry.json', base) as Record<string, string>
+  const registry = read('data/id-registry.json', base) as Record<string, string | null>
   for (const [id, registeredId] of Object.entries(registry)) {
     const ex = records.find((item) => item.id === id)
+    if (registeredId === null) {
+      if (ex) throw new Error(`Retired ID still has a record: ${id}`)
+      continue
+    }
     if (!ex || registeredId !== id) throw new Error(`ID registry changed or removed: ${id}`)
   }
-  for (const ex of records) if (!registry[ex.id]) throw new Error(`ID missing from registry: ${ex.id}`)
+  for (const ex of records) if (registry[ex.id] !== ex.id) throw new Error(`ID missing from registry: ${ex.id}`)
   return records
 }

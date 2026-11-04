@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "seated-one-arm-cable-row",
+  "slug": "seated-one-arm-cable-row",
+  "name": {
+    "en": "Seated One-Arm Cable Row",
+    "tr": "Oturarak Tek Kol Kablo Küreği"
+  },
+  "description": {
+    "en": "A unilateral horizontal cable row performed seated at a low pulley, completing one side before switching arms.",
+    "tr": "Alçak makarada oturarak yapılan yatay tek taraflı kablo küreği; bir taraf tamamlanıp sonra kol değiştirilir."
+  },
+  "category": "strength",
+  "movementPattern": "pull",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": [
+    "cable"
+  ],
+  "primaryMuscles": [
+    "upper-back",
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "shoulders"
+  ],
+  "instructions": {
+    "en": [
+      "Sit at a low cable row station and brace both feet on the footplates. Hold a single handle in one hand with your knees slightly bent and back neutral; let the working arm reach forward under tension.",
+      "Keep your torso steady and elbow close to your side as you pull the handle toward your lower ribs or abdomen. Pause briefly without twisting your body.",
+      "Extend the working arm forward under control. Complete the set on this side, then switch hands."
+    ],
+    "tr": [
+      "Alçak kablo kürek istasyonuna oturup iki ayağını dayama plakalarına sabitle. Dizlerini hafif büküp sırtını nötr tutarak tek tutacağı bir elinle kavra; çalışan kolunu gergin kabloya karşı öne uzat.",
+      "Gövdeni sabit ve dirseğini yanına yakın tutarak tutacağı alt kaburgana veya karnına doğru çek. Gövdeni döndürmeden kısa süre durakla.",
+      "Çalışan kolunu kontrollü biçimde öne uzat. Bu tarafın setini tamamlayıp el değiştir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "WeightTraining.guide Seated One-Arm Cable Row; original Atlas adaptation",
+    "url": "https://weighttraining.guide/exercises/seated-one-arm-cable-row/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Seated_One-arm_Cable_Pulley_Rows"
+  ],
+  "alternatives": [
+    "seated-cable-row",
+    "single-arm-cable-row",
+    "seated-close-grip-cable-row"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/seated-one-arm-cable-row.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete seated at a low cable station, first reaching forward with one arm and then rowing the handle to the abdomen; upper back highlighted red.",
+        "tr": "İki gri aşamada opak spor kıyafetli sporcu alçak kabloda oturur; önce tek kolunu öne uzatır, sonra tutacağı karnına doğru çeker. Üst sırt kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/seated-one-arm-cable-row.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

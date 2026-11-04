@@ -1,0 +1,9 @@
+# Kneeling High Pulley Row — pilot and provenance (4 November 2026)
+
+The legacy catalogue contains `Kneeling_High_Pulley_Row`. Atlas had a seated high-back row from a low pulley and a tall-kneeling lat pulldown, but neither represented this high-pulley rope row with elbows flared toward the upper chest. The pulling angle and upper-back emphasis distinguish it from those records.
+
+- **Movement reference:** [Skimble Kneeling High Pulley Row](https://www.skimble.com/exercises/12911-kneeling-high-pulley-row-how-to-do-exercise) confirms the rope, kneeling start and outward elbows. The [BodyCraft PFT exercise manual](https://www.bodycraft.com/pdfs/exercise/PFTBook.pdf) documents a kneeling high row and lists lats, rhomboids, trapezius and biceps. Atlas cues are independently written.
+- **Image prompt:** Original transparent two-phase anatomical illustration in the approved Atlas style. Rear view: kneeling upright before a high cable pulley, arms extended with rope, then elbows flared as rope reaches upper chest; upper back highlighted red; loose opaque shorts cover hips, groin and upper-thigh crease; no text or watermark.
+- **Method:** Built-in OpenAI image generator. RGBA master: [`kneeling-high-pulley-row-source.png`](kneeling-high-pulley-row-source.png), 1536 × 1024, SHA-256 `a2435039d856e39be13f1c1345467e7e15429894b84d57f3283ee4a8b7b30cd1`. Publication image: [`kneeling-high-pulley-row.webp`](../../media/exercises/kneeling-high-pulley-row.webp), 1024 × 683, WebP quality 85, alpha retained, SHA-256 `f0052437675bcb657681927131425e16adbc93c111ef1abb875a644208410b3f`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`kneeling-high-pulley-row.json`](../../data/exercises/kneeling-high-pulley-row.json).

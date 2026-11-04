@@ -1,0 +1,9 @@
+# Barbell Pullover — pilot and provenance (4 November 2026)
+
+The legacy `Bent-Arm_Barbell_Pullover` is not present in Atlas. Existing `dumbbell-pullover` and `machine-pullover` use different equipment; this record adds the barbell implementation, with elbows softly bent through the arc. Atlas instructions stop at comfortable shoulder range and avoid forcing a deep stretch.
+
+- **Movement sources:** [Tiger Fitness Barbell Pullover](https://tigerfitness.com/blogs/exercise-database/barbell-pullover) and [Muscle & Strength Barbell Pullover](https://www.muscleandstrength.com/exercises/barbell-pullover.html); Atlas cues independently written.
+- **Image prompt:** Original transparent two-phase bent-arm barbell pullover. Athlete lies along a flat bench, feet planted, close overhand bar grip, softly bent elbows. Left phase: bar above chest. Right: same bend, bar lowered in a controlled arc behind head to comfortable shoulder range. Fully clothed athlete in opaque top and loose shorts; red lat highlights on shirt, grayscale anatomy, complete bench/body/bar visible, no text or arrows.
+- **Method:** Generated with the built-in OpenAI image generator. Original RGBA PNG master: [`barbell-pullover-source.png`](barbell-pullover-source.png), SHA-256 `2387fcdac89dd8b23e0d5bbdde7d3723645e401c6de9de635ebfaa178a3611a9`. Publication image: [`barbell-pullover.webp`](../../media/exercises/barbell-pullover.webp) (1024 × 409, transparent WebP quality 85), SHA-256 `26c2ffa3883bb043d6a5e99f93f14ab5807bb3914a3e54fcb3535fe3be23a359`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`barbell-pullover.json`](../../data/exercises/barbell-pullover.json); legacy ID `Bent-Arm_Barbell_Pullover`.

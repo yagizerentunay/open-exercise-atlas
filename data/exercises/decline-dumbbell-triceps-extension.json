@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "decline-dumbbell-triceps-extension",
+  "slug": "decline-dumbbell-triceps-extension",
+  "name": {
+    "en": "Decline Dumbbell Triceps Extension",
+    "tr": "Eğimli Sehpada Dambıl Triceps Açışı"
+  },
+  "description": {
+    "en": "A lying triceps isolation exercise performed on a decline bench with one dumbbell in each hand.",
+    "tr": "Her elde bir dambılla, eğimli sehpada yatarak yapılan arka kol izolasyon hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "isolation",
+  "force": "push",
+  "mechanic": "isolation",
+  "difficulty": "intermediate",
+  "equipment": [
+    "dumbbell",
+    "bench"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": {
+    "en": [
+      "Set a decline bench to a mild angle, secure your feet beneath the pads, and lie back holding a light dumbbell in each hand above your shoulders with palms facing each other.",
+      "Keep your upper arms steady and bend your elbows to lower the dumbbells in a curved path beside your ears. Use a range you can control comfortably.",
+      "Extend your elbows to raise the dumbbells back over your shoulders without swinging or locking forcefully."
+    ],
+    "tr": [
+      "Düşüş açısı hafif olan bir sehpaya ayaklarını pedlerin altına sabitleyip uzan; her elinde hafif bir dambılı avuç içlerin birbirine bakacak şekilde omuzlarının üzerinde tut.",
+      "Üst kollarını sabit tutup dirseklerini bükerek dambılları yay çizerek kulaklarının yanına indir. Rahatça kontrol edebildiğin hareket aralığını kullan.",
+      "Savurma yapmadan ve dirseklerini sertçe kilitlemeden dirseklerini açıp dambılları omuzlarının üzerine geri kaldır."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "WeightTraining.guide Decline Dumbbell Triceps Extension; FitnessTracker Decline Dumbbell Triceps Extension; original Atlas adaptation",
+    "url": "https://weighttraining.guide/exercises/decline-dumbbell-triceps-extension/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Decline_Dumbbell_Triceps_Extension"
+  ],
+  "alternatives": [
+    "lying-overhead-dumbbell-triceps-extension",
+    "dumbbell-overhead-triceps-extension",
+    "overhead-cable-triceps-extension"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/decline-dumbbell-triceps-extension.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two grayscale phases show a fully clothed athlete lying on a decline bench with feet secured, lowering two dumbbells beside the ears and extending the elbows; triceps are highlighted red.",
+        "tr": "İki gri aşamada opak spor kıyafetli sporcu ayakları sabitlenmiş eğimli sehpada yatar; iki dambılı kulaklarının yanına indirip dirseklerini açar. Arka kol kasları kırmızı vurgulu."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/decline-dumbbell-triceps-extension.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}

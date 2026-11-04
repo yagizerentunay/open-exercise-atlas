@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "barbell-clean-and-press",
+  "slug": "barbell-clean-and-press",
+  "name": {
+    "en": "Barbell Clean and Press",
+    "tr": "Halterle Clean ve Press"
+  },
+  "description": {
+    "en": "A compound lift that cleans a barbell from the floor to the front rack, then presses it overhead without a leg drive.",
+    "tr": "Halterin yerden clean ile ön omuz konumuna alınıp bacak itişi olmadan baş üstüne press edildiği bileşik kaldırış."
+  },
+  "category": "strength",
+  "movementPattern": "hinge",
+  "force": "pull",
+  "mechanic": "compound",
+  "difficulty": "advanced",
+  "equipment": [
+    "barbell"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "hamstrings",
+    "traps",
+    "triceps",
+    "abdominals",
+    "lower-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with the bar over mid-foot, feet about shoulder-width apart, and grip just outside your legs. Brace your trunk and keep your back neutral.",
+      "Drive through the floor and extend your hips and knees, keeping the bar close; pull under it and catch it securely on your front shoulders with elbows forward, then stand tall.",
+      "Without dipping your knees, press the bar overhead until your elbows are straight and the bar is balanced over mid-foot. Lower it under control to the front rack, then return it safely to the floor."
+    ],
+    "tr": [
+      "Barı orta ayak hizasında, ayaklarını yaklaşık omuz genişliğinde açarak dur; bacaklarının hemen dışından kavra. Gövdeni sıkıp sırtını nötr tut.",
+      "Barı yakında tutarak yeri it ve kalça ile dizlerini aç; barın altına girip dirseklerin önde olacak şekilde ön omuzlarında güvenle karşıla, ardından ayağa kalk.",
+      "Dizlerini dip yapmadan barı dirseklerin açılana ve orta ayağının üzerinde dengelenene kadar baş üstüne press et. Ön omuzlara kontrollü indir, ardından barı güvenle yere bırak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "FitnessTracker Clean and Press guide; Muscle & Fitness barbell clean and press; original Atlas editorial record",
+    "url": "https://fitnesstracker.ca/resources/exercises/clean-and-press/",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": [
+    "Clean_and_Press"
+  ],
+  "alternatives": [
+    "barbell-clean-and-jerk",
+    "barbell-power-clean",
+    "barbell-push-press"
+  ],
+  "media": [
+    {
+      "path": "media/exercises/barbell-clean-and-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Three grayscale phases show a clothed athlete setting up over a barbell, catching it at the front shoulders in a shallow squat, then pressing it overhead with straight legs; opaque shirt and loose shorts cover the torso and hips, while exposed shoulders, triceps and quadriceps are highlighted red.",
+        "tr": "Spor kıyafetli sporcunun halter başında hazırlanıp barı kısa squat altında ön omuzlarında karşıladığı ve bacaklarını düz tutarak baş üstüne press ettiği üç gri aşama; opak üst ve bol şort gövdeyle kalçayı örter, açık omuz, arka kol ve ön bacak kasları kırmızı vurguludur."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-clean-and-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+    }
+  ]
+}
