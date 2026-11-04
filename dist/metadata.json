@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 497,
+  "count": 498,
   "translationCoverage": {
     "tr": {
-      "present": 1491,
-      "total": 1491,
+      "present": 1494,
+      "total": 1494,
       "percent": 100
     }
   },
@@ -49,6 +49,7 @@
     "barbell-pin-press",
     "barbell-power-clean",
     "barbell-push-press",
+    "barbell-rear-delt-row",
     "barbell-reverse-curl",
     "barbell-reverse-lunge",
     "barbell-reverse-wrist-curl",

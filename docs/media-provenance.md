@@ -1252,3 +1252,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [BarBend Pin Press Guide](https://barbend.com/news/pin-press-guide/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`barbell-pin-press.json`](../data/exercises/barbell-pin-press.json); legacy ID `Pin_Presses`.
+
+
+## Barbell Rear-Delt Row illustration — 4 November 2026
+
+- **Asset:** `media/exercises/barbell-rear-delt-row.webp` (1024 × 512 transparent WebP; SHA-256 `2827df6fe226d80f156bd397ad9170c53d7bf4a4d37d58bf6d7bf4036072e654`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase wide-grip bent-over row with elbows flared toward the upper chest. Transparent RGBA master: [`barbell-rear-delt-row-source.png`](pilots/barbell-rear-delt-row-source.png), SHA-256 `cf2e84a7687fc94ce31a0508dbc9d7903c97699cdcaff6ccdd07b9f9c771ebc3`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [StrengthLog Barbell Rear Delt Row](https://www.strengthlog.com/barbell-rear-delt-row/) and [GYMKC Barbell Rear Delt Row](https://gymkc.org/en/exercise/barbell-rear-delt-row/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-rear-delt-row.json`](../data/exercises/barbell-rear-delt-row.json); legacy ID `Barbell_Rear_Delt_Row`.
