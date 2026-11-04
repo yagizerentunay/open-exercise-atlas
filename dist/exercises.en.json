@@ -11911,6 +11911,61 @@
   },
   {
     "schemaVersion": 1,
+    "id": "incline-barbell-triceps-extension",
+    "slug": "incline-barbell-triceps-extension",
+    "name": "Incline Barbell Triceps Extension",
+    "description": "A triceps isolation exercise performed on an incline bench, lowering a bar behind the head while keeping the upper arms steady.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Set the bench back to about 30–45 degrees. Lie back with feet planted and hold a light barbell with a narrow overhand grip above your shoulders.",
+      "Keep your upper arms steady and angled slightly toward your head. Bend your elbows to lower the bar in a controlled arc behind your head, away from your face.",
+      "Extend your elbows to return the bar above your shoulders without letting your upper arms swing; use a load you can control throughout."
+    ],
+    "source": {
+      "type": "original",
+      "title": "StrengthLog Barbell Incline Triceps Extension guide; original Atlas editorial record",
+      "url": "https://www.strengthlog.com/barbell-incline-triceps-extension/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Incline_Barbell_Triceps_Extension"
+    ],
+    "alternatives": [
+      "barbell-lying-triceps-extension",
+      "cable-incline-triceps-extension",
+      "ez-bar-skull-crusher"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-barbell-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete supported on an inclined bench, holding a bar above the shoulders and lowering it behind the head with the upper arms steady; an opaque shirt and loose shorts cover the torso and hips, while the exposed triceps are highlighted red.",
+          "tr": "Eğimli sehpada sırtı destekli sporcunun barı omuzlarının üzerinde tuttuğu ve üst kollarını sabit bırakarak başının arkasına indirdiği iki gri aşama; opak üst ve bol şort gövdeyle kalçayı örter, açık arka kol kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-barbell-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "incline-bench-dumbbell-reverse-fly",
     "slug": "incline-bench-dumbbell-reverse-fly",
     "name": "Incline Bench Dumbbell Reverse Fly",

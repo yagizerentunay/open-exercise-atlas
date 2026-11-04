@@ -1,5 +1,15 @@
 # Media provenance
 
+## Incline Barbell Triceps Extension illustration — 4 November 2026
+
+- **Asset:** [`incline-barbell-triceps-extension.webp`](../media/exercises/incline-barbell-triceps-extension.webp) (86,106 bytes; SHA-256 `feef4f7d952329b255d6551b2efaf18208fbb2f61d940eb95b0e6d3927c9274a`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. The two poses show a controlled elbow extension on an incline bench with the bar moving behind the head; upper arms stay angled and stable. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red triceps highlights stay on exposed skin. Master: [`incline-barbell-triceps-extension-source.png`](pilots/incline-barbell-triceps-extension-source.png) (SHA-256 `cffa4e02705298bcd7ea52ff490ef4a6b3740d34725295f2d8f403a88ec0da00`).
+- **Prompt:** Original transparent two-phase incline barbell triceps extension on a 35-degree bench, straight bar with narrow overhand grip. Start over shoulders, then lower behind head with elbows bent and upper arms steady; red triceps only, opaque shirt and loose shorts, no rack or labels.
+- **Movement source:** [StrengthLog Barbell Incline Triceps Extension](https://www.strengthlog.com/barbell-incline-triceps-extension/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`incline-barbell-triceps-extension.json`](../data/exercises/incline-barbell-triceps-extension.json).
+
 ## Barbell Clean from Blocks illustration — 4 November 2026
 
 - **Asset:** [`barbell-clean-from-blocks.webp`](../media/exercises/barbell-clean-from-blocks.webp) (93,248 bytes; SHA-256 `4068dc24197a2b2e8bb24ddab9b129d27341b1b02272026924e4fd596facecc3`).

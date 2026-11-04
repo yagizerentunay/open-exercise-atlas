@@ -1,0 +1,9 @@
+# Incline Barbell Triceps Extension — pilot and provenance (4 November 2026)
+
+Legacy `Incline_Barbell_Triceps_Extension` was missing. Atlas already had a lying barbell triceps extension, but that record uses a flat bench; this movement uses an incline bench and lowers the bar behind the head while the upper arms remain angled and steady.
+
+- **Movement source:** [StrengthLog Barbell Incline Triceps Extension](https://www.strengthlog.com/barbell-incline-triceps-extension/); the 30–45 degree setup, elbow path and controlled lowering inform independently worded Atlas cues.
+- **Image prompt:** Original transparent two-phase illustration of an athlete lying on a 35-degree incline bench with a straight barbell held in a narrow overhand grip. Show arms extended over shoulders, then elbows bent while upper arms stay still and the bar lowers behind the head, away from the face. Red triceps only; opaque shirt and loose shorts cover hips and groin; no rack, labels or background.
+- **Method:** Generated with the built-in OpenAI image generator. Original RGBA PNG master: [`incline-barbell-triceps-extension-source.png`](incline-barbell-triceps-extension-source.png), SHA-256 `cffa4e02705298bcd7ea52ff490ef4a6b3740d34725295f2d8f403a88ec0da00`. Publication image: [`incline-barbell-triceps-extension.webp`](../../media/exercises/incline-barbell-triceps-extension.webp) (1024 × 512, transparent WebP quality 85), SHA-256 `feef4f7d952329b255d6551b2efaf18208fbb2f61d940eb95b0e6d3927c9274a`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`incline-barbell-triceps-extension.json`](../../data/exercises/incline-barbell-triceps-extension.json); legacy ID `Incline_Barbell_Triceps_Extension`.
