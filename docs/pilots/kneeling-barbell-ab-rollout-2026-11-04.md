@@ -1,0 +1,9 @@
+# Kneeling Barbell Ab Rollout — pilot and provenance (4 November 2026)
+
+Legacy `Barbell_Ab_Rollout_-_On_Knees` was not represented in Atlas. The existing Ab Wheel Rollout uses a dedicated wheel; this variation rolls a barbell with round plates and uses a mat under the knees.
+
+- **Movement source:** [Muscle & Fitness Barbell Rollout](https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/barbell-rollout/), which describes the kneeling start, shoulder-width grip, controlled rollout and braced return. Atlas cues are independently worded.
+- **Image prompt:** Original transparent two-phase kneeling barbell rollout on a mat. Start kneeling with hands shoulder-width on a bar directly under the shoulders; finish rolled forward with arms extended and torso in a straight braced line from shoulders through hips to knees. Keep knees down, neutral lower back and hips aligned. Red abs and obliques; opaque shirt and loose shorts; no labels or background.
+- **Method:** Generated with the built-in OpenAI image generator. Original RGBA PNG master: [`kneeling-barbell-ab-rollout-source.png`](kneeling-barbell-ab-rollout-source.png), SHA-256 `857cc8997175d02e70a734454ccb672ea99ad465f9d1e16c8ec3f6949ad3acf5`. Publication image: [`kneeling-barbell-ab-rollout.webp`](../../media/exercises/kneeling-barbell-ab-rollout.webp) (1024 × 512, transparent WebP quality 85), SHA-256 `93361505c738252cf7c5a5d479bc4cf300c0f03e6787e414039668a8b8f55d70`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`kneeling-barbell-ab-rollout.json`](../../data/exercises/kneeling-barbell-ab-rollout.json); legacy ID `Barbell_Ab_Rollout_-_On_Knees`.

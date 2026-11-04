@@ -1,5 +1,15 @@
 # Media provenance
 
+## Kneeling Barbell Ab Rollout illustration — 4 November 2026
+
+- **Asset:** [`kneeling-barbell-ab-rollout.webp`](../media/exercises/kneeling-barbell-ab-rollout.webp) (60,876 bytes; SHA-256 `93361505c738252cf7c5a5d479bc4cf300c0f03e6787e414039668a8b8f55d70`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the kneeling rollout from bar-under-shoulders to a long braced position with knees on the mat. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red abdominal and oblique highlights stay on exposed skin. Master: [`kneeling-barbell-ab-rollout-source.png`](pilots/kneeling-barbell-ab-rollout-source.png) (SHA-256 `857cc8997175d02e70a734454ccb672ea99ad465f9d1e16c8ec3f6949ad3acf5`).
+- **Prompt:** Original transparent two-phase kneeling barbell rollout on a mat; knees remain planted, hands grip the bar at shoulder width, trunk stays braced and hips aligned as the bar rolls forward. Red abdominal and oblique highlights, opaque shirt and loose shorts, no labels or scenery.
+- **Movement source:** [Muscle & Fitness Barbell Rollout](https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/barbell-rollout/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`kneeling-barbell-ab-rollout.json`](../data/exercises/kneeling-barbell-ab-rollout.json).
+
 ## Barbell Jefferson Squat illustration — 4 November 2026
 
 - **Asset:** [`barbell-jefferson-squat.webp`](../media/exercises/barbell-jefferson-squat.webp) (133,112 bytes; SHA-256 `066013c219a900cc42cb9ed1fe46a96d64707c6ab1695ea1aaf1711f6c72e094`).

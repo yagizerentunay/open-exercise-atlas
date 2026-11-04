@@ -13051,6 +13051,63 @@
   },
   {
     "schemaVersion": 1,
+    "id": "kneeling-barbell-ab-rollout",
+    "slug": "kneeling-barbell-ab-rollout",
+    "name": "Kneeling Barbell Ab Rollout",
+    "description": "A kneeling anti-extension core exercise that rolls a barbell forward and back while the trunk stays braced.",
+    "category": "strength",
+    "movementPattern": "core",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "mat"
+    ],
+    "primaryMuscles": [
+      "abdominals",
+      "obliques"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "lats",
+      "glutes"
+    ],
+    "instructions": [
+      "Place a mat under your knees and kneel behind a loaded barbell with round plates that roll smoothly. Grip the bar at shoulder width with it directly below your shoulders; brace your abs and keep your back neutral.",
+      "Keeping your knees planted and hips aligned with your torso, roll the bar forward under control. Stop at the farthest position where you can keep your ribs down and lower back neutral.",
+      "Pull the bar back toward your knees by bracing your abs and lats; do not let your hips sag or use momentum."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Fitness Barbell Rollout guide; original Atlas editorial record",
+      "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/barbell-rollout/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Ab_Rollout_-_On_Knees"
+    ],
+    "alternatives": [
+      "ab-wheel-rollout",
+      "stability-ball-rollout"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/kneeling-barbell-ab-rollout.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete kneeling on a mat and rolling a barbell forward from beneath the shoulders to an extended, braced position; an opaque shirt and loose shorts cover the torso and hips, with exposed abdominals and obliques highlighted red.",
+          "tr": "Mat üzerinde diz çöken sporcunun halteri omuzlarının altından öne yuvarlayıp gövdesini sıkı ve uzatılmış konumda tuttuğu iki gri aşama; opak üst ve bol şort gövdeyle kalçayı örter, açık karın ve yan karın kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/kneeling-barbell-ab-rollout.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "kneeling-cable-lat-pulldown",
     "slug": "kneeling-cable-lat-pulldown",
     "name": "Kneeling Cable Lat Pulldown",
