@@ -23230,6 +23230,62 @@
   },
   {
     "schemaVersion": 1,
+    "id": "standing-barbell-ab-rollout",
+    "slug": "standing-barbell-ab-rollout",
+    "name": "Ayakta Halterle Karın Roll-out",
+    "description": "Sıkı gövde ayaklardan başlayarak yere doğru uzatılıp geri toplanırken halterin kullanıldığı ileri seviye tam vücut roll-out hareketi.",
+    "category": "strength",
+    "movementPattern": "core",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "abdominals",
+      "obliques"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "lats",
+      "glutes"
+    ],
+    "instructions": [
+      "Ayaklarını yaklaşık kalça genişliğinde açıp yuvarlak plakalı hafif yüklü halterin arkasında dur. Kalçadan öne eğil, barı omuz genişliğinde kavra ve sırtını nötr tutarak gövdeni sık.",
+      "Bacaklarını ve ayaklarını yerde sabit tutup barı kontrollü biçimde öne yuvarla; gövden uzun bir çizgi oluşturup yere yaklaşsın, kalçanın sarkmasına izin verme.",
+      "Gövdeni sıkı tutarak barı ayaklarına doğru geri çek ve kontrollü biçimde ayağa kalk. Bu ileri seviye bir varyasyondur; önce diz üstü roll-out hareketini öğren ve yalnızca güvenle geri dönebildiğin aralıkta çalış."
+    ],
+    "source": {
+      "type": "original",
+      "title": "RossTraining standing barbell rollout variations; T-Nation difficulty note; original Atlas editorial record",
+      "url": "https://rosstraining.com/blog/2013/03/barbell-rollout-variations-new-video-tutorial/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Ab_Rollout"
+    ],
+    "alternatives": [
+      "kneeling-barbell-ab-rollout",
+      "ab-wheel-rollout"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/standing-barbell-ab-rollout.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete rolling a barbell from a standing hip hinge into a long near-horizontal position with feet planted, then reversing; an opaque shirt and loose shorts cover the torso and hips, with exposed abdominals and obliques highlighted red.",
+          "tr": "Ayakta kalçadan öne eğik duruştan ayakları yerde tutup halteri öne yuvarlayarak uzun ve yere yakın konuma uzanan, ardından geri dönen sporcunun iki gri aşaması; opak üst ve bol şort gövdeyle kalçayı örter, açık karın ve yan karın kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-barbell-ab-rollout.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "standing-bent-knee-calf-raise",
     "slug": "standing-bent-knee-calf-raise",
     "name": "Dizler Bükülü Ayakta Baldır Yükseltme",

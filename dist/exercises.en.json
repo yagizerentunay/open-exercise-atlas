@@ -23230,6 +23230,62 @@
   },
   {
     "schemaVersion": 1,
+    "id": "standing-barbell-ab-rollout",
+    "slug": "standing-barbell-ab-rollout",
+    "name": "Standing Barbell Ab Rollout",
+    "description": "An advanced full-body rollout that starts from the feet and uses a barbell to extend the braced body toward the floor and return.",
+    "category": "strength",
+    "movementPattern": "core",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "advanced",
+    "equipment": [
+      "barbell"
+    ],
+    "primaryMuscles": [
+      "abdominals",
+      "obliques"
+    ],
+    "secondaryMuscles": [
+      "shoulders",
+      "lats",
+      "glutes"
+    ],
+    "instructions": [
+      "Stand with feet about hip-width and a lightly loaded barbell with round plates on the floor. Hinge forward, grip the bar at shoulder width and brace your trunk with a neutral back.",
+      "Keeping your legs and feet planted, roll the bar forward under control until your body forms a long line and your torso approaches parallel with the floor; keep your hips from sagging.",
+      "Pull the bar back toward your feet while maintaining a tight trunk, then return to standing with control. This is an advanced variation; learn the kneeling rollout first and only use a range you can reverse safely."
+    ],
+    "source": {
+      "type": "original",
+      "title": "RossTraining standing barbell rollout variations; T-Nation difficulty note; original Atlas editorial record",
+      "url": "https://rosstraining.com/blog/2013/03/barbell-rollout-variations-new-video-tutorial/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Ab_Rollout"
+    ],
+    "alternatives": [
+      "kneeling-barbell-ab-rollout",
+      "ab-wheel-rollout"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/standing-barbell-ab-rollout.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two grayscale phases show an athlete rolling a barbell from a standing hip hinge into a long near-horizontal position with feet planted, then reversing; an opaque shirt and loose shorts cover the torso and hips, with exposed abdominals and obliques highlighted red.",
+          "tr": "Ayakta kalçadan öne eğik duruştan ayakları yerde tutup halteri öne yuvarlayarak uzun ve yere yakın konuma uzanan, ardından geri dönen sporcunun iki gri aşaması; opak üst ve bol şort gövdeyle kalçayı örter, açık karın ve yan karın kasları kırmızı vurguludur."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/standing-barbell-ab-rollout.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "standing-bent-knee-calf-raise",
     "slug": "standing-bent-knee-calf-raise",
     "name": "Standing Bent-Knee Calf Raise",

@@ -1,5 +1,15 @@
 # Media provenance
 
+## Standing Barbell Ab Rollout illustration — 4 November 2026
+
+- **Asset:** [`standing-barbell-ab-rollout.webp`](../media/exercises/standing-barbell-ab-rollout.webp) (67,964 bytes; SHA-256 `04d573028e6cffc4502cf98ab02c40e07e4c6d56ca21243c22bad99c10d6fcb6`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the advanced rollout from a standing hip hinge to a long near-horizontal extension with the feet planted. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red abdominal and oblique highlights stay on exposed skin. Master: [`standing-barbell-ab-rollout-source.png`](pilots/standing-barbell-ab-rollout-source.png) (SHA-256 `bf0142281d99637ef4317985b23af05a334cbe37d91ac12c38a55f2925f0e59e`).
+- **Prompt:** Original transparent two-phase standing barbell rollout; feet stay planted as the lightly loaded bar rolls from a hip hinge to full controlled extension. Red abs and obliques, modest lat/shoulder contribution, opaque shirt and loose shorts, no labels or scenery.
+- **Movement sources:** [RossTraining standing barbell rollout variations](https://rosstraining.com/blog/2013/03/barbell-rollout-variations-new-video-tutorial/) and [T-Nation difficulty note](https://archive.t-nation.com/training/tip-the-barbell-ab-rollout/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`standing-barbell-ab-rollout.json`](../data/exercises/standing-barbell-ab-rollout.json).
+
 ## Kneeling Barbell Ab Rollout illustration — 4 November 2026
 
 - **Asset:** [`kneeling-barbell-ab-rollout.webp`](../media/exercises/kneeling-barbell-ab-rollout.webp) (60,876 bytes; SHA-256 `93361505c738252cf7c5a5d479bc4cf300c0f03e6787e414039668a8b8f55d70`).
