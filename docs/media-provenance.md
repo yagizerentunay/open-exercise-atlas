@@ -1342,3 +1342,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [WeightTraining.guide Seated One-Arm Cable Row](https://weighttraining.guide/exercises/seated-one-arm-cable-row/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`seated-one-arm-cable-row.json`](../data/exercises/seated-one-arm-cable-row.json); legacy ID `Seated_One-arm_Cable_Pulley_Rows`.
+
+
+## Incline Bench Pull illustration — 4 November 2026
+
+- **Asset:** `media/exercises/incline-bench-pull.webp` (1024 × 512 transparent WebP; SHA-256 `9c1159b08adc5b74c2aadf431d2ae0ef814b275ac1975b1d1c7a53d9f01bd602`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase incline bench pull. Transparent RGBA master: [`incline-bench-pull-source.png`](pilots/incline-bench-pull-source.png), SHA-256 `2ebb1d023bda86fc7c83f703a0f956ed1145d12981aff561431f2505e685130a`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [Catalyst Athletics Bench Row](https://www.catalystathletics.com/exercise/807/Bench-Row/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`incline-bench-pull.json`](../data/exercises/incline-bench-pull.json); legacy ID `Incline_Bench_Pull`.

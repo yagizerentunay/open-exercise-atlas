@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 506,
+  "count": 507,
   "translationCoverage": {
     "tr": {
-      "present": 1518,
-      "total": 1518,
+      "present": 1521,
+      "total": 1521,
       "percent": 100
     }
   },
@@ -245,6 +245,7 @@
     "hollow-body-hold",
     "incline-barbell-bench-press",
     "incline-bench-dumbbell-reverse-fly",
+    "incline-bench-pull",
     "incline-cable-chest-press",
     "incline-cable-fly",
     "incline-cable-lat-pulldown",
