@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 491,
+  "count": 492,
   "translationCoverage": {
     "tr": {
-      "present": 1473,
-      "total": 1473,
+      "present": 1476,
+      "total": 1476,
       "percent": 100
     }
   },
@@ -493,6 +493,7 @@
     "weighted-dip",
     "weighted-pull-up",
     "weighted-push-up",
+    "wide-grip-barbell-bench-press",
     "wide-grip-lat-pulldown",
     "wide-grip-pull-up",
     "worlds-greatest-stretch",

@@ -1,5 +1,15 @@
 # Media provenance
 
+## Wide-Grip Barbell Bench Press illustration — 4 November 2026
+
+- **Asset:** [`wide-grip-barbell-bench-press.webp`](../media/exercises/wide-grip-barbell-bench-press.webp) (161,004 bytes; SHA-256 `a80df3660fe9bc039271854fbe5f772f1aa12e9d015c8aff64fa4d18bbdc407d`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a moderate wide grip, controlled bar path to the mid-to-lower chest, and a rack with safety arms. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red chest highlights stay on exposed skin. Master: [`wide-grip-barbell-bench-press-source.png`](pilots/wide-grip-barbell-bench-press-source.png) (SHA-256 `80afe03dc3f6b9286fd474ebd4da6a22ad75333f31d2143acebc8ed0a2e98b2c`).
+- **Prompt:** Original transparent two-phase flat-bench wide-grip barbell press in a rack; START at the mid-to-lower chest with a moderate grip and near-vertical forearms, FINISH pressed above the chest. Grayscale Atlas-style anatomical fitness art, red pectoral highlights only on exposed skin, loose opaque shorts, safety arms, no spotter or labels. Existing Atlas art was used only as a style reference.
+- **Movement source:** [Cleveland Clinic bench press form](https://health.clevelandclinic.org/bench-press-form) and [Barbell Medicine bench press guide](https://www.barbellmedicine.com/blog/how-to-bench-press/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`wide-grip-barbell-bench-press.json`](../data/exercises/wide-grip-barbell-bench-press.json).
+
 ## Dumbbell Neutral-Grip Bench Press illustration — 4 November 2026
 
 - **Asset:** [`dumbbell-neutral-grip-bench-press.webp`](../media/exercises/dumbbell-neutral-grip-bench-press.webp) (133,410 bytes; SHA-256 `7e4b99e41922aea29a4d9ac8ec3713202dacac8844b6b6ed8bfc1e6376e21fd2`).
