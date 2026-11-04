@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 507,
+  "count": 508,
   "translationCoverage": {
     "tr": {
-      "present": 1521,
-      "total": 1521,
+      "present": 1524,
+      "total": 1524,
       "percent": 100
     }
   },
@@ -39,6 +39,7 @@
     "barbell-finger-curl",
     "barbell-floor-press",
     "barbell-forward-lunge",
+    "barbell-front-foot-elevated-reverse-lunge",
     "barbell-glute-bridge",
     "barbell-hack-squat",
     "barbell-hang-clean",

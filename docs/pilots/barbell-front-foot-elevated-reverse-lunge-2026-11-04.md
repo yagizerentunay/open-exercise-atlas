@@ -1,0 +1,9 @@
+# Barbell Front-Foot-Elevated Reverse Lunge — pilot and provenance (4 November 2026)
+
+Legacy `Elevated_Back_Lunge` is absent from Atlas. Existing barbell reverse lunge starts on the floor; `front-foot-elevated-split-squat` is a static split stance without the backward step or barbell. This loaded deficit reverse lunge starts with both feet on a low platform and increases the bottom range as one leg steps back to the floor.
+
+- **Movement source:** [FitnessTracker Elevated Back Lunge](https://fitnesstracker.ca/resources/exercises/elevated-back-lunge/) and [Men's Health Deficit Reverse Lunge](https://www.menshealth.com/fitness/a42882336/deficit-reverse-lunge/); Atlas cues independently written.
+- **Image prompt:** Original transparent two-phase illustration of a fully clothed athlete with a barbell across the upper back, standing on a short stable platform, then stepping one leg backward to the floor into a controlled deep lunge. Quadriceps highlighted red; no background or labels.
+- **Method:** Generated with the built-in OpenAI image generator. Original RGBA PNG master: [`barbell-front-foot-elevated-reverse-lunge-source.png`](barbell-front-foot-elevated-reverse-lunge-source.png), SHA-256 `7678505a24b8d99cb9a3d05b8fefa5a21e73ca9455af3337c45eba391d7698ca`. Publication image: [`barbell-front-foot-elevated-reverse-lunge.webp`](../../media/exercises/barbell-front-foot-elevated-reverse-lunge.webp) (1024 × 683, transparent WebP quality 85), SHA-256 `3afeb0182c943955da4593e1a8a15a94e4413e8004d7c3b131bc654c8003b06c`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`barbell-front-foot-elevated-reverse-lunge.json`](../../data/exercises/barbell-front-foot-elevated-reverse-lunge.json); legacy ID `Elevated_Back_Lunge`.

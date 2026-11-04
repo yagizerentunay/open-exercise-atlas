@@ -1352,3 +1352,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [Catalyst Athletics Bench Row](https://www.catalystathletics.com/exercise/807/Bench-Row/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`incline-bench-pull.json`](../data/exercises/incline-bench-pull.json); legacy ID `Incline_Bench_Pull`.
+
+
+## Barbell Front-Foot-Elevated Reverse Lunge illustration — 4 November 2026
+
+- **Asset:** `media/exercises/barbell-front-foot-elevated-reverse-lunge.webp` (1024 × 683 transparent WebP; SHA-256 `3afeb0182c943955da4593e1a8a15a94e4413e8004d7c3b131bc654c8003b06c`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase barbell front-foot-elevated reverse lunge. Transparent RGBA master: [`barbell-front-foot-elevated-reverse-lunge-source.png`](pilots/barbell-front-foot-elevated-reverse-lunge-source.png), SHA-256 `7678505a24b8d99cb9a3d05b8fefa5a21e73ca9455af3337c45eba391d7698ca`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [FitnessTracker Elevated Back Lunge](https://fitnesstracker.ca/resources/exercises/elevated-back-lunge/) and [Men's Health Deficit Reverse Lunge](https://www.menshealth.com/fitness/a42882336/deficit-reverse-lunge/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-front-foot-elevated-reverse-lunge.json`](../data/exercises/barbell-front-foot-elevated-reverse-lunge.json); legacy ID `Elevated_Back_Lunge`.
