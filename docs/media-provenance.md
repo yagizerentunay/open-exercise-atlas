@@ -1,5 +1,15 @@
 # Media provenance
 
+## Barbell Jefferson Squat illustration — 4 November 2026
+
+- **Asset:** [`barbell-jefferson-squat.webp`](../media/exercises/barbell-jefferson-squat.webp) (133,112 bytes; SHA-256 `066013c219a900cc42cb9ed1fe46a96d64707c6ab1695ea1aaf1711f6c72e094`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the bar passing between staggered legs, mixed grip, upright top pose and squat depth. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red quadriceps, adductor, glute and oblique highlights stay on exposed skin. Master: [`barbell-jefferson-squat-source.png`](pilots/barbell-jefferson-squat-source.png) (SHA-256 `3d269513bc8d3aa2c1abdf47fcf8fb2ac687e0fa5f84117268d9bdf23b3351dc`).
+- **Prompt:** Original transparent two-phase Jefferson squat with front-to-back staggered stance, bar between legs and mixed grip. The athlete stands tall, then squats upright. Grayscale Atlas-style anatomy art, red leg and oblique highlights only on exposed skin, opaque shirt and loose shorts, no labels or background.
+- **Movement sources:** [BarBend Jefferson Squat](https://barbend.com/jefferson-squat/) and [FitnessTracker Jefferson Squats](https://fitnesstracker.ca/resources/exercises/jefferson-squats/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`barbell-jefferson-squat.json`](../data/exercises/barbell-jefferson-squat.json).
+
 ## Decline EZ-Bar Triceps Extension illustration — 4 November 2026
 
 - **Asset:** [`decline-ez-bar-triceps-extension.webp`](../media/exercises/decline-ez-bar-triceps-extension.webp) (93,094 bytes; SHA-256 `e29a28c59e64b850b20ba723e23dd87dc76628b00e85f92736805541e907a18c`).

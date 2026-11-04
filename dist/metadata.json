@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 511,
+  "count": 512,
   "translationCoverage": {
     "tr": {
-      "present": 1533,
-      "total": 1533,
+      "present": 1536,
+      "total": 1536,
       "percent": 100
     }
   },
@@ -45,6 +45,7 @@
     "barbell-hack-squat",
     "barbell-hang-clean",
     "barbell-hip-thrust",
+    "barbell-jefferson-squat",
     "barbell-lateral-lunge",
     "barbell-lying-triceps-extension",
     "barbell-overhead-squat",
