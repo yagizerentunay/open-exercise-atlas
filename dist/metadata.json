@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 503,
+  "count": 504,
   "translationCoverage": {
     "tr": {
-      "present": 1509,
-      "total": 1509,
+      "present": 1512,
+      "total": 1512,
       "percent": 100
     }
   },
@@ -188,6 +188,7 @@
     "dumbbell-reverse-wrist-curl",
     "dumbbell-romanian-deadlift",
     "dumbbell-scaption",
+    "dumbbell-seated-box-jump",
     "dumbbell-seated-one-leg-calf-raise",
     "dumbbell-shoulder-press",
     "dumbbell-shrug",

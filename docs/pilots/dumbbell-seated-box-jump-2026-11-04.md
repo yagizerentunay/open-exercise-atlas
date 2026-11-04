@@ -1,0 +1,9 @@
+# Dumbbell Seated Box Jump — pilot and provenance (4 November 2026)
+
+Legacy `Dumbbell_Seated_Box_Jump` is absent from Atlas. The existing bodyweight box jump starts standing; this advanced loaded version starts from a seated dead stop, removing the countermovement before jumping onto a separate target box. Use very light dumbbells, a low stable box, and a controlled step down.
+
+- **Movement sources:** [FitnessTracker Dumbbell Seated Box Jump](https://fitnesstracker.ca/resources/exercises/dumbbell-seated-box-jump/) and [Catalyst Athletics Seated Box Jump](https://catalystathletics.com/exercise/552/Seated-Box-Jump/); Atlas cues independently written.
+- **Image prompt:** Original transparent two-phase illustration: fully clothed athlete seated on a stable low bench holding a light dumbbell in each hand, with a separate low target box in front; second phase shows both feet landing fully on the box with knees bent. Quadriceps highlighted red, no background or labels.
+- **Method:** Generated with the built-in OpenAI image generator. Original RGBA PNG master: [`dumbbell-seated-box-jump-source.png`](dumbbell-seated-box-jump-source.png), SHA-256 `3c5c558c8c33d936ceae69f04c8659fdc4ccb91405d556224c82f62a6dcdf771`. Publication image: [`dumbbell-seated-box-jump.webp`](../../media/exercises/dumbbell-seated-box-jump.webp) (1024 × 683, transparent WebP quality 85), SHA-256 `02146e4b510619dc0d8eb151264b6f9328a7bcdb05b7d8d79af1574cc63fb16e`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`dumbbell-seated-box-jump.json`](../../data/exercises/dumbbell-seated-box-jump.json); legacy ID `Dumbbell_Seated_Box_Jump`.

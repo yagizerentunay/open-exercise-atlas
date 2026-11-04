@@ -1312,3 +1312,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [WeightTraining.guide Decline Dumbbell Triceps Extension](https://weighttraining.guide/exercises/decline-dumbbell-triceps-extension/) and [FitnessTracker Decline Dumbbell Triceps Extension](https://fitnesstracker.ca/resources/exercises/decline-dumbbell-triceps-extension/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`decline-dumbbell-triceps-extension.json`](../data/exercises/decline-dumbbell-triceps-extension.json); legacy ID `Decline_Dumbbell_Triceps_Extension`.
+
+
+## Dumbbell Seated Box Jump illustration — 4 November 2026
+
+- **Asset:** `media/exercises/dumbbell-seated-box-jump.webp` (1024 × 683 transparent WebP; SHA-256 `02146e4b510619dc0d8eb151264b6f9328a7bcdb05b7d8d79af1574cc63fb16e`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase dumbbell seated box jump. Transparent RGBA master: [`dumbbell-seated-box-jump-source.png`](pilots/dumbbell-seated-box-jump-source.png), SHA-256 `3c5c558c8c33d936ceae69f04c8659fdc4ccb91405d556224c82f62a6dcdf771`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [FitnessTracker Dumbbell Seated Box Jump](https://fitnesstracker.ca/resources/exercises/dumbbell-seated-box-jump/) and [Catalyst Athletics Seated Box Jump](https://catalystathletics.com/exercise/552/Seated-Box-Jump/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`dumbbell-seated-box-jump.json`](../data/exercises/dumbbell-seated-box-jump.json); legacy ID `Dumbbell_Seated_Box_Jump`.
