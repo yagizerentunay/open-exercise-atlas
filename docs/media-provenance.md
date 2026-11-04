@@ -1,3 +1,13 @@
+## Lying Cambered Barbell Row illustration — 4 November 2026
+
+- **Asset:** [`lying-cambered-barbell-row.webp`](../media/exercises/lying-cambered-barbell-row.webp) (63,124 bytes; SHA-256 `3a0beb3294c37a05d278c3198a951427d8a5cc101377b708054330a5e4c678cd`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, then revised after the user flagged reversed feet and an inverted body in the first phase. Final illustration shows a face-down, chest-supported row with the cambered bar beneath the flat bench in both phases; feet are upright on the floor. Master: [`lying-cambered-barbell-row-source.png`](pilots/lying-cambered-barbell-row-source.png) (SHA-256 `8337130fa6f07c1c6d7bac9067c031f7e4c982ec547c332251106ec74d9e4310`).
+- **Prompt:** Two side-view exercise phases; natural prone body alignment, planted upright feet, loose opaque shorts covering hips/groin/upper-thigh crease, red upper-back/lats highlight, no labels or scenery.
+- **Movement source:** [FitnessTracker Lying Cambered Barbell Row](https://fitnesstracker.ca/resources/exercises/lying-cambered-barbell-row/); Atlas instructions are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
+- **Record:** [`lying-cambered-barbell-row.json`](../data/exercises/lying-cambered-barbell-row.json).
+
 # Media provenance
 
 ## Barbell Clean and Press illustration — 4 November 2026

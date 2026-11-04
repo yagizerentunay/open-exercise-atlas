@@ -1,0 +1,10 @@
+# Lying Cambered Barbell Row — pilot and provenance (4 November 2026)
+
+Legacy `Lying_Cambered_Barbell_Row` was absent from Atlas. This variation uses a flat bench and a cambered bar pulled from beneath the bench; the existing Incline Bench Pull uses an inclined bench, so they are distinct.
+
+- **Movement source:** [FitnessTracker Lying Cambered Barbell Row](https://fitnesstracker.ca/resources/exercises/lying-cambered-barbell-row/) describes placing the cambered bar under a flat bench, lying prone, and rowing toward the chest. Atlas cues are independently worded.
+- **Image prompt:** Two transparent side-view phases, face-down chest-supported athlete on a flat bench; cambered bar under the bench in both positions; natural head-to-spine alignment and feet planted upright with soles down; loose opaque shorts cover hips, groin, buttocks and upper-thigh crease; grayscale anatomy with red upper-back/lats highlight; no text or backdrop.
+- **Revision:** After reviewing the first generated candidate, Yağız identified reversed feet and an inverted body in the first pose. The final image was regenerated from the reference with explicit upright foot and prone-body orientation.
+- **Method:** Generated with the built-in OpenAI image generator and edited using the generated reference. Transparent RGBA PNG master: [`lying-cambered-barbell-row-source.png`](lying-cambered-barbell-row-source.png), SHA-256 `8337130fa6f07c1c6d7bac9067c031f7e4c982ec547c332251106ec74d9e4310`. Publication image: [`lying-cambered-barbell-row.webp`](../../media/exercises/lying-cambered-barbell-row.webp) (1024 × 341, transparent WebP quality 85), SHA-256 `3a0beb3294c37a05d278c3198a951427d8a5cc101377b708054330a5e4c678cd`.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity is claimed.
+- **Record:** [`lying-cambered-barbell-row.json`](../../data/exercises/lying-cambered-barbell-row.json); legacy ID `Lying_Cambered_Barbell_Row`.

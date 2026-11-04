@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 515,
+  "count": 516,
   "translationCoverage": {
     "tr": {
-      "present": 1545,
-      "total": 1545,
+      "present": 1548,
+      "total": 1548,
       "percent": 100
     }
   },
@@ -290,6 +290,7 @@
     "low-to-high-cable-fly",
     "lying-cable-leg-curl",
     "lying-cable-triceps-extension",
+    "lying-cambered-barbell-row",
     "lying-leg-curls",
     "lying-overhead-dumbbell-triceps-extension",
     "lying-straight-leg-raise",
