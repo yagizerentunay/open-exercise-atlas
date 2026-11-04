@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 500,
+  "count": 501,
   "translationCoverage": {
     "tr": {
-      "present": 1500,
-      "total": 1500,
+      "present": 1503,
+      "total": 1503,
       "percent": 100
     }
   },
@@ -367,6 +367,7 @@
     "reverse-plank-leg-lift",
     "reverse-sled-drag",
     "romanian-deadlift",
+    "romanian-deadlift-from-deficit",
     "rowing-machine",
     "russian-twist",
     "scapular-pull-up",

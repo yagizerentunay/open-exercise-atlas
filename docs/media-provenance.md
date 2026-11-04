@@ -1282,3 +1282,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [FitnessTracker Bent Over One-Arm Long Bar Row](https://fitnesstracker.ca/resources/exercises/bent-over-one-arm-long-bar-row/) and [One-Arm Long Bar Row](https://fitnesstracker.ca/resources/exercises/one-arm-long-bar-row/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`bent-over-one-arm-landmine-row.json`](../data/exercises/bent-over-one-arm-landmine-row.json); legacy IDs `Bent_Over_One-Arm_Long_Bar_Row`, `One-Arm_Long_Bar_Row`.
+
+
+## Romanian Deadlift from Deficit illustration — 4 November 2026
+
+- **Asset:** `media/exercises/romanian-deadlift-from-deficit.webp` (1024 × 683 transparent WebP; SHA-256 `e6a0bd75bfa5aca8ba980c9493a4ff63eb2b71324308fd18862b69ebedcf56aa`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase barbell Romanian deadlift from a raised platform. Transparent RGBA master: [`deficit-romanian-deadlift-source.png`](pilots/deficit-romanian-deadlift-source.png), SHA-256 `34e5b438a82620affe0fa6f5f197554d6ee1a8ca6cfa17b70f8facdf3fcbd9ff`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [FitnessTracker Romanian Deadlift from Deficit](https://fitnesstracker.ca/resources/exercises/romanian-deadlift-from-deficit/) and [StrengthLog Romanian Deadlift](https://www.strengthlog.com/romanian-deadlift/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`romanian-deadlift-from-deficit.json`](../data/exercises/romanian-deadlift-from-deficit.json); legacy ID `Romanian_Deadlift_from_Deficit`.
