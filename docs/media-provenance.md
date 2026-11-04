@@ -1302,3 +1302,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [Muscle & Strength Close Grip Dumbbell Press](https://www.muscleandstrength.com/node/4096) and [NASM Close Grip Bench Press](https://www.nasm.org/resource-center/exercise-library/close-grip-bench-press); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`close-grip-dumbbell-press.json`](../data/exercises/close-grip-dumbbell-press.json); legacy ID `Close-Grip_Dumbbell_Press`.
+
+
+## Decline Dumbbell Triceps Extension illustration — 4 November 2026
+
+- **Asset:** `media/exercises/decline-dumbbell-triceps-extension.webp` (1024 × 437 transparent WebP; SHA-256 `ee19b5ac19366daddda85486754a009dd27fe16d50c30afc1cf9755aa4105022`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase decline-bench dumbbell triceps extension. Transparent RGBA master: [`decline-dumbbell-triceps-extension-source.png`](pilots/decline-dumbbell-triceps-extension-source.png), SHA-256 `7b1a992d552a4b540f017addb1df5bbbb036bb9f91c436bf51818ca565e10a24`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [WeightTraining.guide Decline Dumbbell Triceps Extension](https://weighttraining.guide/exercises/decline-dumbbell-triceps-extension/) and [FitnessTracker Decline Dumbbell Triceps Extension](https://fitnesstracker.ca/resources/exercises/decline-dumbbell-triceps-extension/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`decline-dumbbell-triceps-extension.json`](../data/exercises/decline-dumbbell-triceps-extension.json); legacy ID `Decline_Dumbbell_Triceps_Extension`.

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 502,
+  "count": 503,
   "translationCoverage": {
     "tr": {
-      "present": 1506,
-      "total": 1506,
+      "present": 1509,
+      "total": 1509,
       "percent": 100
     }
   },
@@ -153,6 +153,7 @@
     "dead-hang",
     "decline-dumbbell-fly",
     "decline-dumbbell-press",
+    "decline-dumbbell-triceps-extension",
     "decline-push-up",
     "decline-sit-up",
     "deficit-deadlift",
