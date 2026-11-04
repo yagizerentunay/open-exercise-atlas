@@ -11511,6 +11511,67 @@
   },
   {
     "schemaVersion": 1,
+    "id": "incline-cable-lat-pulldown",
+    "slug": "incline-cable-lat-pulldown",
+    "name": "Incline Cable Lat Pulldown",
+    "aliases": [
+      "Cable Incline Pushdown",
+      "Bench-Supported Cable Pulldown"
+    ],
+    "description": "A back-supported, straight-arm cable pulldown performed from an incline bench with the bar traveling from overhead toward the thighs.",
+    "category": "strength",
+    "movementPattern": "pull",
+    "force": "pull",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "lats"
+    ],
+    "secondaryMuscles": [
+      "chest",
+      "shoulders",
+      "upper-back"
+    ],
+    "instructions": [
+      "Set an incline bench facing away from the cable station so your head is near the pulley; adjust the pulley and bar so the cable stays taut overhead.",
+      "Sit back against the pad, plant your feet and hold the bar about shoulder-width with a soft bend in your elbows.",
+      "Keeping your back supported and elbows nearly fixed, sweep the bar down toward your upper thighs; return overhead slowly without shrugging or arching."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Fitness Volt Cable Incline Pushdown guide; original Atlas editorial record",
+      "url": "https://fitnessvolt.com/CABLE-INCLINE-PUSHDOWN/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Incline_Pushdown"
+    ],
+    "alternatives": [
+      "straight-arm-cable-pulldown",
+      "dumbbell-pullover",
+      "machine-pullover"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/incline-cable-lat-pulldown.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase grayscale illustration of a seated, incline-bench cable lat pulldown from overhead to the thighs; lats highlighted red.",
+          "tr": "Eğimli sehpaya yaslanarak yapılan, barın baş üzerinden uyluklara indirildiği kablo lat çekişinin iki aşamalı gri tonlu çizimi; kanatlar kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/incline-cable-lat-pulldown.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/incline-cable-lat-pulldown-2026-11-04.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "incline-dumbbell-curl",
     "slug": "incline-dumbbell-curl",
     "name": "Incline Dumbbell Curl",

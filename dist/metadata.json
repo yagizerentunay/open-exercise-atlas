@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 492,
+  "count": 493,
   "translationCoverage": {
     "tr": {
-      "present": 1476,
-      "total": 1476,
+      "present": 1479,
+      "total": 1479,
       "percent": 100
     }
   },
@@ -239,6 +239,7 @@
     "incline-bench-dumbbell-reverse-fly",
     "incline-cable-chest-press",
     "incline-cable-fly",
+    "incline-cable-lat-pulldown",
     "incline-dumbbell-curl",
     "incline-dumbbell-fly",
     "incline-dumbbell-press",

@@ -1,5 +1,15 @@
 # Media provenance
 
+## Incline Cable Lat Pulldown illustration — 4 November 2026
+
+- **Asset:** [`incline-cable-lat-pulldown.webp`](../media/exercises/incline-cable-lat-pulldown.webp) (200,786 bytes; SHA-256 `1b25d9a3f0f2d5e0d6a6a9709fc90bbdc2a3349e98a5aeb23f8d6a733e7d7a89`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows a seated, back-supported incline pulldown from overhead toward the upper thighs, with a cable path to the station behind the head. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red lat highlights stay on exposed skin. Master: [`incline-cable-lat-pulldown-source.png`](pilots/incline-cable-lat-pulldown-source.png) (SHA-256 `e126947975ee25c1d34f58e6baf8e76c809f837603421ef0dae3f3b086879149`).
+- **Prompt:** Original transparent two-phase incline-bench cable lat pulldown, seated with upper back supported, bar overhead then swept toward the thighs, nearly straight arms. Grayscale Atlas-style anatomy art, red lat highlights only on exposed skin, loose opaque shorts, no labels or background. Existing Atlas art was used only as a style reference.
+- **Movement source:** [Fitness Volt Cable Incline Pushdown](https://fitnessvolt.com/CABLE-INCLINE-PUSHDOWN/); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`incline-cable-lat-pulldown.json`](../data/exercises/incline-cable-lat-pulldown.json).
+
 ## Wide-Grip Barbell Bench Press illustration — 4 November 2026
 
 - **Asset:** [`wide-grip-barbell-bench-press.webp`](../media/exercises/wide-grip-barbell-bench-press.webp) (161,004 bytes; SHA-256 `a80df3660fe9bc039271854fbe5f772f1aa12e9d015c8aff64fa4d18bbdc407d`).
