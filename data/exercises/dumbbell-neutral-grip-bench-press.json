@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbbell-neutral-grip-bench-press",
+  "slug": "dumbbell-neutral-grip-bench-press",
+  "name": {
+    "en": "Dumbbell Neutral-Grip Bench Press",
+    "tr": "Nötr Tutuş Dambıl Bench Press"
+  },
+  "aliases": ["Neutral-Grip Dumbbell Press", "Palms-In Dumbbell Bench Press"],
+  "description": {
+    "en": "A flat-bench dumbbell press performed with the palms facing each other throughout the repetition.",
+    "tr": "Avuç içleri tekrar boyunca birbirine bakarken düz sehpada yapılan dambıl press hareketi."
+  },
+  "category": "strength",
+  "movementPattern": "push",
+  "force": "push",
+  "mechanic": "compound",
+  "difficulty": "intermediate",
+  "equipment": ["dumbbell", "bench"],
+  "primaryMuscles": ["chest"],
+  "secondaryMuscles": ["triceps", "shoulders"],
+  "instructions": {
+    "en": [
+      "Lie on a flat bench with your feet planted; hold one dumbbell in each hand above the chest with palms facing each other.",
+      "Lower the dumbbells beside the chest with elbows comfortably close to the torso, keeping wrists straight.",
+      "Press the weights above the mid-chest without letting them collide or forcefully locking the elbows, then lower under control."
+    ],
+    "tr": [
+      "Ayakların yere basacak şekilde düz sehpaya uzan; her elinde bir dambılı göğsünün üzerinde, avuç içlerin birbirine bakacak biçimde tut.",
+      "Bileklerini düz tutup dirseklerini gövdene rahatça yakın konumda tutarak dambılları göğsünün yanına indir.",
+      "Ağırlıkları çarpıştırmadan veya dirseklerini sertçe kilitlemeden göğsünün üzerine it; ardından kontrollü biçimde indir."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas editorial draft",
+    "license": "CC0-1.0"
+  },
+  "legacyIds": ["Dumbbell_Bench_Press_with_Neutral_Grip"],
+  "alternatives": ["dumbbell-bench-press", "dumbbell-floor-press"],
+  "media": [
+    {
+      "path": "media/exercises/dumbbell-neutral-grip-bench-press.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase grayscale illustration of a neutral-grip dumbbell bench press on a flat bench; chest muscles are highlighted red.",
+        "tr": "Düz sehpada nötr tutuş dambıl bench press hareketinin iki aşamalı gri tonlu çizimi; göğüs kasları kırmızıyla vurgulanıyor."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-neutral-grip-bench-press.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/dumbbell-neutral-grip-bench-press-2026-11-04.md"
+    }
+  ]
+}

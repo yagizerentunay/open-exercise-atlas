@@ -1,5 +1,15 @@
 # Media provenance
 
+## Dumbbell Neutral-Grip Bench Press illustration — 4 November 2026
+
+- **Asset:** [`dumbbell-neutral-grip-bench-press.webp`](../media/exercises/dumbbell-neutral-grip-bench-press.webp) (133,410 bytes; SHA-256 `7e4b99e41922aea29a4d9ac8ec3713202dacac8844b6b6ed8bfc1e6376e21fd2`).
+- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
+- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. The left phase shows the dumbbells lowered beside the chest; the right phase shows the press over mid-chest, with palms facing each other throughout. Loose opaque shorts cover hips, buttocks, groin, and upper-thigh crease; red pectoral highlights stay on exposed skin. Master: [`dumbbell-neutral-grip-bench-press-source.png`](pilots/dumbbell-neutral-grip-bench-press-source.png) (SHA-256 `e3b68fb65ff8767bbe754602a3bbbcc07d8a50077e660929d5cbe24b064fc8e5`).
+- **Prompt:** Original transparent two-phase flat-bench neutral-grip dumbbell press illustration, matching the Atlas reference style. START at the left with dumbbells lowered beside the chest and elbows moderately tucked; FINISH at the right with the weights over mid-chest, elbows nearly extended, and palms still facing each other. Grayscale anatomical fitness art, red chest highlights only on exposed skin, loose opaque shorts, no labels or background. The existing `dumbbell-bench-press.webp` was used only as a style reference.
+- **Movement source:** [Baylor Dumbbell Bench Press / Dumbbell Neutral Grip Bench Press](https://www.baylor.edu/content/services/document.php/86939.pdf) and [Human Kinetics Neutral-Grip Dumbbell Bench Press](https://us.humankinetics.com/blogs/excerpt/how-to-perform-a-dumbbell-bench-press); Atlas cues are independently worded.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
+- **Record:** [`dumbbell-neutral-grip-bench-press.json`](../data/exercises/dumbbell-neutral-grip-bench-press.json).
+
 ## Seated Barbell Shoulder Press illustration — 25 October 2026
 
 - **Asset:** [`barbell-seated-shoulder-press.webp`](../media/exercises/barbell-seated-shoulder-press.webp) (173,096 bytes; SHA-256 `7d4fdd30f08b4e5cc1ffb7881c257c1da877be16a8ebfb6e44c4c026e12dc828`).
