@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 501,
+  "count": 502,
   "translationCoverage": {
     "tr": {
-      "present": 1503,
-      "total": 1503,
+      "present": 1506,
+      "total": 1506,
       "percent": 100
     }
   },
@@ -138,6 +138,7 @@
     "chin-tuck",
     "chin-up",
     "close-grip-bench-press",
+    "close-grip-dumbbell-press",
     "close-grip-front-lat-pulldown",
     "close-grip-machine-chest-press",
     "close-grip-push-up",

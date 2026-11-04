@@ -1292,3 +1292,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [FitnessTracker Romanian Deadlift from Deficit](https://fitnesstracker.ca/resources/exercises/romanian-deadlift-from-deficit/) and [StrengthLog Romanian Deadlift](https://www.strengthlog.com/romanian-deadlift/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`romanian-deadlift-from-deficit.json`](../data/exercises/romanian-deadlift-from-deficit.json); legacy ID `Romanian_Deadlift_from_Deficit`.
+
+
+## Close-Grip Dumbbell Press illustration — 4 November 2026
+
+- **Asset:** `media/exercises/close-grip-dumbbell-press.webp` (1024 × 419 transparent WebP; SHA-256 `52b634badb0921fb7e368054962ebaa5735eb2d3da2f55f68d5e8ffd4146ffca`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase flat-bench close-grip crush press with dumbbells held together. Transparent RGBA master: [`close-grip-dumbbell-press-source.png`](pilots/close-grip-dumbbell-press-source.png), SHA-256 `9d5f52078f8656dcf0cfd4c282b1f6cf256adb08eee1b727cc3f028a0a2c80ec`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [Muscle & Strength Close Grip Dumbbell Press](https://www.muscleandstrength.com/node/4096) and [NASM Close Grip Bench Press](https://www.nasm.org/resource-center/exercise-library/close-grip-bench-press); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`close-grip-dumbbell-press.json`](../data/exercises/close-grip-dumbbell-press.json); legacy ID `Close-Grip_Dumbbell_Press`.
