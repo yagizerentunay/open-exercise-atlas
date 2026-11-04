@@ -1215,3 +1215,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [Life Fitness PowerMill Climber specifications and product guide; legacy Stairmaster and Step_Mill records](https://www.lifefitness.com/en-us/catalog/cardio/stair-climbers-stepper-machines/powermill-climber); Atlas cues are independently worded.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. Output may not be unique; no exclusivity claimed.
 - **Record:** [`stair-climber.json`](../data/exercises/stair-climber.json); legacy IDs `Stairmaster, Step_Mill`.
+
+## One-Arm Flat Bench Dumbbell Flye illustration — 4 November 2026
+
+- **Asset:** `media/exercises/one-arm-flat-bench-dumbbell-flye.webp` (1024 × 683 transparent WebP; SHA-256 `3bf47fdd6993c03440acfc6e127f2891be58dd86c40bc0ba97233f7cb9344617`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase unilateral flat-bench fly illustration. Transparent RGBA master: [`one-arm-flat-bench-dumbbell-flye-source.png`](pilots/one-arm-flat-bench-dumbbell-flye-source.png), SHA-256 `76e0670456e36eda4259c3665c296110a16ccf265073fc2112f3a529ef0ed1ea`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [PureGym Single-Arm Fly](https://www.puregym.com/exercises/chest/chest-fly/single-arm-fly/); cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`one-arm-flat-bench-dumbbell-flye.json`](../data/exercises/one-arm-flat-bench-dumbbell-flye.json); legacy ID `One-Arm_Flat_Bench_Dumbbell_Flye`.

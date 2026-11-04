@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 493,
+  "count": 494,
   "translationCoverage": {
     "tr": {
-      "present": 1479,
-      "total": 1479,
+      "present": 1482,
+      "total": 1482,
       "percent": 100
     }
   },
@@ -298,6 +298,7 @@
     "neutral-grip-pull-up",
     "nordic-hamstring-curl",
     "one-arm-dumbbell-row",
+    "one-arm-flat-bench-dumbbell-flye",
     "overhead-cable-triceps-extension",
     "overhead-dumbbell-shrug",
     "overhead-machine-triceps-extension",
