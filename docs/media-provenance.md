@@ -1242,3 +1242,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [Skimble Kneeling High Pulley Row](https://www.skimble.com/exercises/12911-kneeling-high-pulley-row-how-to-do-exercise); anatomy cross-reference: [BodyCraft PFT exercise manual](https://www.bodycraft.com/pdfs/exercise/PFTBook.pdf). Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`kneeling-high-pulley-row.json`](../data/exercises/kneeling-high-pulley-row.json); legacy ID `Kneeling_High_Pulley_Row`.
+
+
+## Barbell Pin Press illustration — 4 November 2026
+
+- **Asset:** `media/exercises/barbell-pin-press.webp` (1024 × 683 transparent WebP; SHA-256 `2fc4032e70a3a16b93d942adbb4bf6caad53aeb44a909cb2d0ae7fd6dff4792f`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase barbell pin press. Transparent RGBA master: [`barbell-pin-press-source.png`](pilots/barbell-pin-press-source.png), SHA-256 `220468db7dc6de3976d0f782f6b62f7219a78bb2b0231c47fc4cca6d13f2aeaa`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [BarBend Pin Press Guide](https://barbend.com/news/pin-press-guide/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-pin-press.json`](../data/exercises/barbell-pin-press.json); legacy ID `Pin_Presses`.
