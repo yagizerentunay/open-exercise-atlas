@@ -4692,6 +4692,59 @@
   },
   {
     "schemaVersion": 1,
+    "id": "cable-incline-triceps-extension",
+    "slug": "cable-incline-triceps-extension",
+    "name": "Eğimli Sehpada Kablo Triseps Ekstansiyonu",
+    "description": "Üst kollar yukarı açılı konumda tutulurken eğimli sehpada sırtüstü yatıp halatla yapılan triseps ekstansiyonu.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "intermediate",
+    "equipment": [
+      "cable",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "triceps"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Eğimli sehpaya alçak makaranın önünde ve makara arkanda kalacak şekilde yerleş; halatı tak, başın makaraya yakın ve ayakların yere basacak biçimde sırtüstü uzan.",
+      "Üst kollarını yukarı açılı tutup halatı omuzlarının üzerinde kavra; dirseklerini bükerek halatı başının hemen arkasına götür, başına değdirme.",
+      "Üst kollarını sabit tutarak dirseklerini aç ve halatı alnının üzerine kaldır; ardından dirseklerini yavaşça bükerek başlangıca dön."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Incline cable triceps extension technique guide; original Atlas editorial record",
+      "url": "https://weighttraining.guide/exercises/incline-cable-triceps-extension/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Cable_Incline_Triceps_Extension"
+    ],
+    "alternatives": [
+      "lying-cable-triceps-extension",
+      "overhead-cable-triceps-extension",
+      "lying-overhead-dumbbell-triceps-extension"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/cable-incline-triceps-extension.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase grayscale illustration of an incline-bench cable triceps extension with a rope and low pulley; triceps are highlighted red.",
+          "tr": "Eğimli sehpada alçak makaraya bağlı halatla yapılan kablo triseps ekstansiyonunun iki aşamalı gri tonlu çizimi; trisepsler kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/cable-incline-triceps-extension.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/cable-incline-triceps-extension-2026-11-04.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "cable-oblique-crunch",
     "slug": "cable-oblique-crunch",
     "name": "Kablolu Oblik Crunch",

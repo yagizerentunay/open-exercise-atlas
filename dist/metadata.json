@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 490,
+  "count": 491,
   "translationCoverage": {
     "tr": {
-      "present": 1470,
-      "total": 1470,
+      "present": 1473,
+      "total": 1473,
       "percent": 100
     }
   },
@@ -102,6 +102,7 @@
     "cable-glute-kickback",
     "cable-hip-abduction",
     "cable-hip-adduction",
+    "cable-incline-triceps-extension",
     "cable-oblique-crunch",
     "cable-pallof-press",
     "cable-preacher-curl",
