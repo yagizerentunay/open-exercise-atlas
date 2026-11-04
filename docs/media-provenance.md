@@ -1332,3 +1332,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [FitnessTracker Single-Arm Cable Crossover](https://fitnesstracker.ca/resources/exercises/single-arm-cable-crossover/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`single-arm-cable-crossover.json`](../data/exercises/single-arm-cable-crossover.json); legacy ID `Single-Arm_Cable_Crossover`.
+
+
+## Seated One-Arm Cable Row illustration — 4 November 2026
+
+- **Asset:** `media/exercises/seated-one-arm-cable-row.webp` (1024 × 683 transparent WebP; SHA-256 `1676ae191292a0ff412fcad691ea37920f2f7f6126b43745d72898f9534d4e0d`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase seated one-arm cable row. Transparent RGBA master: [`seated-one-arm-cable-row-source.png`](pilots/seated-one-arm-cable-row-source.png), SHA-256 `7bb4b2abc9f739882445a8c7b93270ddaaf0bb5c866926da764c42765d7929b4`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [WeightTraining.guide Seated One-Arm Cable Row](https://weighttraining.guide/exercises/seated-one-arm-cable-row/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`seated-one-arm-cable-row.json`](../data/exercises/seated-one-arm-cable-row.json); legacy ID `Seated_One-arm_Cable_Pulley_Rows`.

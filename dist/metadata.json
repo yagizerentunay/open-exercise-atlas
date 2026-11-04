@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 505,
+  "count": 506,
   "translationCoverage": {
     "tr": {
-      "present": 1515,
-      "total": 1515,
+      "present": 1518,
+      "total": 1518,
       "percent": 100
     }
   },
@@ -398,6 +398,7 @@
     "seated-machine-row",
     "seated-machine-triceps-extension",
     "seated-neck-cars",
+    "seated-one-arm-cable-row",
     "selectorized-arc-leg-press",
     "selectorized-dual-axis-chest-press",
     "selectorized-dual-axis-lat-pulldown",
