@@ -1,15 +1,3 @@
-## Lying Cambered Barbell Row illustration — 4 November 2026
-
-- **Asset:** [`lying-cambered-barbell-row.webp`](../media/exercises/lying-cambered-barbell-row.webp) (63,124 bytes; SHA-256 `3a0beb3294c37a05d278c3198a951427d8a5cc101377b708054330a5e4c678cd`).
-- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** Original transparent RGBA PNG generated in two phases, then revised after the user flagged reversed feet and an inverted body in the first phase. Final illustration shows a face-down, chest-supported row with the cambered bar beneath the flat bench in both phases; feet are upright on the floor. Master: [`lying-cambered-barbell-row-source.png`](pilots/lying-cambered-barbell-row-source.png) (SHA-256 `8337130fa6f07c1c6d7bac9067c031f7e4c982ec547c332251106ec74d9e4310`).
-- **Prompt:** Two side-view exercise phases; natural prone body alignment, planted upright feet, loose opaque shorts covering hips/groin/upper-thigh crease, red upper-back/lats highlight, no labels or scenery.
-- **Movement source:** [FitnessTracker Lying Cambered Barbell Row](https://fitnesstracker.ca/resources/exercises/lying-cambered-barbell-row/); Atlas instructions are independently worded.
-- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply; no exclusivity is claimed.
-- **Record:** [`lying-cambered-barbell-row.json`](../data/exercises/lying-cambered-barbell-row.json).
-
-# Media provenance
-
 ## Barbell Clean and Press illustration — 4 November 2026
 
 - **Asset:** [`barbell-clean-and-press.webp`](../media/exercises/barbell-clean-and-press.webp) (64,508 bytes; SHA-256 `e99bd60e4ac39b4e77e4970d54b7f874907c8582f97968b0cc0ef16958519584`).
@@ -39,16 +27,6 @@
 - **Movement source:** [Muscle & Fitness Barbell Rollout](https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/barbell-rollout/); Atlas cues are independently worded.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
 - **Record:** [`kneeling-barbell-ab-rollout.json`](../data/exercises/kneeling-barbell-ab-rollout.json).
-
-## Barbell Jefferson Squat illustration — 4 November 2026
-
-- **Asset:** [`barbell-jefferson-squat.webp`](../media/exercises/barbell-jefferson-squat.webp) (133,112 bytes; SHA-256 `066013c219a900cc42cb9ed1fe46a96d64707c6ab1695ea1aaf1711f6c72e094`).
-- **Date and creator:** 2026-11-04; Open Exercise Atlas, using the built-in OpenAI image generator. The tool did not expose a model identifier.
-- **Method:** Original transparent RGBA PNG generated in two phases, proportionally fit into 1024 × 1024, then encoded as WebP at quality 85 with alpha retained. It shows the bar passing between staggered legs, mixed grip, upright top pose and squat depth. Loose opaque shorts cover hips, buttocks, groin and upper-thigh crease; red quadriceps, adductor, glute and oblique highlights stay on exposed skin. Master: [`barbell-jefferson-squat-source.png`](pilots/barbell-jefferson-squat-source.png) (SHA-256 `3d269513bc8d3aa2c1abdf47fcf8fb2ac687e0fa5f84117268d9bdf23b3351dc`).
-- **Prompt:** Original transparent two-phase Jefferson squat with front-to-back staggered stance, bar between legs and mixed grip. The athlete stands tall, then squats upright. Grayscale Atlas-style anatomy art, red leg and oblique highlights only on exposed skin, opaque shirt and loose shorts, no labels or background.
-- **Movement sources:** [BarBend Jefferson Squat](https://barbend.com/jefferson-squat/) and [FitnessTracker Jefferson Squats](https://fitnesstracker.ca/resources/exercises/jefferson-squats/); Atlas cues are independently worded.
-- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply, and no exclusivity is claimed.
-- **Record:** [`barbell-jefferson-squat.json`](../data/exercises/barbell-jefferson-squat.json).
 
 ## Decline EZ-Bar Triceps Extension illustration — 4 November 2026
 

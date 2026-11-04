@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 516,
+  "count": 514,
   "translationCoverage": {
     "tr": {
-      "present": 1548,
-      "total": 1548,
+      "present": 1542,
+      "total": 1542,
       "percent": 100
     }
   },
@@ -46,7 +46,6 @@
     "barbell-hack-squat",
     "barbell-hang-clean",
     "barbell-hip-thrust",
-    "barbell-jefferson-squat",
     "barbell-lateral-lunge",
     "barbell-lying-triceps-extension",
     "barbell-overhead-squat",
@@ -290,7 +289,6 @@
     "low-to-high-cable-fly",
     "lying-cable-leg-curl",
     "lying-cable-triceps-extension",
-    "lying-cambered-barbell-row",
     "lying-leg-curls",
     "lying-overhead-dumbbell-triceps-extension",
     "lying-straight-leg-raise",
