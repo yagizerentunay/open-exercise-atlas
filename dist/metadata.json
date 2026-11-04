@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 499,
+  "count": 500,
   "translationCoverage": {
     "tr": {
-      "present": 1497,
-      "total": 1497,
+      "present": 1500,
+      "total": 1500,
       "percent": 100
     }
   },
@@ -74,6 +74,7 @@
     "bench-dip",
     "bench-lat-stretch",
     "bent-over-dumbbell-reverse-fly",
+    "bent-over-one-arm-landmine-row",
     "bent-over-row",
     "bicycle-crunch",
     "bird-dog",

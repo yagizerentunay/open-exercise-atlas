@@ -1272,3 +1272,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [Tiger Fitness Barbell Pullover](https://tigerfitness.com/blogs/exercise-database/barbell-pullover) and [Muscle & Strength Barbell Pullover](https://www.muscleandstrength.com/exercises/barbell-pullover.html); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`barbell-pullover.json`](../data/exercises/barbell-pullover.json); legacy ID `Bent-Arm_Barbell_Pullover`.
+
+
+## Bent-Over One-Arm Landmine Row illustration — 4 November 2026
+
+- **Asset:** `media/exercises/bent-over-one-arm-landmine-row.webp` (1024 × 437 transparent WebP; SHA-256 `4abc39c0404429c8b001aef1df7cb5d1e45902dc8d73d36a7df7317d8fe28394`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase unilateral bent-over long-bar row with free hand braced on knee. Transparent RGBA master: [`bent-over-one-arm-landmine-row-source.png`](pilots/bent-over-one-arm-landmine-row-source.png), SHA-256 `4e3959dfbb1f69f9d8f73e3bad91f98ffd893e87a9125e12f0da6f1e8cb1b82b`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement sources:** [FitnessTracker Bent Over One-Arm Long Bar Row](https://fitnesstracker.ca/resources/exercises/bent-over-one-arm-long-bar-row/) and [One-Arm Long Bar Row](https://fitnesstracker.ca/resources/exercises/one-arm-long-bar-row/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`bent-over-one-arm-landmine-row.json`](../data/exercises/bent-over-one-arm-landmine-row.json); legacy IDs `Bent_Over_One-Arm_Long_Bar_Row`, `One-Arm_Long_Bar_Row`.
