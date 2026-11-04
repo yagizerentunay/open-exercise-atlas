@@ -8709,6 +8709,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "dumbbell-seated-one-leg-calf-raise",
+    "slug": "dumbbell-seated-one-leg-calf-raise",
+    "name": "Dambılla Oturarak Tek Bacak Baldır Yükseltme",
+    "description": "Çalışan uyluk üzerinde tek dambıl ve aynı ayağın tarak kemiği basamakta olacak şekilde oturarak yapılan tek taraflı baldır yükseltme hareketi.",
+    "category": "strength",
+    "movementPattern": "isolation",
+    "force": "push",
+    "mechanic": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "calves"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Sehpanın ucuna yakın otur; bir ayağının tarak kemiğini topuğu serbest kalacak şekilde sabit bir basamağa koy, diğer ayağını rahatça yere bas.",
+      "Bir dambılı çalışan dizinin hemen üzerindeki uyluğa güvenli biçimde yerleştir ve sabit tut. Topuğunu yere değdirmeden aşağı indir.",
+      "Topuğunu rahat ettiğin kadar yükselt, kısa süre durakla ve kontrollü biçimde indir; tarafı tamamlayıp bacağını değiştir."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Muscle & Strength One-Leg Seated Dumbbell Calf Raise guide; original Atlas editorial record",
+      "url": "https://www.muscleandstrength.com/exercises/one-leg-seated-dumbbell-calf-raise.html",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Dumbbell_Seated_One-Leg_Calf_Raise"
+    ],
+    "alternatives": [
+      "seated-dumbbell-calf-raise",
+      "single-leg-dumbbell-calf-raise"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/dumbbell-seated-one-leg-calf-raise.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase grayscale illustration of a seated one-leg dumbbell calf raise, with a dumbbell on the working thigh, heel lowered then raised on a step; working calf highlighted red.",
+          "tr": "Çalışan uylukta dambıl ve ayak ucunun basamakta olduğu, topuğun alçak ve yüksek gösterildiği oturarak tek bacak dambıllı baldır yükseltmenin iki gri aşaması; çalışan baldır kırmızı vurgulu."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/dumbbell-seated-one-leg-calf-raise.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/dumbbell-seated-one-leg-calf-raise-2026-11-04.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "dumbbell-shoulder-press",
     "slug": "dumbbell-shoulder-press",
     "name": "Dambılla Omuz Press",

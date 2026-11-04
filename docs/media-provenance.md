@@ -1224,3 +1224,12 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement source:** [PureGym Single-Arm Fly](https://www.puregym.com/exercises/chest/chest-fly/single-arm-fly/); cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`one-arm-flat-bench-dumbbell-flye.json`](../data/exercises/one-arm-flat-bench-dumbbell-flye.json); legacy ID `One-Arm_Flat_Bench_Dumbbell_Flye`.
+
+## Dumbbell Seated One-Leg Calf Raise illustration — 4 November 2026
+
+- **Asset:** `media/exercises/dumbbell-seated-one-leg-calf-raise.webp` (1024 × 683 transparent WebP; SHA-256 `17cdccbbecc2ba7bed1d924c6b1b797eee89d301f989d6352852ae439ddaf5a2`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in image generator.
+- **Method:** Two-phase seated unilateral calf raise. Transparent RGBA master: [`dumbbell-seated-one-leg-calf-raise-source.png`](pilots/dumbbell-seated-one-leg-calf-raise-source.png), SHA-256 `319249f9ac79a1bbfdc9f8a0e7b00584e76c523698fb151abda008bb92c9105d`. Resized proportionally to 1024 px max dimension and encoded WebP quality 85 with alpha retained.
+- **Movement source:** [Muscle & Strength One-Leg Seated Dumbbell Calf Raise](https://www.muscleandstrength.com/exercises/one-leg-seated-dumbbell-calf-raise.html); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`dumbbell-seated-one-leg-calf-raise.json`](../data/exercises/dumbbell-seated-one-leg-calf-raise.json); legacy ID `Dumbbell_Seated_One-Leg_Calf_Raise`.
