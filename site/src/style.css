@@ -68,9 +68,9 @@ main > p[role] { padding: 48px 0; }
 .muscle-tile { min-width: 0; display: flex; flex-direction: column; align-items: center; gap: 6px; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); padding: 8px; font-size: var(--fs-meta); font-weight: 600; }
 .muscle-tile:hover { border-color: var(--lime-deep); }
 .muscle-tile[aria-pressed="true"] { border-color: var(--lime-deep); background: #f0f7dc; box-shadow: inset 0 0 0 1px var(--lime-deep); }
-.muscle-tile img { width: 100%; height: 112px; object-fit: contain; background: var(--soft); border-radius: 6px; }
+.muscle-tile img { width: 100%; height: 144px; object-fit: contain; background: var(--soft); border-radius: 6px; }
 .muscle-tile span { text-align: center; }
-.muscle-tile .muscle-placeholder { display: grid; place-items: center; width: 100%; height: 112px; padding: 6px; border-radius: 6px; background: var(--soft); color: var(--muted); font-size: var(--fs-meta); font-weight: 400; }
+.muscle-tile .muscle-placeholder { display: grid; place-items: center; width: 100%; height: 144px; padding: 6px; border-radius: 6px; background: var(--soft); color: var(--muted); font-size: var(--fs-meta); font-weight: 400; }
 
 /* Cards: image, text, chevron. Grid view shows the description; list view is a compact row. */
 .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
@@ -159,7 +159,7 @@ footer { max-width: 1240px; margin: auto; padding: 28px var(--gutter); border-to
   .grid:not(.list) .card-description { -webkit-line-clamp: 1; line-clamp: 1; margin-top: 4px; }
   .muscle-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; padding: 0 8px 8px; }
   .muscle-tile { padding: 5px; }
-  .muscle-tile img, .muscle-tile .muscle-placeholder { height: 88px; }
+  .muscle-tile img, .muscle-tile .muscle-placeholder { height: 116px; }
   .detail { padding-top: 12px; }
   .breadcrumb .crumb-sep, .breadcrumb .crumb-current { display: none; }
   .crumb::before { content: '‹ '; text-decoration: none; display: inline-block; }
