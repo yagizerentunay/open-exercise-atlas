@@ -58,5 +58,25 @@
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Align the knees with the machine pivot and keep your hips against the seat.",
+      "Curl the heels down and back, then extend the legs slowly."
+    ],
+    "tr": [
+      "Dizlerini makinenin ekseniyle hizala ve kalçanı koltuğa dayalı tut.",
+      "Topuklarını aşağı ve geriye çek, ardından bacaklarını yavaşça aç."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Raising the hips or arching the back to move more weight.",
+      "Letting the weight stack slam during the return."
+    ],
+    "tr": [
+      "Daha ağır yükü oynatmak için kalçayı kaldırmak veya beli çukurlaştırmak.",
+      "Dönüşte ağırlık bloğunun sertçe çarpmasına izin vermek."
+    ]
+  }
 }

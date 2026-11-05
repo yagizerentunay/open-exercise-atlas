@@ -61,5 +61,25 @@
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Keep a soft knee bend and send the hips back while the dumbbells stay close to the legs.",
+      "Stop when the hamstrings limit the hinge and stand by bringing the hips forward."
+    ],
+    "tr": [
+      "Dizlerini hafif bükülü tut; dambılları bacaklarına yakın tutarken kalçanı geriye gönder.",
+      "Arka bacakların izin verdiği noktada dur ve kalçanı öne getirerek doğrul."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Rounding the back or letting the dumbbells drift away from the legs.",
+      "Turning the hinge into a deep squat by bending the knees more each rep."
+    ],
+    "tr": [
+      "Sırtı yuvarlamak veya dambılları bacaklardan uzaklaştırmak.",
+      "Her tekrarda dizleri daha fazla bükerek hareketi derin squat’a çevirmek."
+    ]
+  }
 }

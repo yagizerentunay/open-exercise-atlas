@@ -1072,7 +1072,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Set the bar securely and brace before each descent.",
+        "Keep the knees tracking with the toes and use a depth you can control."
+      ],
+      "tr": [
+        "Barı güvenli biçimde yerleştir ve her inişten önce gövdeni sabitle.",
+        "Dizlerini ayak parmaklarınla aynı yönde tut ve kontrol edebildiğin derinlikte çalış."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Losing trunk tension or letting the knees collapse inward.",
+        "Lifting the heels or descending beyond a stable range."
+      ],
+      "tr": [
+        "Gövde gerginliğini kaybetmek veya dizleri içe düşürmek.",
+        "Topukları kaldırmak ya da dengeli kalamadığın kadar derine inmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -1152,7 +1172,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Plant the feet and set the shoulder blades before unracking.",
+        "Lower the bar under control to the mid-lower chest with wrists over elbows; press smoothly."
+      ],
+      "tr": [
+        "Barı raftan çıkarmadan önce ayaklarını bas ve kürek kemiklerini sehpaya yerleştir.",
+        "Bilekleri dirseklerin üzerinde tutarak barı göğsün orta-alt bölümüne kontrollü indir ve akıcı it."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Bouncing the bar off the chest or letting the wrists fold back.",
+        "Attempting a heavy lift without a spotter or correctly set rack safeties."
+      ],
+      "tr": [
+        "Barı göğüsten sektirmek veya bilekleri geriye kırmak.",
+        "Ağır denemeyi gözcü olmadan veya sehpa emniyetlerini ayarlamadan yapmak."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -6131,7 +6171,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Keep a slight, fixed bend in the elbows and shoulders supported on the bench.",
+        "Bring the handles together above mid-chest in a smooth arc, then reopen within a comfortable range."
+      ],
+      "tr": [
+        "Dirseklerini hafif bükülü ve sabit tut; omuzların sehpada destekli kalsın.",
+        "Tutacakları göğsün ortası üzerinde akıcı yayla birleştir; rahat aralıkta tekrar aç."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Lowering the arms so far that the shoulders are forced behind the torso.",
+        "Changing the elbow bend into a press."
+      ],
+      "tr": [
+        "Kolları omuzları gövdenin gerisine zorlayacak kadar indirmek.",
+        "Dirsek açısını değiştirip hareketi press’e çevirmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -7154,7 +7214,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Keep the elbows beside the torso and the upper arms still.",
+        "Extend the elbows smoothly; separate the rope ends slightly, then return under control."
+      ],
+      "tr": [
+        "Dirseklerini gövdenin yanında, üst kollarını sabit tut.",
+        "Dirseklerini akıcı biçimde aç; ip uçlarını hafifçe ayır ve kontrollü dön."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Swinging the torso or driving the elbows forward.",
+        "Shrugging the shoulders or folding the wrists to press lower."
+      ],
+      "tr": [
+        "Gövdeyi sallamak veya dirsekleri öne sürmek.",
+        "Daha aşağı itmek için omuzları silkmek ya da bilekleri bükmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -10079,7 +10159,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Keep the wrists stacked over the elbows as the weights lower beside the chest.",
+        "Press smoothly and stop before the dumbbells collide above you."
+      ],
+      "tr": [
+        "Ağırlıkları göğsün yanına indirirken bileklerini dirseklerin üzerinde hizala.",
+        "Dambılları akıcı biçimde it ve üstte birbirine çarpmadan dur."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Letting the wrists fold back or the shoulders shrug toward the ears.",
+        "Dropping the elbows far below the bench when the shoulder range feels strained."
+      ],
+      "tr": [
+        "Bileklerin geriye kırılmasına veya omuzların kulaklara yükselmesine izin vermek.",
+        "Omuzları zorlayan derinlikte dirsekleri sehpanın çok altına indirmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -11588,7 +11688,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Keep a soft knee bend and send the hips back while the dumbbells stay close to the legs.",
+        "Stop when the hamstrings limit the hinge and stand by bringing the hips forward."
+      ],
+      "tr": [
+        "Dizlerini hafif bükülü tut; dambılları bacaklarına yakın tutarken kalçanı geriye gönder.",
+        "Arka bacakların izin verdiği noktada dur ve kalçanı öne getirerek doğrul."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Rounding the back or letting the dumbbells drift away from the legs.",
+        "Turning the hinge into a deep squat by bending the knees more each rep."
+      ],
+      "tr": [
+        "Sırtı yuvarlamak veya dambılları bacaklardan uzaklaştırmak.",
+        "Her tekrarda dizleri daha fazla bükerek hareketi derin squat’a çevirmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -11841,7 +11961,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Start with the dumbbells near shoulder height and wrists above the elbows.",
+        "Brace your trunk and press up without leaning back; lower smoothly."
+      ],
+      "tr": [
+        "Dambılları omuz hizasında başlat; bileklerini dirseklerinin üzerinde tut.",
+        "Gövdeni sabitleyip geriye yatmadan yukarı it; kontrollü indir."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Arching the lower back to get the weights overhead.",
+        "Allowing the dumbbells to drift far in front of the body."
+      ],
+      "tr": [
+        "Ağırlıkları baş üstüne çıkarmak için beli çukurlaştırmak.",
+        "Dambılların gövdenin çok önüne kaçmasına izin vermek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -13762,7 +13902,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Hold the weight close to your chest and keep the whole foot grounded.",
+        "Let the knees track in line with the toes as you squat and stand."
+      ],
+      "tr": [
+        "Ağırlığı göğsüne yakın tut ve ayağının tamamını yere bas.",
+        "Çömelip kalkarken dizlerini ayak parmaklarınla aynı yönde izle."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Letting the knees collapse inward or the heels lift.",
+        "Dropping into a depth you cannot control."
+      ],
+      "tr": [
+        "Dizlerin içe çökmesine veya topukların kalkmasına izin vermek.",
+        "Kontrol edemediğin kadar derine inmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -16411,6 +16571,83 @@
   },
   {
     "schemaVersion": 1,
+    "id": "knee-to-wall-ankle-rock",
+    "slug": "knee-to-wall-ankle-rock",
+    "name": {
+      "en": "Knee-to-Wall Ankle Rock",
+      "tr": "Diz Duvara Ayak Bileği Mobilizasyonu"
+    },
+    "description": {
+      "en": "A controlled ankle-dorsiflexion mobility drill that moves the knee toward a wall while the heel stays grounded.",
+      "tr": "Topuk yerde kalırken dizin duvara doğru ilerlediği kontrollü ayak bileği dorsifleksiyon hareketi."
+    },
+    "category": "mobility",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "tibialis-anterior"
+    ],
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "instructions": {
+      "en": [
+        "Stand in a short split stance with the front toes a few centimetres from a wall; keep the foot pointing forward.",
+        "Move the front knee toward the wall over the toes while keeping the whole foot, especially the heel, on the floor.",
+        "Return smoothly. If the knee reaches the wall easily, move the front foot slightly farther away and repeat."
+      ],
+      "tr": [
+        "Ön ayak parmakların duvardan birkaç santimetre uzakta olacak şekilde kısa bir hamle duruşu al; ayağın öne baksın.",
+        "Ayağının tamamı, özellikle topuğun yerde kalırken ön dizini ayak parmaklarının üzerinden duvara doğru ilerlet.",
+        "Akıcı biçimde başlangıca dön. Diz duvara rahatça değiyorsa ön ayağını biraz geriye alıp tekrarla."
+      ]
+    },
+    "formCues": {
+      "en": [
+        "Keep the heel grounded and let the knee follow the middle toes.",
+        "Use a smooth, comfortable range rather than forcing the knee forward."
+      ],
+      "tr": [
+        "Topuğunu yerde tut ve dizini orta ayak parmaklarının yönünde ilerlet.",
+        "Dizi zorlamak yerine rahat ve akıcı bir hareket aralığı kullan."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Lifting the heel or letting the arch collapse as the knee moves forward.",
+        "Bouncing into the wall or pushing through pain."
+      ],
+      "tr": [
+        "Diz öne giderken topuğu kaldırmak veya ayak kavsini içe düşürmek.",
+        "Duvara doğru zıplamak ya da ağrıya rağmen zorlamak."
+      ]
+    },
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas mobility guide informed by St George's NHS ankle dorsiflexion exercise",
+      "url": "https://www.stgeorges.nhs.uk/wp-content/uploads/2025/06/PHY_ASA.pdf",
+      "license": "CC0-1.0"
+    },
+    "media": [
+      {
+        "path": "media/exercises/knee-to-wall-ankle-rock.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase side-view illustration of a knee-to-wall ankle rock, with the front heel grounded and calf highlighted in red.",
+          "tr": "Ön topuk yerdeyken yapılan diz duvara ayak bileği mobilizasyonunun iki aşamalı yandan çizimi; baldır kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/knee-to-wall-ankle-rock.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/knee-to-wall-ankle-rock-2026-11-05.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "kneeling-barbell-ab-rollout",
     "slug": "kneeling-barbell-ab-rollout",
     "name": {
@@ -17352,7 +17589,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Align the knee joint with the machine pivot and place the pad above the ankles.",
+        "Extend and lower the legs smoothly through a comfortable range."
+      ],
+      "tr": [
+        "Diz eklemini makinenin dönme ekseniyle hizala; pedi ayak bileklerinin üstüne yerleştir.",
+        "Bacaklarını rahat aralıkta akıcı biçimde açıp indir."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Kicking the weight up or letting the stack slam down.",
+        "Lifting the hips from the seat to force a longer range."
+      ],
+      "tr": [
+        "Ağırlığı tekmeleyerek kaldırmak veya bloğun sertçe düşmesine izin vermek.",
+        "Hareket aralığını zorlamak için kalçayı koltuktan kaldırmak."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -17408,7 +17665,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-5.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Keep your hips and lower back supported as the knees bend.",
+        "Press through the whole foot and stop just short of locking the knees."
+      ],
+      "tr": [
+        "Dizlerin bükülürken kalçanı ve belini minderde destekli tut.",
+        "Ayağının tamamından it ve dizleri kilitlemeden hareketi bitir."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Lowering until the pelvis rolls off the pad.",
+        "Letting the knees collapse inward or snapping them straight."
+      ],
+      "tr": [
+        "Leğen kemiği minderden kıvrılana kadar platformu indirmek.",
+        "Dizlerin içe çökmesine ya da sertçe kilitlenmesine izin vermek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -17983,7 +18260,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Set the handles around mid-chest height and keep your back and feet supported.",
+        "Press smoothly with wrists aligned; stop before the elbows lock and return slowly."
+      ],
+      "tr": [
+        "Tutacakları göğüs ortası hizasına ayarla; sırtını ve ayaklarını destekli tut.",
+        "Bileklerini hizalı tutarak akıcı it; dirsekleri kilitlemeden kontrollü dön."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Letting the shoulders shrug or roll forward.",
+        "Bouncing the handles or forcing the elbows far behind the torso."
+      ],
+      "tr": [
+        "Omuzları kulaklara çekmek veya öne yuvarlamak.",
+        "Tutacakları sektirmek ya da dirsekleri gövdenin çok gerisine zorlamak."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -18724,7 +19021,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Set the handles near shoulder height and keep your back supported.",
+        "Brace gently and press overhead without arching the lower back."
+      ],
+      "tr": [
+        "Tutacakları omuz hizasına ayarla ve sırtını mindere yasla.",
+        "Gövdeni kontrollü tutup beli çukurlaştırmadan yukarı it."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Flared ribs and an exaggerated lower-back arch.",
+        "Lowering below a comfortable shoulder range or forcefully locking the elbows."
+      ],
+      "tr": [
+        "Kaburgaları öne çıkarmak ve beli aşırı çukurlaştırmak.",
+        "Omuzları zorlayan kadar derine inmek veya dirsekleri sertçe kilitlemek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -23289,7 +23606,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Keep the knees softly bent and push the hips back as the bar stays close to the legs.",
+        "Stop at a hamstring stretch with a neutral back; stand by bringing the hips forward."
+      ],
+      "tr": [
+        "Dizlerini hafif bükülü tut; bar bacaklarına yakınken kalçanı geriye gönder.",
+        "Sırtını nötr tutup arka bacakta gerilme hissedince dur; kalçanı öne getirerek doğrul."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Rounding the back or letting the bar drift forward.",
+        "Bending the knees progressively until the movement becomes a squat."
+      ],
+      "tr": [
+        "Sırtı yuvarlamak veya barı öne uzaklaştırmak.",
+        "Hareket squat’a dönüşene kadar dizleri giderek daha fazla bükmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -23919,7 +24256,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Sit tall with a steady torso and shoulders relaxed.",
+        "Pull the handle toward the lower ribs, then reach forward slowly without rounding the back."
+      ],
+      "tr": [
+        "Gövden sabit, omuzların rahat olacak şekilde dik otur.",
+        "Tutacağı alt kaburgalara çek; sırtını yuvarlamadan yavaşça öne uzat."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Rocking far backward to start the pull.",
+        "Rounding the back as the arms reach forward."
+      ],
+      "tr": [
+        "Çekişi başlatmak için geriye doğru fazla sallanmak.",
+        "Kollar öne uzanırken sırtı yuvarlamak."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -24681,7 +25038,27 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Align the knees with the machine pivot and keep your hips against the seat.",
+        "Curl the heels down and back, then extend the legs slowly."
+      ],
+      "tr": [
+        "Dizlerini makinenin ekseniyle hizala ve kalçanı koltuğa dayalı tut.",
+        "Topuklarını aşağı ve geriye çek, ardından bacaklarını yavaşça aç."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Raising the hips or arching the back to move more weight.",
+        "Letting the weight stack slam during the return."
+      ],
+      "tr": [
+        "Daha ağır yükü oynatmak için kalçayı kaldırmak veya beli çukurlaştırmak.",
+        "Dönüşte ağırlık bloğunun sertçe çarpmasına izin vermek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -24739,7 +25116,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Align the elbows with the machine pivot and keep the upper arms on the pad.",
+        "Curl without rocking, then lower until the arms are nearly straight."
+      ],
+      "tr": [
+        "Dirseklerini makinenin ekseniyle hizala ve üst kollarını minderde tut.",
+        "Gövdeni sallamadan çek; kollarını neredeyse düz olana kadar kontrollü indir."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Lifting the upper arms off the pad to finish the curl.",
+        "Bending the wrists or swinging the torso."
+      ],
+      "tr": [
+        "Tekrarı tamamlamak için üst kolları minderden kaldırmak.",
+        "Bilekleri bükmek veya gövdeyi sallamak."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -24928,7 +25325,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Keep your chest against the pad and your torso still.",
+        "Pull the handles toward the lower ribs, then extend the arms slowly."
+      ],
+      "tr": [
+        "Göğsünü mindere dayalı, gövdeni sabit tut.",
+        "Tutacakları alt kaburgalara çek, ardından kollarını yavaşça uzat."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Lifting the chest off the pad or shrugging to finish the pull.",
+        "Letting the weight stack jerk the arms forward."
+      ],
+      "tr": [
+        "Çekişi bitirmek için göğsü minderden kaldırmak veya omuzları silkmek.",
+        "Ağırlık bloğunun kolları öne sertçe çekmesine izin vermek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -24987,7 +25404,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Align the elbows with the machine pivots and keep the upper arms supported.",
+        "Extend smoothly and return slowly without forcing the elbows straight."
+      ],
+      "tr": [
+        "Dirseklerini makinenin ekseniyle hizala ve üst kollarını destekli tut.",
+        "Dirsekleri zorla düzleştirmeden akıcı it ve yavaşça geri dön."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Moving the shoulders or upper arms to push the handles.",
+        "Snapping the elbows straight at the end of each repetition."
+      ],
+      "tr": [
+        "Tutacakları iterken omuzları veya üst kolları oynatmak.",
+        "Her tekrarda dirsekleri sertçe düzleştirmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -25306,7 +25743,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Secure the thigh pads and begin tall with your torso steady.",
+        "Drive the elbows down beside your ribs; guide the handles overhead under control."
+      ],
+      "tr": [
+        "Uyluk pedlerini sabitle ve gövden dik, kontrollü bir başlangıç yap.",
+        "Dirseklerini kaburgalarının yanına doğru indir; tutacakları kontrollü biçimde yukarı bırak."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Pulling behind the head or leaning farther back to move the weight.",
+        "Letting the weight stack pull the shoulders up at the top."
+      ],
+      "tr": [
+        "Tutacakları başın arkasına çekmek veya ağırlığı oynatmak için geriye fazla yatmak.",
+        "Üst noktada ağırlığın omuzları kontrolsüzce yukarı çekmesine izin vermek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -29726,7 +30183,27 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
       }
-    ]
+    ],
+    "formCues": {
+      "en": [
+        "Place the balls of the feet on the platform and keep the shoulders secure under the pads.",
+        "Lower the heels comfortably, rise onto the toes, and pause before lowering slowly."
+      ],
+      "tr": [
+        "Ayaklarının ön kısmını platforma koy ve omuz pedlerinin altında sabitlen.",
+        "Topuklarını rahatça indir, parmak uçlarına yüksel, kısa duraklayıp yavaşça alçal."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Bouncing through the bottom instead of controlling the stretch.",
+        "Rolling the ankles outward or inward at the top."
+      ],
+      "tr": [
+        "Alt noktada kontrol yerine zıplamak.",
+        "Üst noktada ayak bileklerini dışa veya içe devirmek."
+      ]
+    }
   },
   {
     "schemaVersion": 1,
@@ -31709,6 +32186,83 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-sit.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "wall-slide",
+    "slug": "wall-slide",
+    "name": {
+      "en": "Wall Slide",
+      "tr": "Duvar Kaydırma"
+    },
+    "description": {
+      "en": "A shoulder-mobility drill that slides the forearms up a wall while the torso stays controlled.",
+      "tr": "Gövde kontrollü kalırken ön kolların duvarda yukarı kaydığı omuz mobilite hareketi."
+    },
+    "category": "mobility",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "upper-back"
+    ],
+    "instructions": {
+      "en": [
+        "Stand with your back lightly against a wall and your feet a short step forward; begin with elbows bent in a comfortable W.",
+        "Keep the forearms near the wall as you slide the hands upward into a comfortable overhead reach.",
+        "Lower slowly to the starting position while keeping the ribs controlled and shoulders relaxed."
+      ],
+      "tr": [
+        "Sırtın duvara hafifçe değecek ve ayakların biraz önde olacak şekilde dur; dirseklerini rahat bir W konumunda bük.",
+        "Ön kollarını duvara yakın tutarak ellerini rahat edebildiğin baş üstü uzanışa doğru kaydır.",
+        "Kaburgalarını kontrollü, omuzlarını rahat tutarak yavaşça başlangıca dön."
+      ]
+    },
+    "formCues": {
+      "en": [
+        "Keep the movement smooth and within a comfortable overhead range.",
+        "Let the shoulder blades move naturally without shrugging toward the ears."
+      ],
+      "tr": [
+        "Hareketi akıcı ve rahat edebildiğin baş üstü aralıkta tut.",
+        "Kürek kemiklerinin doğal hareket etmesine izin ver; omuzlarını kulaklarına çekme."
+      ]
+    },
+    "commonMistakes": {
+      "en": [
+        "Arching the lower back or flaring the ribs to reach higher.",
+        "Forcing the hands overhead while the forearms lose wall contact."
+      ],
+      "tr": [
+        "Daha yükseğe uzanmak için beli çukurlaştırmak veya kaburgaları öne çıkarmak.",
+        "Ön kollar duvardan ayrılırken elleri zorla baş üstüne çıkarmak."
+      ]
+    },
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas mobility guide informed by ACE scapular wall-slides",
+      "url": "https://www.acefitness.org/resources/everyone/blog/7101/five-ways-to-improve-posture-and-mobility-at-the-office/",
+      "license": "CC0-1.0"
+    },
+    "media": [
+      {
+        "path": "media/exercises/wall-slide.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase rear view of a wall slide, with the arms moving from a W to an overhead reach and shoulders highlighted in red.",
+          "tr": "Kolların W konumundan baş üstüne kaydığı duvar hareketinin iki aşamalı arkadan çizimi; omuzlar kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-slide.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/wall-slide-2026-11-05.md"
       }
     ]
   },

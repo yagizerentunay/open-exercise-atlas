@@ -59,5 +59,25 @@
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Set the bar securely and brace before each descent.",
+      "Keep the knees tracking with the toes and use a depth you can control."
+    ],
+    "tr": [
+      "Barı güvenli biçimde yerleştir ve her inişten önce gövdeni sabitle.",
+      "Dizlerini ayak parmaklarınla aynı yönde tut ve kontrol edebildiğin derinlikte çalış."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Losing trunk tension or letting the knees collapse inward.",
+      "Lifting the heels or descending beyond a stable range."
+    ],
+    "tr": [
+      "Gövde gerginliğini kaybetmek veya dizleri içe düşürmek.",
+      "Topukları kaldırmak ya da dengeli kalamadığın kadar derine inmek."
+    ]
+  }
 }

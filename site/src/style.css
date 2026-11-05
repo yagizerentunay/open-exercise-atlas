@@ -54,6 +54,8 @@ main > p[role] { padding: 48px 0; }
 .results-bar { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin: 28px 0 16px; padding-top: 16px; border-top: 1px solid var(--line); }
 .count { font-size: var(--fs-meta); color: var(--muted); }
 .count strong { font-size: var(--fs-body); font-weight: 600; color: var(--pine); }
+.clear-filters { min-height: 40px; padding: 0 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--card); color: var(--link); font-size: var(--fs-meta); font-weight: 600; }
+.clear-filters:hover { border-color: var(--lime-deep); background: var(--soft); }
 .view-toggle { display: flex; gap: 4px; padding: 4px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
 .view-toggle button { display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 8px; background: transparent; color: var(--muted); }
 .view-toggle button:hover { background: var(--soft); }
@@ -126,6 +128,9 @@ main > p[role] { padding: 48px 0; }
 .detail li:last-child { border-bottom: 0; }
 .detail li::before { content: counter(step); display: grid; place-items: center; width: 28px; height: 28px; margin-top: 1px; border-radius: 50%; background: var(--lime); font-size: var(--fs-meta); font-weight: 700; color: var(--forest); }
 .link { display: block; min-height: 32px; margin: 4px 0; text-align: left; line-height: 1.4; }
+.detail ul.technique-list { margin: 0; padding-left: 22px; list-style: disc; }
+.detail ul.technique-list li { display: list-item; padding: 6px 0; border: 0; }
+.detail ul.technique-list li::before { display: none; content: none; }
 
 footer a { color: var(--link); text-underline-offset: 3px; }
 footer { max-width: 1240px; margin: auto; padding: 28px var(--gutter); border-top: 1px solid var(--line); font-size: var(--fs-meta); color: var(--muted); }

@@ -76,5 +76,25 @@
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Plant the feet and set the shoulder blades before unracking.",
+      "Lower the bar under control to the mid-lower chest with wrists over elbows; press smoothly."
+    ],
+    "tr": [
+      "Barı raftan çıkarmadan önce ayaklarını bas ve kürek kemiklerini sehpaya yerleştir.",
+      "Bilekleri dirseklerin üzerinde tutarak barı göğsün orta-alt bölümüne kontrollü indir ve akıcı it."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Bouncing the bar off the chest or letting the wrists fold back.",
+      "Attempting a heavy lift without a spotter or correctly set rack safeties."
+    ],
+    "tr": [
+      "Barı göğüsten sektirmek veya bilekleri geriye kırmak.",
+      "Ağır denemeyi gözcü olmadan veya sehpa emniyetlerini ayarlamadan yapmak."
+    ]
+  }
 }

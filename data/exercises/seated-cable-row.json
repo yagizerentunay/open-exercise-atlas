@@ -51,5 +51,25 @@
       "license": "CC0-1.0",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Sit tall with a steady torso and shoulders relaxed.",
+      "Pull the handle toward the lower ribs, then reach forward slowly without rounding the back."
+    ],
+    "tr": [
+      "Gövden sabit, omuzların rahat olacak şekilde dik otur.",
+      "Tutacağı alt kaburgalara çek; sırtını yuvarlamadan yavaşça öne uzat."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Rocking far backward to start the pull.",
+      "Rounding the back as the arms reach forward."
+    ],
+    "tr": [
+      "Çekişi başlatmak için geriye doğru fazla sallanmak.",
+      "Kollar öne uzanırken sırtı yuvarlamak."
+    ]
+  }
 }

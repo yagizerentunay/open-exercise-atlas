@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "wall-slide",
+  "slug": "wall-slide",
+  "name": {
+    "en": "Wall Slide",
+    "tr": "Duvar Kaydırma"
+  },
+  "description": {
+    "en": "A shoulder-mobility drill that slides the forearms up a wall while the torso stays controlled.",
+    "tr": "Gövde kontrollü kalırken ön kolların duvarda yukarı kaydığı omuz mobilite hareketi."
+  },
+  "category": "mobility",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "upper-back"
+  ],
+  "instructions": {
+    "en": [
+      "Stand with your back lightly against a wall and your feet a short step forward; begin with elbows bent in a comfortable W.",
+      "Keep the forearms near the wall as you slide the hands upward into a comfortable overhead reach.",
+      "Lower slowly to the starting position while keeping the ribs controlled and shoulders relaxed."
+    ],
+    "tr": [
+      "Sırtın duvara hafifçe değecek ve ayakların biraz önde olacak şekilde dur; dirseklerini rahat bir W konumunda bük.",
+      "Ön kollarını duvara yakın tutarak ellerini rahat edebildiğin baş üstü uzanışa doğru kaydır.",
+      "Kaburgalarını kontrollü, omuzlarını rahat tutarak yavaşça başlangıca dön."
+    ]
+  },
+  "formCues": {
+    "en": [
+      "Keep the movement smooth and within a comfortable overhead range.",
+      "Let the shoulder blades move naturally without shrugging toward the ears."
+    ],
+    "tr": [
+      "Hareketi akıcı ve rahat edebildiğin baş üstü aralıkta tut.",
+      "Kürek kemiklerinin doğal hareket etmesine izin ver; omuzlarını kulaklarına çekme."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Arching the lower back or flaring the ribs to reach higher.",
+      "Forcing the hands overhead while the forearms lose wall contact."
+    ],
+    "tr": [
+      "Daha yükseğe uzanmak için beli çukurlaştırmak veya kaburgaları öne çıkarmak.",
+      "Ön kollar duvardan ayrılırken elleri zorla baş üstüne çıkarmak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas mobility guide informed by ACE scapular wall-slides",
+    "url": "https://www.acefitness.org/resources/everyone/blog/7101/five-ways-to-improve-posture-and-mobility-at-the-office/",
+    "license": "CC0-1.0"
+  },
+  "media": [
+    {
+      "path": "media/exercises/wall-slide.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase rear view of a wall slide, with the arms moving from a W to an overhead reach and shoulders highlighted in red.",
+        "tr": "Kolların W konumundan baş üstüne kaydığı duvar hareketinin iki aşamalı arkadan çizimi; omuzlar kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-slide.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/wall-slide-2026-11-05.md"
+    }
+  ]
+}

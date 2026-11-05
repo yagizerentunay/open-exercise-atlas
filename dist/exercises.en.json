@@ -851,6 +851,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Set the bar securely and brace before each descent.",
+      "Keep the knees tracking with the toes and use a depth you can control."
+    ],
+    "commonMistakes": [
+      "Losing trunk tension or letting the knees collapse inward.",
+      "Lifting the heels or descending beyond a stable range."
     ]
   },
   {
@@ -918,6 +926,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Plant the feet and set the shoulder blades before unracking.",
+      "Lower the bar under control to the mid-lower chest with wrists over elbows; press smoothly."
+    ],
+    "commonMistakes": [
+      "Bouncing the bar off the chest or letting the wrists fold back.",
+      "Attempting a heavy lift without a spotter or correctly set rack safeties."
     ]
   },
   {
@@ -4885,6 +4901,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Keep a slight, fixed bend in the elbows and shoulders supported on the bench.",
+      "Bring the handles together above mid-chest in a smooth arc, then reopen within a comfortable range."
+    ],
+    "commonMistakes": [
+      "Lowering the arms so far that the shoulders are forced behind the torso.",
+      "Changing the elbow bend into a press."
     ]
   },
   {
@@ -5700,6 +5724,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
+    ],
+    "formCues": [
+      "Keep the elbows beside the torso and the upper arms still.",
+      "Extend the elbows smoothly; separate the rope ends slightly, then return under control."
+    ],
+    "commonMistakes": [
+      "Swinging the torso or driving the elbows forward.",
+      "Shrugging the shoulders or folding the wrists to press lower."
     ]
   },
   {
@@ -8028,6 +8060,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Keep the wrists stacked over the elbows as the weights lower beside the chest.",
+      "Press smoothly and stop before the dumbbells collide above you."
+    ],
+    "commonMistakes": [
+      "Letting the wrists fold back or the shoulders shrug toward the ears.",
+      "Dropping the elbows far below the bench when the shoulder range feels strained."
     ]
   },
   {
@@ -9226,6 +9266,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Keep a soft knee bend and send the hips back while the dumbbells stay close to the legs.",
+      "Stop when the hamstrings limit the hinge and stand by bringing the hips forward."
+    ],
+    "commonMistakes": [
+      "Rounding the back or letting the dumbbells drift away from the legs.",
+      "Turning the hinge into a deep squat by bending the knees more each rep."
     ]
   },
   {
@@ -9428,6 +9476,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Start with the dumbbells near shoulder height and wrists above the elbows.",
+      "Brace your trunk and press up without leaning back; lower smoothly."
+    ],
+    "commonMistakes": [
+      "Arching the lower back to get the weights overhead.",
+      "Allowing the dumbbells to drift far in front of the body."
     ]
   },
   {
@@ -10947,6 +11003,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Hold the weight close to your chest and keep the whole foot grounded.",
+      "Let the knees track in line with the toes as you squat and stand."
+    ],
+    "commonMistakes": [
+      "Letting the knees collapse inward or the heels lift.",
+      "Dropping into a depth you cannot control."
     ]
   },
   {
@@ -13052,6 +13116,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "knee-to-wall-ankle-rock",
+    "slug": "knee-to-wall-ankle-rock",
+    "name": "Knee-to-Wall Ankle Rock",
+    "description": "A controlled ankle-dorsiflexion mobility drill that moves the knee toward a wall while the heel stays grounded.",
+    "category": "mobility",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "tibialis-anterior"
+    ],
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "instructions": [
+      "Stand in a short split stance with the front toes a few centimetres from a wall; keep the foot pointing forward.",
+      "Move the front knee toward the wall over the toes while keeping the whole foot, especially the heel, on the floor.",
+      "Return smoothly. If the knee reaches the wall easily, move the front foot slightly farther away and repeat."
+    ],
+    "formCues": [
+      "Keep the heel grounded and let the knee follow the middle toes.",
+      "Use a smooth, comfortable range rather than forcing the knee forward."
+    ],
+    "commonMistakes": [
+      "Lifting the heel or letting the arch collapse as the knee moves forward.",
+      "Bouncing into the wall or pushing through pain."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas mobility guide informed by St George's NHS ankle dorsiflexion exercise",
+      "url": "https://www.stgeorges.nhs.uk/wp-content/uploads/2025/06/PHY_ASA.pdf",
+      "license": "CC0-1.0"
+    },
+    "media": [
+      {
+        "path": "media/exercises/knee-to-wall-ankle-rock.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase side-view illustration of a knee-to-wall ankle rock, with the front heel grounded and calf highlighted in red.",
+          "tr": "Ön topuk yerdeyken yapılan diz duvara ayak bileği mobilizasyonunun iki aşamalı yandan çizimi; baldır kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/knee-to-wall-ankle-rock.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/knee-to-wall-ankle-rock-2026-11-05.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "kneeling-barbell-ab-rollout",
     "slug": "kneeling-barbell-ab-rollout",
     "name": "Kneeling Barbell Ab Rollout",
@@ -13799,6 +13915,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Align the knee joint with the machine pivot and place the pad above the ankles.",
+      "Extend and lower the legs smoothly through a comfortable range."
+    ],
+    "commonMistakes": [
+      "Kicking the weight up or letting the stack slam down.",
+      "Lifting the hips from the seat to force a longer range."
     ]
   },
   {
@@ -13842,6 +13966,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-5.md"
       }
+    ],
+    "formCues": [
+      "Keep your hips and lower back supported as the knees bend.",
+      "Press through the whole foot and stop just short of locking the knees."
+    ],
+    "commonMistakes": [
+      "Lowering until the pelvis rolls off the pad.",
+      "Letting the knees collapse inward or snapping them straight."
     ]
   },
   {
@@ -14300,6 +14432,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Set the handles around mid-chest height and keep your back and feet supported.",
+      "Press smoothly with wrists aligned; stop before the elbows lock and return slowly."
+    ],
+    "commonMistakes": [
+      "Letting the shoulders shrug or roll forward.",
+      "Bouncing the handles or forcing the elbows far behind the torso."
     ]
   },
   {
@@ -14885,6 +15025,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Set the handles near shoulder height and keep your back supported.",
+      "Brace gently and press overhead without arching the lower back."
+    ],
+    "commonMistakes": [
+      "Flared ribs and an exaggerated lower-back arch.",
+      "Lowering below a comfortable shoulder range or forcefully locking the elbows."
     ]
   },
   {
@@ -18519,6 +18667,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Keep the knees softly bent and push the hips back as the bar stays close to the legs.",
+      "Stop at a hamstring stretch with a neutral back; stand by bringing the hips forward."
+    ],
+    "commonMistakes": [
+      "Rounding the back or letting the bar drift forward.",
+      "Bending the knees progressively until the movement becomes a squat."
     ]
   },
   {
@@ -19020,6 +19176,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Sit tall with a steady torso and shoulders relaxed.",
+      "Pull the handle toward the lower ribs, then reach forward slowly without rounding the back."
+    ],
+    "commonMistakes": [
+      "Rocking far backward to start the pull.",
+      "Rounding the back as the arms reach forward."
     ]
   },
   {
@@ -19626,6 +19790,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Align the knees with the machine pivot and keep your hips against the seat.",
+      "Curl the heels down and back, then extend the legs slowly."
+    ],
+    "commonMistakes": [
+      "Raising the hips or arching the back to move more weight.",
+      "Letting the weight stack slam during the return."
     ]
   },
   {
@@ -19671,6 +19843,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Align the elbows with the machine pivot and keep the upper arms on the pad.",
+      "Curl without rocking, then lower until the arms are nearly straight."
+    ],
+    "commonMistakes": [
+      "Lifting the upper arms off the pad to finish the curl.",
+      "Bending the wrists or swinging the torso."
     ]
   },
   {
@@ -19821,6 +20001,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
+    ],
+    "formCues": [
+      "Keep your chest against the pad and your torso still.",
+      "Pull the handles toward the lower ribs, then extend the arms slowly."
+    ],
+    "commonMistakes": [
+      "Lifting the chest off the pad or shrugging to finish the pull.",
+      "Letting the weight stack jerk the arms forward."
     ]
   },
   {
@@ -19867,6 +20055,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
+    ],
+    "formCues": [
+      "Align the elbows with the machine pivots and keep the upper arms supported.",
+      "Extend smoothly and return slowly without forcing the elbows straight."
+    ],
+    "commonMistakes": [
+      "Moving the shoulders or upper arms to push the handles.",
+      "Snapping the elbows straight at the end of each repetition."
     ]
   },
   {
@@ -20121,6 +20317,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
+    ],
+    "formCues": [
+      "Secure the thigh pads and begin tall with your torso steady.",
+      "Drive the elbows down beside your ribs; guide the handles overhead under control."
+    ],
+    "commonMistakes": [
+      "Pulling behind the head or leaning farther back to move the weight.",
+      "Letting the weight stack pull the shoulders up at the top."
     ]
   },
   {
@@ -23619,6 +23823,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
       }
+    ],
+    "formCues": [
+      "Place the balls of the feet on the platform and keep the shoulders secure under the pads.",
+      "Lower the heels comfortably, rise onto the toes, and pause before lowering slowly."
+    ],
+    "commonMistakes": [
+      "Bouncing through the bottom instead of controlling the stretch.",
+      "Rolling the ankles outward or inward at the top."
     ]
   },
   {
@@ -25187,6 +25399,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-sit.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "wall-slide",
+    "slug": "wall-slide",
+    "name": "Wall Slide",
+    "description": "A shoulder-mobility drill that slides the forearms up a wall while the torso stays controlled.",
+    "category": "mobility",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "upper-back"
+    ],
+    "instructions": [
+      "Stand with your back lightly against a wall and your feet a short step forward; begin with elbows bent in a comfortable W.",
+      "Keep the forearms near the wall as you slide the hands upward into a comfortable overhead reach.",
+      "Lower slowly to the starting position while keeping the ribs controlled and shoulders relaxed."
+    ],
+    "formCues": [
+      "Keep the movement smooth and within a comfortable overhead range.",
+      "Let the shoulder blades move naturally without shrugging toward the ears."
+    ],
+    "commonMistakes": [
+      "Arching the lower back or flaring the ribs to reach higher.",
+      "Forcing the hands overhead while the forearms lose wall contact."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas mobility guide informed by ACE scapular wall-slides",
+      "url": "https://www.acefitness.org/resources/everyone/blog/7101/five-ways-to-improve-posture-and-mobility-at-the-office/",
+      "license": "CC0-1.0"
+    },
+    "media": [
+      {
+        "path": "media/exercises/wall-slide.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase rear view of a wall slide, with the arms moving from a W to an overhead reach and shoulders highlighted in red.",
+          "tr": "Kolların W konumundan baş üstüne kaydığı duvar hareketinin iki aşamalı arkadan çizimi; omuzlar kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-slide.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/wall-slide-2026-11-05.md"
       }
     ]
   },

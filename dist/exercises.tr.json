@@ -851,6 +851,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Barı güvenli biçimde yerleştir ve her inişten önce gövdeni sabitle.",
+      "Dizlerini ayak parmaklarınla aynı yönde tut ve kontrol edebildiğin derinlikte çalış."
+    ],
+    "commonMistakes": [
+      "Gövde gerginliğini kaybetmek veya dizleri içe düşürmek.",
+      "Topukları kaldırmak ya da dengeli kalamadığın kadar derine inmek."
     ]
   },
   {
@@ -918,6 +926,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Barı raftan çıkarmadan önce ayaklarını bas ve kürek kemiklerini sehpaya yerleştir.",
+      "Bilekleri dirseklerin üzerinde tutarak barı göğsün orta-alt bölümüne kontrollü indir ve akıcı it."
+    ],
+    "commonMistakes": [
+      "Barı göğüsten sektirmek veya bilekleri geriye kırmak.",
+      "Ağır denemeyi gözcü olmadan veya sehpa emniyetlerini ayarlamadan yapmak."
     ]
   },
   {
@@ -4885,6 +4901,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Dirseklerini hafif bükülü ve sabit tut; omuzların sehpada destekli kalsın.",
+      "Tutacakları göğsün ortası üzerinde akıcı yayla birleştir; rahat aralıkta tekrar aç."
+    ],
+    "commonMistakes": [
+      "Kolları omuzları gövdenin gerisine zorlayacak kadar indirmek.",
+      "Dirsek açısını değiştirip hareketi press’e çevirmek."
     ]
   },
   {
@@ -5700,6 +5724,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
+    ],
+    "formCues": [
+      "Dirseklerini gövdenin yanında, üst kollarını sabit tut.",
+      "Dirseklerini akıcı biçimde aç; ip uçlarını hafifçe ayır ve kontrollü dön."
+    ],
+    "commonMistakes": [
+      "Gövdeyi sallamak veya dirsekleri öne sürmek.",
+      "Daha aşağı itmek için omuzları silkmek ya da bilekleri bükmek."
     ]
   },
   {
@@ -8028,6 +8060,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Ağırlıkları göğsün yanına indirirken bileklerini dirseklerin üzerinde hizala.",
+      "Dambılları akıcı biçimde it ve üstte birbirine çarpmadan dur."
+    ],
+    "commonMistakes": [
+      "Bileklerin geriye kırılmasına veya omuzların kulaklara yükselmesine izin vermek.",
+      "Omuzları zorlayan derinlikte dirsekleri sehpanın çok altına indirmek."
     ]
   },
   {
@@ -9226,6 +9266,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Dizlerini hafif bükülü tut; dambılları bacaklarına yakın tutarken kalçanı geriye gönder.",
+      "Arka bacakların izin verdiği noktada dur ve kalçanı öne getirerek doğrul."
+    ],
+    "commonMistakes": [
+      "Sırtı yuvarlamak veya dambılları bacaklardan uzaklaştırmak.",
+      "Her tekrarda dizleri daha fazla bükerek hareketi derin squat’a çevirmek."
     ]
   },
   {
@@ -9428,6 +9476,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Dambılları omuz hizasında başlat; bileklerini dirseklerinin üzerinde tut.",
+      "Gövdeni sabitleyip geriye yatmadan yukarı it; kontrollü indir."
+    ],
+    "commonMistakes": [
+      "Ağırlıkları baş üstüne çıkarmak için beli çukurlaştırmak.",
+      "Dambılların gövdenin çok önüne kaçmasına izin vermek."
     ]
   },
   {
@@ -10947,6 +11003,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Ağırlığı göğsüne yakın tut ve ayağının tamamını yere bas.",
+      "Çömelip kalkarken dizlerini ayak parmaklarınla aynı yönde izle."
+    ],
+    "commonMistakes": [
+      "Dizlerin içe çökmesine veya topukların kalkmasına izin vermek.",
+      "Kontrol edemediğin kadar derine inmek."
     ]
   },
   {
@@ -13052,6 +13116,58 @@
   },
   {
     "schemaVersion": 1,
+    "id": "knee-to-wall-ankle-rock",
+    "slug": "knee-to-wall-ankle-rock",
+    "name": "Diz Duvara Ayak Bileği Mobilizasyonu",
+    "description": "Topuk yerde kalırken dizin duvara doğru ilerlediği kontrollü ayak bileği dorsifleksiyon hareketi.",
+    "category": "mobility",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "tibialis-anterior"
+    ],
+    "secondaryMuscles": [
+      "calves"
+    ],
+    "instructions": [
+      "Ön ayak parmakların duvardan birkaç santimetre uzakta olacak şekilde kısa bir hamle duruşu al; ayağın öne baksın.",
+      "Ayağının tamamı, özellikle topuğun yerde kalırken ön dizini ayak parmaklarının üzerinden duvara doğru ilerlet.",
+      "Akıcı biçimde başlangıca dön. Diz duvara rahatça değiyorsa ön ayağını biraz geriye alıp tekrarla."
+    ],
+    "formCues": [
+      "Topuğunu yerde tut ve dizini orta ayak parmaklarının yönünde ilerlet.",
+      "Dizi zorlamak yerine rahat ve akıcı bir hareket aralığı kullan."
+    ],
+    "commonMistakes": [
+      "Diz öne giderken topuğu kaldırmak veya ayak kavsini içe düşürmek.",
+      "Duvara doğru zıplamak ya da ağrıya rağmen zorlamak."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas mobility guide informed by St George's NHS ankle dorsiflexion exercise",
+      "url": "https://www.stgeorges.nhs.uk/wp-content/uploads/2025/06/PHY_ASA.pdf",
+      "license": "CC0-1.0"
+    },
+    "media": [
+      {
+        "path": "media/exercises/knee-to-wall-ankle-rock.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase side-view illustration of a knee-to-wall ankle rock, with the front heel grounded and calf highlighted in red.",
+          "tr": "Ön topuk yerdeyken yapılan diz duvara ayak bileği mobilizasyonunun iki aşamalı yandan çizimi; baldır kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/knee-to-wall-ankle-rock.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/knee-to-wall-ankle-rock-2026-11-05.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
     "id": "kneeling-barbell-ab-rollout",
     "slug": "kneeling-barbell-ab-rollout",
     "name": "Diz Çökerek Halterle Karın Roll-out",
@@ -13799,6 +13915,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Diz eklemini makinenin dönme ekseniyle hizala; pedi ayak bileklerinin üstüne yerleştir.",
+      "Bacaklarını rahat aralıkta akıcı biçimde açıp indir."
+    ],
+    "commonMistakes": [
+      "Ağırlığı tekmeleyerek kaldırmak veya bloğun sertçe düşmesine izin vermek.",
+      "Hareket aralığını zorlamak için kalçayı koltuktan kaldırmak."
     ]
   },
   {
@@ -13842,6 +13966,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-5.md"
       }
+    ],
+    "formCues": [
+      "Dizlerin bükülürken kalçanı ve belini minderde destekli tut.",
+      "Ayağının tamamından it ve dizleri kilitlemeden hareketi bitir."
+    ],
+    "commonMistakes": [
+      "Leğen kemiği minderden kıvrılana kadar platformu indirmek.",
+      "Dizlerin içe çökmesine ya da sertçe kilitlenmesine izin vermek."
     ]
   },
   {
@@ -14300,6 +14432,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Tutacakları göğüs ortası hizasına ayarla; sırtını ve ayaklarını destekli tut.",
+      "Bileklerini hizalı tutarak akıcı it; dirsekleri kilitlemeden kontrollü dön."
+    ],
+    "commonMistakes": [
+      "Omuzları kulaklara çekmek veya öne yuvarlamak.",
+      "Tutacakları sektirmek ya da dirsekleri gövdenin çok gerisine zorlamak."
     ]
   },
   {
@@ -14885,6 +15025,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Tutacakları omuz hizasına ayarla ve sırtını mindere yasla.",
+      "Gövdeni kontrollü tutup beli çukurlaştırmadan yukarı it."
+    ],
+    "commonMistakes": [
+      "Kaburgaları öne çıkarmak ve beli aşırı çukurlaştırmak.",
+      "Omuzları zorlayan kadar derine inmek veya dirsekleri sertçe kilitlemek."
     ]
   },
   {
@@ -18519,6 +18667,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Dizlerini hafif bükülü tut; bar bacaklarına yakınken kalçanı geriye gönder.",
+      "Sırtını nötr tutup arka bacakta gerilme hissedince dur; kalçanı öne getirerek doğrul."
+    ],
+    "commonMistakes": [
+      "Sırtı yuvarlamak veya barı öne uzaklaştırmak.",
+      "Hareket squat’a dönüşene kadar dizleri giderek daha fazla bükmek."
     ]
   },
   {
@@ -19020,6 +19176,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Gövden sabit, omuzların rahat olacak şekilde dik otur.",
+      "Tutacağı alt kaburgalara çek; sırtını yuvarlamadan yavaşça öne uzat."
+    ],
+    "commonMistakes": [
+      "Çekişi başlatmak için geriye doğru fazla sallanmak.",
+      "Kollar öne uzanırken sırtı yuvarlamak."
     ]
   },
   {
@@ -19626,6 +19790,14 @@
         "license": "MIT",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
       }
+    ],
+    "formCues": [
+      "Dizlerini makinenin ekseniyle hizala ve kalçanı koltuğa dayalı tut.",
+      "Topuklarını aşağı ve geriye çek, ardından bacaklarını yavaşça aç."
+    ],
+    "commonMistakes": [
+      "Daha ağır yükü oynatmak için kalçayı kaldırmak veya beli çukurlaştırmak.",
+      "Dönüşte ağırlık bloğunun sertçe çarpmasına izin vermek."
     ]
   },
   {
@@ -19671,6 +19843,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
       }
+    ],
+    "formCues": [
+      "Dirseklerini makinenin ekseniyle hizala ve üst kollarını minderde tut.",
+      "Gövdeni sallamadan çek; kollarını neredeyse düz olana kadar kontrollü indir."
+    ],
+    "commonMistakes": [
+      "Tekrarı tamamlamak için üst kolları minderden kaldırmak.",
+      "Bilekleri bükmek veya gövdeyi sallamak."
     ]
   },
   {
@@ -19821,6 +20001,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
+    ],
+    "formCues": [
+      "Göğsünü mindere dayalı, gövdeni sabit tut.",
+      "Tutacakları alt kaburgalara çek, ardından kollarını yavaşça uzat."
+    ],
+    "commonMistakes": [
+      "Çekişi bitirmek için göğsü minderden kaldırmak veya omuzları silkmek.",
+      "Ağırlık bloğunun kolları öne sertçe çekmesine izin vermek."
     ]
   },
   {
@@ -19867,6 +20055,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
       }
+    ],
+    "formCues": [
+      "Dirseklerini makinenin ekseniyle hizala ve üst kollarını destekli tut.",
+      "Dirsekleri zorla düzleştirmeden akıcı it ve yavaşça geri dön."
+    ],
+    "commonMistakes": [
+      "Tutacakları iterken omuzları veya üst kolları oynatmak.",
+      "Her tekrarda dirsekleri sertçe düzleştirmek."
     ]
   },
   {
@@ -20121,6 +20317,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
       }
+    ],
+    "formCues": [
+      "Uyluk pedlerini sabitle ve gövden dik, kontrollü bir başlangıç yap.",
+      "Dirseklerini kaburgalarının yanına doğru indir; tutacakları kontrollü biçimde yukarı bırak."
+    ],
+    "commonMistakes": [
+      "Tutacakları başın arkasına çekmek veya ağırlığı oynatmak için geriye fazla yatmak.",
+      "Üst noktada ağırlığın omuzları kontrolsüzce yukarı çekmesine izin vermek."
     ]
   },
   {
@@ -23619,6 +23823,14 @@
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
       }
+    ],
+    "formCues": [
+      "Ayaklarının ön kısmını platforma koy ve omuz pedlerinin altında sabitlen.",
+      "Topuklarını rahatça indir, parmak uçlarına yüksel, kısa duraklayıp yavaşça alçal."
+    ],
+    "commonMistakes": [
+      "Alt noktada kontrol yerine zıplamak.",
+      "Üst noktada ayak bileklerini dışa veya içe devirmek."
     ]
   },
   {
@@ -25187,6 +25399,58 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-sit.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/media-provenance.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "wall-slide",
+    "slug": "wall-slide",
+    "name": "Duvar Kaydırma",
+    "description": "Gövde kontrollü kalırken ön kolların duvarda yukarı kaydığı omuz mobilite hareketi.",
+    "category": "mobility",
+    "movementPattern": "isolation",
+    "difficulty": "beginner",
+    "equipment": [
+      "bodyweight"
+    ],
+    "primaryMuscles": [
+      "shoulders"
+    ],
+    "secondaryMuscles": [
+      "upper-back"
+    ],
+    "instructions": [
+      "Sırtın duvara hafifçe değecek ve ayakların biraz önde olacak şekilde dur; dirseklerini rahat bir W konumunda bük.",
+      "Ön kollarını duvara yakın tutarak ellerini rahat edebildiğin baş üstü uzanışa doğru kaydır.",
+      "Kaburgalarını kontrollü, omuzlarını rahat tutarak yavaşça başlangıca dön."
+    ],
+    "formCues": [
+      "Hareketi akıcı ve rahat edebildiğin baş üstü aralıkta tut.",
+      "Kürek kemiklerinin doğal hareket etmesine izin ver; omuzlarını kulaklarına çekme."
+    ],
+    "commonMistakes": [
+      "Daha yükseğe uzanmak için beli çukurlaştırmak veya kaburgaları öne çıkarmak.",
+      "Ön kollar duvardan ayrılırken elleri zorla baş üstüne çıkarmak."
+    ],
+    "source": {
+      "type": "original",
+      "title": "Open Exercise Atlas mobility guide informed by ACE scapular wall-slides",
+      "url": "https://www.acefitness.org/resources/everyone/blog/7101/five-ways-to-improve-posture-and-mobility-at-the-office/",
+      "license": "CC0-1.0"
+    },
+    "media": [
+      {
+        "path": "media/exercises/wall-slide.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two-phase rear view of a wall slide, with the arms moving from a W to an overhead reach and shoulders highlighted in red.",
+          "tr": "Kolların W konumundan baş üstüne kaydığı duvar hareketinin iki aşamalı arkadan çizimi; omuzlar kırmızıyla vurgulanmış."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/wall-slide.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/wall-slide-2026-11-05.md"
       }
     ]
   },
