@@ -61,5 +61,25 @@
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Set the handles near shoulder height and keep your back supported.",
+      "Brace gently and press overhead without arching the lower back."
+    ],
+    "tr": [
+      "Tutacakları omuz hizasına ayarla ve sırtını mindere yasla.",
+      "Gövdeni kontrollü tutup beli çukurlaştırmadan yukarı it."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Flared ribs and an exaggerated lower-back arch.",
+      "Lowering below a comfortable shoulder range or forcefully locking the elbows."
+    ],
+    "tr": [
+      "Kaburgaları öne çıkarmak ve beli aşırı çukurlaştırmak.",
+      "Omuzları zorlayan kadar derine inmek veya dirsekleri sertçe kilitlemek."
+    ]
+  }
 }

@@ -59,5 +59,25 @@
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Align the knee joint with the machine pivot and place the pad above the ankles.",
+      "Extend and lower the legs smoothly through a comfortable range."
+    ],
+    "tr": [
+      "Diz eklemini makinenin dönme ekseniyle hizala; pedi ayak bileklerinin üstüne yerleştir.",
+      "Bacaklarını rahat aralıkta akıcı biçimde açıp indir."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Kicking the weight up or letting the stack slam down.",
+      "Lifting the hips from the seat to force a longer range."
+    ],
+    "tr": [
+      "Ağırlığı tekmeleyerek kaldırmak veya bloğun sertçe düşmesine izin vermek.",
+      "Hareket aralığını zorlamak için kalçayı koltuktan kaldırmak."
+    ]
+  }
 }

@@ -15,9 +15,16 @@
   "force": "pull",
   "mechanic": "compound",
   "difficulty": "beginner",
-  "equipment": ["machine"],
-  "primaryMuscles": ["lats", "upper-back"],
-  "secondaryMuscles": ["biceps"],
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "lats",
+    "upper-back"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
   "instructions": {
     "en": [
       "Adjust the seat and chest pad so the handles are near mid-torso height; plant your feet on the rests and reach for the handles.",
@@ -35,7 +42,10 @@
     "title": "Open Exercise Atlas machine expansion editorial draft",
     "license": "CC0-1.0"
   },
-  "alternatives": ["seated-cable-row", "machine-high-row"],
+  "alternatives": [
+    "seated-cable-row",
+    "machine-high-row"
+  ],
   "media": [
     {
       "path": "media/exercises/seated-machine-row.webp",
@@ -49,5 +59,25 @@
       "license": "CC0-1.0",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Keep your chest against the pad and your torso still.",
+      "Pull the handles toward the lower ribs, then extend the arms slowly."
+    ],
+    "tr": [
+      "Göğsünü mindere dayalı, gövdeni sabit tut.",
+      "Tutacakları alt kaburgalara çek, ardından kollarını yavaşça uzat."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Lifting the chest off the pad or shrugging to finish the pull.",
+      "Letting the weight stack jerk the arms forward."
+    ],
+    "tr": [
+      "Çekişi bitirmek için göğsü minderden kaldırmak veya omuzları silkmek.",
+      "Ağırlık bloğunun kolları öne sertçe çekmesine izin vermek."
+    ]
+  }
 }

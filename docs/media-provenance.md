@@ -1420,3 +1420,25 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [FitnessTracker Elevated Back Lunge](https://fitnesstracker.ca/resources/exercises/elevated-back-lunge/) and [Men's Health Deficit Reverse Lunge](https://www.menshealth.com/fitness/a42882336/deficit-reverse-lunge/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`barbell-front-foot-elevated-reverse-lunge.json`](../data/exercises/barbell-front-foot-elevated-reverse-lunge.json); legacy ID `Elevated_Back_Lunge`.
+
+
+## Wall Slide illustration — 5 November 2026
+
+- **Asset:** [`wall-slide.webp`](../media/exercises/wall-slide.webp) (1024 × 1024 transparent WebP; 73,090 bytes; SHA-256 `D8C1DB885A55A588B064A62E55EFB9A1068614E82FF90BA566E2654583E2577B`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator; model identifier was not exposed.
+- **Method:** Two-phase rear-view wall slide from a W position to a comfortable overhead reach. Transparent master: [`wall-slide-source.png`](pilots/wall-slide-source.png), SHA-256 `69232A10CFF13F3865416961C9ADE8AD37B0D0F1A167C371DC5F34B2DB80EA37`. Resized proportionally to 1024 × 1024 and encoded as WebP at quality 85 with alpha retained.
+- **Movement source:** [ACE Fitness posture and mobility article](https://www.acefitness.org/resources/everyone/blog/7101/five-ways-to-improve-posture-and-mobility-at-the-office/); Atlas instructions and cues are independently worded.
+- **Prompt:** Two-phase rear view of a person doing a wall slide: forearms near the wall, elbows bent in a W, then arms glide overhead while the ribs stay controlled. Grayscale anatomy with red shoulder highlights; athletic shirt and loose opaque shorts; transparent background; no labels.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`wall-slide.json`](../data/exercises/wall-slide.json).
+
+
+## Knee-to-Wall Ankle Rock illustration — 5 November 2026
+
+- **Asset:** [`knee-to-wall-ankle-rock.webp`](../media/exercises/knee-to-wall-ankle-rock.webp) (1024 × 683 transparent WebP; 64,754 bytes; SHA-256 `A3106650B3FD8C08DE3867A5B12E4742F5E6D0177D5FF069A040FFA76907BB44`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator; model identifier was not exposed.
+- **Method:** Two-phase side view of a knee-to-wall ankle dorsiflexion drill, with the heel grounded. Transparent master: [`knee-to-wall-ankle-rock-source.png`](pilots/knee-to-wall-ankle-rock-source.png), SHA-256 `C3BDEFB030C62F23E259C443FA30731C7AB8E4236E8D9FB063F37A8C4CA70984`. Resized proportionally to 1024 × 683 and encoded as WebP at quality 85 with alpha retained.
+- **Movement source:** [St George's University Hospitals NHS ankle dorsiflexion exercise](https://www.stgeorges.nhs.uk/wp-content/uploads/2025/06/PHY_ASA.pdf); Atlas instructions and cues are independently worded.
+- **Prompt:** Two-phase side view of a person standing in a short split stance near a wall; front knee moves toward the wall while the whole foot and heel stay grounded. Grayscale anatomy with calf highlighted red; athletic shirt and loose opaque shorts; transparent background; no labels.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`knee-to-wall-ankle-rock.json`](../data/exercises/knee-to-wall-ankle-rock.json).

@@ -62,5 +62,25 @@
       "license": "CC0-1.0",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Secure the thigh pads and begin tall with your torso steady.",
+      "Drive the elbows down beside your ribs; guide the handles overhead under control."
+    ],
+    "tr": [
+      "Uyluk pedlerini sabitle ve gövden dik, kontrollü bir başlangıç yap.",
+      "Dirseklerini kaburgalarının yanına doğru indir; tutacakları kontrollü biçimde yukarı bırak."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Pulling behind the head or leaning farther back to move the weight.",
+      "Letting the weight stack pull the shoulders up at the top."
+    ],
+    "tr": [
+      "Tutacakları başın arkasına çekmek veya ağırlığı oynatmak için geriye fazla yatmak.",
+      "Üst noktada ağırlığın omuzları kontrolsüzce yukarı çekmesine izin vermek."
+    ]
+  }
 }

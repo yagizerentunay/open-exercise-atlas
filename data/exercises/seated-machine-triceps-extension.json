@@ -15,8 +15,12 @@
   "force": "push",
   "mechanic": "isolation",
   "difficulty": "beginner",
-  "equipment": ["machine"],
-  "primaryMuscles": ["triceps"],
+  "equipment": [
+    "machine"
+  ],
+  "primaryMuscles": [
+    "triceps"
+  ],
   "secondaryMuscles": [],
   "instructions": {
     "en": [
@@ -35,7 +39,9 @@
     "title": "Open Exercise Atlas machine expansion editorial draft",
     "license": "CC0-1.0"
   },
-  "alternatives": ["triceps-pushdown"],
+  "alternatives": [
+    "triceps-pushdown"
+  ],
   "media": [
     {
       "path": "media/exercises/seated-machine-triceps-extension.webp",
@@ -49,5 +55,25 @@
       "license": "CC0-1.0",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/machine-expansion-2026-10-20.md"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Align the elbows with the machine pivots and keep the upper arms supported.",
+      "Extend smoothly and return slowly without forcing the elbows straight."
+    ],
+    "tr": [
+      "Dirseklerini makinenin ekseniyle hizala ve üst kollarını destekli tut.",
+      "Dirsekleri zorla düzleştirmeden akıcı it ve yavaşça geri dön."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Moving the shoulders or upper arms to push the handles.",
+      "Snapping the elbows straight at the end of each repetition."
+    ],
+    "tr": [
+      "Tutacakları iterken omuzları veya üst kolları oynatmak.",
+      "Her tekrarda dirsekleri sertçe düzleştirmek."
+    ]
+  }
 }

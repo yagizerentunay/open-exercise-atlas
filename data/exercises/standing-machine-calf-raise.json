@@ -55,5 +55,25 @@
       "license": "CC0-1.0",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-12.md"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Place the balls of the feet on the platform and keep the shoulders secure under the pads.",
+      "Lower the heels comfortably, rise onto the toes, and pause before lowering slowly."
+    ],
+    "tr": [
+      "Ayaklarının ön kısmını platforma koy ve omuz pedlerinin altında sabitlen.",
+      "Topuklarını rahatça indir, parmak uçlarına yüksel, kısa duraklayıp yavaşça alçal."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Bouncing through the bottom instead of controlling the stretch.",
+      "Rolling the ankles outward or inward at the top."
+    ],
+    "tr": [
+      "Alt noktada kontrol yerine zıplamak.",
+      "Üst noktada ayak bileklerini dışa veya içe devirmek."
+    ]
+  }
 }

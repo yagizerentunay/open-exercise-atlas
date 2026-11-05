@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "knee-to-wall-ankle-rock",
+  "slug": "knee-to-wall-ankle-rock",
+  "name": {
+    "en": "Knee-to-Wall Ankle Rock",
+    "tr": "Diz Duvara Ayak Bileği Mobilizasyonu"
+  },
+  "description": {
+    "en": "A controlled ankle-dorsiflexion mobility drill that moves the knee toward a wall while the heel stays grounded.",
+    "tr": "Topuk yerde kalırken dizin duvara doğru ilerlediği kontrollü ayak bileği dorsifleksiyon hareketi."
+  },
+  "category": "mobility",
+  "movementPattern": "isolation",
+  "difficulty": "beginner",
+  "equipment": [
+    "bodyweight"
+  ],
+  "primaryMuscles": [
+    "tibialis-anterior"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": {
+    "en": [
+      "Stand in a short split stance with the front toes a few centimetres from a wall; keep the foot pointing forward.",
+      "Move the front knee toward the wall over the toes while keeping the whole foot, especially the heel, on the floor.",
+      "Return smoothly. If the knee reaches the wall easily, move the front foot slightly farther away and repeat."
+    ],
+    "tr": [
+      "Ön ayak parmakların duvardan birkaç santimetre uzakta olacak şekilde kısa bir hamle duruşu al; ayağın öne baksın.",
+      "Ayağının tamamı, özellikle topuğun yerde kalırken ön dizini ayak parmaklarının üzerinden duvara doğru ilerlet.",
+      "Akıcı biçimde başlangıca dön. Diz duvara rahatça değiyorsa ön ayağını biraz geriye alıp tekrarla."
+    ]
+  },
+  "formCues": {
+    "en": [
+      "Keep the heel grounded and let the knee follow the middle toes.",
+      "Use a smooth, comfortable range rather than forcing the knee forward."
+    ],
+    "tr": [
+      "Topuğunu yerde tut ve dizini orta ayak parmaklarının yönünde ilerlet.",
+      "Dizi zorlamak yerine rahat ve akıcı bir hareket aralığı kullan."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Lifting the heel or letting the arch collapse as the knee moves forward.",
+      "Bouncing into the wall or pushing through pain."
+    ],
+    "tr": [
+      "Diz öne giderken topuğu kaldırmak veya ayak kavsini içe düşürmek.",
+      "Duvara doğru zıplamak ya da ağrıya rağmen zorlamak."
+    ]
+  },
+  "source": {
+    "type": "original",
+    "title": "Open Exercise Atlas mobility guide informed by St George's NHS ankle dorsiflexion exercise",
+    "url": "https://www.stgeorges.nhs.uk/wp-content/uploads/2025/06/PHY_ASA.pdf",
+    "license": "CC0-1.0"
+  },
+  "media": [
+    {
+      "path": "media/exercises/knee-to-wall-ankle-rock.webp",
+      "role": "reference",
+      "alt": {
+        "en": "Two-phase side-view illustration of a knee-to-wall ankle rock, with the front heel grounded and calf highlighted in red.",
+        "tr": "Ön topuk yerdeyken yapılan diz duvara ayak bileği mobilizasyonunun iki aşamalı yandan çizimi; baldır kırmızıyla vurgulanmış."
+      },
+      "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+      "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/knee-to-wall-ankle-rock.webp",
+      "license": "CC0-1.0",
+      "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/knee-to-wall-ankle-rock-2026-11-05.md"
+    }
+  ]
+}

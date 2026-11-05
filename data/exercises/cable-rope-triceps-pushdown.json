@@ -58,5 +58,25 @@
       "license": "CC0-1.0",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-gap-2026-10-22.md"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Keep the elbows beside the torso and the upper arms still.",
+      "Extend the elbows smoothly; separate the rope ends slightly, then return under control."
+    ],
+    "tr": [
+      "Dirseklerini gövdenin yanında, üst kollarını sabit tut.",
+      "Dirseklerini akıcı biçimde aç; ip uçlarını hafifçe ayır ve kontrollü dön."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Swinging the torso or driving the elbows forward.",
+      "Shrugging the shoulders or folding the wrists to press lower."
+    ],
+    "tr": [
+      "Gövdeyi sallamak veya dirsekleri öne sürmek.",
+      "Daha aşağı itmek için omuzları silkmek ya da bilekleri bükmek."
+    ]
+  }
 }

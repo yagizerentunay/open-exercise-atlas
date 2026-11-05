@@ -52,5 +52,25 @@
       "license": "CC0-1.0",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/muscle-expansion-2026-10-17-batch-5.md"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Keep your hips and lower back supported as the knees bend.",
+      "Press through the whole foot and stop just short of locking the knees."
+    ],
+    "tr": [
+      "Dizlerin bükülürken kalçanı ve belini minderde destekli tut.",
+      "Ayağının tamamından it ve dizleri kilitlemeden hareketi bitir."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Lowering until the pelvis rolls off the pad.",
+      "Letting the knees collapse inward or snapping them straight."
+    ],
+    "tr": [
+      "Leğen kemiği minderden kıvrılana kadar platformu indirmek.",
+      "Dizlerin içe çökmesine ya da sertçe kilitlenmesine izin vermek."
+    ]
+  }
 }

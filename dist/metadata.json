@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "count": 514,
+  "count": 516,
   "translationCoverage": {
     "tr": {
-      "present": 1542,
-      "total": 1542,
+      "present": 1592,
+      "total": 1592,
       "percent": 100
     }
   },
@@ -268,6 +268,7 @@
     "kettlebell-swing",
     "kettlebell-windmill",
     "knee-supported-copenhagen-plank",
+    "knee-to-wall-ankle-rock",
     "kneeling-barbell-ab-rollout",
     "kneeling-cable-lat-pulldown",
     "kneeling-high-pulley-row",
@@ -512,6 +513,7 @@
     "walking-lunge",
     "wall-ball-shot",
     "wall-sit",
+    "wall-slide",
     "weighted-dip",
     "weighted-pull-up",
     "weighted-push-up",

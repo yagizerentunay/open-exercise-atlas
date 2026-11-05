@@ -35,7 +35,7 @@ export function filterExercises(exercises: ResolvedExercise[], filters: Filters)
     !filters.equipment ||
     (filters.equipment === NO_EQUIPMENT ? exercise.equipment.length === 0 : exercise.equipment.includes(filters.equipment as never))
   return exercises.filter((exercise) =>
-    (!query || fold(exercise.name).includes(query)) &&
+    (!query || fold([exercise.name, exercise.description, ...(exercise.aliases ?? [])].join(' ')).includes(query)) &&
     (!filters.muscle || [...exercise.primaryMuscles, ...exercise.secondaryMuscles].includes(filters.muscle as never)) &&
     matchesEquipment(exercise) &&
     (!filters.difficulty || exercise.difficulty === filters.difficulty) &&

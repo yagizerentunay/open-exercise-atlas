@@ -63,5 +63,25 @@
       "license": "MIT",
       "redistributionEvidenceUrl": "https://github.com/yagizerentunay/monk-mode/blob/main/LICENSE"
     }
-  ]
+  ],
+  "formCues": {
+    "en": [
+      "Set the handles around mid-chest height and keep your back and feet supported.",
+      "Press smoothly with wrists aligned; stop before the elbows lock and return slowly."
+    ],
+    "tr": [
+      "Tutacakları göğüs ortası hizasına ayarla; sırtını ve ayaklarını destekli tut.",
+      "Bileklerini hizalı tutarak akıcı it; dirsekleri kilitlemeden kontrollü dön."
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Letting the shoulders shrug or roll forward.",
+      "Bouncing the handles or forcing the elbows far behind the torso."
+    ],
+    "tr": [
+      "Omuzları kulaklara çekmek veya öne yuvarlamak.",
+      "Tutacakları sektirmek ya da dirsekleri gövdenin çok gerisine zorlamak."
+    ]
+  }
 }
