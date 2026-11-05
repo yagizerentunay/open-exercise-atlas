@@ -33,7 +33,9 @@ No duplicate movement records were created for these candidates. This change add
 | `barbell-reverse-curl` | `Reverse_Barbell_Curl` |
 | `barbell-decline-bench-press` | `Decline_Barbell_Bench_Press` |
 | `sumo-deadlift` | `Sumo_Deadlift` |
-| `deficit-deadlift` | `Deficit_Deadlift` |`n| `jm-press` | `JM_Press` |`n| `preacher-curl` | `Preacher_Curl` |
+| `deficit-deadlift` | `Deficit_Deadlift` |
+| `jm-press` | `JM_Press` |
+| `preacher-curl` | `Preacher_Curl` |
 | `close-grip-bench-press` | `Close-Grip_Barbell_Bench_Press` |
 | `t-bar-row` | `T-Bar_Row_with_Handle`, `Bent_Over_Two-Arm_Long_Bar_Row` |
 | `zercher-squat` | `Zercher_Squats` |
