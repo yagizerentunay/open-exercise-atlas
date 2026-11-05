@@ -41,6 +41,7 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
+  "legacyIds": ["JM_Press"],
   "media": [
     {
       "path": "media/exercises/jm-press.webp",

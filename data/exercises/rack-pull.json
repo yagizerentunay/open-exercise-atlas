@@ -43,7 +43,8 @@
     "license": "CC0-1.0"
   },
   "legacyIds": [
-    "monk-lower-back-rack-pull"
+    "monk-lower-back-rack-pull",
+    "Rack_Pulls"
   ],
   "alternatives": [
     "conventional-deadlift",

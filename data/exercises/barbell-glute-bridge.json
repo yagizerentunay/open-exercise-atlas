@@ -39,6 +39,7 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
+  "legacyIds": ["Barbell_Glute_Bridge"],
   "media": [
     {
       "path": "media/exercises/barbell-glute-bridge.webp",

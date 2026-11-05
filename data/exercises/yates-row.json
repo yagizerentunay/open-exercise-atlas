@@ -37,6 +37,7 @@
     "url": "https://www.muscleandfitness.com/flexonline/training/row-shadow/",
     "license": "CC0-1.0"
   },
+  "legacyIds": ["Reverse_Grip_Bent-Over_Rows"],
   "alternatives": ["bent-over-row", "pendlay-row", "landmine-row"],
   "media": [
     {

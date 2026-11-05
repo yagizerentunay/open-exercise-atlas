@@ -37,7 +37,8 @@
     ]
   },
   "legacyIds": [
-    "monk-biceps-preacher-curl"
+    "monk-biceps-preacher-curl",
+    "Preacher_Curl"
   ],
   "source": {
     "type": "original",

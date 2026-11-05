@@ -41,6 +41,7 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
+  "legacyIds": ["Decline_Barbell_Bench_Press"],
   "alternatives": [
     "decline-dumbbell-press",
     "barbell-bench-press",

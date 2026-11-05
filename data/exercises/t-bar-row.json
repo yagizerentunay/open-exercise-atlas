@@ -43,7 +43,9 @@
     "license": "CC0-1.0"
   },
   "legacyIds": [
-    "monk-middle-back-t-bar-row"
+    "monk-middle-back-t-bar-row",
+    "T-Bar_Row_with_Handle",
+    "Bent_Over_Two-Arm_Long_Bar_Row"
   ],
   "alternatives": [
     "landmine-row",

@@ -43,6 +43,7 @@
     "title": "Open Exercise Atlas major-muscle expansion editorial draft",
     "license": "CC0-1.0"
   },
+  "legacyIds": ["Box_Squat", "Barbell_Squat_To_A_Bench"],
   "alternatives": [
     "barbell-back-squat"
   ],

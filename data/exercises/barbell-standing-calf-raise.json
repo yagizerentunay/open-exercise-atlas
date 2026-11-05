@@ -36,6 +36,7 @@
     "url": "https://www.acefitness.org/resources/everyone/exercise-library/51/calf-raises/",
     "license": "CC0-1.0"
   },
+  "legacyIds": ["Standing_Barbell_Calf_Raise"],
   "alternatives": ["barbell-seated-calf-raise", "standing-machine-calf-raise", "smith-machine-standing-calf-raise"],
   "media": [
     {

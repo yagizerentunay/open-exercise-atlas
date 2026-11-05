@@ -43,7 +43,8 @@
     "license": "CC0-1.0"
   },
   "legacyIds": [
-    "monk-chest-incline-barbell-bench-press"
+    "monk-chest-incline-barbell-bench-press",
+    "Barbell_Incline_Bench_Press_-_Medium_Grip"
   ],
   "alternatives": [
     "barbell-bench-press",

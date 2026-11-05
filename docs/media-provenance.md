@@ -1420,3 +1420,13 @@ Three original AI-assisted illustrations added for Dumbbell Reverse Lunge, Cable
 - **Movement sources:** [FitnessTracker Elevated Back Lunge](https://fitnesstracker.ca/resources/exercises/elevated-back-lunge/) and [Men's Health Deficit Reverse Lunge](https://www.menshealth.com/fitness/a42882336/deficit-reverse-lunge/); Atlas cues independently written.
 - **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
 - **Record:** [`barbell-front-foot-elevated-reverse-lunge.json`](../data/exercises/barbell-front-foot-elevated-reverse-lunge.json); legacy ID `Elevated_Back_Lunge`.
+
+
+## Barbell Rollout from Bench illustration — 5 November 2026
+
+- **Asset:** `media/exercises/barbell-rollout-from-bench.webp` (1024 × 1024 transparent WebP; SHA-256 `3BAF2564E2CD9CE723D263F1D8E5DA637A7308684C17AAB76311401EE005DDC3`).
+- **Creator/tool:** Open Exercise Atlas, original AI-assisted illustration from the built-in OpenAI image generator.
+- **Method:** Two-phase barbell rollout from a bench-supported knee position, in the project's Assisted Pull-Up visual style. Transparent RGBA master: [`barbell-rollout-from-bench-source.png`](pilots/barbell-legacy-2026-11-05/barbell-rollout-from-bench-source.png), SHA-256 `7361E000DE3171318AFFE1EA13541D5C63A0D53887E5723AF0E0A9AE7A38E82F`. Resized proportionally to fit a 1024 × 1024 square and encoded as WebP quality 88 with alpha retained.
+- **Movement source:** [FitnessTracker Barbell Rollout from Bench](https://fitnesstracker.ca/resources/exercises/barbell-rollout-from-bench/); Atlas cues independently written.
+- **Rights:** Original AI-assisted artwork dedicated under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); [OpenAI Terms](https://openai.com/policies/terms-of-use/) apply. No exclusivity claimed.
+- **Record:** [`barbell-rollout-from-bench.json`](../data/exercises/barbell-rollout-from-bench.json); legacy ID `Barbell_Rollout_from_Bench`.

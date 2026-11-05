@@ -42,6 +42,7 @@
     "title": "Open Exercise Atlas editorial draft",
     "license": "CC0-1.0"
   },
+  "legacyIds": ["Sumo_Deadlift"],
   "media": [
     {
       "path": "media/exercises/sumo-deadlift.webp",

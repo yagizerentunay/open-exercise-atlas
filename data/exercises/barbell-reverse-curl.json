@@ -37,6 +37,7 @@
     "url": "https://www.acefitness.org/resources/everyone/exercise-library/310/reverse-bicep-curl/",
     "license": "CC0-1.0"
   },
+  "legacyIds": ["Reverse_Barbell_Curl"],
   "alternatives": ["reverse-ez-bar-curl", "standing-dumbbell-reverse-curl", "hammer-curl"],
   "media": [
     {

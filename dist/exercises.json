@@ -1057,7 +1057,8 @@
       "Barbell Squat"
     ],
     "legacyIds": [
-      "Barbell_Squat"
+      "Barbell_Squat",
+      "Barbell_Full_Squat"
     ],
     "media": [
       {
@@ -1270,6 +1271,10 @@
       "title": "Open Exercise Atlas major-muscle expansion editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Box_Squat",
+      "Barbell_Squat_To_A_Bench"
+    ],
     "alternatives": [
       "barbell-back-squat"
     ],
@@ -1822,6 +1827,9 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Decline_Barbell_Bench_Press"
+    ],
     "alternatives": [
       "decline-dumbbell-press",
       "barbell-bench-press",
@@ -2009,6 +2017,9 @@
       "title": "Open Exercise Atlas illustrated muscle coverage",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Floor_Press"
+    ],
     "media": [
       {
         "path": "media/exercises/barbell-floor-press.webp",
@@ -2199,6 +2210,9 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Barbell_Glute_Bridge"
+    ],
     "media": [
       {
         "path": "media/exercises/barbell-glute-bridge.webp",
@@ -3025,6 +3039,9 @@
       "url": "https://www.acefitness.org/resources/everyone/exercise-library/310/reverse-bicep-curl/",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Reverse_Barbell_Curl"
+    ],
     "alternatives": [
       "reverse-ez-bar-curl",
       "standing-dumbbell-reverse-curl",
@@ -3166,6 +3183,76 @@
         "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/media/exercises/barbell-reverse-wrist-curl.webp",
         "license": "CC0-1.0",
         "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/main/docs/pilots/major-muscle-expansion-2026-10-21.md"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "id": "barbell-rollout-from-bench",
+    "slug": "barbell-rollout-from-bench",
+    "name": {
+      "en": "Barbell Rollout from Bench",
+      "tr": "Bench Üzerinden Halter Rollout"
+    },
+    "description": {
+      "en": "A barbell rollout variation performed with both knees supported on a bench, increasing the reach compared with a floor-kneeling setup.",
+      "tr": "İki diz bench üzerinde desteklenerek yapılan halter rollout çeşidi; zemin üzerinde diz çökülen kurulumdan daha uzun erişim sağlar."
+    },
+    "category": "strength",
+    "movementPattern": "core",
+    "force": "pull",
+    "mechanic": "compound",
+    "difficulty": "intermediate",
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "primaryMuscles": [
+      "abdominals"
+    ],
+    "secondaryMuscles": [
+      "lats",
+      "shoulders",
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": {
+      "en": [
+        "Place a stable bench behind a lightly loaded barbell. Kneel with both knees on the bench and grip the bar on the floor about shoulder-width apart.",
+        "Brace your trunk, keep your arms straight, and roll the bar forward as your shoulders and hips extend together. Keep your knees supported on the bench and stop before your lower back sags.",
+        "Pull the bar back under control to bring your hips over your knees. Use a range you can reverse smoothly and keep the bench from shifting."
+      ],
+      "tr": [
+        "Hafif yüklü barın arkasına sabit bir bench yerleştir. İki dizin bench üzerindeyken diz çök ve yerdeki barı yaklaşık omuz genişliğinde kavra.",
+        "Gövdeni sık, kollarını düz tut ve omuzlarınla kalçanı birlikte açarak barı öne yuvarla. Dizlerin bench üzerinde kalsın; belin çukurlaşmadan önce hareket mesafesini durdur.",
+        "Kalçanı dizlerinin üzerine getirmek için barı kontrollü biçimde geri çek. Akıcı şekilde geri döndürebileceğin mesafeyi kullan ve bench'in kaymadığından emin ol."
+      ]
+    },
+    "source": {
+      "type": "adapted",
+      "title": "FitnessTracker — Barbell Rollout from Bench; original Atlas cues",
+      "url": "https://fitnesstracker.ca/resources/exercises/barbell-rollout-from-bench/",
+      "license": "CC0-1.0"
+    },
+    "legacyIds": [
+      "Barbell_Rollout_from_Bench"
+    ],
+    "alternatives": [
+      "kneeling-barbell-ab-rollout",
+      "standing-barbell-ab-rollout"
+    ],
+    "media": [
+      {
+        "path": "media/exercises/barbell-rollout-from-bench.webp",
+        "role": "reference",
+        "alt": {
+          "en": "Two phases of a barbell rollout with both knees resting on a bench: a compact start and a controlled extended reach. The athlete wears black opaque shorts; the abdominals and lats are highlighted red.",
+          "tr": "İki diz bench üzerinde destekliyken yapılan halter rollout hareketinin iki aşaması: başlangıç ve kontrollü ileri uzanış. Sporcu opak siyah şort giyer; karın ve lat kasları kırmızı vurgulanır."
+        },
+        "creator": "Open Exercise Atlas (AI-assisted original illustration)",
+        "sourceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/codex/barbell-legacy-expansion/media/exercises/barbell-rollout-from-bench.webp",
+        "license": "CC0-1.0",
+        "redistributionEvidenceUrl": "https://github.com/yagizerentunay/open-exercise-atlas/blob/codex/barbell-legacy-expansion/docs/pilots/barbell-legacy-2026-11-05/README.md"
       }
     ]
   },
@@ -3541,6 +3628,9 @@
       "url": "https://www.acefitness.org/resources/everyone/exercise-library/51/calf-raises/",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Standing_Barbell_Calf_Raise"
+    ],
     "alternatives": [
       "barbell-seated-calf-raise",
       "standing-machine-calf-raise",
@@ -3744,6 +3834,9 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Barbell_Walking_Lunge"
+    ],
     "alternatives": [
       "walking-lunge",
       "reverse-lunge",
@@ -4546,7 +4639,8 @@
       "license": "CC0-1.0"
     },
     "legacyIds": [
-      "monk-middle-back-bent-over-barbell-row"
+      "monk-middle-back-bent-over-barbell-row",
+      "Bent_Over_Barbell_Row"
     ],
     "media": [
       {
@@ -8384,6 +8478,9 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Close-Grip_Barbell_Bench_Press"
+    ],
     "media": [
       {
         "path": "media/exercises/close-grip-bench-press.webp",
@@ -8774,7 +8871,8 @@
       "license": "CC0-1.0"
     },
     "legacyIds": [
-      "monk-lower-back-conventional-deadlift"
+      "monk-lower-back-conventional-deadlift",
+      "Barbell_Deadlift"
     ],
     "media": [
       {
@@ -9668,6 +9766,9 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Deficit_Deadlift"
+    ],
     "alternatives": [
       "conventional-deadlift",
       "trap-bar-deadlift",
@@ -15103,7 +15204,8 @@
       "license": "CC0-1.0"
     },
     "legacyIds": [
-      "monk-chest-incline-barbell-bench-press"
+      "monk-chest-incline-barbell-bench-press",
+      "Barbell_Incline_Bench_Press_-_Medium_Grip"
     ],
     "alternatives": [
       "barbell-bench-press",
@@ -15902,6 +16004,9 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "JM_Press"
+    ],
     "media": [
       {
         "path": "media/exercises/jm-press.webp",
@@ -21761,7 +21866,8 @@
       ]
     },
     "legacyIds": [
-      "monk-biceps-preacher-curl"
+      "monk-biceps-preacher-curl",
+      "Preacher_Curl"
     ],
     "source": {
       "type": "original",
@@ -22522,7 +22628,8 @@
       "license": "CC0-1.0"
     },
     "legacyIds": [
-      "monk-lower-back-rack-pull"
+      "monk-lower-back-rack-pull",
+      "Rack_Pulls"
     ],
     "alternatives": [
       "conventional-deadlift",
@@ -30320,6 +30427,9 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Sumo_Deadlift"
+    ],
     "media": [
       {
         "path": "media/exercises/sumo-deadlift.webp",
@@ -30574,7 +30684,9 @@
       "license": "CC0-1.0"
     },
     "legacyIds": [
-      "monk-middle-back-t-bar-row"
+      "monk-middle-back-t-bar-row",
+      "T-Bar_Row_with_Handle",
+      "Bent_Over_Two-Arm_Long_Bar_Row"
     ],
     "alternatives": [
       "landmine-row",
@@ -32278,6 +32390,9 @@
       "url": "https://www.muscleandfitness.com/flexonline/training/row-shadow/",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Reverse_Grip_Bent-Over_Rows"
+    ],
     "alternatives": [
       "bent-over-row",
       "pendlay-row",
@@ -32341,6 +32456,9 @@
       "title": "Open Exercise Atlas editorial draft",
       "license": "CC0-1.0"
     },
+    "legacyIds": [
+      "Zercher_Squats"
+    ],
     "media": [
       {
         "path": "media/exercises/zercher-squat.webp",
