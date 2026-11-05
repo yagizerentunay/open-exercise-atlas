@@ -7040,6 +7040,9 @@
     "id": "conventional-deadlift",
     "slug": "conventional-deadlift",
     "name": "Klasik Deadlift",
+    "aliases": [
+      "Deadlift"
+    ],
     "description": "Bacak gücünü ve kalça ekstansiyonunu birleştiren, halterin yerden kaldırıldığı hareket.",
     "category": "strength",
     "movementPattern": "hinge",

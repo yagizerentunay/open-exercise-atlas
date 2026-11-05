@@ -7040,6 +7040,9 @@
     "id": "conventional-deadlift",
     "slug": "conventional-deadlift",
     "name": "Conventional Deadlift",
+    "aliases": [
+      "Deadlift"
+    ],
     "description": "A barbell lift from the floor that combines leg drive and hip extension.",
     "category": "strength",
     "movementPattern": "hinge",
